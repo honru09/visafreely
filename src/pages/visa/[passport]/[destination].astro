@@ -1,0 +1,177 @@
+---
+import Base from '../../../layouts/Base.astro';
+import Shelf from '../../../components/Shelf.astro';
+import {
+  countries,
+  countryByCode,
+  pairExtra,
+  verdictText,
+  statusLabel,
+  pairPath,
+  STATUS_MEANING,
+  data,
+} from '../../../lib/data';
+
+export function getStaticPaths() {
+  const paths = [];
+  for (const p of countries) {
+    for (const row of data.byPassport[p.code] || []) {
+      const d = countryByCode[row.d];
+      paths.push({
+        params: { passport: p.slug, destination: d.slug },
+        props: { p, d, row },
+      });
+    }
+  }
+  return paths;
+}
+
+const { p, d, row } = Astro.props;
+const extra = pairExtra(p.code, d.code);
+const verdict = verdictText(row);
+const label = statusLabel(row.s);
+const meaning = STATUS_MEANING[row.s](p.name, d.name);
+const needsVisa = row.s === 'R' || row.s === 'E';
+const title = `${p.name} Passport to ${d.name}: ${verdict} — Visa Requirements`;
+const description = `Do ${p.name} passport holders need a visa for ${d.name}? ${verdict}. Requirement details, stay limit and data verification status.`;
+
+// Related pairs: same passport, same status, other destinations (alphabetical, up to 10)
+const sameStatus = (data.byPassport[p.code] || [])
+  .filter((r) => r.s === row.s && r.d !== d.code)
+  .slice(0, 10);
+// Same destination, visa-free passports sample (up to 10)
+const freePassports = countries
+  .filter((c) => c.code !== p.code)
+  .map((c) => ({ c, r: (data.byPassport[c.code] || []).find((x) => x.d === d.code) }))
+  .filter((x) => x.r && x.r.s === 'F')
+  .slice(0, 10);
+---
+
+<Base title={title} description={description}>
+  <div class="crumbs">
+    <a href={`/passport/${p.slug}/`}>{p.name} passport</a> · <a href={`/destination/${d.slug}/`}>{d.name} entry rules</a>
+  </div>
+  <h1>{p.name} passport → {d.name}</h1>
+  <div class="verdict">
+    <div class="big">{verdict}</div>
+    <div class="muted">
+      Visa requirement for citizens of {p.name} travelling to {d.name} for tourism or short visits.
+    </div>
+  </div>
+
+  {
+    extra.valid_until && (
+      <div class="warn">
+        ⏳ <strong>Scheduled change:</strong> the rule shown here is currently announced to run until{' '}
+        {extra.valid_until}. It may be extended or replaced — re-check before travelling after that date.
+      </div>
+    )
+  }
+
+  <table class="spec">
+    <tr>
+      <th>Requirement</th>
+      <td><span class={`chip ${row.s}`}>{label}</span></td>
+    </tr>
+    <tr>
+      <th>Maximum stay</th>
+      <td>{row.days ? `${row.days} days` : row.s === 'F' || row.s === 'A' ? 'Not specified in the dataset — confirm with the official source' : 'Set by the visa issued'}</td>
+    </tr>
+    <tr>
+      <th>Apply before travel?</th>
+      <td>
+        {row.s === 'F' && 'No visa application needed'}
+        {row.s === 'A' && 'No — the visa is issued on arrival'}
+        {row.s === 'E' && 'Yes — online e-Visa application'}
+        {row.s === 'T' && 'Yes — online authorisation, usually approved quickly'}
+        {row.s === 'R' && 'Yes — embassy or consulate visa required in advance'}
+        {row.s === 'N' && 'Entry is not currently permitted'}
+      </td>
+    </tr>
+  </table>
+
+  {
+    extra.verified ? (
+      <div class="stamp">
+        ✓ <strong>Last verified {extra.verified}</strong> against an official source:{' '}
+        <a href={extra.source} rel="noopener" target="_blank">{extra.source_name}</a>.
+        {extra.note && <span> {extra.note}</span>}
+        {extra.changed && (
+          <span>
+            {' '}
+            This value was last changed on {extra.changed} — see the <a href="/changelog/">changelog</a>.
+          </span>
+        )}
+      </div>
+    ) : (
+      <div class="stamp">
+        Data from the passport-index dataset, {data.vintage} snapshot
+        {extra.overridden ? ' — with a correction applied by visafreely (see the changelog)' : ''}.
+        This pair has not yet been individually verified against an official source; see
+        <a href="/about/"> how verification works</a>.
+        {extra.note && <span> Note: {extra.note}</span>}
+        {extra.changed && (
+          <span>
+            {' '}
+            This value was last changed on {extra.changed}.
+          </span>
+        )}
+      </div>
+    )
+  }
+
+  <h2>What this means</h2>
+  <p>{meaning}</p>
+  <p>
+    Whatever the requirement, your passport generally needs at least six months of validity beyond your
+    travel dates, and border officers can ask for proof of onward travel and sufficient funds. Rules on
+    this page cover ordinary passports and short tourist visits — work, study and long stays follow
+    different rules.
+  </p>
+  {
+    row.s === 'F' && (
+      <p>
+        <strong>Visa-free does not always mean form-free:</strong> some destinations ask visa-exempt
+        visitors to complete an official arrival form or digital arrival card. Where one exists, it is
+        free through the government's own site — you never need to pay a third party for the form itself.
+      </p>
+    )
+  }
+
+  <Shelf needsVisa={needsVisa} passportName={p.name} destinationName={d.name} />
+
+  {
+    sameStatus.length > 0 && (
+      <>
+        <h2>More destinations with the same rule for {p.name} passports</h2>
+        <ul class="linklist">
+          {sameStatus.map((r) => (
+            <li>
+              <a href={pairPath(p, countryByCode[r.d])}>
+                {p.name} → {countryByCode[r.d].name}
+              </a>{' '}
+              <span class="muted small">{verdictText(r)}</span>
+            </li>
+          ))}
+        </ul>
+      </>
+    )
+  }
+  {
+    freePassports.length > 0 && (
+      <>
+        <h2>Passports that enter {d.name} visa free</h2>
+        <ul class="linklist">
+          {freePassports.map((x) => (
+            <li>
+              <a href={pairPath(x.c, d)}>
+                {x.c.name} → {d.name}
+              </a>{' '}
+              <span class="muted small">{verdictText(x.r)}</span>
+            </li>
+          ))}
+        </ul>
+      </>
+    )
+  }
+</Base>

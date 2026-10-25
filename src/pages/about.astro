@@ -1,0 +1,59 @@
+---
+import Base from '../layouts/Base.astro';
+import { data } from '../lib/data';
+const verifiedCount = Object.values(data.extras).filter((e) => e.verified).length;
+---
+
+<Base
+  title="About the Data — How visafreely Verifies Visa Requirements"
+  description="Where visafreely's visa data comes from, how pairs are verified against official sources, and what the 'Last verified' stamp does and does not promise."
+>
+  <h1>About the data</h1>
+  <p class="lede">
+    Visa information is only useful if you can tell how fresh it is. This page explains exactly where
+    our data comes from and how it is checked.
+  </p>
+
+  <h2>The base dataset</h2>
+  <p>
+    The starting point is the open <strong>passport-index dataset</strong> (MIT licence), which maps the
+    visa requirement for every passport → destination pair: visa free (with the permitted stay),
+    visa on arrival, e-Visa, electronic travel authorisation, visa required, or no admission. We use the
+    February 2026 snapshot as the base layer for all {data.pairCount.toLocaleString('en-US')} pairs.
+  </p>
+  <p>
+    A snapshot is a photograph, not a feed — visa rules change every month, and the snapshot is already
+    wrong in places the day it is taken. So the snapshot is never the final word on this site.
+  </p>
+
+  <h2>The verification layer</h2>
+  <p>
+    We check pairs individually against primary official sources — foreign ministries, immigration
+    authorities and official embassy pages — starting with the most-travelled routes, and record the
+    date and the source for every check. A pair page shows a <strong>“Last verified”</strong> date only
+    when such a check has actually been completed for that pair. Pairs not yet checked say so plainly
+    and show the dataset’s vintage instead. At launch, {verifiedCount.toLocaleString('en-US')} pairs carry a
+    verified stamp; the rest are queued in a published order of travel importance.
+  </p>
+  <p>
+    When a check finds the dataset is wrong, we correct it and publish the change — old value, new
+    value, date and official source — in the <a href="/changelog/">data changelog</a>. Some rules carry
+    an announced end date (temporary visa-free policies are common); where an official source gives one,
+    the pair page shows it as a scheduled change.
+  </p>
+
+  <h2>What the stamp does not promise</h2>
+  <p>
+    “Last verified” means the requirement matched the named official source on that date. It does not
+    guarantee entry: border officers decide admission, rules can change between the check and your trip,
+    and pages here cover ordinary passports on short tourist visits — not work, study, residence or
+    special passport categories. Always confirm with the destination’s embassy or official immigration
+    authority before travelling, especially if your trip depends on it.
+  </p>
+
+  <h2>Corrections</h2>
+  <p>
+    Found something that disagrees with an official source? That is exactly the feedback the changelog
+    runs on — every confirmed discrepancy becomes a correction entry with its source attached.
+  </p>
+</Base>

@@ -1,0 +1,54 @@
+---
+import Base from '../layouts/Base.astro';
+import changelog from '../data/changelog.json';
+import { countryByCode } from '../lib/data';
+
+interface Entry {
+  date: string;
+  pair: string | null;
+  title: string;
+  old: string | null;
+  new: string | null;
+  reason: string;
+  source: string | null;
+}
+const entries = changelog as Entry[];
+function pairLabel(pair: string | null): string | null {
+  if (!pair) return null;
+  const [p, d] = pair.split(':');
+  return `${countryByCode[p]?.name || p} → ${countryByCode[d]?.name || d}`;
+}
+---
+
+<Base
+  title="Data Changelog — visafreely"
+  description="Every correction and verification applied to visafreely's visa data, with dates, old and new values, and the official source behind each change."
+>
+  <h1>Data changelog</h1>
+  <p class="lede">
+    Visa rules change constantly, and datasets go stale quietly. This page is the public record of every
+    correction we apply: what changed, when, and which official source says so.
+  </p>
+  <p>
+    Pairs that have been individually checked against an official source show a “Last verified” date on
+    their page. Everything else is labelled with the underlying dataset’s date (February 2026 snapshot)
+    rather than a claim we have not earned. If you spot an error, the changelog is also how you can tell
+    whether it is already fixed.
+  </p>
+
+  {entries.map((e) => (
+    <article style="border-bottom:1px solid var(--line); padding:16px 0;">
+      <div class="small muted">{e.date}{e.pair ? ` · ${pairLabel(e.pair)}` : ''}</div>
+      <h3 style="margin:4px 0 6px;">{e.title}</h3>
+      {e.old && e.new && (
+        <p style="margin:4px 0;">
+          <span class="chip R">{e.old}</span> → <span class="chip F">{e.new}</span>
+        </p>
+      )}
+      <p style="margin:4px 0;">{e.reason}</p>
+      {e.source && (
+        <p class="small" style="margin:4px 0;">Source: <a href={e.source} rel="noopener" target="_blank">{e.source}</a></p>
+      )}
+    </article>
+  ))}
+</Base>

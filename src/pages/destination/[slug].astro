@@ -1,0 +1,53 @@
+---
+import Base from '../../layouts/Base.astro';
+import {
+  countries,
+  countryByCode,
+  groupedForDestination,
+  statusLabel,
+  pairPath,
+} from '../../lib/data';
+
+export function getStaticPaths() {
+  return countries.map((c) => ({ params: { slug: c.slug }, props: { c } }));
+}
+const { c } = Astro.props;
+const groups = groupedForDestination(c.code);
+const freeCount = groups.find((g) => g.code === 'F')?.passports.length || 0;
+const title = `${c.name} Visa Requirements: Who Can Enter & How`;
+const description = `Visa requirements for visiting ${c.name}: ${freeCount} passports enter visa free. Full list by requirement — visa free, on arrival, e-Visa, ETA and visa required.`;
+const others = countries.filter((x) => x.code !== c.code);
+---
+
+<Base title={title} description={description}>
+  <div class="crumbs"><a href="/destinations/">All destinations</a></div>
+  <h1>Visiting {c.name}</h1>
+  <p class="lede">
+    <strong>{freeCount} passports</strong> can enter {c.name} visa free. Below is the requirement for
+    every passport we track, grouped by type — open any pair for stay limits and verification status.
+  </p>
+
+  {groups.map((g) => (
+    <>
+      <h2>{statusLabel(g.code)} ({g.passports.length})</h2>
+      <ul class="linklist">
+        {g.passports.map((x) => (
+          <li>
+            <a href={pairPath(countryByCode[x.p], c)}>{countryByCode[x.p].name}</a>
+            <span class="muted small"> — {x.days ? `${x.days} days` : statusLabel(g.code)}</span>
+          </li>
+        ))}
+      </ul>
+    </>
+  ))}
+
+  <h2>Other destinations</h2>
+  <p class="small muted">
+    {others.slice(0, 40).map((x, i) => (
+      <>
+        <a href={`/destination/${x.slug}/`}>{x.name}</a>{i < 39 ? ' · ' : ''}
+      </>
+    ))}
+    {' '}— <a href="/destinations/">see all {countries.length} destinations</a>
+  </p>
+</Base>

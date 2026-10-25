@@ -1,0 +1,16 @@
+{
+  "name": "visafreely",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "data": "node scripts/build-data.mjs",
+    "build": "node scripts/build-data.mjs && astro build",
+    "dev": "astro dev",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "^3.2.1",
+    "astro": "^5.13.0"
+  }
+}

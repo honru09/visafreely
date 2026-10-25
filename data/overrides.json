@@ -1,0 +1,3170 @@
+{
+ "AE:AU": {
+  "status": "visa required",
+  "reason": "Not eligible for the ETA (601) or eVisitor (651); a Visitor visa (subclass 600), applied for in advance, is required.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-10-25"
+ },
+ "IL:AU": {
+  "status": "visa required",
+  "reason": "Not eligible for the ETA (601) or eVisitor (651); a Visitor visa (subclass 600), applied for in advance, is required.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-10-25"
+ },
+ "CN:AU": {
+  "status": "visa required",
+  "reason": "Not eligible for the ETA (601) or eVisitor (651); a Visitor visa (subclass 600), applied for in advance, is required.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-10-25"
+ },
+ "MY:EG": {
+  "status": "visa free",
+  "reason": "Malaysian citizens are visa-exempt for 14 days (Egyptian consular visa-free list); the dataset’s 15-day visa-on-arrival figure is the separate Sinai-resorts stamp.",
+  "source": "https://visa2egypt.gov.eg/eVisa/FAQ",
+  "date": "2026-10-25",
+  "days": 14
+ },
+ "SG:EG": {
+  "status": "e-visa",
+  "reason": "e-Visa eligibility is confirmed on Egypt’s official portal. A visa-on-arrival listing for this passport could not be confirmed from a primary Egyptian source, so apply online before travel to be safe.",
+  "source": "https://visa2egypt.gov.eg/eVisa/FAQ",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "CH:EG": {
+  "status": "e-visa",
+  "reason": "e-Visa eligibility is confirmed on Egypt’s official portal. A visa-on-arrival listing for this passport could not be confirmed from a primary Egyptian source, so apply online before travel to be safe.",
+  "source": "https://visa2egypt.gov.eg/eVisa/FAQ",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "CN:EG": {
+  "status": "e-visa",
+  "reason": "e-Visa eligibility is confirmed on Egypt’s official portal. A visa-on-arrival listing for this passport could not be confirmed from a primary Egyptian source, so apply online before travel to be safe.",
+  "source": "https://visa2egypt.gov.eg/eVisa/FAQ",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "HU:ZA": {
+  "status": "visa free",
+  "reason": "Hungary received 90-day visa-free access in South Africa’s 2025 exemption round (DHA list, 9 Dec 2025); the dataset’s 30 days is the pre-2025 position.",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "CN:ZA": {
+  "status": "visa required",
+  "reason": "Chinese ordinary passports are not on South Africa’s visa-exemption list — a visa is required in advance. The Trusted Tour Operator Scheme is a group-tour application channel, not a general e-Visa or exemption.",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "date": "2026-10-25"
+ },
+ "CN:AE": {
+  "status": "visa free",
+  "reason": "The China–UAE mutual visa-exemption MoU (effective 16 Jan 2018) exempts ordinary passports for stays of up to 30 days per visit; the dataset’s 90 days is not supported by the agreement text.",
+  "source": "https://www.mofa.gov.ae/en/MediaHub/News/2019/2018/1/15/15-01-2018-UAE-China",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "NZ:AE": {
+  "status": "visa free",
+  "reason": "New Zealand is in the UAE’s 90-day visa-on-arrival group (official portal lists); the dataset’s 30 days is the other group’s figure.",
+  "source": "https://u.ae/en/information-and-services/visa-and-emirates-id/Types-of-visas/tourist-visa",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "FR:QA": {
+  "status": "visa free",
+  "reason": "Qatar’s visa-waiver groups: this passport is in the 90-day waiver group (waiver valid 180 days, multiple entry). Qatar also renamed the waiver “visa-free entry” — it is granted on arrival without prior application.",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "DE:QA": {
+  "status": "visa free",
+  "reason": "Qatar’s visa-waiver groups: this passport is in the 90-day waiver group (waiver valid 180 days, multiple entry). Qatar also renamed the waiver “visa-free entry” — it is granted on arrival without prior application.",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "IT:QA": {
+  "status": "visa free",
+  "reason": "Qatar’s visa-waiver groups: this passport is in the 90-day waiver group (waiver valid 180 days, multiple entry). Qatar also renamed the waiver “visa-free entry” — it is granted on arrival without prior application.",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "ES:QA": {
+  "status": "visa free",
+  "reason": "Qatar’s visa-waiver groups: this passport is in the 90-day waiver group (waiver valid 180 days, multiple entry). Qatar also renamed the waiver “visa-free entry” — it is granted on arrival without prior application.",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "FI:QA": {
+  "status": "visa free",
+  "reason": "Qatar’s visa-waiver groups: this passport is in the 90-day waiver group (waiver valid 180 days, multiple entry). Qatar also renamed the waiver “visa-free entry” — it is granted on arrival without prior application.",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "NL:QA": {
+  "status": "visa free",
+  "reason": "Qatar’s visa-waiver groups: this passport is in the 90-day waiver group (waiver valid 180 days, multiple entry). Qatar also renamed the waiver “visa-free entry” — it is granted on arrival without prior application.",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "BE:QA": {
+  "status": "visa free",
+  "reason": "Qatar’s visa-waiver groups: this passport is in the 90-day waiver group (waiver valid 180 days, multiple entry). Qatar also renamed the waiver “visa-free entry” — it is granted on arrival without prior application.",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "DK:QA": {
+  "status": "visa free",
+  "reason": "Qatar’s visa-waiver groups: this passport is in the 90-day waiver group (waiver valid 180 days, multiple entry). Qatar also renamed the waiver “visa-free entry” — it is granted on arrival without prior application.",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "SE:QA": {
+  "status": "visa free",
+  "reason": "Qatar’s visa-waiver groups: this passport is in the 90-day waiver group (waiver valid 180 days, multiple entry). Qatar also renamed the waiver “visa-free entry” — it is granted on arrival without prior application.",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "NO:QA": {
+  "status": "visa free",
+  "reason": "Qatar’s visa-waiver groups: this passport is in the 90-day waiver group (waiver valid 180 days, multiple entry). Qatar also renamed the waiver “visa-free entry” — it is granted on arrival without prior application.",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "CH:QA": {
+  "status": "visa free",
+  "reason": "Qatar’s visa-waiver groups: this passport is in the 90-day waiver group (waiver valid 180 days, multiple entry). Qatar also renamed the waiver “visa-free entry” — it is granted on arrival without prior application.",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "AT:QA": {
+  "status": "visa free",
+  "reason": "Qatar’s visa-waiver groups: this passport is in the 90-day waiver group (waiver valid 180 days, multiple entry). Qatar also renamed the waiver “visa-free entry” — it is granted on arrival without prior application.",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "PT:QA": {
+  "status": "visa free",
+  "reason": "Qatar’s visa-waiver groups: this passport is in the 90-day waiver group (waiver valid 180 days, multiple entry). Qatar also renamed the waiver “visa-free entry” — it is granted on arrival without prior application.",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "GR:QA": {
+  "status": "visa free",
+  "reason": "Qatar’s visa-waiver groups: this passport is in the 90-day waiver group (waiver valid 180 days, multiple entry). Qatar also renamed the waiver “visa-free entry” — it is granted on arrival without prior application.",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "PL:QA": {
+  "status": "visa free",
+  "reason": "Qatar’s visa-waiver groups: this passport is in the 90-day waiver group (waiver valid 180 days, multiple entry). Qatar also renamed the waiver “visa-free entry” — it is granted on arrival without prior application.",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "CZ:QA": {
+  "status": "visa free",
+  "reason": "Qatar’s visa-waiver groups: this passport is in the 90-day waiver group (waiver valid 180 days, multiple entry). Qatar also renamed the waiver “visa-free entry” — it is granted on arrival without prior application.",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "HU:QA": {
+  "status": "visa free",
+  "reason": "Qatar’s visa-waiver groups: this passport is in the 90-day waiver group (waiver valid 180 days, multiple entry). Qatar also renamed the waiver “visa-free entry” — it is granted on arrival without prior application.",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "MY:QA": {
+  "status": "visa free",
+  "reason": "Qatar’s visa-waiver groups: this passport is in the 90-day waiver group (waiver valid 180 days, multiple entry). Qatar also renamed the waiver “visa-free entry” — it is granted on arrival without prior application.",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "SG:QA": {
+  "status": "visa free",
+  "reason": "Qatar renamed its on-arrival waiver “visa-free entry” (Visit Qatar FAQ: “Nothing changed except the name”); this passport is in the 30-day waiver group (extendable by 30 days).",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "KR:QA": {
+  "status": "visa free",
+  "reason": "Qatar renamed its on-arrival waiver “visa-free entry” (Visit Qatar FAQ: “Nothing changed except the name”); this passport is in the 30-day waiver group (extendable by 30 days).",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "JP:QA": {
+  "status": "visa free",
+  "reason": "Qatar renamed its on-arrival waiver “visa-free entry” (Visit Qatar FAQ: “Nothing changed except the name”); this passport is in the 30-day waiver group (extendable by 30 days).",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "IE:QA": {
+  "status": "visa free",
+  "reason": "Qatar renamed its on-arrival waiver “visa-free entry” (Visit Qatar FAQ: “Nothing changed except the name”); this passport is in the 30-day waiver group (extendable by 30 days).",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "GB:QA": {
+  "status": "visa free",
+  "reason": "Qatar renamed its on-arrival waiver “visa-free entry” (Visit Qatar FAQ: “Nothing changed except the name”); this passport is in the 30-day waiver group (extendable by 30 days).",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "AU:QA": {
+  "status": "visa free",
+  "reason": "Qatar renamed its on-arrival waiver “visa-free entry” (Visit Qatar FAQ: “Nothing changed except the name”); this passport is in the 30-day waiver group (extendable by 30 days).",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "NZ:QA": {
+  "status": "visa free",
+  "reason": "Qatar renamed its on-arrival waiver “visa-free entry” (Visit Qatar FAQ: “Nothing changed except the name”); this passport is in the 30-day waiver group (extendable by 30 days).",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "CA:QA": {
+  "status": "visa free",
+  "reason": "Qatar renamed its on-arrival waiver “visa-free entry” (Visit Qatar FAQ: “Nothing changed except the name”); this passport is in the 30-day waiver group (extendable by 30 days).",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "CN:QA": {
+  "status": "visa free",
+  "reason": "Qatar renamed its on-arrival waiver “visa-free entry” (Visit Qatar FAQ: “Nothing changed except the name”); this passport is in the 30-day waiver group (extendable by 30 days).",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "SG:OM": {
+  "status": "visa free",
+  "reason": "Oman exempts this passport from entry visas for stays of up to 14 days (Foreign Ministry, Group 1 list, with conditions: 6-month passport validity, return ticket, hotel booking, insurance). A longer stay needs a paid eVisa — there is no 30-day on-arrival exemption.",
+  "source": "https://www.fm.gov.om/en/visitors/entry-visas/",
+  "date": "2026-10-25",
+  "days": 14
+ },
+ "KR:OM": {
+  "status": "visa free",
+  "reason": "Oman exempts this passport from entry visas for stays of up to 14 days (Foreign Ministry, Group 1 list, with conditions: 6-month passport validity, return ticket, hotel booking, insurance). A longer stay needs a paid eVisa — there is no 30-day on-arrival exemption.",
+  "source": "https://www.fm.gov.om/en/visitors/entry-visas/",
+  "date": "2026-10-25",
+  "days": 14
+ },
+ "JP:OM": {
+  "status": "visa free",
+  "reason": "Oman exempts this passport from entry visas for stays of up to 14 days (Foreign Ministry, Group 1 list, with conditions: 6-month passport validity, return ticket, hotel booking, insurance). A longer stay needs a paid eVisa — there is no 30-day on-arrival exemption.",
+  "source": "https://www.fm.gov.om/en/visitors/entry-visas/",
+  "date": "2026-10-25",
+  "days": 14
+ },
+ "FR:OM": {
+  "status": "visa free",
+  "reason": "Oman exempts this passport from entry visas for stays of up to 14 days (Foreign Ministry, Group 1 list, with conditions: 6-month passport validity, return ticket, hotel booking, insurance). A longer stay needs a paid eVisa — there is no 30-day on-arrival exemption.",
+  "source": "https://www.fm.gov.om/en/visitors/entry-visas/",
+  "date": "2026-10-25",
+  "days": 14
+ },
+ "DE:OM": {
+  "status": "visa free",
+  "reason": "Oman exempts this passport from entry visas for stays of up to 14 days (Foreign Ministry, Group 1 list, with conditions: 6-month passport validity, return ticket, hotel booking, insurance). A longer stay needs a paid eVisa — there is no 30-day on-arrival exemption.",
+  "source": "https://www.fm.gov.om/en/visitors/entry-visas/",
+  "date": "2026-10-25",
+  "days": 14
+ },
+ "IT:OM": {
+  "status": "visa free",
+  "reason": "Oman exempts this passport from entry visas for stays of up to 14 days (Foreign Ministry, Group 1 list, with conditions: 6-month passport validity, return ticket, hotel booking, insurance). A longer stay needs a paid eVisa — there is no 30-day on-arrival exemption.",
+  "source": "https://www.fm.gov.om/en/visitors/entry-visas/",
+  "date": "2026-10-25",
+  "days": 14
+ },
+ "ES:OM": {
+  "status": "visa free",
+  "reason": "Oman exempts this passport from entry visas for stays of up to 14 days (Foreign Ministry, Group 1 list, with conditions: 6-month passport validity, return ticket, hotel booking, insurance). A longer stay needs a paid eVisa — there is no 30-day on-arrival exemption.",
+  "source": "https://www.fm.gov.om/en/visitors/entry-visas/",
+  "date": "2026-10-25",
+  "days": 14
+ },
+ "FI:OM": {
+  "status": "visa free",
+  "reason": "Oman exempts this passport from entry visas for stays of up to 14 days (Foreign Ministry, Group 1 list, with conditions: 6-month passport validity, return ticket, hotel booking, insurance). A longer stay needs a paid eVisa — there is no 30-day on-arrival exemption.",
+  "source": "https://www.fm.gov.om/en/visitors/entry-visas/",
+  "date": "2026-10-25",
+  "days": 14
+ },
+ "NL:OM": {
+  "status": "visa free",
+  "reason": "Oman exempts this passport from entry visas for stays of up to 14 days (Foreign Ministry, Group 1 list, with conditions: 6-month passport validity, return ticket, hotel booking, insurance). A longer stay needs a paid eVisa — there is no 30-day on-arrival exemption.",
+  "source": "https://www.fm.gov.om/en/visitors/entry-visas/",
+  "date": "2026-10-25",
+  "days": 14
+ },
+ "BE:OM": {
+  "status": "visa free",
+  "reason": "Oman exempts this passport from entry visas for stays of up to 14 days (Foreign Ministry, Group 1 list, with conditions: 6-month passport validity, return ticket, hotel booking, insurance). A longer stay needs a paid eVisa — there is no 30-day on-arrival exemption.",
+  "source": "https://www.fm.gov.om/en/visitors/entry-visas/",
+  "date": "2026-10-25",
+  "days": 14
+ },
+ "DK:OM": {
+  "status": "visa free",
+  "reason": "Oman exempts this passport from entry visas for stays of up to 14 days (Foreign Ministry, Group 1 list, with conditions: 6-month passport validity, return ticket, hotel booking, insurance). A longer stay needs a paid eVisa — there is no 30-day on-arrival exemption.",
+  "source": "https://www.fm.gov.om/en/visitors/entry-visas/",
+  "date": "2026-10-25",
+  "days": 14
+ },
+ "SE:OM": {
+  "status": "visa free",
+  "reason": "Oman exempts this passport from entry visas for stays of up to 14 days (Foreign Ministry, Group 1 list, with conditions: 6-month passport validity, return ticket, hotel booking, insurance). A longer stay needs a paid eVisa — there is no 30-day on-arrival exemption.",
+  "source": "https://www.fm.gov.om/en/visitors/entry-visas/",
+  "date": "2026-10-25",
+  "days": 14
+ },
+ "NO:OM": {
+  "status": "visa free",
+  "reason": "Oman exempts this passport from entry visas for stays of up to 14 days (Foreign Ministry, Group 1 list, with conditions: 6-month passport validity, return ticket, hotel booking, insurance). A longer stay needs a paid eVisa — there is no 30-day on-arrival exemption.",
+  "source": "https://www.fm.gov.om/en/visitors/entry-visas/",
+  "date": "2026-10-25",
+  "days": 14
+ },
+ "CH:OM": {
+  "status": "visa free",
+  "reason": "Oman exempts this passport from entry visas for stays of up to 14 days (Foreign Ministry, Group 1 list, with conditions: 6-month passport validity, return ticket, hotel booking, insurance). A longer stay needs a paid eVisa — there is no 30-day on-arrival exemption.",
+  "source": "https://www.fm.gov.om/en/visitors/entry-visas/",
+  "date": "2026-10-25",
+  "days": 14
+ },
+ "AT:OM": {
+  "status": "visa free",
+  "reason": "Oman exempts this passport from entry visas for stays of up to 14 days (Foreign Ministry, Group 1 list, with conditions: 6-month passport validity, return ticket, hotel booking, insurance). A longer stay needs a paid eVisa — there is no 30-day on-arrival exemption.",
+  "source": "https://www.fm.gov.om/en/visitors/entry-visas/",
+  "date": "2026-10-25",
+  "days": 14
+ },
+ "IE:OM": {
+  "status": "visa free",
+  "reason": "Oman exempts this passport from entry visas for stays of up to 14 days (Foreign Ministry, Group 1 list, with conditions: 6-month passport validity, return ticket, hotel booking, insurance). A longer stay needs a paid eVisa — there is no 30-day on-arrival exemption.",
+  "source": "https://www.fm.gov.om/en/visitors/entry-visas/",
+  "date": "2026-10-25",
+  "days": 14
+ },
+ "GB:OM": {
+  "status": "visa free",
+  "reason": "Oman exempts this passport from entry visas for stays of up to 14 days (Foreign Ministry, Group 1 list, with conditions: 6-month passport validity, return ticket, hotel booking, insurance). A longer stay needs a paid eVisa — there is no 30-day on-arrival exemption.",
+  "source": "https://www.fm.gov.om/en/visitors/entry-visas/",
+  "date": "2026-10-25",
+  "days": 14
+ },
+ "AU:OM": {
+  "status": "visa free",
+  "reason": "Oman exempts this passport from entry visas for stays of up to 14 days (Foreign Ministry, Group 1 list, with conditions: 6-month passport validity, return ticket, hotel booking, insurance). A longer stay needs a paid eVisa — there is no 30-day on-arrival exemption.",
+  "source": "https://www.fm.gov.om/en/visitors/entry-visas/",
+  "date": "2026-10-25",
+  "days": 14
+ },
+ "CA:OM": {
+  "status": "visa free",
+  "reason": "Oman exempts this passport from entry visas for stays of up to 14 days (Foreign Ministry, Group 1 list, with conditions: 6-month passport validity, return ticket, hotel booking, insurance). A longer stay needs a paid eVisa — there is no 30-day on-arrival exemption.",
+  "source": "https://www.fm.gov.om/en/visitors/entry-visas/",
+  "date": "2026-10-25",
+  "days": 14
+ },
+ "US:OM": {
+  "status": "visa free",
+  "reason": "Oman exempts this passport from entry visas for stays of up to 14 days (Foreign Ministry, Group 1 list, with conditions: 6-month passport validity, return ticket, hotel booking, insurance). A longer stay needs a paid eVisa — there is no 30-day on-arrival exemption.",
+  "source": "https://www.fm.gov.om/en/visitors/entry-visas/",
+  "date": "2026-10-25",
+  "days": 14
+ },
+ "PT:OM": {
+  "status": "visa free",
+  "reason": "Oman exempts this passport from entry visas for stays of up to 14 days (Foreign Ministry, Group 1 list, with conditions: 6-month passport validity, return ticket, hotel booking, insurance). A longer stay needs a paid eVisa — there is no 30-day on-arrival exemption.",
+  "source": "https://www.fm.gov.om/en/visitors/entry-visas/",
+  "date": "2026-10-25",
+  "days": 14
+ },
+ "GR:OM": {
+  "status": "visa free",
+  "reason": "Oman exempts this passport from entry visas for stays of up to 14 days (Foreign Ministry, Group 1 list, with conditions: 6-month passport validity, return ticket, hotel booking, insurance). A longer stay needs a paid eVisa — there is no 30-day on-arrival exemption.",
+  "source": "https://www.fm.gov.om/en/visitors/entry-visas/",
+  "date": "2026-10-25",
+  "days": 14
+ },
+ "PL:OM": {
+  "status": "visa free",
+  "reason": "Oman exempts this passport from entry visas for stays of up to 14 days (Foreign Ministry, Group 1 list, with conditions: 6-month passport validity, return ticket, hotel booking, insurance). A longer stay needs a paid eVisa — there is no 30-day on-arrival exemption.",
+  "source": "https://www.fm.gov.om/en/visitors/entry-visas/",
+  "date": "2026-10-25",
+  "days": 14
+ },
+ "CZ:OM": {
+  "status": "visa free",
+  "reason": "Oman exempts this passport from entry visas for stays of up to 14 days (Foreign Ministry, Group 1 list, with conditions: 6-month passport validity, return ticket, hotel booking, insurance). A longer stay needs a paid eVisa — there is no 30-day on-arrival exemption.",
+  "source": "https://www.fm.gov.om/en/visitors/entry-visas/",
+  "date": "2026-10-25",
+  "days": 14
+ },
+ "HU:OM": {
+  "status": "visa free",
+  "reason": "Oman exempts this passport from entry visas for stays of up to 14 days (Foreign Ministry, Group 1 list, with conditions: 6-month passport validity, return ticket, hotel booking, insurance). A longer stay needs a paid eVisa — there is no 30-day on-arrival exemption.",
+  "source": "https://www.fm.gov.om/en/visitors/entry-visas/",
+  "date": "2026-10-25",
+  "days": 14
+ },
+ "MY:OM": {
+  "status": "visa free",
+  "reason": "Oman exempts this passport from entry visas for stays of up to 14 days (Foreign Ministry, Group 1 list, with conditions: 6-month passport validity, return ticket, hotel booking, insurance). A longer stay needs a paid eVisa — there is no 30-day on-arrival exemption.",
+  "source": "https://www.fm.gov.om/en/visitors/entry-visas/",
+  "date": "2026-10-25",
+  "days": 14
+ },
+ "CN:OM": {
+  "status": "visa free",
+  "reason": "Oman exempts this passport from entry visas for stays of up to 14 days (Foreign Ministry, Group 1 list, with conditions: 6-month passport validity, return ticket, hotel booking, insurance). A longer stay needs a paid eVisa — there is no 30-day on-arrival exemption.",
+  "source": "https://www.fm.gov.om/en/visitors/entry-visas/",
+  "date": "2026-10-25",
+  "days": 14
+ },
+ "NZ:OM": {
+  "status": "visa free",
+  "reason": "Oman exempts this passport from entry visas for stays of up to 14 days (Foreign Ministry, Group 1 list, with conditions: 6-month passport validity, return ticket, hotel booking, insurance). A longer stay needs a paid eVisa — there is no 30-day on-arrival exemption.",
+  "source": "https://www.fm.gov.om/en/visitors/entry-visas/",
+  "date": "2026-10-25",
+  "days": 14
+ },
+ "KR:IN": {
+  "status": "visa on arrival",
+  "reason": "India’s visa-on-arrival for Korean nationals allows 60 days (double entry, 6 airports) per the MEA; the dataset’s 30 days is the e-Tourist figure.",
+  "source": "https://sansad.in/getFile/annex/270/AU4404_RhOFvG.pdf",
+  "date": "2026-10-25",
+  "days": 60
+ },
+ "JP:IN": {
+  "status": "visa on arrival",
+  "reason": "India’s visa-on-arrival for Japanese nationals allows 60 days (double entry, 6 airports) per the MEA; the dataset’s 30 days is the e-Tourist figure.",
+  "source": "https://sansad.in/getFile/annex/270/AU4404_RhOFvG.pdf",
+  "date": "2026-10-25",
+  "days": 60
+ },
+ "AE:IN": {
+  "status": "visa on arrival",
+  "reason": "UAE nationals who previously held an Indian e-Visa or paper visa get visa on arrival for 60 days (MEA); the dataset’s 30 days understates it.",
+  "source": "https://sansad.in/getFile/annex/270/AU4404_RhOFvG.pdf",
+  "date": "2026-10-25",
+  "days": 60
+ },
+ "CN:IN": {
+  "status": "e-visa",
+  "reason": "India resumed tourist e-Visas for Chinese nationals on 24 July 2025 (Indian Embassy in Beijing announcement; MEA confirmed the regime fully functional in Nov 2025). The dataset predates the resumption.",
+  "source": "https://sansad.in/getFile/annex/270/AU4404_RhOFvG.pdf",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "SG:NP": {
+  "status": "visa on arrival",
+  "reason": "Nepal issues on-arrival tourist visas for 15, 30 or 90 days (fees USD 30 / 50 / 125). The dataset’s 150 days is the maximum total stay per visa year after extension — it is not granted on arrival.",
+  "source": "https://immigration.gov.np/en/page/tourist-visa",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "KR:NP": {
+  "status": "visa on arrival",
+  "reason": "Nepal issues on-arrival tourist visas for 15, 30 or 90 days (fees USD 30 / 50 / 125). The dataset’s 150 days is the maximum total stay per visa year after extension — it is not granted on arrival.",
+  "source": "https://immigration.gov.np/en/page/tourist-visa",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "JP:NP": {
+  "status": "visa on arrival",
+  "reason": "Nepal issues on-arrival tourist visas for 15, 30 or 90 days (fees USD 30 / 50 / 125). The dataset’s 150 days is the maximum total stay per visa year after extension — it is not granted on arrival.",
+  "source": "https://immigration.gov.np/en/page/tourist-visa",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "FR:NP": {
+  "status": "visa on arrival",
+  "reason": "Nepal issues on-arrival tourist visas for 15, 30 or 90 days (fees USD 30 / 50 / 125). The dataset’s 150 days is the maximum total stay per visa year after extension — it is not granted on arrival.",
+  "source": "https://immigration.gov.np/en/page/tourist-visa",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "DE:NP": {
+  "status": "visa on arrival",
+  "reason": "Nepal issues on-arrival tourist visas for 15, 30 or 90 days (fees USD 30 / 50 / 125). The dataset’s 150 days is the maximum total stay per visa year after extension — it is not granted on arrival.",
+  "source": "https://immigration.gov.np/en/page/tourist-visa",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "IT:NP": {
+  "status": "visa on arrival",
+  "reason": "Nepal issues on-arrival tourist visas for 15, 30 or 90 days (fees USD 30 / 50 / 125). The dataset’s 150 days is the maximum total stay per visa year after extension — it is not granted on arrival.",
+  "source": "https://immigration.gov.np/en/page/tourist-visa",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "ES:NP": {
+  "status": "visa on arrival",
+  "reason": "Nepal issues on-arrival tourist visas for 15, 30 or 90 days (fees USD 30 / 50 / 125). The dataset’s 150 days is the maximum total stay per visa year after extension — it is not granted on arrival.",
+  "source": "https://immigration.gov.np/en/page/tourist-visa",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "FI:NP": {
+  "status": "visa on arrival",
+  "reason": "Nepal issues on-arrival tourist visas for 15, 30 or 90 days (fees USD 30 / 50 / 125). The dataset’s 150 days is the maximum total stay per visa year after extension — it is not granted on arrival.",
+  "source": "https://immigration.gov.np/en/page/tourist-visa",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "NL:NP": {
+  "status": "visa on arrival",
+  "reason": "Nepal issues on-arrival tourist visas for 15, 30 or 90 days (fees USD 30 / 50 / 125). The dataset’s 150 days is the maximum total stay per visa year after extension — it is not granted on arrival.",
+  "source": "https://immigration.gov.np/en/page/tourist-visa",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "BE:NP": {
+  "status": "visa on arrival",
+  "reason": "Nepal issues on-arrival tourist visas for 15, 30 or 90 days (fees USD 30 / 50 / 125). The dataset’s 150 days is the maximum total stay per visa year after extension — it is not granted on arrival.",
+  "source": "https://immigration.gov.np/en/page/tourist-visa",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "DK:NP": {
+  "status": "visa on arrival",
+  "reason": "Nepal issues on-arrival tourist visas for 15, 30 or 90 days (fees USD 30 / 50 / 125). The dataset’s 150 days is the maximum total stay per visa year after extension — it is not granted on arrival.",
+  "source": "https://immigration.gov.np/en/page/tourist-visa",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "SE:NP": {
+  "status": "visa on arrival",
+  "reason": "Nepal issues on-arrival tourist visas for 15, 30 or 90 days (fees USD 30 / 50 / 125). The dataset’s 150 days is the maximum total stay per visa year after extension — it is not granted on arrival.",
+  "source": "https://immigration.gov.np/en/page/tourist-visa",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "NO:NP": {
+  "status": "visa on arrival",
+  "reason": "Nepal issues on-arrival tourist visas for 15, 30 or 90 days (fees USD 30 / 50 / 125). The dataset’s 150 days is the maximum total stay per visa year after extension — it is not granted on arrival.",
+  "source": "https://immigration.gov.np/en/page/tourist-visa",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "CH:NP": {
+  "status": "visa on arrival",
+  "reason": "Nepal issues on-arrival tourist visas for 15, 30 or 90 days (fees USD 30 / 50 / 125). The dataset’s 150 days is the maximum total stay per visa year after extension — it is not granted on arrival.",
+  "source": "https://immigration.gov.np/en/page/tourist-visa",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "AT:NP": {
+  "status": "visa on arrival",
+  "reason": "Nepal issues on-arrival tourist visas for 15, 30 or 90 days (fees USD 30 / 50 / 125). The dataset’s 150 days is the maximum total stay per visa year after extension — it is not granted on arrival.",
+  "source": "https://immigration.gov.np/en/page/tourist-visa",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "IE:NP": {
+  "status": "visa on arrival",
+  "reason": "Nepal issues on-arrival tourist visas for 15, 30 or 90 days (fees USD 30 / 50 / 125). The dataset’s 150 days is the maximum total stay per visa year after extension — it is not granted on arrival.",
+  "source": "https://immigration.gov.np/en/page/tourist-visa",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "GB:NP": {
+  "status": "visa on arrival",
+  "reason": "Nepal issues on-arrival tourist visas for 15, 30 or 90 days (fees USD 30 / 50 / 125). The dataset’s 150 days is the maximum total stay per visa year after extension — it is not granted on arrival.",
+  "source": "https://immigration.gov.np/en/page/tourist-visa",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "AU:NP": {
+  "status": "visa on arrival",
+  "reason": "Nepal issues on-arrival tourist visas for 15, 30 or 90 days (fees USD 30 / 50 / 125). The dataset’s 150 days is the maximum total stay per visa year after extension — it is not granted on arrival.",
+  "source": "https://immigration.gov.np/en/page/tourist-visa",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "NZ:NP": {
+  "status": "visa on arrival",
+  "reason": "Nepal issues on-arrival tourist visas for 15, 30 or 90 days (fees USD 30 / 50 / 125). The dataset’s 150 days is the maximum total stay per visa year after extension — it is not granted on arrival.",
+  "source": "https://immigration.gov.np/en/page/tourist-visa",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "CA:NP": {
+  "status": "visa on arrival",
+  "reason": "Nepal issues on-arrival tourist visas for 15, 30 or 90 days (fees USD 30 / 50 / 125). The dataset’s 150 days is the maximum total stay per visa year after extension — it is not granted on arrival.",
+  "source": "https://immigration.gov.np/en/page/tourist-visa",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "US:NP": {
+  "status": "visa on arrival",
+  "reason": "Nepal issues on-arrival tourist visas for 15, 30 or 90 days (fees USD 30 / 50 / 125). The dataset’s 150 days is the maximum total stay per visa year after extension — it is not granted on arrival.",
+  "source": "https://immigration.gov.np/en/page/tourist-visa",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "PT:NP": {
+  "status": "visa on arrival",
+  "reason": "Nepal issues on-arrival tourist visas for 15, 30 or 90 days (fees USD 30 / 50 / 125). The dataset’s 150 days is the maximum total stay per visa year after extension — it is not granted on arrival.",
+  "source": "https://immigration.gov.np/en/page/tourist-visa",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "GR:NP": {
+  "status": "visa on arrival",
+  "reason": "Nepal issues on-arrival tourist visas for 15, 30 or 90 days (fees USD 30 / 50 / 125). The dataset’s 150 days is the maximum total stay per visa year after extension — it is not granted on arrival.",
+  "source": "https://immigration.gov.np/en/page/tourist-visa",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "PL:NP": {
+  "status": "visa on arrival",
+  "reason": "Nepal issues on-arrival tourist visas for 15, 30 or 90 days (fees USD 30 / 50 / 125). The dataset’s 150 days is the maximum total stay per visa year after extension — it is not granted on arrival.",
+  "source": "https://immigration.gov.np/en/page/tourist-visa",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "CZ:NP": {
+  "status": "visa on arrival",
+  "reason": "Nepal issues on-arrival tourist visas for 15, 30 or 90 days (fees USD 30 / 50 / 125). The dataset’s 150 days is the maximum total stay per visa year after extension — it is not granted on arrival.",
+  "source": "https://immigration.gov.np/en/page/tourist-visa",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "HU:NP": {
+  "status": "visa on arrival",
+  "reason": "Nepal issues on-arrival tourist visas for 15, 30 or 90 days (fees USD 30 / 50 / 125). The dataset’s 150 days is the maximum total stay per visa year after extension — it is not granted on arrival.",
+  "source": "https://immigration.gov.np/en/page/tourist-visa",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "AE:NP": {
+  "status": "visa on arrival",
+  "reason": "Nepal issues on-arrival tourist visas for 15, 30 or 90 days (fees USD 30 / 50 / 125). The dataset’s 150 days is the maximum total stay per visa year after extension — it is not granted on arrival.",
+  "source": "https://immigration.gov.np/en/page/tourist-visa",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "MY:NP": {
+  "status": "visa on arrival",
+  "reason": "Nepal issues on-arrival tourist visas for 15, 30 or 90 days (fees USD 30 / 50 / 125). The dataset’s 150 days is the maximum total stay per visa year after extension — it is not granted on arrival.",
+  "source": "https://immigration.gov.np/en/page/tourist-visa",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "IL:NP": {
+  "status": "visa on arrival",
+  "reason": "Nepal issues on-arrival tourist visas for 15, 30 or 90 days (fees USD 30 / 50 / 125). The dataset’s 150 days is the maximum total stay per visa year after extension — it is not granted on arrival.",
+  "source": "https://immigration.gov.np/en/page/tourist-visa",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "CN:NP": {
+  "status": "visa on arrival",
+  "reason": "Nepal issues on-arrival tourist visas for 15, 30 or 90 days (fees USD 30 / 50 / 125). The dataset’s 150 days is the maximum total stay per visa year after extension — it is not granted on arrival.",
+  "source": "https://immigration.gov.np/en/page/tourist-visa",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "AD:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "AE:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "AF:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "AG:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "AL:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "AM:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "AO:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "AR:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "AT:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "AU:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "AZ:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "BA:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "BB:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "BD:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "BE:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "BF:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "BG:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "BH:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "BI:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "BJ:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "BN:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "BO:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "BR:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "BS:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "BT:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "BW:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "BY:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "BZ:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "CA:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "CD:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "CF:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "CG:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "CH:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "CI:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "CL:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "CM:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "CN:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "CO:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "CR:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "CU:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "CV:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "CY:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "CZ:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "DE:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "DJ:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "DK:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "DM:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "DO:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "DZ:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "EC:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "EE:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "EG:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "ER:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "ES:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "ET:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "FI:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "FJ:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "FM:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "FR:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "GA:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "GB:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "GD:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "GE:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "GH:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "GM:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "GN:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "GQ:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "GR:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "GT:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "GW:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "GY:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "HK:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "HN:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "HR:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "HT:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "HU:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "ID:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "IE:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "IL:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "IN:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "IQ:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "IR:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "IS:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "IT:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "JM:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "JO:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "JP:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "KE:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "KG:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "KH:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "KI:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "KM:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "KN:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "KP:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "KR:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "KW:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "KZ:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "LA:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "LB:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "LC:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "LI:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "LK:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "LR:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "LS:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "LT:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "LU:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "LV:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "LY:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "MA:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "MC:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "MD:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "ME:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "MG:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "MH:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "MK:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "ML:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "MM:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "MN:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "MO:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "MR:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "MT:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "MU:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "MV:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "MW:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "MX:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "MY:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "MZ:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "NA:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "NE:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "NG:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "NI:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "NL:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "NO:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "NP:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "NR:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "NZ:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "OM:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "PA:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "PE:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "PG:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "PH:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "PK:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "PL:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "PS:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "PT:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "PW:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "PY:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "QA:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "RO:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "RS:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "RU:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "RW:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "SA:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "SB:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "SD:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "SE:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "SG:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "SI:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "SK:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "SL:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "SM:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "SN:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "SO:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "SR:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "SS:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "ST:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "SV:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "SY:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "SZ:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "TD:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "TG:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "TH:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "TJ:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "TL:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "TM:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "TN:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "TO:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "TR:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "TT:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "TV:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "TW:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "TZ:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "UA:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "UG:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "US:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "UY:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "UZ:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "VA:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "VC:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "VE:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "VN:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "VU:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "WS:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "YE:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "ZA:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "ZM:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "ZW:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Seychelles is visa-free, but every non-citizen visitor must obtain a paid Travel Authorisation through the official SEBS portal before travel (airlines check it at boarding); a Visitor’s Permit is issued on arrival. The dataset’s bare “visa free” hides this mandatory pre-authorisation.",
+  "source": "https://seychelles.govtas.com/en",
+  "date": "2026-10-25"
+ },
+ "SO:KE": {
+  "status": "eta",
+  "reason": "Somalia is excluded from Kenya’s 2025 eTA exemption lists (the “all African states except Somalia and Libya” carve-out in the official rules); Somali passports need an eTA.",
+  "source": "https://etakenya.go.ke/general-information",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "IN:IR": {
+  "status": "visa required",
+  "reason": "Iran suspended its visa-waiver facility for Indian ordinary passports effective 22 November 2025 (Indian MEA advisory); a visa must be obtained in advance, including for transit.",
+  "source": "https://www.mea.gov.in/press-releases.htm?dtl/40303/Advisory_on_suspension_of_visa_waiver_facility_extended_to_Indian_nationals_traveling_to_Iran",
+  "date": "2026-10-25"
+ },
+ "AD:TH": {
+  "status": "e-visa",
+  "reason": "Thailand’s 2026-09-15 exemption revision: dropped from all exemption/VOA lists in the 2026-09-15 revision and holds no bilateral agreement; a visa must be obtained before travel via the Thai e-Visa system",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25"
+ },
+ "AE:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: 60-day scheme revoked 2026-09-15; passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "AL:TH": {
+  "status": "e-visa",
+  "reason": "Thailand’s 2026-09-15 exemption revision: dropped from all exemption/VOA lists in the 2026-09-15 revision and holds no bilateral agreement; a visa must be obtained before travel via the Thai e-Visa system",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25"
+ },
+ "AM:TH": {
+  "status": "e-visa",
+  "reason": "Thailand’s 2026-09-15 exemption revision: dropped from all exemption/VOA lists in the 2026-09-15 revision and holds no bilateral agreement; a visa must be obtained before travel via the Thai e-Visa system",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25"
+ },
+ "AT:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: 60-day scheme revoked 2026-09-15; passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "AU:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: 60-day scheme revoked 2026-09-15; passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "AZ:TH": {
+  "status": "visa on arrival",
+  "reason": "Thailand’s 2026-09-15 exemption revision: revised Visa on Arrival list from 2026-09-15 is limited to Azerbaijan, Belarus and Serbia (15d, THB 2,000)",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 15
+ },
+ "BE:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: 60-day scheme revoked 2026-09-15; passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "BG:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: 60-day scheme revoked 2026-09-15; passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "BH:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: 60-day scheme revoked 2026-09-15; passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "BN:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: 60-day scheme revoked 2026-09-15; passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "BO:TH": {
+  "status": "e-visa",
+  "reason": "Thailand’s 2026-09-15 exemption revision: dropped from all exemption/VOA lists in the 2026-09-15 revision and holds no bilateral agreement; a visa must be obtained before travel via the Thai e-Visa system",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25"
+ },
+ "BT:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: 60-day scheme revoked 2026-09-15; passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "CA:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: 60-day scheme revoked 2026-09-15; passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "CH:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: 60-day scheme revoked 2026-09-15; passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "CN:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: bilateral visa-exemption agreement (30d) unaffected by the 2026-09-15 revocation; not part of the revoked 60-day scheme",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "CO:TH": {
+  "status": "e-visa",
+  "reason": "Thailand’s 2026-09-15 exemption revision: dropped from all exemption/VOA lists in the 2026-09-15 revision and holds no bilateral agreement; a visa must be obtained before travel via the Thai e-Visa system",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25"
+ },
+ "CR:TH": {
+  "status": "e-visa",
+  "reason": "Thailand’s 2026-09-15 exemption revision: dropped from all exemption/VOA lists in the 2026-09-15 revision and holds no bilateral agreement; a visa must be obtained before travel via the Thai e-Visa system",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25"
+ },
+ "CU:TH": {
+  "status": "e-visa",
+  "reason": "Thailand’s 2026-09-15 exemption revision: dropped from all exemption/VOA lists in the 2026-09-15 revision and holds no bilateral agreement; a visa must be obtained before travel via the Thai e-Visa system",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25"
+ },
+ "CY:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: 60-day scheme revoked 2026-09-15; passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "CZ:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: 60-day scheme revoked 2026-09-15; passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "DE:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: 60-day scheme revoked 2026-09-15; passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "DK:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: 60-day scheme revoked 2026-09-15; passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "DM:TH": {
+  "status": "e-visa",
+  "reason": "Thailand’s 2026-09-15 exemption revision: dropped from all exemption/VOA lists in the 2026-09-15 revision and holds no bilateral agreement; a visa must be obtained before travel via the Thai e-Visa system",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25"
+ },
+ "DO:TH": {
+  "status": "e-visa",
+  "reason": "Thailand’s 2026-09-15 exemption revision: dropped from all exemption/VOA lists in the 2026-09-15 revision and holds no bilateral agreement; a visa must be obtained before travel via the Thai e-Visa system",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25"
+ },
+ "EC:TH": {
+  "status": "e-visa",
+  "reason": "Thailand’s 2026-09-15 exemption revision: dropped from all exemption/VOA lists in the 2026-09-15 revision and holds no bilateral agreement; a visa must be obtained before travel via the Thai e-Visa system",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25"
+ },
+ "EE:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: 60-day scheme revoked 2026-09-15; passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "ES:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: 60-day scheme revoked 2026-09-15; passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "ET:TH": {
+  "status": "e-visa",
+  "reason": "Thailand’s 2026-09-15 exemption revision: dropped from all exemption/VOA lists in the 2026-09-15 revision and holds no bilateral agreement; a visa must be obtained before travel via the Thai e-Visa system",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25"
+ },
+ "FI:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: 60-day scheme revoked 2026-09-15; passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "FJ:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: 60-day scheme revoked 2026-09-15; passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "FR:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: 60-day scheme revoked 2026-09-15; passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "GB:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: 60-day scheme revoked 2026-09-15; passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "GE:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: 60-day scheme revoked 2026-09-15; passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "GR:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: 60-day scheme revoked 2026-09-15; passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "GT:TH": {
+  "status": "e-visa",
+  "reason": "Thailand’s 2026-09-15 exemption revision: dropped from all exemption/VOA lists in the 2026-09-15 revision and holds no bilateral agreement; a visa must be obtained before travel via the Thai e-Visa system",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25"
+ },
+ "HK:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: bilateral visa-exemption agreement (30d) unaffected by the 2026-09-15 revocation; not part of the revoked 60-day scheme",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "HR:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: 60-day scheme revoked 2026-09-15; passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "HU:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: 60-day scheme revoked 2026-09-15; passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "ID:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: 60-day scheme revoked 2026-09-15; passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "IE:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: 60-day scheme revoked 2026-09-15; passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "IL:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: 60-day scheme revoked 2026-09-15; passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "IN:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: 60-day scheme revoked 2026-09-15; passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026 (India moved OFF the old VOA track onto the exemption list; it is not VOA)",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "IS:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: 60-day scheme revoked 2026-09-15; passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "IT:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: 60-day scheme revoked 2026-09-15; passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "JM:TH": {
+  "status": "e-visa",
+  "reason": "Thailand’s 2026-09-15 exemption revision: dropped from all exemption/VOA lists in the 2026-09-15 revision and holds no bilateral agreement; a visa must be obtained before travel via the Thai e-Visa system",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25"
+ },
+ "JO:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: 60-day scheme revoked 2026-09-15; passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "JP:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: 60-day scheme revoked 2026-09-15; passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "KG:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "KH:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: bilateral visa-exemption agreement (14d, international airports) unaffected by the 2026-09-15 revocation",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 14
+ },
+ "KR:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: bilateral visa-exemption agreement (90d) unaffected by the 2026-09-15 revocation; dataset value was not the bilateral entitlement",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "KW:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: 60-day scheme revoked 2026-09-15; passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "KZ:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: bilateral visa-exemption agreement (30d) unaffected by the 2026-09-15 revocation; not part of the revoked 60-day scheme",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "LA:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: bilateral visa-exemption agreement (30d) unaffected by the 2026-09-15 revocation; not part of the revoked 60-day scheme",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "LI:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: 60-day scheme revoked 2026-09-15; passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "LK:TH": {
+  "status": "e-visa",
+  "reason": "Thailand’s 2026-09-15 exemption revision: dropped from all exemption/VOA lists in the 2026-09-15 revision and holds no bilateral agreement; a visa must be obtained before travel via the Thai e-Visa system",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25"
+ },
+ "LT:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: 60-day scheme revoked 2026-09-15; passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "LU:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: 60-day scheme revoked 2026-09-15; passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "LV:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: 60-day scheme revoked 2026-09-15; passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "MA:TH": {
+  "status": "e-visa",
+  "reason": "Thailand’s 2026-09-15 exemption revision: dropped from all exemption/VOA lists in the 2026-09-15 revision and holds no bilateral agreement; a visa must be obtained before travel via the Thai e-Visa system",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25"
+ },
+ "MC:TH": {
+  "status": "e-visa",
+  "reason": "Thailand’s 2026-09-15 exemption revision: dropped from all exemption/VOA lists in the 2026-09-15 revision and holds no bilateral agreement; a visa must be obtained before travel via the Thai e-Visa system",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25"
+ },
+ "MN:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: bilateral visa-exemption agreement (30d) unaffected by the 2026-09-15 revocation; not part of the revoked 60-day scheme",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "MO:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: bilateral visa-exemption agreement (30d) unaffected by the 2026-09-15 revocation; not part of the revoked 60-day scheme",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "MT:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: 60-day scheme revoked 2026-09-15; passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "MU:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: passport sits in the separate 15-day exemption tier (Mauritius and Seychelles only)",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 15
+ },
+ "MV:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: 60-day scheme revoked 2026-09-15; passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "MX:TH": {
+  "status": "e-visa",
+  "reason": "Thailand’s 2026-09-15 exemption revision: dropped from all exemption/VOA lists in the 2026-09-15 revision and holds no bilateral agreement; a visa must be obtained before travel via the Thai e-Visa system",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25"
+ },
+ "MY:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "NA:TH": {
+  "status": "e-visa",
+  "reason": "Thailand’s 2026-09-15 exemption revision: dropped from all exemption/VOA lists in the 2026-09-15 revision and holds no bilateral agreement; a visa must be obtained before travel via the Thai e-Visa system",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25"
+ },
+ "NL:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: 60-day scheme revoked 2026-09-15; passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "NO:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: 60-day scheme revoked 2026-09-15; passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "NR:TH": {
+  "status": "e-visa",
+  "reason": "Thailand’s 2026-09-15 exemption revision: dropped from all exemption/VOA lists in the 2026-09-15 revision and holds no bilateral agreement; a visa must be obtained before travel via the Thai e-Visa system",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25"
+ },
+ "NZ:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: 60-day scheme revoked 2026-09-15; passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "OM:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: 60-day scheme revoked 2026-09-15; passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "PA:TH": {
+  "status": "e-visa",
+  "reason": "Thailand’s 2026-09-15 exemption revision: dropped from all exemption/VOA lists in the 2026-09-15 revision and holds no bilateral agreement; a visa must be obtained before travel via the Thai e-Visa system",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25"
+ },
+ "PE:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: bilateral visa-exemption agreement (90d) unaffected by the 2026-09-15 revocation; dataset value was not the bilateral entitlement",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "PG:TH": {
+  "status": "e-visa",
+  "reason": "Thailand’s 2026-09-15 exemption revision: dropped from all exemption/VOA lists in the 2026-09-15 revision and holds no bilateral agreement; a visa must be obtained before travel via the Thai e-Visa system",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25"
+ },
+ "PH:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026. RE-CONFIRMED: PH is NOT Visa on Arrival (an earlier lead said VOA — rejected against the gazetted list; VOA is AZ/BY/RS only)",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "PL:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: 60-day scheme revoked 2026-09-15; passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "PT:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: 60-day scheme revoked 2026-09-15; passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "PY:TH": {
+  "status": "e-visa",
+  "reason": "Thailand’s 2026-09-15 exemption revision: dropped from all exemption/VOA lists in the 2026-09-15 revision and holds no bilateral agreement; a visa must be obtained before travel via the Thai e-Visa system",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25"
+ },
+ "QA:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: 60-day scheme revoked 2026-09-15; passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "RO:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: 60-day scheme revoked 2026-09-15; passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "RU:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: bilateral visa-exemption agreement (30d) unaffected by the 2026-09-15 revocation; not part of the revoked 60-day scheme",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "SA:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026. RE-CONFIRMED: SA is NOT Visa on Arrival (earlier lead rejected, as for PH)",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "SC:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: passport sits in the separate 15-day exemption tier (Mauritius and Seychelles only); status changes from VOA to visa-free even though the 15d length is unchanged",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 15
+ },
+ "SE:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: 60-day scheme revoked 2026-09-15; passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "SG:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026 (dataset did NOT already say 30d; the 60d value is superseded)",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "SI:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: 60-day scheme revoked 2026-09-15; passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "SK:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: 60-day scheme revoked 2026-09-15; passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "SM:TH": {
+  "status": "e-visa",
+  "reason": "Thailand’s 2026-09-15 exemption revision: dropped from all exemption/VOA lists in the 2026-09-15 revision and holds no bilateral agreement; a visa must be obtained before travel via the Thai e-Visa system",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25"
+ },
+ "SV:TH": {
+  "status": "e-visa",
+  "reason": "Thailand’s 2026-09-15 exemption revision: dropped from all exemption/VOA lists in the 2026-09-15 revision and holds no bilateral agreement; a visa must be obtained before travel via the Thai e-Visa system",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25"
+ },
+ "TN:TH": {
+  "status": "e-visa",
+  "reason": "Thailand’s 2026-09-15 exemption revision: dropped from all exemption/VOA lists in the 2026-09-15 revision and holds no bilateral agreement; a visa must be obtained before travel via the Thai e-Visa system",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25"
+ },
+ "TO:TH": {
+  "status": "e-visa",
+  "reason": "Thailand’s 2026-09-15 exemption revision: dropped from all exemption/VOA lists in the 2026-09-15 revision and holds no bilateral agreement; a visa must be obtained before travel via the Thai e-Visa system",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25"
+ },
+ "TR:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: passport (Türkiye) is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026. RE-CONFIRMED: TR is on the exemption scheme list, not a separate bilateral 30d track (earlier lead's outcome of 30d was right, its mechanism was not)",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "TT:TH": {
+  "status": "e-visa",
+  "reason": "Thailand’s 2026-09-15 exemption revision: dropped from all exemption/VOA lists in the 2026-09-15 revision and holds no bilateral agreement; a visa must be obtained before travel via the Thai e-Visa system",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25"
+ },
+ "TW:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: 60-day scheme revoked 2026-09-15; passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "UA:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: 60-day scheme revoked 2026-09-15; passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "US:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: 60-day scheme revoked 2026-09-15; passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "UY:TH": {
+  "status": "e-visa",
+  "reason": "Thailand’s 2026-09-15 exemption revision: dropped from all exemption/VOA lists in the 2026-09-15 revision and holds no bilateral agreement; a visa must be obtained before travel via the Thai e-Visa system",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25"
+ },
+ "UZ:TH": {
+  "status": "e-visa",
+  "reason": "Thailand’s 2026-09-15 exemption revision: dropped from all exemption/VOA lists in the 2026-09-15 revision and holds no bilateral agreement; a visa must be obtained before travel via the Thai e-Visa system",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25"
+ },
+ "VE:TH": {
+  "status": "e-visa",
+  "reason": "Thailand’s 2026-09-15 exemption revision: dropped from all exemption/VOA lists in the 2026-09-15 revision and holds no bilateral agreement; a visa must be obtained before travel via the Thai e-Visa system",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25"
+ },
+ "VN:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: bilateral visa-exemption agreement (30d) unaffected by the 2026-09-15 revocation; not part of the revoked 60-day scheme",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "VU:TH": {
+  "status": "e-visa",
+  "reason": "Thailand’s 2026-09-15 exemption revision: dropped from all exemption/VOA lists in the 2026-09-15 revision and holds no bilateral agreement; a visa must be obtained before travel via the Thai e-Visa system",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25"
+ },
+ "ZA:TH": {
+  "status": "visa free",
+  "reason": "Thailand’s 2026-09-15 exemption revision: 60-day scheme revoked 2026-09-15; passport is on the revised 60-country 30-day exemption list gazetted 31 Aug 2026",
+  "source": "https://www.thaiembassy.com/thailand-visa/thai-visa-exemption-and-bilateral-agreement",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "GB:CN": {
+  "status": "visa free",
+  "reason": "Added to China’s unilateral visa-free policy from 17 Feb 2026 (MFA announcement, 15 Feb 2026); the dataset predates the addition.",
+  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
+  "date": "2026-10-25",
+  "days": 30,
+  "valid_until": "2026-12-31"
+ },
+ "CA:CN": {
+  "status": "visa free",
+  "reason": "Added to China’s unilateral visa-free policy from 17 Feb 2026 (MFA announcement, 15 Feb 2026); the dataset predates the addition.",
+  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
+  "date": "2026-10-25",
+  "days": 30,
+  "valid_until": "2026-12-31"
+ },
+ "IE:KR": {
+  "status": "eta",
+  "reason": "Visa-free entry, but this passport is NOT on South Korea’s temporary K-ETA exemption list — a K-ETA must be approved before boarding (the dataset’s plain “visa free” understates the pre-travel step).",
+  "source": "https://www.mofa.go.kr/ca-en/brd/m_5231/view.do?seq=761797",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "PT:KR": {
+  "status": "eta",
+  "reason": "Visa-free entry, but this passport is NOT on South Korea’s temporary K-ETA exemption list — a K-ETA must be approved before boarding (the dataset’s plain “visa free” understates the pre-travel step).",
+  "source": "https://www.mofa.go.kr/ca-en/brd/m_5231/view.do?seq=761797",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "GR:KR": {
+  "status": "eta",
+  "reason": "Visa-free entry, but this passport is NOT on South Korea’s temporary K-ETA exemption list — a K-ETA must be approved before boarding (the dataset’s plain “visa free” understates the pre-travel step).",
+  "source": "https://www.mofa.go.kr/ca-en/brd/m_5231/view.do?seq=761797",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "CZ:KR": {
+  "status": "eta",
+  "reason": "Visa-free entry, but this passport is NOT on South Korea’s temporary K-ETA exemption list — a K-ETA must be approved before boarding (the dataset’s plain “visa free” understates the pre-travel step).",
+  "source": "https://www.mofa.go.kr/ca-en/brd/m_5231/view.do?seq=761797",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "HU:KR": {
+  "status": "eta",
+  "reason": "Visa-free entry, but this passport is NOT on South Korea’s temporary K-ETA exemption list — a K-ETA must be approved before boarding (the dataset’s plain “visa free” understates the pre-travel step).",
+  "source": "https://www.mofa.go.kr/ca-en/brd/m_5231/view.do?seq=761797",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "AE:KR": {
+  "status": "eta",
+  "reason": "Visa-free entry, but this passport is NOT on South Korea’s temporary K-ETA exemption list — a K-ETA must be approved before boarding (the dataset’s plain “visa free” understates the pre-travel step).",
+  "source": "https://www.mofa.go.kr/ca-en/brd/m_5231/view.do?seq=761797",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "CN:KR": {
+  "status": "visa required",
+  "reason": "Mainland Chinese ordinary passports are neither visa-waiver nor K-ETA-eligible for South Korea; a C-3 visa is required in advance (Jeju direct-entry and group-tour schemes aside).",
+  "source": "https://www.mofa.go.kr/ca-en/brd/m_5231/view.do?seq=761797",
+  "date": "2026-10-25"
+ },
+ "US:SG": {
+  "status": "visa free",
+  "reason": "Singapore’s published maximum-stay grouping puts this passport in the 90-day visa-exempt group; the dataset’s 30 days is the other group’s figure.",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "AU:SG": {
+  "status": "visa free",
+  "reason": "Singapore’s published maximum-stay grouping puts this passport in the 90-day visa-exempt group; the dataset’s 30 days is the other group’s figure.",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "GB:SG": {
+  "status": "visa free",
+  "reason": "Singapore’s published maximum-stay grouping puts this passport in the 90-day visa-exempt group; the dataset’s 30 days is the other group’s figure.",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "IN:HK": {
+  "status": "eta",
+  "reason": "Indian nationals get 14 days visa free in Hong Kong only with a successful Pre-Arrival Registration (PAR) — an online pre-registration, mislabelled “e-visa” in the dataset.",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "date": "2026-10-25",
+  "days": 14
+ },
+ "VN:HK": {
+  "status": "visa required",
+  "reason": "Hong Kong has no visa-on-arrival or e-visa category in the Immigration Department table — this nationality is “Visa Required”; the dataset label is a modelling artifact.",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "date": "2026-10-25"
+ },
+ "KH:HK": {
+  "status": "visa required",
+  "reason": "Hong Kong has no visa-on-arrival or e-visa category in the Immigration Department table — this nationality is “Visa Required”; the dataset label is a modelling artifact.",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "date": "2026-10-25"
+ },
+ "LA:HK": {
+  "status": "visa required",
+  "reason": "Hong Kong has no visa-on-arrival or e-visa category in the Immigration Department table — this nationality is “Visa Required”; the dataset label is a modelling artifact.",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "date": "2026-10-25"
+ },
+ "MM:HK": {
+  "status": "visa required",
+  "reason": "Hong Kong has no visa-on-arrival or e-visa category in the Immigration Department table — this nationality is “Visa Required”; the dataset label is a modelling artifact.",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "date": "2026-10-25"
+ },
+ "CN:BR": {
+  "status": "visa free",
+  "reason": "China was added to Brazil’s visa-exemption on a temporary reciprocity basis from 11 May 2026 (QGRV code 2); the dataset predates it.",
+  "source": "https://www.gov.br/mre/pt-br/assuntos/portal-consular/vistos/qgrv-simples-port-07out26.pdf",
+  "date": "2026-10-25",
+  "days": 30,
+  "valid_until": "2026-12-31"
+ },
+ "AU:TR": {
+  "status": "visa free",
+  "reason": "Türkiye MFA: Australian ordinary passports are visa-exempt for 90 days in any 180; the dataset’s “visa on arrival” is not the MFA position.",
+  "source": "https://www.mfa.gov.tr/visa-information-for-foreigners.en.mfa",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "CN:TR": {
+  "status": "visa free",
+  "reason": "Türkiye MFA: Chinese ordinary passports became visa-exempt for up to 90 days in any 180 from 2 Jan 2026; the dataset still shows the pre-2026 e-visa route.",
+  "source": "https://www.mfa.gov.tr/visa-information-for-foreigners.en.mfa",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "SG:MA": {
+  "status": "visa free",
+  "reason": "Singapore MFA and the Moroccan Consulate in Singapore both state 90 days visa-free; the dataset’s 30 days traces to older reproductions of the exemption list.",
+  "source": "https://www.mfa.gov.sg/travelling-overseas/travel-advisories-notices-and-visa-information/morocco/",
+  "date": "2026-10-25",
+  "days": 90
+ },
+ "IL:ID": {
+  "status": "visa required",
+  "reason": "Israel is on neither Indonesia’s A1 exemption list nor the 97-country B1 visa-on-arrival list; entry needs a “calling visa” with prior Directorate General approval.",
+  "source": "https://jogja.imigrasi.go.id/how-to-get-an-indonesia-visa-on-arrival/",
+  "date": "2026-10-25"
+ },
+ "IL:PH": {
+  "status": "visa free",
+  "reason": "DFA E.O. 408 page: Israeli (and Brazilian) nationals are visa-free for 59 days under bilateral agreements; the dataset’s 60 is a rounding.",
+  "source": "https://copenhagenpe.dfa.gov.ph/index.php/newsroom/press-releases/236-visa-free-entry-for-temporary-visits",
+  "date": "2026-10-25",
+  "days": 59
+ },
+ "CN:PH": {
+  "status": "visa free",
+  "reason": "DFA announcement (Foreign Service Circular 2026-005, effective 16 Jan 2026): Chinese nationals may enter visa-free for up to 14 days for tourism/business, only via NAIA or Mactan-Cebu airports, non-extendable; the arrangement runs for one year.",
+  "source": "https://bworldonline.com/the-nation/2026/01/15/724589/chinese-allowed-visa-free-entry/",
+  "date": "2026-10-25",
+  "days": 14,
+  "valid_until": "2027-01-15"
+ },
+ "SG:LK": {
+  "status": "eta",
+  "reason": "Sri Lanka requires an ETA obtained before arrival for all visitors; since 25 May 2026 the ETA is free for this passport (40-country scheme) — the dataset’s “visa on arrival” label is obsolete.",
+  "source": "https://www.immigration.gov.lk/pages_t.php?id=60",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "KR:LK": {
+  "status": "eta",
+  "reason": "Sri Lanka requires an ETA obtained before arrival for all visitors; since 25 May 2026 the ETA is free for this passport (40-country scheme) — the dataset’s “visa on arrival” label is obsolete.",
+  "source": "https://www.immigration.gov.lk/pages_t.php?id=60",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "JP:LK": {
+  "status": "eta",
+  "reason": "Sri Lanka requires an ETA obtained before arrival for all visitors; since 25 May 2026 the ETA is free for this passport (40-country scheme) — the dataset’s “visa on arrival” label is obsolete.",
+  "source": "https://www.immigration.gov.lk/pages_t.php?id=60",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "FR:LK": {
+  "status": "eta",
+  "reason": "Sri Lanka requires an ETA obtained before arrival for all visitors; since 25 May 2026 the ETA is free for this passport (40-country scheme) — the dataset’s “visa on arrival” label is obsolete.",
+  "source": "https://www.immigration.gov.lk/pages_t.php?id=60",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "DE:LK": {
+  "status": "eta",
+  "reason": "Sri Lanka requires an ETA obtained before arrival for all visitors; since 25 May 2026 the ETA is free for this passport (40-country scheme) — the dataset’s “visa on arrival” label is obsolete.",
+  "source": "https://www.immigration.gov.lk/pages_t.php?id=60",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "IT:LK": {
+  "status": "eta",
+  "reason": "Sri Lanka requires an ETA obtained before arrival for all visitors; since 25 May 2026 the ETA is free for this passport (40-country scheme) — the dataset’s “visa on arrival” label is obsolete.",
+  "source": "https://www.immigration.gov.lk/pages_t.php?id=60",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "ES:LK": {
+  "status": "eta",
+  "reason": "Sri Lanka requires an ETA obtained before arrival for all visitors; since 25 May 2026 the ETA is free for this passport (40-country scheme) — the dataset’s “visa on arrival” label is obsolete.",
+  "source": "https://www.immigration.gov.lk/pages_t.php?id=60",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "FI:LK": {
+  "status": "eta",
+  "reason": "Sri Lanka requires an ETA obtained before arrival for all visitors; since 25 May 2026 the ETA is free for this passport (40-country scheme) — the dataset’s “visa on arrival” label is obsolete.",
+  "source": "https://www.immigration.gov.lk/pages_t.php?id=60",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "NL:LK": {
+  "status": "eta",
+  "reason": "Sri Lanka requires an ETA obtained before arrival for all visitors; since 25 May 2026 the ETA is free for this passport (40-country scheme) — the dataset’s “visa on arrival” label is obsolete.",
+  "source": "https://www.immigration.gov.lk/pages_t.php?id=60",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "BE:LK": {
+  "status": "eta",
+  "reason": "Sri Lanka requires an ETA obtained before arrival for all visitors; since 25 May 2026 the ETA is free for this passport (40-country scheme) — the dataset’s “visa on arrival” label is obsolete.",
+  "source": "https://www.immigration.gov.lk/pages_t.php?id=60",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "DK:LK": {
+  "status": "eta",
+  "reason": "Sri Lanka requires an ETA obtained before arrival for all visitors; since 25 May 2026 the ETA is free for this passport (40-country scheme) — the dataset’s “visa on arrival” label is obsolete.",
+  "source": "https://www.immigration.gov.lk/pages_t.php?id=60",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "SE:LK": {
+  "status": "eta",
+  "reason": "Sri Lanka requires an ETA obtained before arrival for all visitors; since 25 May 2026 the ETA is free for this passport (40-country scheme) — the dataset’s “visa on arrival” label is obsolete.",
+  "source": "https://www.immigration.gov.lk/pages_t.php?id=60",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "NO:LK": {
+  "status": "eta",
+  "reason": "Sri Lanka requires an ETA obtained before arrival for all visitors; since 25 May 2026 the ETA is free for this passport (40-country scheme) — the dataset’s “visa on arrival” label is obsolete.",
+  "source": "https://www.immigration.gov.lk/pages_t.php?id=60",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "CH:LK": {
+  "status": "eta",
+  "reason": "Sri Lanka requires an ETA obtained before arrival for all visitors; since 25 May 2026 the ETA is free for this passport (40-country scheme) — the dataset’s “visa on arrival” label is obsolete.",
+  "source": "https://www.immigration.gov.lk/pages_t.php?id=60",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "AT:LK": {
+  "status": "eta",
+  "reason": "Sri Lanka requires an ETA obtained before arrival for all visitors; since 25 May 2026 the ETA is free for this passport (40-country scheme) — the dataset’s “visa on arrival” label is obsolete.",
+  "source": "https://www.immigration.gov.lk/pages_t.php?id=60",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "IE:LK": {
+  "status": "eta",
+  "reason": "Sri Lanka requires an ETA obtained before arrival for all visitors (fee payable for this passport — it is not on the 40-country free-ETA list); the dataset’s “visa on arrival” label is obsolete.",
+  "source": "https://www.immigration.gov.lk/pages_t.php?id=60",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "GB:LK": {
+  "status": "eta",
+  "reason": "Sri Lanka requires an ETA obtained before arrival for all visitors; since 25 May 2026 the ETA is free for this passport (40-country scheme) — the dataset’s “visa on arrival” label is obsolete.",
+  "source": "https://www.immigration.gov.lk/pages_t.php?id=60",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "AU:LK": {
+  "status": "eta",
+  "reason": "Sri Lanka requires an ETA obtained before arrival for all visitors; since 25 May 2026 the ETA is free for this passport (40-country scheme) — the dataset’s “visa on arrival” label is obsolete.",
+  "source": "https://www.immigration.gov.lk/pages_t.php?id=60",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "NZ:LK": {
+  "status": "eta",
+  "reason": "Sri Lanka requires an ETA obtained before arrival for all visitors; since 25 May 2026 the ETA is free for this passport (40-country scheme) — the dataset’s “visa on arrival” label is obsolete.",
+  "source": "https://www.immigration.gov.lk/pages_t.php?id=60",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "CA:LK": {
+  "status": "eta",
+  "reason": "Sri Lanka requires an ETA obtained before arrival for all visitors; since 25 May 2026 the ETA is free for this passport (40-country scheme) — the dataset’s “visa on arrival” label is obsolete.",
+  "source": "https://www.immigration.gov.lk/pages_t.php?id=60",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "US:LK": {
+  "status": "eta",
+  "reason": "Sri Lanka requires an ETA obtained before arrival for all visitors; since 25 May 2026 the ETA is free for this passport (40-country scheme) — the dataset’s “visa on arrival” label is obsolete.",
+  "source": "https://www.immigration.gov.lk/pages_t.php?id=60",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "PT:LK": {
+  "status": "eta",
+  "reason": "Sri Lanka requires an ETA obtained before arrival for all visitors (fee payable for this passport — it is not on the 40-country free-ETA list); the dataset’s “visa on arrival” label is obsolete.",
+  "source": "https://www.immigration.gov.lk/pages_t.php?id=60",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "GR:LK": {
+  "status": "eta",
+  "reason": "Sri Lanka requires an ETA obtained before arrival for all visitors (fee payable for this passport — it is not on the 40-country free-ETA list); the dataset’s “visa on arrival” label is obsolete.",
+  "source": "https://www.immigration.gov.lk/pages_t.php?id=60",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "PL:LK": {
+  "status": "eta",
+  "reason": "Sri Lanka requires an ETA obtained before arrival for all visitors; since 25 May 2026 the ETA is free for this passport (40-country scheme) — the dataset’s “visa on arrival” label is obsolete.",
+  "source": "https://www.immigration.gov.lk/pages_t.php?id=60",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "CZ:LK": {
+  "status": "eta",
+  "reason": "Sri Lanka requires an ETA obtained before arrival for all visitors; since 25 May 2026 the ETA is free for this passport (40-country scheme) — the dataset’s “visa on arrival” label is obsolete.",
+  "source": "https://www.immigration.gov.lk/pages_t.php?id=60",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "HU:LK": {
+  "status": "eta",
+  "reason": "Sri Lanka requires an ETA obtained before arrival for all visitors (fee payable for this passport — it is not on the 40-country free-ETA list); the dataset’s “visa on arrival” label is obsolete.",
+  "source": "https://www.immigration.gov.lk/pages_t.php?id=60",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "AE:LK": {
+  "status": "eta",
+  "reason": "Sri Lanka requires an ETA obtained before arrival for all visitors; since 25 May 2026 the ETA is free for this passport (40-country scheme) — the dataset’s “visa on arrival” label is obsolete.",
+  "source": "https://www.immigration.gov.lk/pages_t.php?id=60",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "MY:LK": {
+  "status": "eta",
+  "reason": "Sri Lanka requires an ETA obtained before arrival for all visitors; since 25 May 2026 the ETA is free for this passport (40-country scheme) — the dataset’s “visa on arrival” label is obsolete.",
+  "source": "https://www.immigration.gov.lk/pages_t.php?id=60",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "IL:LK": {
+  "status": "eta",
+  "reason": "Sri Lanka requires an ETA obtained before arrival for all visitors; since 25 May 2026 the ETA is free for this passport (40-country scheme) — the dataset’s “visa on arrival” label is obsolete.",
+  "source": "https://www.immigration.gov.lk/pages_t.php?id=60",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "CN:LK": {
+  "status": "eta",
+  "reason": "Sri Lanka requires an ETA obtained before arrival for all visitors; since 25 May 2026 the ETA is free for this passport (40-country scheme) — the dataset’s “visa on arrival” label is obsolete.",
+  "source": "https://www.immigration.gov.lk/pages_t.php?id=60",
+  "date": "2026-10-25",
+  "days": 30
+ }
+}

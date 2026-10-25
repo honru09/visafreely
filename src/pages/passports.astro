@@ -1,0 +1,18 @@
+---
+import Base from '../layouts/Base.astro';
+import { countries, easyAccessCount } from '../lib/data';
+const sorted = [...countries].sort((a, b) => (a.name < b.name ? -1 : 1));
+---
+
+<Base title="All Passports — Visa Requirements by Passport | visafreely" description="Visa requirements for 199 passports: visa-free destinations, stay limits and full requirement lists for every passport.">
+  <h1>All passports</h1>
+  <p class="lede">Choose a passport to see where its holders can travel, and under what requirement.</p>
+  <ul class="linklist">
+    {sorted.map((c) => (
+      <li>
+        <a href={`/passport/${c.slug}/`}>{c.name}</a>
+        <span class="muted small"> — {easyAccessCount(c.code)} destinations without a prior visa</span>
+      </li>
+    ))}
+  </ul>
+</Base>

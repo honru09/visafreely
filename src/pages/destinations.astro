@@ -1,0 +1,21 @@
+---
+import Base from '../layouts/Base.astro';
+import { countries, groupedForDestination } from '../lib/data';
+const sorted = [...countries].sort((a, b) => (a.name < b.name ? -1 : 1));
+---
+
+<Base title="All Destinations — Who Can Enter, and How | visafreely" description="Entry requirements for 199 destinations: which passports enter visa free, which need an e-Visa or ETA, and which need a visa in advance.">
+  <h1>All destinations</h1>
+  <p class="lede">Choose a destination to see the entry requirement for every passport.</p>
+  <ul class="linklist">
+    {sorted.map((c) => {
+      const free = groupedForDestination(c.code).find((g) => g.code === 'F')?.passports.length || 0;
+      return (
+        <li>
+          <a href={`/destination/${c.slug}/`}>{c.name}</a>
+          <span class="muted small"> — {free} passports enter visa free</span>
+        </li>
+      );
+    })}
+  </ul>
+</Base>

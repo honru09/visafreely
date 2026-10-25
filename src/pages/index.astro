@@ -1,0 +1,148 @@
+---
+import Base from '../layouts/Base.astro';
+import { countries, easyAccessCount, countsForPassport, data } from '../lib/data';
+
+const ranked = countries
+  .map((c) => ({ c, easy: easyAccessCount(c.code), free: countsForPassport(c.code).F || 0 }))
+  .sort((a, b) => b.easy - a.easy)
+  .slice(0, 10);
+const popularPassports = ['united-states', 'united-kingdom', 'japan', 'germany', 'canada', 'australia', 'singapore', 'france']
+  .map((slug) => countries.find((c) => c.slug === slug))
+  .filter(Boolean);
+const popularDestinations = ['thailand', 'japan', 'united-states', 'france', 'united-arab-emirates', 'turkiye', 'vietnam', 'united-kingdom']
+  .map((slug) => countries.find((c) => c.slug === slug))
+  .filter(Boolean);
+---
+
+<Base
+  title="Visa Requirements Checker — Do You Need a Visa? | visafreely"
+  description="Check visa requirements for 199 passports and 39,402 country pairs: visa free, visa on arrival, e-Visa, ETA or visa required — with per-pair verification dates."
+>
+  <h1>Do you need a visa?</h1>
+  <p class="lede">
+    Pick a passport and a destination. You get the requirement, the maximum stay, and whether that
+    specific answer has been verified against an official source.
+  </p>
+
+  <form id="checker" class="checker" aria-label="Visa requirement checker">
+    <label>
+      I hold a passport from
+      <select id="ck-passport" required>
+        <option value="">— choose passport —</option>
+      </select>
+    </label>
+    <label>
+      I want to visit
+      <select id="ck-destination" required>
+        <option value="">— choose destination —</option>
+      </select>
+    </label>
+    <button type="submit">Check</button>
+  </form>
+  <div id="ck-result" class="verdict" hidden></div>
+
+  <style>
+    .checker {
+      display: flex; gap: 12px; flex-wrap: wrap; align-items: end;
+      border: 1px solid var(--line); border-radius: 10px; padding: 16px; background: var(--soft);
+      margin: 20px 0 6px;
+    }
+    .checker label { display: flex; flex-direction: column; gap: 6px; font-size: 14px; font-weight: 600; flex: 1 1 220px; }
+    .checker select {
+      padding: 10px; font-size: 16px; border: 1px solid var(--line); border-radius: 6px; background: #fff;
+    }
+    .checker button {
+      padding: 11px 22px; font-size: 16px; font-weight: 700; border: 0; border-radius: 6px;
+      background: var(--accent); color: #fff; cursor: pointer;
+    }
+    .checker button:hover { filter: brightness(1.08); }
+  </style>
+
+  <div class="stat-row">
+    <div class="stat"><b>199</b><span>passports covered</span></div>
+    <div class="stat"><b>{data.pairCount.toLocaleString('en-US')}</b><span>passport → destination pairs</span></div>
+    <div class="stat"><b>{Object.keys(data.extras).filter((k) => data.extras[k].verified).length.toLocaleString('en-US')}</b><span>pairs verified against official sources</span></div>
+  </div>
+
+  <h2>Most powerful passports right now</h2>
+  <p class="muted small">Ranked by the number of destinations reachable without applying for a visa in advance (visa free + on arrival + e-Visa + ETA).</p>
+  <table class="spec">
+    {ranked.map((r, i) => (
+      <tr>
+        <th>#{i + 1} <a href={`/passport/${r.c.slug}/`}>{r.c.name}</a></th>
+        <td>{r.easy} destinations without a prior visa · {r.free} fully visa free</td>
+      </tr>
+    ))}
+  </table>
+
+  <h2>Popular passports</h2>
+  <ul class="linklist">
+    {popularPassports.map((c) => (
+      <li><a href={`/passport/${c.slug}/`}>{c.name} passport — where can you go?</a></li>
+    ))}
+  </ul>
+
+  <h2>Popular destinations</h2>
+  <ul class="linklist">
+    {popularDestinations.map((c) => (
+      <li><a href={`/destination/${c.slug}/`}>Who can enter {c.name}, and how?</a></li>
+    ))}
+  </ul>
+
+  <h2>How to read a result</h2>
+  <p>
+    <span class="chip F">Visa free</span> — no visa needed for short stays. &nbsp;
+    <span class="chip A">Visa on arrival</span> — issued at the border. &nbsp;
+    <span class="chip E">e-Visa</span> — apply online before you go. &nbsp;
+    <span class="chip T">ETA</span> — an online authorisation, not a visa, but mandatory. &nbsp;
+    <span class="chip R">Visa required</span> — embassy visa in advance.
+  </p>
+  <p>
+    Most visa sites quietly copy one dataset and never check it. We show our work: pairs checked against
+    an official source carry a “Last verified” date and a link to that source, corrections are published
+    in the <a href="/changelog/">data changelog</a>, and everything else is honestly labelled with the
+    dataset’s own date. <a href="/about/">How verification works →</a>
+  </p>
+
+  <script is:inline>
+    (function () {
+      var form = document.getElementById('checker');
+      var selP = document.getElementById('ck-passport');
+      var selD = document.getElementById('ck-destination');
+      var out = document.getElementById('ck-result');
+      fetch('/check.json')
+        .then(function (r) { return r.json(); })
+        .then(function (idx) {
+          idx.countries.forEach(function (c, i) {
+            selP.add(new Option(c.name, c.code));
+            selD.add(new Option(c.name, c.code));
+          });
+          var byCode = {};
+          idx.countries.forEach(function (c) { byCode[c.code] = c; });
+          form.addEventListener('submit', function (ev) {
+            ev.preventDefault();
+            var p = selP.value, d = selD.value;
+            if (!p || !d) return;
+            if (p === d) {
+              out.hidden = false;
+              out.innerHTML = '<div class="big">That is your own country</div><div class="muted">No visa is involved — you already live there.</div>';
+              return;
+            }
+            var row = (idx.rows[p] || []).find(function (r) { return idx.countries[r[0]].code === d; });
+            if (!row) { out.hidden = false; out.textContent = 'No data for this pair.'; return; }
+            var label = idx.status[row[1]];
+            var verdict = label;
+            if (row[1] === 'F' && row[2]) verdict = 'Visa free for ' + row[2] + ' days';
+            if (row[1] === 'A' && row[2]) verdict = 'Visa on arrival (up to ' + row[2] + ' days)';
+            var pc = byCode[p], dc = byCode[d];
+            out.hidden = false;
+            out.innerHTML =
+              '<div class="big">' + verdict + '</div>' +
+              '<div class="muted">' + pc.name + ' passport → ' + dc.name + '</div>' +
+              '<p style="margin:10px 0 0"><a href="/visa/' + pc.slug + '/' + dc.slug + '/">See the full requirement page →</a></p>';
+          });
+        })
+        .catch(function () { out.hidden = false; out.textContent = 'The checker could not load its index. Please use the passport pages instead.'; });
+    })();
+  </script>
+</Base>

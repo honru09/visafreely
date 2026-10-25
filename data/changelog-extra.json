@@ -1,0 +1,11 @@
+[
+ {
+  "date": "2026-10-25",
+  "pair": null,
+  "title": "Site launch — data policy",
+  "old": null,
+  "new": null,
+  "reason": "visafreely launches on the passport-index dataset (February 2026 snapshot, MIT). Pairs that have been individually checked against an official source carry a 'Last verified' date; every other pair shows the dataset vintage instead of a verified claim. Corrections are listed on this page as they are made.",
+  "source": null
+ }
+]
