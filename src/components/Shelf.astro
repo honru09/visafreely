@@ -1,27 +1,31 @@
 ---
 // Affiliate shelf — placed below the free information on pair pages (incumbent pattern).
 // Live programs: VisaHQ (vaff18633) and SafetyWing (26624375). Airalo stays a plain link until its program is joined.
+// Segmented by route type (2026-10-26): the VisaHQ card renders ONLY on routes that actually
+// need a visa (status R/E). Visa-free / on-arrival / ETA routes show insurance + eSIM only.
+// No-admission routes (status N) render no shelf at all.
 interface Props {
-  needsVisa: boolean;
+  mode: 'visa' | 'general' | 'none';
   passportName: string;
   destinationName: string;
 }
-const { needsVisa } = Astro.props;
+const { mode } = Astro.props;
 ---
 
+{mode !== 'none' && (
 <section class="shelf-section">
   <h2>Plan the rest of the trip</h2>
   <div class="shelf">
+    {mode === 'visa' && (
     <div class="card">
       <div class="k">Visa services</div>
       <div class="t">VisaHQ</div>
       <p>
-        {needsVisa
-          ? 'If you would rather not handle the application yourself, VisaHQ can prepare and submit visa paperwork for a service fee.'
-          : 'No visa needed for this route — but for trips that do need one, VisaHQ can prepare and submit the paperwork for a service fee.'}
+        If you would rather not handle the application yourself, VisaHQ can prepare and submit visa paperwork for a service fee.
       </p>
       <a class="visit-link" href="https://www.visahq.co.uk/?a_aid=vaff18633" rel="sponsored nofollow noopener" target="_blank">Visit VisaHQ <span class="arr">→</span></a>
     </div>
+    )}
     <div class="card">
       <div class="k">Travel insurance</div>
       <div class="t">SafetyWing</div>
@@ -40,3 +44,4 @@ const { needsVisa } = Astro.props;
     <span>Free information first: everything above is the full answer. These are optional services travellers often use for this route.</span>
   </p>
 </section>
+)}

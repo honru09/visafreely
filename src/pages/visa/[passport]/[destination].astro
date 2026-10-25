@@ -43,6 +43,7 @@ const label = statusLabel(row.s);
 const glyph = STATUS_GLYPH[row.s] || '✓';
 const meaning = STATUS_MEANING[row.s](p.name, d.name);
 const needsVisa = row.s === 'R' || row.s === 'E';
+const shelfMode = row.s === 'N' ? 'none' : needsVisa ? 'visa' : 'general';
 const steps = STATUS_STEPS[row.s](p.name, d.name);
 const checklist = STATUS_CHECKLIST[row.s];
 const faq = pairFaq(p.name, d.name, row, extra);
@@ -247,7 +248,7 @@ const freePassports = countries
     }
   </div>
 
-  <Shelf needsVisa={needsVisa} passportName={p.name} destinationName={d.name} />
+  <Shelf mode={shelfMode} passportName={p.name} destinationName={d.name} />
 
   <h2>Frequently asked questions</h2>
   {faq.map((f, i) => (
