@@ -1,7 +1,6 @@
 ---
-// Affiliate shelf — structural placeholders with plain outbound links.
-// Placed below the free information on pair pages (incumbent pattern).
-// No affiliate IDs or tracking parameters until programs are joined.
+// Affiliate shelf — placed below the free information on pair pages (incumbent pattern).
+// Live programs: VisaHQ (vaff18633) and SafetyWing (26624375). Airalo stays a plain link until its program is joined.
 interface Props {
   needsVisa: boolean;
   passportName: string;
@@ -21,13 +20,13 @@ const { needsVisa } = Astro.props;
           ? 'If you would rather not handle the application yourself, VisaHQ can prepare and submit visa paperwork for a service fee.'
           : 'No visa needed for this route — but for trips that do need one, VisaHQ can prepare and submit the paperwork for a service fee.'}
       </p>
-      <a class="visit-link" href="https://www.visahq.com/" rel="sponsored nofollow noopener" target="_blank">Visit VisaHQ <span class="arr">→</span></a>
+      <a class="visit-link" href="https://www.visahq.co.uk/?a_aid=vaff18633" rel="sponsored nofollow noopener" target="_blank">Visit VisaHQ <span class="arr">→</span></a>
     </div>
     <div class="card">
       <div class="k">Travel insurance</div>
       <div class="t">SafetyWing</div>
       <p>Travel medical insurance built for long and short trips, with per-day pricing and monthly subscriptions.</p>
-      <a class="visit-link" href="https://safetywing.com/" rel="sponsored nofollow noopener" target="_blank">Visit SafetyWing <span class="arr">→</span></a>
+      <a class="visit-link" href="https://safetywing.com/nomad-insurance?referenceID=26624375&utm_source=26624375&utm_medium=Ambassador" rel="sponsored nofollow noopener" target="_blank">Visit SafetyWing <span class="arr">→</span></a>
     </div>
     <div class="card">
       <div class="k">Mobile data</div>
