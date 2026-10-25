@@ -276,6 +276,19 @@ export function entryBasisText(code: string): string {
   }
 }
 
+/** Status hex colours — mirrors the --f/--a/--e/--t/--r/--n tokens in Base.astro
+ *  (presentation only; used for seal ink props and inline styles). */
+export const STATUS_COLOR: Record<string, string> = {
+  F: '#0b6e4f', A: '#0e7490', E: '#b45309', T: '#6d28d9', R: '#b3261e', N: '#57534e',
+};
+
+/** Map "PC:DC" → verified ISO date, for the homepage checker's stamp moment. */
+export const verifiedPairDates: Record<string, string> = Object.fromEntries(
+  Object.entries(data.extras)
+    .filter(([, e]) => e.verified)
+    .map(([k, e]) => [k, e.verified as string]),
+);
+
 /** The 3 generated FAQ entries for a pair. The pair template renders this array
  *  both as the visible FAQ and as FAQPage JSON-LD, so the two stay identical. */
 export function pairFaq(

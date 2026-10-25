@@ -1,0 +1,24 @@
+---
+import Base from '../layouts/Base.astro';
+import Stamp from '../components/Stamp.astro';
+---
+
+<Base
+  title="Page not found — visafreely"
+  description="This page does not exist. Check a visa requirement instead: 199 passports, 39,402 routes, each with its verification stamp."
+>
+  <div class="nf">
+    <div class="nf-seal" aria-hidden="true">
+      <Stamp variant="seal" state="pending" size={128} />
+    </div>
+    <h1>This route isn't stamped in</h1>
+    <p class="lede">
+      The page you asked for doesn't exist — but the answer you came for probably does.
+      Check the route directly, or browse by passport.
+    </p>
+    <div class="cb-actions">
+      <a class="btn" href="/#checker">Check a route <span class="arr">→</span></a>
+      <a class="btn ghost" href="/passports/">Browse passports</a>
+    </div>
+  </div>
+</Base>

@@ -1,6 +1,7 @@
 ---
 import Base from '../../../layouts/Base.astro';
 import Shelf from '../../../components/Shelf.astro';
+import Stamp from '../../../components/Stamp.astro';
 import {
   countries,
   countryByCode,
@@ -12,6 +13,7 @@ import {
   STATUS_STEPS,
   STATUS_CHECKLIST,
   STATUS_GLYPH,
+  STATUS_COLOR,
   applyBeforeText,
   maxStayText,
   entryBasisText,
@@ -46,6 +48,9 @@ const checklist = STATUS_CHECKLIST[row.s];
 const faq = pairFaq(p.name, d.name, row, extra);
 const title = `${p.name} Passport to ${d.name}: ${verdict} — Visa Requirements`;
 const description = `Do ${p.name} passport holders need a visa for ${d.name}? ${verdict}. Requirement details, stay limit and data verification status.`;
+const statusColor = STATUS_COLOR[row.s];
+let sourceHost = '';
+try { sourceHost = extra.source ? new URL(extra.source).hostname.replace(/^www\./, '') : ''; } catch { sourceHost = ''; }
 
 const urlFor = (path: string) => new URL(path, Astro.site).href;
 const breadcrumbLd = {
@@ -83,16 +88,21 @@ const freePassports = countries
   <script type="application/ld+json" set:html={JSON.stringify(breadcrumbLd)} />
   <script type="application/ld+json" set:html={JSON.stringify(faqLd)} />
 
-  <div class="crumbs">
-    <a href="/passports/">Passports</a> › <a href={`/passport/${p.slug}/`}>{p.name} passport</a> › <span>{d.name}</span>
-  </div>
+  <nav class="crumbs" aria-label="Breadcrumb">
+    <a href="/passports/">Passports</a><span class="sep">›</span>
+    <a href={`/passport/${p.slug}/`}>{p.name} passport</a><span class="sep">›</span>
+    <span>{d.name}</span>
+  </nav>
 
   <h1>{p.name} passport → {d.name}</h1>
 
   <div class={`verdict-hero s-${row.s}`}>
+    <div class="hero-seal" aria-hidden="true">
+      <Stamp variant="seal" state={extra.verified ? 'verified' : 'pending'} size={96} ink={statusColor} />
+    </div>
     <p class="route-line">{p.name} passport → {d.name}</p>
     <div class="big">{verdict}</div>
-    <p class="muted" style="margin:0 0 4px;">
+    <p class="vh-sub">
       Visa requirement for citizens of {p.name} travelling to {d.name} for tourism or short visits.
     </p>
     <span class={`chip ${row.s}`}><span class="g"><i>{glyph}</i></span>{label}</span>
@@ -114,14 +124,20 @@ const freePassports = countries
 
   {
     extra.verified ? (
-      <div class="seal verified">
-        <div class="seal-mark" aria-hidden="true">
-          <svg viewBox="0 0 48 48" fill="none" aria-hidden="true"><g transform="rotate(-4 24 24)"><rect x="4.5" y="4.5" width="39" height="39" rx="10" stroke="currentColor" stroke-width="2.6"/><rect x="10" y="10" width="28" height="28" rx="6.5" stroke="currentColor" stroke-width="1.3"/><path d="M16 24.5l5.5 5.5L32 19" stroke="currentColor" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/></g></svg>
+      <div class="seal-block verified" data-reveal>
+        <div class="seal-art" aria-hidden="true">
+          <Stamp variant="seal" size={64} />
         </div>
         <div>
           <p class="seal-title">
-            ✓ Verified — last checked {formatDateLong(extra.verified)} against an official source:{' '}
-            <a href={extra.source} rel="noopener" target="_blank">{extra.source_name}</a>.
+            Verified — last checked {formatDateLong(extra.verified)} against an official source
+          </p>
+          <p>
+            <a class="source-link" href={extra.source} rel="noopener" target="_blank">
+              {extra.source_name}
+              {sourceHost && <span class="host">{sourceHost}</span>}
+              <svg width="13" height="13" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M7 17L17 7M9.5 7H17v7.5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            </a>
           </p>
           {extra.note && <p>{extra.note}</p>}
           {extra.changed && (
@@ -132,9 +148,9 @@ const freePassports = countries
         </div>
       </div>
     ) : (
-      <div class="seal pending">
-        <div class="seal-mark" aria-hidden="true">
-          <svg viewBox="0 0 48 48" fill="none" aria-hidden="true"><circle cx="24" cy="24" r="17" stroke="currentColor" stroke-width="2.6"/><path d="M24 15v9.5l6.5 4" stroke="currentColor" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      <div class="seal-block pending" data-reveal>
+        <div class="seal-art" aria-hidden="true">
+          <Stamp variant="seal" state="pending" size={64} />
         </div>
         <div>
           <p class="seal-title">Dataset — not yet individually verified</p>
@@ -154,21 +170,29 @@ const freePassports = countries
   {
     extra.valid_until && (
       <div class="warn">
-        ⏳ <strong>Scheduled change:</strong> the rule shown here is currently announced to run until{' '}
-        {formatDateLong(extra.valid_until)}. It may be extended or replaced — re-check before travelling after that date.
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="12" cy="12" r="9" stroke="currentColor" stroke-width="2"/><path d="M12 7v5.5l3.8 2.3" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        <span>
+          <strong>Scheduled change:</strong> the rule shown here is currently announced to run until{' '}
+          {formatDateLong(extra.valid_until)}. It may be extended or replaced — re-check before travelling after that date.
+        </span>
       </div>
     )
   }
 
   <h2>What to do next</h2>
-  <ol class="steps">
+  <ol class="steps" data-reveal>
     {steps.map((s) => <li><span><strong>{s.t}.</strong> {s.b}</span></li>)}
   </ol>
 
   <h2>Before you go</h2>
-  <div class="card">
+  <div class="checklist-card">
     <ul class="checklist">
-      {checklist.map((item) => <li>{item}</li>)}
+      {checklist.map((item) => (
+        <li>
+          <span class="ck-ic" aria-hidden="true"><svg width="12" height="12" viewBox="0 0 24 24" fill="none"><path d="M4.5 12.5l5 5L19.5 7" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+          <span>{item}</span>
+        </li>
+      ))}
     </ul>
   </div>
 
@@ -224,11 +248,18 @@ const freePassports = countries
   <Shelf needsVisa={needsVisa} passportName={p.name} destinationName={d.name} />
 
   <h2>Frequently asked questions</h2>
-  {faq.map((f) => (
-    <details class="faq-item">
-      <summary>{f.q}</summary>
-      <div class="faq-a"><p>{f.a}</p></div>
-    </details>
+  {faq.map((f, i) => (
+    <div class={`faq-item${i === 0 ? ' open' : ''}`}>
+      <h3 style="margin:0;">
+        <button class="faq-q" aria-expanded={i === 0 ? 'true' : 'false'}>
+          <span>{f.q}</span>
+          <svg class="chev" width="17" height="17" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M5 9l7 7 7-7" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </button>
+      </h3>
+      <div class="faq-panel">
+        <div class="faq-a"><p>{f.a}</p></div>
+      </div>
+    </div>
   ))}
 
   {
@@ -241,6 +272,7 @@ const freePassports = countries
               <span class="rc-top"><span class={`sdot ${r.s}`}></span><span class="rc-name">{countryByCode[r.d].name}</span></span>
               <span class="rc-meta">{verdictText(r)}</span>
               <span class={`chip ${r.s}`}>{statusLabel(r.s)}</span>
+              <svg class="rc-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4 12h15M13 5.5L19.5 12 13 18.5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
             </a>
           ))}
         </div>
@@ -257,6 +289,7 @@ const freePassports = countries
               <span class="rc-top"><span class="sdot F"></span><span class="rc-name">{x.c.name}</span></span>
               <span class="rc-meta">{verdictText(x.r)}</span>
               <span class="chip F">{statusLabel('F')}</span>
+              <svg class="rc-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4 12h15M13 5.5L19.5 12 13 18.5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
             </a>
           ))}
         </div>

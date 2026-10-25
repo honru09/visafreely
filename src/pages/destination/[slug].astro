@@ -20,6 +20,7 @@ const description = `Visa requirements for visiting ${c.name}: ${freeCount} pass
 const others = countries.filter((x) => x.code !== c.code);
 const freeGroup = groups.find((g) => g.code === 'F');
 const easiest = (freeGroup?.passports || []).slice(0, 8);
+const total = groups.reduce((n, g) => n + g.passports.length, 0);
 ---
 
 <Base title={title} description={description}>
@@ -35,10 +36,10 @@ const easiest = (freeGroup?.passports || []).slice(0, 8);
   </section>
 
   <div class="stat-band">
-    <div class="stat-tile"><b>{freeCount}</b><span>passports enter visa free</span></div>
-    <div class="stat-tile"><b>{countOf('A')}</b><span>visa on arrival</span></div>
-    <div class="stat-tile"><b>{countOf('E') + countOf('T')}</b><span>e-Visa / ETA</span></div>
-    <div class="stat-tile"><b>{countOf('R')}</b><span>visa required</span></div>
+    <div class="stat-tile"><b data-count={freeCount}>{freeCount}</b><span>passports enter visa free</span></div>
+    <div class="stat-tile"><b data-count={countOf('A')}>{countOf('A')}</b><span>visa on arrival</span></div>
+    <div class="stat-tile"><b data-count={countOf('E') + countOf('T')}>{countOf('E') + countOf('T')}</b><span>e-Visa / ETA</span></div>
+    <div class="stat-tile"><b data-count={countOf('R')}>{countOf('R')}</b><span>visa required</span></div>
   </div>
 
   {easiest.length > 0 && (
@@ -49,25 +50,38 @@ const easiest = (freeGroup?.passports || []).slice(0, 8);
           <a class="route-card" href={pairPath(countryByCode[x.p], c)}>
             <span class="rc-top"><span class="sdot F"></span><span class="rc-name">{countryByCode[x.p].name}</span></span>
             <span class="rc-meta">{x.days ? `Visa free · ${x.days} days` : 'Visa free'}</span>
+            <svg class="rc-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4 12h15M13 5.5L19.5 12 13 18.5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
           </a>
         ))}
       </div>
     </>
   )}
 
-  {groups.map((g) => (
-    <>
-      <h2>{statusLabel(g.code)}<span class="count-pill">{g.passports.length}</span></h2>
-      <div class="route-grid">
-        {g.passports.map((x) => (
-          <a class="route-card" href={pairPath(countryByCode[x.p], c)}>
-            <span class="rc-top"><span class={`sdot ${g.code}`}></span><span class="rc-name">{countryByCode[x.p].name}</span></span>
-            <span class="rc-meta">{x.days ? `${x.days} days` : statusLabel(g.code)}</span>
-          </a>
-        ))}
-      </div>
-    </>
-  ))}
+  <div data-filter-root>
+    <div class="filter-chips" role="group" aria-label="Filter passports by requirement">
+      <button type="button" class="fchip on" data-filter="all" aria-pressed="true">All<span class="fcount">{total}</span></button>
+      {groups.map((g) => (
+        <button type="button" class={`fchip s-${g.code}`} data-filter={g.code} aria-pressed="false">
+          <span class={`sdot ${g.code}`}></span>{statusLabel(g.code)}<span class="fcount">{g.passports.length}</span>
+        </button>
+      ))}
+    </div>
+
+    {groups.map((g) => (
+      <section data-status={g.code}>
+        <h2>{statusLabel(g.code)}<span class="count-pill">{g.passports.length}</span></h2>
+        <div class="route-grid">
+          {g.passports.map((x) => (
+            <a class="route-card" href={pairPath(countryByCode[x.p], c)}>
+              <span class="rc-top"><span class={`sdot ${g.code}`}></span><span class="rc-name">{countryByCode[x.p].name}</span></span>
+              <span class="rc-meta">{x.days ? `${x.days} days` : statusLabel(g.code)}</span>
+              <svg class="rc-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4 12h15M13 5.5L19.5 12 13 18.5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            </a>
+          ))}
+        </div>
+      </section>
+    ))}
+  </div>
 
   <h2>Other destinations</h2>
   <div class="pill-cloud">

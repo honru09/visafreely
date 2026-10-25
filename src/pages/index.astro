@@ -1,5 +1,6 @@
 ---
 import Base from '../layouts/Base.astro';
+import Stamp from '../components/Stamp.astro';
 import {
   countries,
   countryBySlug,
@@ -8,6 +9,7 @@ import {
   verifiedCount,
   changelogCount,
   passportsByEasy,
+  verifiedPairDates,
   statusLabel,
   STATUS_ORDER,
   STATUS_BLURB,
@@ -42,10 +44,9 @@ const correctionsFmt = changelogCount.toLocaleString('en-US');
   title="Visa Requirements Checker — Do You Need a Visa? | visafreely"
   description="Check visa requirements for 199 passports and 39,402 country pairs: visa free, visa on arrival, e-Visa, ETA or visa required — with per-pair verification dates."
 >
+  <script is:inline define:vars={{ verifiedPairDates }}>window.__VF_VERIFIED = verifiedPairDates;</script>
   <section class="band dark">
-    <div class="hero-wm" aria-hidden="true">
-      <svg viewBox="0 0 48 48" fill="none" aria-hidden="true"><g transform="rotate(-4 24 24)"><rect x="4.5" y="4.5" width="39" height="39" rx="10" stroke="currentColor" stroke-width="1.6"/><rect x="10" y="10" width="28" height="28" rx="6.5" stroke="currentColor" stroke-width="0.9"/><path d="M16 24.5l5.5 5.5L32 19" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></g></svg>
-    </div>
+    <div class="hero-wm" aria-hidden="true"><Stamp size={470} /></div>
     <div class="band-in">
       <h1 class="h-display">Do you need a visa? Get the answer — and the evidence.</h1>
       <p class="lede">
@@ -53,21 +54,35 @@ const correctionsFmt = changelogCount.toLocaleString('en-US');
         checked against an official source — or says plainly that it hasn't been yet.
       </p>
       <div class="checker-card" id="checker" style="scroll-margin-top:76px;">
+        <p class="ck-eyebrow">
+          <Stamp size={17} />
+          Check a route — get the stamp
+        </p>
         <form id="ck-form" class="checker" aria-label="Visa requirement checker">
-          <label>
-            I hold a passport from
-            <input id="ck-passport" list="ck-passport-list" placeholder="Start typing a country…" autocomplete="off" required />
-            <datalist id="ck-passport-list"></datalist>
-          </label>
-          <button type="button" id="ck-swap" class="swap-btn" aria-label="Swap passport and destination" title="Swap">⇄</button>
-          <label>
-            I want to visit
-            <input id="ck-destination" list="ck-destination-list" placeholder="Start typing a country…" autocomplete="off" required />
-            <datalist id="ck-destination-list"></datalist>
-          </label>
+          <div class="ck-field">
+            <label for="ck-passport">I hold a passport from</label>
+            <div class="ck-wrap">
+              <span class="ck-flag" id="ck-flag-p" aria-hidden="true"></span>
+              <input id="ck-passport" class="ck-input" placeholder="Start typing a country…" autocomplete="off" role="combobox" aria-expanded="false" aria-controls="ck-list-p" aria-autocomplete="list" required />
+              <svg class="ck-chev" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M5 9l7 7 7-7" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+              <ul class="ck-list" id="ck-list-p" role="listbox" aria-label="Passport countries"></ul>
+            </div>
+          </div>
+          <button type="button" id="ck-swap" class="swap-btn" aria-label="Swap passport and destination" title="Swap">
+            <svg width="19" height="19" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4 7h13M13 3.5L16.5 7 13 10.5M20 17H7M11 13.5L7.5 17l3.5 3.5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </button>
+          <div class="ck-field">
+            <label for="ck-destination">I want to visit</label>
+            <div class="ck-wrap">
+              <span class="ck-flag" id="ck-flag-d" aria-hidden="true"></span>
+              <input id="ck-destination" class="ck-input" placeholder="Start typing a country…" autocomplete="off" role="combobox" aria-expanded="false" aria-controls="ck-list-d" aria-autocomplete="list" required />
+              <svg class="ck-chev" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M5 9l7 7 7-7" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+              <ul class="ck-list" id="ck-list-d" role="listbox" aria-label="Destination countries"></ul>
+            </div>
+          </div>
           <button type="submit" class="go-btn">Check</button>
         </form>
-        <div id="ck-result" class="instant-verdict" hidden></div>
+        <div id="ck-result" hidden></div>
       </div>
       <div class="route-chips">
         <span class="rc-label">Popular routes:</span>
@@ -76,16 +91,17 @@ const correctionsFmt = changelogCount.toLocaleString('en-US');
         ))}
       </div>
       <p class="hero-note">
-        visafreely is a free information service, not a government agency. Every answer links to its evidence.
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M12 3l7 3v5c0 4.6-3 8.4-7 10-4-1.6-7-5.4-7-10V6l7-3z" stroke="currentColor" stroke-width="1.9" stroke-linejoin="round"/><path d="M9 12l2 2 4-4" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        <span>visafreely is a free information service, not a government agency. Every answer links to its evidence.</span>
       </p>
     </div>
   </section>
 
   <div class="stat-band">
-    <div class="stat-tile"><b>{countries.length}</b><span>passports covered</span></div>
-    <div class="stat-tile"><b>{pairCountFmt}</b><span>passport → destination pairs</span></div>
-    <div class="stat-tile"><b>{verifiedFmt}</b><span>pairs verified against official sources</span></div>
-    <div class="stat-tile"><b>{correctionsFmt}</b><span>corrections published</span></div>
+    <div class="stat-tile"><b data-count={countries.length}>{countries.length}</b><span>passports covered</span></div>
+    <div class="stat-tile"><b data-count={data.pairCount}>{pairCountFmt}</b><span>passport → destination pairs</span></div>
+    <div class="stat-tile"><b data-count={verifiedCount}>{verifiedFmt}</b><span>pairs verified against official sources</span></div>
+    <div class="stat-tile"><b data-count={changelogCount}>{correctionsFmt}</b><span>corrections published</span></div>
   </div>
 
   <h2>How it works</h2>
@@ -99,12 +115,10 @@ const correctionsFmt = changelogCount.toLocaleString('en-US');
       <span class="num">2</span>
       <h3>Read the evidence</h3>
       <p>Every pair page carries one of two stamps: verified against an official source on a stated date, or honestly labelled as dataset-only. Nothing in between.</p>
-      <div class="seal verified mini">
-        <div class="seal-mark" aria-hidden="true">
-          <svg viewBox="0 0 48 48" fill="none" aria-hidden="true"><g transform="rotate(-4 24 24)"><rect x="4.5" y="4.5" width="39" height="39" rx="10" stroke="currentColor" stroke-width="2.6"/><rect x="10" y="10" width="28" height="28" rx="6.5" stroke="currentColor" stroke-width="1.3"/><path d="M16 24.5l5.5 5.5L32 19" stroke="currentColor" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/></g></svg>
-        </div>
+      <div class="seal-block verified compact">
+        <div class="seal-art" aria-hidden="true"><Stamp variant="seal" size={52} /></div>
         <div>
-          <p class="seal-title">✓ Verified — last checked 25 Oct 2026</p>
+          <p class="seal-title">Verified — last checked 25 Oct 2026</p>
           <p>Example stamp. Each one names its official source and links to it.</p>
         </div>
       </div>
@@ -119,33 +133,33 @@ const correctionsFmt = changelogCount.toLocaleString('en-US');
   <h2>Checked data vs copied data</h2>
   <div class="contrast">
     <div class="contrast-card bad">
-      <h3>Most visa sites</h3>
+      <h3><svg width="19" height="19" viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="12" cy="12" r="9" stroke="currentColor" stroke-width="2"/><path d="M9 9l6 6M15 9l-6 6" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>Most visa sites</h3>
       <ul>
-        <li>Copy one dataset and never re-check it</li>
-        <li>No date on any answer — fresh and stale look identical</li>
-        <li>Errors fixed silently, if at all</li>
-        <li>Expiry dates on temporary rules never shown</li>
+        <li><svg width="15" height="15" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg>Copy one dataset and never re-check it</li>
+        <li><svg width="15" height="15" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg>No date on any answer — fresh and stale look identical</li>
+        <li><svg width="15" height="15" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg>Errors fixed silently, if at all</li>
+        <li><svg width="15" height="15" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg>Expiry dates on temporary rules never shown</li>
       </ul>
     </div>
     <div class="contrast-card good">
-      <h3>visafreely</h3>
+      <h3><svg width="19" height="19" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M12 3l7 3v5c0 4.6-3 8.4-7 10-4-1.6-7-5.4-7-10V6l7-3z" stroke="currentColor" stroke-width="1.9" stroke-linejoin="round"/><path d="M9 12l2 2 4-4" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/></svg>visafreely</h3>
       <ul>
-        <li>A verified date and a named official source on {verifiedFmt} pairs — and counting</li>
-        <li>Every correction published in a public <a href="/changelog/">changelog</a>: old value, new value, source</li>
-        <li>Announced end dates shown as “Scheduled change” warnings on the pair page</li>
-        <li>Unverified pairs labelled plainly, never dressed up</li>
+        <li><svg width="15" height="15" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4.5 12.5l5 5L19.5 7" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>A verified date and a named official source on {verifiedFmt} pairs — and counting</li>
+        <li><svg width="15" height="15" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4.5 12.5l5 5L19.5 7" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>Every correction published in a public <a href="/changelog/">changelog</a>: old value, new value, source</li>
+        <li><svg width="15" height="15" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4.5 12.5l5 5L19.5 7" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>Announced end dates shown as “Scheduled change” warnings on the pair page</li>
+        <li><svg width="15" height="15" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4.5 12.5l5 5L19.5 7" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>Unverified pairs labelled plainly, never dressed up</li>
       </ul>
     </div>
   </div>
 
   <h2>Most powerful passports right now</h2>
   <p class="muted small">Ranked by the number of destinations reachable without applying for a visa in advance (visa free + on arrival + e-Visa + ETA).</p>
-  <div class="rank-rows">
+  <div class="rank-rows" data-reveal>
     {ranked.map((r, i) => (
       <div class="rank-row">
         <span class={`rank-medal${i < 3 ? ' top' : ''}`}>{i + 1}</span>
         <a class="rr-name" href={`/passport/${r.c.slug}/`}>{r.c.name}</a>
-        <span class="bar" aria-hidden="true"><i style={`width:${Math.round((r.easy / maxEasy) * 100)}%`}></i></span>
+        <span class="bar" aria-hidden="true"><i style={`--w:${Math.round((r.easy / maxEasy) * 100)}%;width:var(--w)`}></i></span>
         <span class="rr-count">{r.easy} without a prior visa · {r.free} fully visa free</span>
       </div>
     ))}
@@ -155,8 +169,9 @@ const correctionsFmt = changelogCount.toLocaleString('en-US');
   <div class="route-grid">
     {popularPassports.map((c) => (
       <a class="route-card" href={`/passport/${c.slug}/`}>
-        <span class="rc-name">{c.name} passport</span>
+        <span class="rc-top"><span class="rc-name">{c.name} passport</span></span>
         <span class="rc-meta">{easyAccessCount(c.code)} destinations without a prior visa — where can you go?</span>
+        <svg class="rc-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4 12h15M13 5.5L19.5 12 13 18.5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
       </a>
     ))}
   </div>
@@ -165,8 +180,9 @@ const correctionsFmt = changelogCount.toLocaleString('en-US');
   <div class="route-grid">
     {popularDestinations.map((c) => (
       <a class="route-card" href={`/destination/${c.slug}/`}>
-        <span class="rc-name">{c.name}</span>
+        <span class="rc-top"><span class="rc-name">{c.name}</span></span>
         <span class="rc-meta">{visaFreePassportCount(c.code)} passports enter visa free — who can enter, and how?</span>
+        <svg class="rc-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4 12h15M13 5.5L19.5 12 13 18.5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
       </a>
     ))}
   </div>
@@ -189,85 +205,13 @@ const correctionsFmt = changelogCount.toLocaleString('en-US');
 
   <div class="closing-band">
     <h2>Spot an error?</h2>
-    <p class="muted" style="max-width:560px;margin:0 auto 14px;">
+    <p style="max-width:560px;margin:0 auto;">
       If a page here disagrees with an official source, that is exactly the feedback the changelog runs
       on — every confirmed discrepancy becomes a published correction with its source attached.
     </p>
-    <a class="btn" href="/changelog/">See the corrections</a>{' '}
-    <a class="btn" href="/about/" style="background:var(--brand-ink);">How we verify</a>
+    <div class="cb-actions">
+      <a class="btn on-dark" href="/changelog/">See the corrections</a>
+      <a class="btn ghost-on-dark" href="/about/">How we verify</a>
+    </div>
   </div>
-
-  <script is:inline>
-    (function () {
-      var form = document.getElementById('ck-form');
-      var inP = document.getElementById('ck-passport');
-      var inD = document.getElementById('ck-destination');
-      var listP = document.getElementById('ck-passport-list');
-      var listD = document.getElementById('ck-destination-list');
-      var out = document.getElementById('ck-result');
-      var swap = document.getElementById('ck-swap');
-      swap.addEventListener('click', function () {
-        var t = inP.value; inP.value = inD.value; inD.value = t; inP.focus();
-      });
-      fetch('/check.json')
-        .then(function (r) { return r.json(); })
-        .then(function (idx) {
-          var byName = {};
-          var byCode = {};
-          idx.countries.forEach(function (c) {
-            byName[c.name.toLowerCase()] = c;
-            byCode[c.code] = c;
-            var o1 = document.createElement('option'); o1.value = c.name; listP.appendChild(o1);
-            var o2 = document.createElement('option'); o2.value = c.name; listD.appendChild(o2);
-          });
-          function resolve(input) {
-            var v = input.value.trim().toLowerCase();
-            if (!v) return null;
-            if (byName[v]) return byName[v];
-            for (var i = 0; i < idx.countries.length; i++) {
-              if (idx.countries[i].name.toLowerCase().indexOf(v) === 0) return idx.countries[i];
-            }
-            return null;
-          }
-          function doCheck() {
-            var pc = resolve(inP), dc = resolve(inD);
-            out.hidden = false;
-            if (!pc || !dc) {
-              out.className = 'instant-verdict';
-              out.innerHTML = '<div class="big">Pick both countries from the list</div><div class="muted">Start typing and choose a passport and a destination.</div>';
-              return;
-            }
-            if (pc.code === dc.code) {
-              out.className = 'instant-verdict';
-              out.innerHTML = '<div class="big">That is your own country</div><div class="muted">No visa is involved — you already live there.</div>';
-              return;
-            }
-            var row = (idx.rows[pc.code] || []).find(function (r) { return idx.countries[r[0]].code === dc.code; });
-            if (!row) { out.className = 'instant-verdict'; out.textContent = 'No data for this pair.'; return; }
-            var label = idx.status[row[1]];
-            var verdict = label;
-            if (row[1] === 'F' && row[2]) verdict = 'Visa free for ' + row[2] + ' days';
-            else if (row[1] === 'A' && row[2]) verdict = 'Visa on arrival (up to ' + row[2] + ' days)';
-            else if (row[1] === 'E') verdict = 'e-Visa required before travel';
-            else if (row[1] === 'T') verdict = 'Electronic travel authorisation required';
-            out.className = 'instant-verdict s-' + row[1];
-            out.innerHTML =
-              '<div class="big">' + verdict + '</div>' +
-              '<div class="muted">' + pc.name + ' passport → ' + dc.name + (row[2] ? ' · maximum stay ' + row[2] + ' days' : '') + '</div>' +
-              '<p style="margin:12px 0 0"><a class="btn" href="/visa/' + pc.slug + '/' + dc.slug + '/">Full requirement page →</a></p>';
-          }
-          form.addEventListener('submit', function (ev) { ev.preventDefault(); doCheck(); });
-          var chips = document.querySelectorAll('.route-chip');
-          for (var i = 0; i < chips.length; i++) {
-            chips[i].addEventListener('click', function () {
-              inP.value = this.getAttribute('data-p');
-              inD.value = this.getAttribute('data-d');
-              doCheck();
-              out.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
-            });
-          }
-        })
-        .catch(function () { out.hidden = false; out.className = 'instant-verdict'; out.textContent = 'The checker could not load its index. Please use the passport pages instead.'; });
-    })();
-  </script>
 </Base>
