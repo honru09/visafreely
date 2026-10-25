@@ -1,5 +1,104 @@
 [
  {
+  "date": "2026-10-26",
+  "pair": "MV:AZ",
+  "title": "Maldives → Azerbaijan",
+  "old": "e-visa (30 days)",
+  "new": "visa free (90 days)",
+  "reason": "The bilateral mutual visa exemption agreement between Azerbaijan and Maldives for ordinary passport holders entered into force on 29 April 2026, granting visa-free stay of up to 90 days; the dataset’s e-Visa (30 days) is outdated.",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "IL:AZ",
+  "title": "Israel → Azerbaijan",
+  "old": "visa on arrival (30 days)",
+  "new": "e-visa (30 days)",
+  "reason": "Citizens of Israel are eligible for single-entry electronic visas for up to 30 days via Azerbaijan’s official ASAN Visa portal (evisa.gov.az); standard entry is via e-Visa.",
+  "source": "https://evisa.gov.az/en/countries"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "ID:AZ",
+  "title": "Indonesia → Azerbaijan",
+  "old": "visa on arrival (30 days)",
+  "new": "e-visa (30 days)",
+  "reason": "Citizens of Indonesia are eligible for single-entry electronic visas for up to 30 days via Azerbaijan’s official ASAN Visa portal (evisa.gov.az); standard entry is via e-Visa.",
+  "source": "https://evisa.gov.az/en/countries"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "SG:AZ",
+  "title": "Singapore → Azerbaijan",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (30 days)",
+  "reason": "Citizens of Singapore are eligible for temporary visa-free entry for up to 30 days per visit (up to 3 entries within 1 year, valid 1 Aug 2026 to 1 Aug 2027) per official ASAN Visa / MFA decree; supersedes previous visa-on-arrival status.",
+  "source": "https://evisa.gov.az/en/countries"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "KR:AZ",
+  "title": "South Korea → Azerbaijan",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (30 days)",
+  "reason": "Citizens of the Republic of Korea are eligible for temporary visa-free entry for up to 30 days per visit (up to 3 entries within 1 year, valid 1 Jul 2026 to 1 Jul 2027) per official ASAN Visa / MFA decree; supersedes previous visa-on-arrival status.",
+  "source": "https://evisa.gov.az/en/countries"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "JP:AZ",
+  "title": "Japan → Azerbaijan",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (30 days)",
+  "reason": "Citizens of Japan are eligible for temporary visa-free entry for up to 30 days per visit (up to 3 entries within 1 year, valid 1 Jul 2026 to 1 Jul 2027) per official ASAN Visa / MFA decree; supersedes previous visa-on-arrival status.",
+  "source": "https://evisa.gov.az/en/countries"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "SA:AZ",
+  "title": "Saudi Arabia → Azerbaijan",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (30 days)",
+  "reason": "Citizens of Saudi Arabia are eligible for temporary visa-free entry for up to 30 days per visit (up to 3 entries within 1 year, valid 15 Feb 2026 to 15 Feb 2027) per official ASAN Visa / MFA decree; supersedes previous visa-on-arrival status.",
+  "source": "https://evisa.gov.az/en/countries"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "OM:AZ",
+  "title": "Oman → Azerbaijan",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (30 days)",
+  "reason": "Citizens of Oman are eligible for temporary visa-free entry for up to 30 days per visit (up to 3 entries within 1 year, valid 15 Feb 2026 to 15 Feb 2027) per official ASAN Visa / MFA decree; supersedes previous visa-on-arrival status.",
+  "source": "https://evisa.gov.az/en/countries"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "KW:AZ",
+  "title": "Kuwait → Azerbaijan",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (30 days)",
+  "reason": "Citizens of Kuwait are eligible for temporary visa-free entry for up to 30 days per visit (up to 3 entries within 1 year, valid 15 Feb 2026 to 15 Feb 2027) per official ASAN Visa / MFA decree; supersedes previous visa-on-arrival status.",
+  "source": "https://evisa.gov.az/en/countries"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "BH:AZ",
+  "title": "Bahrain → Azerbaijan",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (30 days)",
+  "reason": "Citizens of Bahrain are eligible for temporary visa-free entry for up to 30 days per visit (up to 3 entries within 1 year, valid 15 Feb 2026 to 15 Feb 2027) per official ASAN Visa / MFA decree; supersedes previous visa-on-arrival status.",
+  "source": "https://evisa.gov.az/en/countries"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "BA:AZ",
+  "title": "Bosnia & Herzegovina → Azerbaijan",
+  "old": "visa free (90 days)",
+  "new": "visa free (30 days)",
+  "reason": "Citizens of Bosnia and Herzegovina are eligible for temporary visa-free entry for up to 30 days per visit (up to 3 entries within 1 year, valid 1 Aug 2026 to 1 Aug 2027) per official ASAN Visa / MFA decree; dataset’s 90-day figure is incorrect.",
+  "source": "https://evisa.gov.az/en/countries"
+ },
+ {
   "date": "2026-10-25",
   "pair": null,
   "title": "Site launch — data policy",

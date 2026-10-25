@@ -10719,5 +10719,1012 @@
   "date": "2026-10-25",
   "source": "https://www.mfaic.gov.kh/en/2025-03-26-visa-exemption-list-of-visa-exemption-between-cambodia-and-other-countries-15-22-56",
   "source_name": "Cambodia MFAIC — List of Visa Exemption between Cambodia and other Countries (as of 28 Feb 2025)"
+ },
+ "AD:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "AE:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — Visa-free countries (bilateral agreements)"
+ },
+ "AF:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "AG:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "AL:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — Visa-free countries (bilateral agreements)"
+ },
+ "AO:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "AR:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "AT:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "AU:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "BA:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa",
+  "valid_until": "2027-08-01",
+  "note": "Temporary unilateral visa-free exemption for up to 30 days (up to 3 visits within 1 year, valid until 2027-08-01)."
+ },
+ "BB:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "BD:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "BE:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "BF:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "BG:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "BH:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa",
+  "valid_until": "2027-02-15",
+  "note": "Temporary unilateral visa-free exemption for up to 30 days (up to 3 visits within 1 year, valid until 2027-02-15)."
+ },
+ "BI:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "BJ:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "BN:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "BO:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "BR:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "BS:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "BT:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "BW:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "BY:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — Visa-free countries (bilateral agreements)"
+ },
+ "BZ:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "CA:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "CD:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "CF:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "CG:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "CH:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "CI:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "CL:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "CM:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "CN:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — Visa-free countries (bilateral agreements)",
+  "note": "Bilateral mutual visa exemption for ordinary passports in force since 16 July 2025 (up to 30 days per visit, max 90 days per 180 days)."
+ },
+ "CO:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "CR:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "CU:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "CV:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "CY:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "CZ:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "DE:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "DJ:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "DK:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "DM:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "DO:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "DZ:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "EC:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "EE:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "EG:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "ER:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "ES:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "ET:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "FI:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "FJ:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "FM:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "FR:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "GA:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "GB:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "GD:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "GE:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — Visa-free countries (bilateral agreements)"
+ },
+ "GH:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "GM:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "GN:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "GQ:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "GR:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "GT:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "GW:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "GY:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "HK:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA / Embassy in Beijing — visa exemption announcement (until 2 Feb 2027)",
+  "valid_until": "2027-02-02",
+  "note": "Unilateral visa-free regime for ordinary HKSAR/MSAR passports (up to 30 days per visit, through 2 Feb 2027)."
+ },
+ "HN:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "HR:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "HT:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "HU:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "ID:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "IE:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "IL:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "IN:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "IQ:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "IR:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "IS:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "IT:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "JM:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "JO:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "JP:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa",
+  "valid_until": "2027-07-01",
+  "note": "Temporary unilateral visa-free exemption for up to 30 days (up to 3 visits within 1 year, valid until 2027-07-01)."
+ },
+ "KE:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "KG:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — Visa-free countries (bilateral agreements)"
+ },
+ "KH:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "KI:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "KM:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "KN:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "KP:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "KR:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa",
+  "valid_until": "2027-07-01",
+  "note": "Temporary unilateral visa-free exemption for up to 30 days (up to 3 visits within 1 year, valid until 2027-07-01)."
+ },
+ "KW:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa",
+  "valid_until": "2027-02-15",
+  "note": "Temporary unilateral visa-free exemption for up to 30 days (up to 3 visits within 1 year, valid until 2027-02-15)."
+ },
+ "KZ:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — Visa-free countries (bilateral agreements)"
+ },
+ "LA:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "LB:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "LC:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "LI:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "LK:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "LR:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "LS:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "LT:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "LU:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "LV:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "LY:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "MA:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — Visa-free countries (bilateral agreements)"
+ },
+ "MC:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "MD:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — Visa-free countries (bilateral agreements)"
+ },
+ "ME:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — Visa-free countries (bilateral agreements)"
+ },
+ "MG:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "MH:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "MK:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "ML:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "MM:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "MN:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "MO:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA / Embassy in Beijing — visa exemption announcement (until 2 Feb 2027)",
+  "valid_until": "2027-02-02",
+  "note": "Unilateral visa-free regime for ordinary HKSAR/MSAR passports (up to 30 days per visit, through 2 Feb 2027)."
+ },
+ "MR:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "MT:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "MU:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "MV:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — Visa-free countries (bilateral agreements)",
+  "note": "Bilateral mutual visa exemption for ordinary passports in force since 29 April 2026 (up to 90 days)."
+ },
+ "MW:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "MX:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "MY:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — Visa-free countries (bilateral agreements)"
+ },
+ "MZ:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "NA:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "NE:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "NG:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "NI:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "NL:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "NO:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "NP:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "NR:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "NZ:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "OM:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa",
+  "valid_until": "2027-02-15",
+  "note": "Temporary unilateral visa-free exemption for up to 30 days (up to 3 visits within 1 year, valid until 2027-02-15)."
+ },
+ "PA:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "PE:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "PG:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "PH:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "PK:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "PL:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "PS:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "PT:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "PW:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "PY:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "QA:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — Visa-free countries (bilateral agreements)"
+ },
+ "RO:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "RS:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — Visa-free countries (bilateral agreements)"
+ },
+ "RU:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — Visa-free countries (bilateral agreements)"
+ },
+ "RW:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "SA:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa",
+  "valid_until": "2027-02-15",
+  "note": "Temporary unilateral visa-free exemption for up to 30 days (up to 3 visits within 1 year, valid until 2027-02-15)."
+ },
+ "SB:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "SC:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "SD:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "SE:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "SG:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa",
+  "valid_until": "2027-08-01",
+  "note": "Temporary unilateral visa-free exemption for up to 30 days (up to 3 visits within 1 year, valid until 2027-08-01)."
+ },
+ "SI:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "SK:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "SL:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "SM:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "SN:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "SO:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "SR:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "SS:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "ST:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "SV:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "SY:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "SZ:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "TD:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "TG:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "TH:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "TJ:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — Visa-free countries (bilateral agreements)"
+ },
+ "TL:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "TM:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "TN:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "TO:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "TR:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — Visa-free countries (bilateral agreements)"
+ },
+ "TT:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "TV:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "TW:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "TZ:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "UA:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — Visa-free countries (bilateral agreements)"
+ },
+ "UG:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "US:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "UY:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "UZ:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — Visa-free countries (bilateral agreements)"
+ },
+ "VA:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "VC:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "VE:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "VN:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "VU:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "WS:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "XK:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "YE:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "ZA:AZ": {
+  "date": "2026-10-26",
+  "source": "https://evisa.gov.az/en/countries",
+  "source_name": "Republic of Azerbaijan Official Electronic Visa Portal (ASAN Visa) — Countries eligible for e-visa"
+ },
+ "ZM:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
+ },
+ "ZW:AZ": {
+  "date": "2026-10-26",
+  "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
+  "source_name": "Azerbaijan MFA — General visa requirements / diplomatic missions"
  }
 }
