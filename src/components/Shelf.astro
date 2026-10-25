@@ -10,31 +10,33 @@ interface Props {
 const { needsVisa } = Astro.props;
 ---
 
-<h2>Useful for this trip</h2>
-<div class="shelf">
-  <div class="card">
-    <div class="k">Visa services</div>
-    <div class="t">VisaHQ</div>
-    <p>
-      {needsVisa
-        ? 'If you would rather not handle the application yourself, VisaHQ can prepare and submit visa paperwork for a service fee.'
-        : 'No visa needed for this route — but for trips that do need one, VisaHQ can prepare and submit the paperwork for a service fee.'}
-    </p>
-    <a href="https://www.visahq.com/" rel="sponsored nofollow noopener" target="_blank">Visit VisaHQ →</a>
+<section class="shelf-section">
+  <h2>Plan the rest of the trip</h2>
+  <div class="shelf">
+    <div class="card">
+      <div class="k">Visa services</div>
+      <div class="t">VisaHQ</div>
+      <p>
+        {needsVisa
+          ? 'If you would rather not handle the application yourself, VisaHQ can prepare and submit visa paperwork for a service fee.'
+          : 'No visa needed for this route — but for trips that do need one, VisaHQ can prepare and submit the paperwork for a service fee.'}
+      </p>
+      <a href="https://www.visahq.com/" rel="sponsored nofollow noopener" target="_blank">Visit VisaHQ →</a>
+    </div>
+    <div class="card">
+      <div class="k">Travel insurance</div>
+      <div class="t">SafetyWing</div>
+      <p>Travel medical insurance built for long and short trips, with per-day pricing and monthly subscriptions.</p>
+      <a href="https://safetywing.com/" rel="sponsored nofollow noopener" target="_blank">Visit SafetyWing →</a>
+    </div>
+    <div class="card">
+      <div class="k">Mobile data</div>
+      <div class="t">Airalo</div>
+      <p>Local and regional eSIMs so you land with data working — no physical SIM swap, no roaming bill.</p>
+      <a href="https://www.airalo.com/" rel="sponsored nofollow noopener" target="_blank">Visit Airalo →</a>
+    </div>
   </div>
-  <div class="card">
-    <div class="k">Travel insurance</div>
-    <div class="t">SafetyWing</div>
-    <p>Travel medical insurance built for long and short trips, with per-day pricing and monthly subscriptions.</p>
-    <a href="https://safetywing.com/" rel="sponsored nofollow noopener" target="_blank">Visit SafetyWing →</a>
-  </div>
-  <div class="card">
-    <div class="k">Mobile data</div>
-    <div class="t">Airalo</div>
-    <p>Local and regional eSIMs so you land with data working — no physical SIM swap, no roaming bill.</p>
-    <a href="https://www.airalo.com/" rel="sponsored nofollow noopener" target="_blank">Visit Airalo →</a>
-  </div>
-</div>
-<p class="small muted">
-  Links above are plain outbound links to services travellers commonly use for this route.
-</p>
+  <p class="small muted">
+    Free information first: everything above is the full answer. These are optional services travellers often use for this route.
+  </p>
+</section>

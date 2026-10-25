@@ -1,21 +1,33 @@
 ---
 import Base from '../layouts/Base.astro';
-import { countries, groupedForDestination } from '../lib/data';
+import { countries, visaFreePassportCount } from '../lib/data';
 const sorted = [...countries].sort((a, b) => (a.name < b.name ? -1 : 1));
+const letters: string[] = [];
+const byLetter = new Map<string, typeof sorted>();
+for (const c of sorted) {
+  const l = c.name.charAt(0).toUpperCase();
+  if (!byLetter.has(l)) { byLetter.set(l, []); letters.push(l); }
+  byLetter.get(l)!.push(c);
+}
 ---
 
 <Base title="All Destinations — Who Can Enter, and How | visafreely" description="Entry requirements for 199 destinations: which passports enter visa free, which need an e-Visa or ETA, and which need a visa in advance.">
   <h1>All destinations</h1>
-  <p class="lede">Choose a destination to see the entry requirement for every passport.</p>
-  <ul class="linklist">
-    {sorted.map((c) => {
-      const free = groupedForDestination(c.code).find((g) => g.code === 'F')?.passports.length || 0;
-      return (
-        <li>
-          <a href={`/destination/${c.slug}/`}>{c.name}</a>
-          <span class="muted small"> — {free} passports enter visa free</span>
-        </li>
-      );
-    })}
-  </ul>
+  <p class="lede">Choose a destination to see the entry requirement for every passport. {countries.length} destinations, A–Z.</p>
+  <nav class="letter-jump" aria-label="Jump to letter">
+    {letters.map((l) => <a href={`#letter-${l}`}>{l}</a>)}
+  </nav>
+  {letters.map((l) => (
+    <section class="index-group" id={`letter-${l}`}>
+      <h2>{l}</h2>
+      <div class="index-rows">
+        {byLetter.get(l)!.map((c) => (
+          <a class="index-row" href={`/destination/${c.slug}/`}>
+            <span class="ir-name">{c.name}</span>
+            <span class="ir-stat">{visaFreePassportCount(c.code)} passports enter visa free</span>
+          </a>
+        ))}
+      </div>
+    </section>
+  ))}
 </Base>

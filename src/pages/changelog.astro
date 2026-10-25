@@ -1,7 +1,7 @@
 ---
 import Base from '../layouts/Base.astro';
 import changelog from '../data/changelog.json';
-import { countryByCode } from '../lib/data';
+import { countryByCode, pairPath, formatDateLong } from '../lib/data';
 
 interface Entry {
   date: string;
@@ -12,12 +12,30 @@ interface Entry {
   reason: string;
   source: string | null;
 }
-const entries = changelog as Entry[];
-function pairLabel(pair: string | null): string | null {
-  if (!pair) return null;
-  const [p, d] = pair.split(':');
-  return `${countryByCode[p]?.name || p} → ${countryByCode[d]?.name || d}`;
+const rawEntries = changelog as Entry[];
+function sourceHost(source: string): string {
+  try {
+    return new URL(source).hostname.replace(/^www\./, '');
+  } catch {
+    return source;
+  }
 }
+const entries = rawEntries.map((e) => {
+  let pairLabel: string | null = null;
+  let pairHref: string | null = null;
+  if (e.pair) {
+    const [p, d] = e.pair.split(':');
+    const pc = countryByCode[p];
+    const dc = countryByCode[d];
+    if (pc && dc) {
+      pairLabel = `${pc.name} → ${dc.name}`;
+      pairHref = pairPath(pc, dc);
+    } else {
+      pairLabel = `${pc?.name || p} → ${dc?.name || d}`;
+    }
+  }
+  return { ...e, pairLabel, pairHref, host: e.source ? sourceHost(e.source) : null };
+});
 ---
 
 <Base
@@ -30,25 +48,41 @@ function pairLabel(pair: string | null): string | null {
     correction we apply: what changed, when, and which official source says so.
   </p>
   <p>
+    <strong>{entries.length} corrections published.</strong> How to read this page: newest first — each
+    entry shows the pair, the old value and the new value as pills, why it changed, and the official
+    source behind the change. Click a pair to open its requirement page.
+  </p>
+  <p>
     Pairs that have been individually checked against an official source show a “Last verified” date on
-    their page. Everything else is labelled with the underlying dataset’s date (February 2026 snapshot)
+    their page. Everything else is labelled with the underlying dataset's date (February 2026 snapshot)
     rather than a claim we have not earned. If you spot an error, the changelog is also how you can tell
     whether it is already fixed.
   </p>
 
-  {entries.map((e) => (
-    <article style="border-bottom:1px solid var(--line); padding:16px 0;">
-      <div class="small muted">{e.date}{e.pair ? ` · ${pairLabel(e.pair)}` : ''}</div>
-      <h3 style="margin:4px 0 6px;">{e.title}</h3>
-      {e.old && e.new && (
-        <p style="margin:4px 0;">
-          <span class="chip R">{e.old}</span> → <span class="chip F">{e.new}</span>
-        </p>
-      )}
-      <p style="margin:4px 0;">{e.reason}</p>
-      {e.source && (
-        <p class="small" style="margin:4px 0;">Source: <a href={e.source} rel="noopener" target="_blank">{e.source}</a></p>
-      )}
-    </article>
-  ))}
+  <div class="timeline">
+    {entries.map((e) => (
+      <article class="tl-entry">
+        <div class="tl-date">{formatDateLong(e.date)}</div>
+        <div class="tl-card">
+          {e.pairLabel && (
+            e.pairHref
+              ? <a class="pair-chip" href={e.pairHref}>{e.pairLabel}</a>
+              : <span class="pair-chip">{e.pairLabel}</span>
+          )}
+          <h3>{e.title}</h3>
+          {e.old && e.new && (
+            <p>
+              <span class="pill-old">{e.old}</span> → <span class="pill-new">{e.new}</span>
+            </p>
+          )}
+          <p>{e.reason}</p>
+          {e.source && (
+            <p>
+              <a class="source-chip" href={e.source} rel="noopener" target="_blank">Official source: {e.host}</a>
+            </p>
+          )}
+        </div>
+      </article>
+    ))}
+  </div>
 </Base>

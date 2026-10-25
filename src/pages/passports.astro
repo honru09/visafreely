@@ -2,17 +2,32 @@
 import Base from '../layouts/Base.astro';
 import { countries, easyAccessCount } from '../lib/data';
 const sorted = [...countries].sort((a, b) => (a.name < b.name ? -1 : 1));
+const letters: string[] = [];
+const byLetter = new Map<string, typeof sorted>();
+for (const c of sorted) {
+  const l = c.name.charAt(0).toUpperCase();
+  if (!byLetter.has(l)) { byLetter.set(l, []); letters.push(l); }
+  byLetter.get(l)!.push(c);
+}
 ---
 
 <Base title="All Passports — Visa Requirements by Passport | visafreely" description="Visa requirements for 199 passports: visa-free destinations, stay limits and full requirement lists for every passport.">
   <h1>All passports</h1>
-  <p class="lede">Choose a passport to see where its holders can travel, and under what requirement.</p>
-  <ul class="linklist">
-    {sorted.map((c) => (
-      <li>
-        <a href={`/passport/${c.slug}/`}>{c.name}</a>
-        <span class="muted small"> — {easyAccessCount(c.code)} destinations without a prior visa</span>
-      </li>
-    ))}
-  </ul>
+  <p class="lede">Choose a passport to see where its holders can travel, and under what requirement. {countries.length} passports, A–Z.</p>
+  <nav class="letter-jump" aria-label="Jump to letter">
+    {letters.map((l) => <a href={`#letter-${l}`}>{l}</a>)}
+  </nav>
+  {letters.map((l) => (
+    <section class="index-group" id={`letter-${l}`}>
+      <h2>{l}</h2>
+      <div class="index-rows">
+        {byLetter.get(l)!.map((c) => (
+          <a class="index-row" href={`/passport/${c.slug}/`}>
+            <span class="ir-name">{c.name}</span>
+            <span class="ir-stat">{easyAccessCount(c.code)} without a prior visa</span>
+          </a>
+        ))}
+      </div>
+    </section>
+  ))}
 </Base>

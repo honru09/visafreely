@@ -1,7 +1,13 @@
 ---
 import Base from '../layouts/Base.astro';
-import { data } from '../lib/data';
-const verifiedCount = Object.values(data.extras).filter((e) => e.verified).length;
+import { data, verifiedCount, pairExtra, formatDateLong, countryByCode, pairPath } from '../lib/data';
+const verifiedFmt = verifiedCount.toLocaleString('en-US');
+const jp = countryByCode['JP'];
+const th = countryByCode['TH'];
+const zw = countryByCode['ZW'];
+const ve = countryByCode['VE'];
+const exVerified = pairExtra('JP', 'TH');
+const exPending = pairExtra('ZW', 'VE');
 ---
 
 <Base
@@ -14,40 +20,119 @@ const verifiedCount = Object.values(data.extras).filter((e) => e.verified).lengt
     our data comes from and how it is checked.
   </p>
 
-  <h2>The base dataset</h2>
+  <h2>The two stamps</h2>
   <p>
-    The starting point is the open <strong>passport-index dataset</strong> (MIT licence), which maps the
-    visa requirement for every passport → destination pair: visa free (with the permitted stay),
-    visa on arrival, e-Visa, electronic travel authorisation, visa required, or no admission. We use the
-    February 2026 snapshot as the base layer for all {data.pairCount.toLocaleString('en-US')} pairs.
-  </p>
-  <p>
-    A snapshot is a photograph, not a feed — visa rules change every month, and the snapshot is already
-    wrong in places the day it is taken. So the snapshot is never the final word on this site.
+    Every pair page on this site carries one of two stamps, directly under the answer. There is no
+    third state, and no answer hides which one it has.
   </p>
 
+  <p class="micro" style="margin-bottom:6px;">Stamp 1 — verified</p>
+  <div class="seal verified">
+    <div class="seal-mark" aria-hidden="true">
+      <svg viewBox="0 0 48 48" fill="none" aria-hidden="true"><g transform="rotate(-4 24 24)"><rect x="4.5" y="4.5" width="39" height="39" rx="10" stroke="currentColor" stroke-width="2.6"/><rect x="10" y="10" width="28" height="28" rx="6.5" stroke="currentColor" stroke-width="1.3"/><path d="M16 24.5l5.5 5.5L32 19" stroke="currentColor" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/></g></svg>
+    </div>
+    <div>
+      <p class="seal-title">
+        ✓ Verified — last checked {exVerified.verified && formatDateLong(exVerified.verified)} against an official source:{' '}
+        <a href={exVerified.source} rel="noopener" target="_blank">{exVerified.source_name}</a>.
+      </p>
+      {exVerified.note && <p>{exVerified.note}</p>}
+      {exVerified.changed && (
+        <p>
+          Value last changed {formatDateLong(exVerified.changed)} — see the <a href="/changelog/">changelog</a>.
+        </p>
+      )}
+    </div>
+  </div>
+  <p class="small muted">
+    Live example: <a href={pairPath(jp, th)}>{jp.name} passport → {th.name}</a>. The date is the day the
+    check was completed; the source is named and linked, so you can re-check it yourself.
+  </p>
+
+  <p class="micro" style="margin:18px 0 6px;">Stamp 2 — dataset, not yet verified</p>
+  <div class="seal pending">
+    <div class="seal-mark" aria-hidden="true">
+      <svg viewBox="0 0 48 48" fill="none" aria-hidden="true"><circle cx="24" cy="24" r="17" stroke="currentColor" stroke-width="2.6"/><path d="M24 15v9.5l6.5 4" stroke="currentColor" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    </div>
+    <div>
+      <p class="seal-title">Dataset — not yet individually verified</p>
+      <p>
+        Data from the passport-index dataset, {data.vintage} snapshot
+        {exPending.overridden ? ' — with a correction applied by visafreely (see the changelog)' : ''}.
+        This pair has not yet been individually verified against an official source; see
+        <a href="/about/"> how verification works</a>.
+      </p>
+      {exPending.note && <p>Note: {exPending.note}</p>}
+      {exPending.changed && <p>This value was last changed on {formatDateLong(exPending.changed)}.</p>}
+    </div>
+  </div>
+  <p class="small muted">
+    Live example: <a href={pairPath(zw, ve)}>{zw.name} passport → {ve.name}</a>. The dashed stamp is not
+    an apology — it is the pair's place in the verification queue, stated on the page instead of hidden.
+  </p>
+
+  <h2>How verification works</h2>
+  <div class="how-grid cols-2">
+    <div class="how-card">
+      <span class="num">1</span>
+      <h3>Find the official source</h3>
+      <p>The foreign ministry, immigration authority or official embassy page for the route — never another visa site.</p>
+    </div>
+    <div class="how-card">
+      <span class="num">2</span>
+      <h3>Check the pair</h3>
+      <p>Compare the dataset value against that source: the requirement itself and the permitted stay.</p>
+    </div>
+    <div class="how-card">
+      <span class="num">3</span>
+      <h3>Stamp it</h3>
+      <p>Record the check date and the source on the pair page. If the source disagrees with the dataset, the value is corrected first.</p>
+    </div>
+    <div class="how-card">
+      <span class="num">4</span>
+      <h3>Publish corrections</h3>
+      <p>Every change lands in the <a href="/changelog/">data changelog</a> — old value, new value, date and official source.</p>
+    </div>
+  </div>
+
+  <h2>The base dataset</h2>
+  <div class="card">
+    <p style="margin-top:0;">
+      The starting point is the open <strong>passport-index dataset</strong> (MIT licence), which maps the
+      visa requirement for every passport → destination pair: visa free (with the permitted stay),
+      visa on arrival, e-Visa, electronic travel authorisation, visa required, or no admission. We use the
+      February 2026 snapshot as the base layer for all {data.pairCount.toLocaleString('en-US')} pairs.
+    </p>
+    <p style="margin-bottom:0;">
+      A snapshot is a photograph, not a feed — visa rules change every month, and the snapshot is already
+      wrong in places the day it is taken. So the snapshot is never the final word on this site.
+    </p>
+  </div>
+
   <h2>The verification layer</h2>
-  <p>
-    We check pairs individually against primary official sources — foreign ministries, immigration
-    authorities and official embassy pages — starting with the most-travelled routes, and record the
-    date and the source for every check. A pair page shows a <strong>“Last verified”</strong> date only
-    when such a check has actually been completed for that pair. Pairs not yet checked say so plainly
-    and show the dataset’s vintage instead. At launch, {verifiedCount.toLocaleString('en-US')} pairs carry a
-    verified stamp; the rest are queued in a published order of travel importance.
-  </p>
-  <p>
-    When a check finds the dataset is wrong, we correct it and publish the change — old value, new
-    value, date and official source — in the <a href="/changelog/">data changelog</a>. Some rules carry
-    an announced end date (temporary visa-free policies are common); where an official source gives one,
-    the pair page shows it as a scheduled change.
-  </p>
+  <div class="card">
+    <p style="margin-top:0;">
+      We check pairs individually against primary official sources — foreign ministries, immigration
+      authorities and official embassy pages — starting with the most-travelled routes, and record the
+      date and the source for every check. A pair page shows a <strong>“Last verified”</strong> date only
+      when such a check has actually been completed for that pair. Pairs not yet checked say so plainly
+      and show the dataset's vintage instead. At launch, {verifiedFmt} pairs carry a
+      verified stamp; the rest are queued in a published order of travel importance.
+    </p>
+    <p style="margin-bottom:0;">
+      When a check finds the dataset is wrong, we correct it and publish the change — old value, new
+      value, date and official source — in the <a href="/changelog/">data changelog</a>. Some rules carry
+      an announced end date (temporary visa-free policies are common); where an official source gives one,
+      the pair page shows it as a scheduled change.
+    </p>
+  </div>
 
   <h2>What the stamp does not promise</h2>
   <p>
     “Last verified” means the requirement matched the named official source on that date. It does not
     guarantee entry: border officers decide admission, rules can change between the check and your trip,
     and pages here cover ordinary passports on short tourist visits — not work, study, residence or
-    special passport categories. Always confirm with the destination’s embassy or official immigration
+    special passport categories. Always confirm with the destination's embassy or official immigration
     authority before travelling, especially if your trip depends on it.
   </p>
 

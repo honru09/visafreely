@@ -9,6 +9,14 @@ import {
   statusLabel,
   pairPath,
   STATUS_MEANING,
+  STATUS_STEPS,
+  STATUS_CHECKLIST,
+  STATUS_GLYPH,
+  applyBeforeText,
+  maxStayText,
+  entryBasisText,
+  formatDateLong,
+  pairFaq,
   data,
 } from '../../../lib/data';
 
@@ -30,10 +38,34 @@ const { p, d, row } = Astro.props;
 const extra = pairExtra(p.code, d.code);
 const verdict = verdictText(row);
 const label = statusLabel(row.s);
+const glyph = STATUS_GLYPH[row.s] || '✓';
 const meaning = STATUS_MEANING[row.s](p.name, d.name);
 const needsVisa = row.s === 'R' || row.s === 'E';
+const steps = STATUS_STEPS[row.s](p.name, d.name);
+const checklist = STATUS_CHECKLIST[row.s];
+const faq = pairFaq(p.name, d.name, row, extra);
 const title = `${p.name} Passport to ${d.name}: ${verdict} — Visa Requirements`;
 const description = `Do ${p.name} passport holders need a visa for ${d.name}? ${verdict}. Requirement details, stay limit and data verification status.`;
+
+const urlFor = (path: string) => new URL(path, Astro.site).href;
+const breadcrumbLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Passports', item: urlFor('/passports/') },
+    { '@type': 'ListItem', position: 2, name: `${p.name} passport`, item: urlFor(`/passport/${p.slug}/`) },
+    { '@type': 'ListItem', position: 3, name: d.name, item: urlFor(pairPath(p, d)) },
+  ],
+};
+const faqLd = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faq.map((f) => ({
+    '@type': 'Question',
+    name: f.q,
+    acceptedAnswer: { '@type': 'Answer', text: f.a },
+  })),
+};
 
 // Related pairs: same passport, same status, other destinations (alphabetical, up to 10)
 const sameStatus = (data.byPassport[p.code] || [])
@@ -48,129 +80,186 @@ const freePassports = countries
 ---
 
 <Base title={title} description={description}>
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbLd)} />
+  <script type="application/ld+json" set:html={JSON.stringify(faqLd)} />
+
   <div class="crumbs">
-    <a href={`/passport/${p.slug}/`}>{p.name} passport</a> · <a href={`/destination/${d.slug}/`}>{d.name} entry rules</a>
+    <a href="/passports/">Passports</a> › <a href={`/passport/${p.slug}/`}>{p.name} passport</a> › <span>{d.name}</span>
   </div>
+
   <h1>{p.name} passport → {d.name}</h1>
-  <div class="verdict">
+
+  <div class={`verdict-hero s-${row.s}`}>
+    <p class="route-line">{p.name} passport → {d.name}</p>
     <div class="big">{verdict}</div>
-    <div class="muted">
+    <p class="muted" style="margin:0 0 4px;">
       Visa requirement for citizens of {p.name} travelling to {d.name} for tourism or short visits.
+    </p>
+    <span class={`chip ${row.s}`}><span class="g"><i>{glyph}</i></span>{label}</span>
+    <div class="fact-tiles">
+      <div class="fact-tile">
+        <div class="fl">Max stay</div>
+        <div class="fv">{maxStayText(row)}</div>
+      </div>
+      <div class="fact-tile">
+        <div class="fl">Apply before travel?</div>
+        <div class="fv">{applyBeforeText(row.s)}</div>
+      </div>
+      <div class="fact-tile">
+        <div class="fl">Entry basis</div>
+        <div class="fv">{entryBasisText(row.s)}</div>
+      </div>
     </div>
   </div>
+
+  {
+    extra.verified ? (
+      <div class="seal verified">
+        <div class="seal-mark" aria-hidden="true">
+          <svg viewBox="0 0 48 48" fill="none" aria-hidden="true"><g transform="rotate(-4 24 24)"><rect x="4.5" y="4.5" width="39" height="39" rx="10" stroke="currentColor" stroke-width="2.6"/><rect x="10" y="10" width="28" height="28" rx="6.5" stroke="currentColor" stroke-width="1.3"/><path d="M16 24.5l5.5 5.5L32 19" stroke="currentColor" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/></g></svg>
+        </div>
+        <div>
+          <p class="seal-title">
+            ✓ Verified — last checked {formatDateLong(extra.verified)} against an official source:{' '}
+            <a href={extra.source} rel="noopener" target="_blank">{extra.source_name}</a>.
+          </p>
+          {extra.note && <p>{extra.note}</p>}
+          {extra.changed && (
+            <p>
+              Value last changed {formatDateLong(extra.changed)} — see the <a href="/changelog/">changelog</a>.
+            </p>
+          )}
+        </div>
+      </div>
+    ) : (
+      <div class="seal pending">
+        <div class="seal-mark" aria-hidden="true">
+          <svg viewBox="0 0 48 48" fill="none" aria-hidden="true"><circle cx="24" cy="24" r="17" stroke="currentColor" stroke-width="2.6"/><path d="M24 15v9.5l6.5 4" stroke="currentColor" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </div>
+        <div>
+          <p class="seal-title">Dataset — not yet individually verified</p>
+          <p>
+            Data from the passport-index dataset, {data.vintage} snapshot
+            {extra.overridden ? ' — with a correction applied by visafreely (see the changelog)' : ''}.
+            This pair has not yet been individually verified against an official source; see
+            <a href="/about/"> how verification works</a>.
+          </p>
+          {extra.note && <p>Note: {extra.note}</p>}
+          {extra.changed && <p>This value was last changed on {formatDateLong(extra.changed)}.</p>}
+        </div>
+      </div>
+    )
+  }
 
   {
     extra.valid_until && (
       <div class="warn">
         ⏳ <strong>Scheduled change:</strong> the rule shown here is currently announced to run until{' '}
-        {extra.valid_until}. It may be extended or replaced — re-check before travelling after that date.
+        {formatDateLong(extra.valid_until)}. It may be extended or replaced — re-check before travelling after that date.
       </div>
     )
   }
 
-  <table class="spec">
-    <tr>
-      <th>Requirement</th>
-      <td><span class={`chip ${row.s}`}>{label}</span></td>
-    </tr>
-    <tr>
-      <th>Maximum stay</th>
-      <td>{row.days ? `${row.days} days` : row.s === 'F' || row.s === 'A' ? 'Not specified in the dataset — confirm with the official source' : 'Set by the visa issued'}</td>
-    </tr>
-    <tr>
-      <th>Apply before travel?</th>
-      <td>
-        {row.s === 'F' && 'No visa application needed'}
-        {row.s === 'A' && 'No — the visa is issued on arrival'}
-        {row.s === 'E' && 'Yes — online e-Visa application'}
-        {row.s === 'T' && 'Yes — online authorisation, usually approved quickly'}
-        {row.s === 'R' && 'Yes — embassy or consulate visa required in advance'}
-        {row.s === 'N' && 'Entry is not currently permitted'}
-      </td>
-    </tr>
-  </table>
+  <h2>What to do next</h2>
+  <ol class="steps">
+    {steps.map((s) => <li><span><strong>{s.t}.</strong> {s.b}</span></li>)}
+  </ol>
 
-  {
-    extra.verified ? (
-      <div class="stamp">
-        ✓ <strong>Last verified {extra.verified}</strong> against an official source:{' '}
-        <a href={extra.source} rel="noopener" target="_blank">{extra.source_name}</a>.
-        {extra.note && <span> {extra.note}</span>}
-        {extra.changed && (
-          <span>
-            {' '}
-            This value was last changed on {extra.changed} — see the <a href="/changelog/">changelog</a>.
-          </span>
-        )}
-      </div>
-    ) : (
-      <div class="stamp">
-        Data from the passport-index dataset, {data.vintage} snapshot
-        {extra.overridden ? ' — with a correction applied by visafreely (see the changelog)' : ''}.
-        This pair has not yet been individually verified against an official source; see
-        <a href="/about/"> how verification works</a>.
-        {extra.note && <span> Note: {extra.note}</span>}
-        {extra.changed && (
-          <span>
-            {' '}
-            This value was last changed on {extra.changed}.
-          </span>
-        )}
-      </div>
-    )
-  }
+  <h2>Before you go</h2>
+  <div class="card">
+    <ul class="checklist">
+      {checklist.map((item) => <li>{item}</li>)}
+    </ul>
+  </div>
 
-  <h2>What this means</h2>
-  <p>{meaning}</p>
-  <p>
-    Whatever the requirement, your passport generally needs at least six months of validity beyond your
-    travel dates, and border officers can ask for proof of onward travel and sufficient funds. Rules on
-    this page cover ordinary passports and short tourist visits — work, study and long stays follow
-    different rules.
-  </p>
-  {
-    row.s === 'F' && (
-      <p>
-        <strong>Visa-free does not always mean form-free:</strong> some destinations ask visa-exempt
-        visitors to complete an official arrival form or digital arrival card. Where one exists, it is
-        free through the government's own site — you never need to pay a third party for the form itself.
-      </p>
-    )
-  }
+  <h2>Requirement details</h2>
+  <div class="spec-card">
+    <dl style="margin:0;">
+      <div class="spec-row">
+        <dt>Requirement</dt>
+        <dd><span class={`chip ${row.s}`}><span class="g"><i>{glyph}</i></span>{label}</span></dd>
+      </div>
+      <div class="spec-row">
+        <dt>Maximum stay</dt>
+        <dd>{maxStayText(row)}</dd>
+      </div>
+      <div class="spec-row">
+        <dt>Apply before travel?</dt>
+        <dd>{applyBeforeText(row.s)}</dd>
+      </div>
+      {
+        extra.verified && (
+          <div class="spec-row">
+            <dt>Evidence</dt>
+            <dd>
+              Last verified {formatDateLong(extra.verified)} ·{' '}
+              <a href={extra.source} rel="noopener" target="_blank">{extra.source_name}</a>
+            </dd>
+          </div>
+        )
+      }
+    </dl>
+  </div>
+
+  <div class="narrow">
+    <h2>What this means</h2>
+    <p>{meaning}</p>
+    <p>
+      Whatever the requirement, your passport generally needs at least six months of validity beyond your
+      travel dates, and border officers can ask for proof of onward travel and sufficient funds. Rules on
+      this page cover ordinary passports and short tourist visits — work, study and long stays follow
+      different rules.
+    </p>
+    {
+      row.s === 'F' && (
+        <p>
+          <strong>Visa-free does not always mean form-free:</strong> some destinations ask visa-exempt
+          visitors to complete an official arrival form or digital arrival card. Where one exists, it is
+          free through the government's own site — you never need to pay a third party for the form itself.
+        </p>
+      )
+    }
+  </div>
 
   <Shelf needsVisa={needsVisa} passportName={p.name} destinationName={d.name} />
+
+  <h2>Frequently asked questions</h2>
+  {faq.map((f) => (
+    <details class="faq-item">
+      <summary>{f.q}</summary>
+      <div class="faq-a"><p>{f.a}</p></div>
+    </details>
+  ))}
 
   {
     sameStatus.length > 0 && (
       <>
-        <h2>More destinations with the same rule for {p.name} passports</h2>
-        <ul class="linklist">
+        <h2>More destinations for {p.name} passports</h2>
+        <div class="route-grid">
           {sameStatus.map((r) => (
-            <li>
-              <a href={pairPath(p, countryByCode[r.d])}>
-                {p.name} → {countryByCode[r.d].name}
-              </a>{' '}
-              <span class="muted small">{verdictText(r)}</span>
-            </li>
+            <a class="route-card" href={pairPath(p, countryByCode[r.d])}>
+              <span class="rc-top"><span class={`sdot ${r.s}`}></span><span class="rc-name">{countryByCode[r.d].name}</span></span>
+              <span class="rc-meta">{verdictText(r)}</span>
+              <span class={`chip ${r.s}`}>{statusLabel(r.s)}</span>
+            </a>
           ))}
-        </ul>
+        </div>
       </>
     )
   }
   {
     freePassports.length > 0 && (
       <>
-        <h2>Passports that enter {d.name} visa free</h2>
-        <ul class="linklist">
+        <h2>Who else enters {d.name} visa free</h2>
+        <div class="route-grid">
           {freePassports.map((x) => (
-            <li>
-              <a href={pairPath(x.c, d)}>
-                {x.c.name} → {d.name}
-              </a>{' '}
-              <span class="muted small">{verdictText(x.r)}</span>
-            </li>
+            <a class="route-card" href={pairPath(x.c, d)}>
+              <span class="rc-top"><span class="sdot F"></span><span class="rc-name">{x.c.name}</span></span>
+              <span class="rc-meta">{verdictText(x.r)}</span>
+              <span class="chip F">{statusLabel('F')}</span>
+            </a>
           ))}
-        </ul>
+        </div>
       </>
     )
   }

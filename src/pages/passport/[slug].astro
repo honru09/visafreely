@@ -6,6 +6,7 @@ import {
   groupedForPassport,
   countsForPassport,
   easyAccessCount,
+  passportRank,
   statusLabel,
   verdictText,
   pairPath,
@@ -18,51 +19,74 @@ const { c } = Astro.props;
 const groups = groupedForPassport(c.code);
 const counts = countsForPassport(c.code);
 const easy = easyAccessCount(c.code);
-const rank = countries
-  .map((x) => ({ code: x.code, easy: easyAccessCount(x.code) }))
-  .sort((a, b) => b.easy - a.easy)
-  .findIndex((x) => x.code === c.code) + 1;
+const rank = passportRank[c.code];
 const title = `${c.name} Passport: Visa-Free Countries & Requirements`;
 const description = `Where can ${c.name} passport holders travel without a visa? ${counts.F || 0} visa-free destinations, ${easy} reachable without applying in advance — full list with stay limits.`;
 const others = countries.filter((x) => x.code !== c.code);
+const freeGroup = groups.find((g) => g.code === 'F');
+const topFree = (freeGroup?.rows || []).slice(0, 8);
 ---
 
 <Base title={title} description={description}>
-  <div class="crumbs"><a href="/passports/">All passports</a></div>
-  <h1>{c.name} passport</h1>
-  <p class="lede">
-    Holders of a {c.name} passport can enter <strong>{counts.F || 0} destinations visa free</strong> and
-    reach <strong>{easy} destinations</strong> in total without applying for a visa in advance
-    (ranked #{rank} of {countries.length} passports on that measure).
-  </p>
-  <div class="stat-row">
-    <div class="stat"><b>{counts.F || 0}</b><span>visa free</span></div>
-    <div class="stat"><b>{counts.A || 0}</b><span>visa on arrival</span></div>
-    <div class="stat"><b>{(counts.E || 0) + (counts.T || 0)}</b><span>e-Visa / ETA</span></div>
-    <div class="stat"><b>{counts.R || 0}</b><span>visa required</span></div>
+  <section class="band light">
+    <div class="band-in">
+      <div class="crumbs"><a href="/passports/">All passports</a></div>
+      <div class="hub-hero-flex">
+        <div>
+          <h1>{c.name} passport</h1>
+          <p class="lede" style="margin-bottom:0;">
+            Holders of a {c.name} passport can enter <strong>{counts.F || 0} destinations visa free</strong> and
+            reach <strong>{easy} destinations</strong> in total without applying for a visa in advance.
+          </p>
+        </div>
+        <div class="rank-block">
+          <span class="rank-medal big top">#{rank}</span>
+          <div class="rb-label">of {countries.length} passports</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <div class="stat-band">
+    <div class="stat-tile"><b>{counts.F || 0}</b><span>visa free</span></div>
+    <div class="stat-tile"><b>{counts.A || 0}</b><span>visa on arrival</span></div>
+    <div class="stat-tile"><b>{(counts.E || 0) + (counts.T || 0)}</b><span>e-Visa / ETA</span></div>
+    <div class="stat-tile"><b>{counts.R || 0}</b><span>visa required</span></div>
   </div>
+
+  {topFree.length > 0 && (
+    <>
+      <h2>Top visa-free picks</h2>
+      <div class="route-grid">
+        {topFree.map((r) => (
+          <a class="route-card" href={pairPath(c, countryByCode[r.d])}>
+            <span class="rc-top"><span class="sdot F"></span><span class="rc-name">{countryByCode[r.d].name}</span></span>
+            <span class="rc-meta">{r.days ? `Visa free · ${r.days} days` : 'Visa free'}</span>
+          </a>
+        ))}
+      </div>
+    </>
+  )}
 
   {groups.map((g) => (
     <>
-      <h2>{statusLabel(g.code)} ({g.rows.length})</h2>
-      <ul class="linklist">
+      <h2>{statusLabel(g.code)}<span class="count-pill">{g.rows.length}</span></h2>
+      <div class="route-grid">
         {g.rows.map((r) => (
-          <li>
-            <a href={pairPath(c, countryByCode[r.d])}>{countryByCode[r.d].name}</a>
-            <span class="muted small"> — {verdictText(r)}</span>
-          </li>
+          <a class="route-card" href={pairPath(c, countryByCode[r.d])}>
+            <span class="rc-top"><span class={`sdot ${g.code}`}></span><span class="rc-name">{countryByCode[r.d].name}</span></span>
+            <span class="rc-meta">{verdictText(r)}</span>
+          </a>
         ))}
-      </ul>
+      </div>
     </>
   ))}
 
   <h2>Other passports</h2>
-  <p class="small muted">
-    {others.slice(0, 40).map((x, i) => (
-      <>
-        <a href={`/passport/${x.slug}/`}>{x.name}</a>{i < 39 ? ' · ' : ''}
-      </>
+  <div class="pill-cloud">
+    {others.slice(0, 40).map((x) => (
+      <a href={`/passport/${x.slug}/`}>{x.name}</a>
     ))}
-    {' '}— <a href="/passports/">see all {countries.length} passports</a>
-  </p>
+    <a href="/passports/">See all {countries.length} passports →</a>
+  </div>
 </Base>

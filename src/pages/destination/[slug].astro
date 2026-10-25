@@ -13,41 +13,67 @@ export function getStaticPaths() {
 }
 const { c } = Astro.props;
 const groups = groupedForDestination(c.code);
-const freeCount = groups.find((g) => g.code === 'F')?.passports.length || 0;
+const countOf = (code: string) => groups.find((g) => g.code === code)?.passports.length || 0;
+const freeCount = countOf('F');
 const title = `${c.name} Visa Requirements: Who Can Enter & How`;
 const description = `Visa requirements for visiting ${c.name}: ${freeCount} passports enter visa free. Full list by requirement — visa free, on arrival, e-Visa, ETA and visa required.`;
 const others = countries.filter((x) => x.code !== c.code);
+const freeGroup = groups.find((g) => g.code === 'F');
+const easiest = (freeGroup?.passports || []).slice(0, 8);
 ---
 
 <Base title={title} description={description}>
-  <div class="crumbs"><a href="/destinations/">All destinations</a></div>
-  <h1>Visiting {c.name}</h1>
-  <p class="lede">
-    <strong>{freeCount} passports</strong> can enter {c.name} visa free. Below is the requirement for
-    every passport we track, grouped by type — open any pair for stay limits and verification status.
-  </p>
+  <section class="band light">
+    <div class="band-in">
+      <div class="crumbs"><a href="/destinations/">All destinations</a></div>
+      <h1>Visiting {c.name}</h1>
+      <p class="lede" style="margin-bottom:0;">
+        <strong>{freeCount} passports</strong> can enter {c.name} visa free. Below is the requirement for
+        every passport we track, grouped by type — open any pair for stay limits and verification status.
+      </p>
+    </div>
+  </section>
+
+  <div class="stat-band">
+    <div class="stat-tile"><b>{freeCount}</b><span>passports enter visa free</span></div>
+    <div class="stat-tile"><b>{countOf('A')}</b><span>visa on arrival</span></div>
+    <div class="stat-tile"><b>{countOf('E') + countOf('T')}</b><span>e-Visa / ETA</span></div>
+    <div class="stat-tile"><b>{countOf('R')}</b><span>visa required</span></div>
+  </div>
+
+  {easiest.length > 0 && (
+    <>
+      <h2>Easiest entries</h2>
+      <div class="route-grid">
+        {easiest.map((x) => (
+          <a class="route-card" href={pairPath(countryByCode[x.p], c)}>
+            <span class="rc-top"><span class="sdot F"></span><span class="rc-name">{countryByCode[x.p].name}</span></span>
+            <span class="rc-meta">{x.days ? `Visa free · ${x.days} days` : 'Visa free'}</span>
+          </a>
+        ))}
+      </div>
+    </>
+  )}
 
   {groups.map((g) => (
     <>
-      <h2>{statusLabel(g.code)} ({g.passports.length})</h2>
-      <ul class="linklist">
+      <h2>{statusLabel(g.code)}<span class="count-pill">{g.passports.length}</span></h2>
+      <div class="route-grid">
         {g.passports.map((x) => (
-          <li>
-            <a href={pairPath(countryByCode[x.p], c)}>{countryByCode[x.p].name}</a>
-            <span class="muted small"> — {x.days ? `${x.days} days` : statusLabel(g.code)}</span>
-          </li>
+          <a class="route-card" href={pairPath(countryByCode[x.p], c)}>
+            <span class="rc-top"><span class={`sdot ${g.code}`}></span><span class="rc-name">{countryByCode[x.p].name}</span></span>
+            <span class="rc-meta">{x.days ? `${x.days} days` : statusLabel(g.code)}</span>
+          </a>
         ))}
-      </ul>
+      </div>
     </>
   ))}
 
   <h2>Other destinations</h2>
-  <p class="small muted">
-    {others.slice(0, 40).map((x, i) => (
-      <>
-        <a href={`/destination/${x.slug}/`}>{x.name}</a>{i < 39 ? ' · ' : ''}
-      </>
+  <div class="pill-cloud">
+    {others.slice(0, 40).map((x) => (
+      <a href={`/destination/${x.slug}/`}>{x.name}</a>
     ))}
-    {' '}— <a href="/destinations/">see all {countries.length} destinations</a>
-  </p>
+    <a href="/destinations/">See all {countries.length} destinations →</a>
+  </div>
 </Base>
