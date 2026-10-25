@@ -10,6 +10,51 @@
  },
  {
   "date": "2026-10-25",
+  "pair": "WS:MY",
+  "title": "Samoa → Malaysia",
+  "old": "visa free (30 days)",
+  "new": "visa free (60 days)",
+  "reason": "Samoan citizens are granted visa-free entry for up to 60 days per official Malaysian consular and embassy entry tables (and exempt from Visa with Reference as a Commonwealth nation under Immigration Department regulations); the dataset’s 30-day figure is outdated.",
+  "source": "https://embassymalaysia.nl/list-of-countries-that-need-a-visa-to-enter-malaysia/"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "LY:MY",
+  "title": "Libya → Malaysia",
+  "old": "visa free (14 days)",
+  "new": "visa free (30 days)",
+  "reason": "Libyan passport holders are granted visa-free entry for up to 30 days per official Malaysian consular and embassy entry requirement tables; the dataset’s 14-day limit is outdated.",
+  "source": "https://embassymalaysia.nl/list-of-countries-that-need-a-visa-to-enter-malaysia/"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "IN:MY",
+  "title": "India → Malaysia",
+  "old": "visa free (90 days)",
+  "new": "visa free (30 days)",
+  "reason": "Under the Malaysian government’s visa exemption scheme effective 1 Dec 2023 through 31 Dec 2026, Indian citizens enjoy visa-free entry for stays of up to 30 days per entry for social visits (Single Entry Visa exemption); the dataset’s 90-day figure is incorrect.",
+  "source": "https://www.imi.gov.my/index.php/en/main-services/visa/visa-requirement-by-country/"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "HK:MY",
+  "title": "Hong Kong SAR China → Malaysia",
+  "old": "visa free (30 days)",
+  "new": "visa free (90 days)",
+  "reason": "Holders of a Hong Kong SAR passport are granted visa-free entry for up to 90 days per the Consulate General of Malaysia in Hong Kong and Ministry of Foreign Affairs (extended from 30 days); the dataset’s 30-day figure is outdated.",
+  "source": "https://www.kln.gov.my/web/chn_hong-kong/requirement_foreigner"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "BT:MY",
+  "title": "Bhutan → Malaysia",
+  "old": "visa required",
+  "new": "e-visa (30 days)",
+  "reason": "Bhutan is listed among the eligible nationalities for eVISA on Malaysia’s official visa portal (malaysiavisa.imi.gov.my) for social visits up to 30 days per entry; the dataset’s Advance Visa / visa required status is superseded by the online facility.",
+  "source": "https://malaysiavisa.imi.gov.my/"
+ },
+ {
+  "date": "2026-10-25",
   "pair": "MO:AE",
   "title": "Macao SAR China → United Arab Emirates",
   "old": "visa free (30 days)",
