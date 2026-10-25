@@ -6,6 +6,7 @@ import {
   groupedForDestination,
   statusLabel,
   pairPath,
+  flagEmoji,
 } from '../../lib/data';
 
 export function getStaticPaths() {
@@ -18,8 +19,6 @@ const freeCount = countOf('F');
 const title = `${c.name} Visa Requirements: Who Can Enter & How`;
 const description = `Visa requirements for visiting ${c.name}: ${freeCount} passports enter visa free. Full list by requirement — visa free, on arrival, e-Visa, ETA and visa required.`;
 const others = countries.filter((x) => x.code !== c.code);
-const freeGroup = groups.find((g) => g.code === 'F');
-const easiest = (freeGroup?.passports || []).slice(0, 8);
 const total = groups.reduce((n, g) => n + g.passports.length, 0);
 ---
 
@@ -35,27 +34,13 @@ const total = groups.reduce((n, g) => n + g.passports.length, 0);
     </div>
   </section>
 
-  <div class="stat-band">
-    <div class="stat-tile"><b data-count={freeCount}>{freeCount}</b><span>passports enter visa free</span></div>
-    <div class="stat-tile"><b data-count={countOf('A')}>{countOf('A')}</b><span>visa on arrival</span></div>
-    <div class="stat-tile"><b data-count={countOf('E') + countOf('T')}>{countOf('E') + countOf('T')}</b><span>e-Visa / ETA</span></div>
-    <div class="stat-tile"><b data-count={countOf('R')}>{countOf('R')}</b><span>visa required</span></div>
+  <div class="stat-band five">
+    <div class="stat-tile"><b>{freeCount}</b><span>passports enter visa free</span></div>
+    <div class="stat-tile"><b>{countOf('A')}</b><span>visa on arrival</span></div>
+    <div class="stat-tile"><b>{countOf('E')}</b><span>e-Visa</span></div>
+    <div class="stat-tile"><b>{countOf('T')}</b><span>ETA</span></div>
+    <div class="stat-tile"><b>{countOf('R')}</b><span>visa required</span></div>
   </div>
-
-  {easiest.length > 0 && (
-    <>
-      <h2>Easiest entries</h2>
-      <div class="route-grid">
-        {easiest.map((x) => (
-          <a class="route-card" href={pairPath(countryByCode[x.p], c)}>
-            <span class="rc-top"><span class="sdot F"></span><span class="rc-name">{countryByCode[x.p].name}</span></span>
-            <span class="rc-meta">{x.days ? `Visa free · ${x.days} days` : 'Visa free'}</span>
-            <svg class="rc-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4 12h15M13 5.5L19.5 12 13 18.5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-          </a>
-        ))}
-      </div>
-    </>
-  )}
 
   <div data-filter-root>
     <div class="filter-chips" role="group" aria-label="Filter passports by requirement">
@@ -73,7 +58,7 @@ const total = groups.reduce((n, g) => n + g.passports.length, 0);
         <div class="route-grid">
           {g.passports.map((x) => (
             <a class="route-card" href={pairPath(countryByCode[x.p], c)}>
-              <span class="rc-top"><span class={`sdot ${g.code}`}></span><span class="rc-name">{countryByCode[x.p].name}</span></span>
+              <span class="rc-top"><span class="rc-flag" aria-hidden="true">{flagEmoji(x.p)}</span><span class={`sdot ${g.code}`}></span><span class="rc-name">{countryByCode[x.p].name}</span></span>
               <span class="rc-meta">{x.days ? `${x.days} days` : statusLabel(g.code)}</span>
               <svg class="rc-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4 12h15M13 5.5L19.5 12 13 18.5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
             </a>

@@ -1,0 +1,40 @@
+---
+// Route checker — the homepage hero form, reused on the 404 page.
+// Behaviour lives in Base.astro's inline script (activates when #ck-form exists);
+// this component supplies the markup plus the verified-dates index.
+import Stamp from './Stamp.astro';
+import { verifiedPairDates } from '../lib/data';
+---
+
+<script is:inline define:vars={{ verifiedPairDates }}>window.__VF_VERIFIED = verifiedPairDates;</script>
+<div class="checker-card" id="checker" style="scroll-margin-top:76px;">
+  <p class="ck-eyebrow">
+    <Stamp size={17} />
+    Check a route — get the stamp
+  </p>
+  <form id="ck-form" class="checker" aria-label="Visa requirement checker">
+    <div class="ck-field">
+      <label for="ck-passport">I hold a passport from</label>
+      <div class="ck-wrap">
+        <span class="ck-flag" id="ck-flag-p" aria-hidden="true"></span>
+        <input id="ck-passport" class="ck-input" placeholder="Start typing a country…" autocomplete="off" role="combobox" aria-expanded="false" aria-controls="ck-list-p" aria-autocomplete="list" required />
+        <svg class="ck-chev" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M5 9l7 7 7-7" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        <ul class="ck-list" id="ck-list-p" role="listbox" aria-label="Passport countries"></ul>
+      </div>
+    </div>
+    <button type="button" id="ck-swap" class="swap-btn" aria-label="Swap passport and destination" title="Swap">
+      <svg width="19" height="19" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4 7h13M13 3.5L16.5 7 13 10.5M20 17H7M11 13.5L7.5 17l3.5 3.5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    </button>
+    <div class="ck-field">
+      <label for="ck-destination">I want to visit</label>
+      <div class="ck-wrap">
+        <span class="ck-flag" id="ck-flag-d" aria-hidden="true"></span>
+        <input id="ck-destination" class="ck-input" placeholder="Start typing a country…" autocomplete="off" role="combobox" aria-expanded="false" aria-controls="ck-list-d" aria-autocomplete="list" required />
+        <svg class="ck-chev" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M5 9l7 7 7-7" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        <ul class="ck-list" id="ck-list-d" role="listbox" aria-label="Destination countries"></ul>
+      </div>
+    </div>
+    <button type="submit" class="go-btn">Check</button>
+  </form>
+  <div id="ck-result" hidden></div>
+</div>

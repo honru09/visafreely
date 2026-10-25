@@ -95,6 +95,15 @@ export function easyAccessCount(passport: string): number {
 export function pairPath(passport: Country, destination: Country): string {
   return `/visa/${passport.slug}/${destination.slug}/`;
 }
+/** Flag emoji for an ISO 2-letter country code (same construction as the checker dropdown). */
+export function flagEmoji(code: string): string {
+  if (!/^[A-Za-z]{2}$/.test(code || '')) return '';
+  try {
+    return String.fromCodePoint(...code.toUpperCase().split('').map((c) => 127397 + c.charCodeAt(0)));
+  } catch {
+    return '';
+  }
+}
 export const STATUS_MEANING: Record<string, (p: string, d: string) => string> = {
   F: (p, d) =>
     `Holders of a ${p} passport can enter ${d} without a visa for short stays. You do not need to apply for anything before departure for the visa itself — border officials stamp you in on arrival. Some destinations still ask for a separate arrival form or travel registration; where an official one exists it is free through the government channel.`,

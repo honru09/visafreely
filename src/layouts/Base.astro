@@ -61,6 +61,7 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
         --brand-ink: #0a2e3f;
         --deep: #06202e;
         --gold: #c9a227;
+        --gold-ink: #7a5c0e; /* darkened gold for text on light surfaces (WCAG AA) */
         --f: #0b6e4f; --a: #0e7490; --e: #b45309; --t: #6d28d9; --r: #b3261e; --n: #57534e;
         --f-bg: #e9f6ef; --a-bg: #e6f4f8; --e-bg: #fdf3e3; --t-bg: #f1eafd; --r-bg: #fdeceb; --n-bg: #f0efed;
         --sh-sm: 0 1px 2px rgba(10,37,64,.06), 0 2px 8px -2px rgba(10,37,64,.08);
@@ -186,13 +187,13 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
       .band.dark .lede { color: #c9ded2; }
       .band.light { background: linear-gradient(160deg, #f4f0e6 0%, #eaf3ec 100%); border-bottom: 1px solid var(--line); }
       .band.light .band-in { padding-top: 42px; padding-bottom: 42px; }
-      .hero-wm { position: absolute; right: -120px; top: -130px; opacity: .08; color: #ffffff; pointer-events: none; transform: rotate(8deg); }
+      .hero-wm { position: absolute; right: 6px; top: 50%; opacity: .055; color: #ffffff; pointer-events: none; transform: translateY(-50%) rotate(8deg); }
       .hero-note { font-size: 14px; color: #bcd6c6; margin: 16px 2px 0; max-width: 660px; display: flex; gap: 8px; align-items: flex-start; }
       .hero-note svg { flex: none; margin-top: 2px; }
 
       /* ================= checker ================= */
       .checker-card { background: var(--card); border-radius: 18px; box-shadow: var(--sh-lg); padding: 22px; color: var(--ink); max-width: 840px; position: relative; }
-      .ck-eyebrow { display: flex; align-items: center; gap: 8px; margin: 0 0 14px; font-size: 12px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: var(--gold); }
+      .ck-eyebrow { display: flex; align-items: center; gap: 8px; margin: 0 0 14px; font-size: 12px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: var(--gold-ink); }
       .checker { display: flex; gap: 10px; flex-wrap: wrap; align-items: end; }
       .ck-field { display: flex; flex-direction: column; gap: 6px; flex: 1 1 210px; min-width: 0; }
       .ck-field > label { font-size: 13.5px; font-weight: 650; color: var(--ink-2); }
@@ -240,12 +241,14 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
       .checker .go-btn:active { transform: translateY(0); }
       @media (max-width: 640px) { .swap-btn { transform: rotate(90deg); } .swap-btn.flip svg { transform: rotate(180deg); } }
       .route-chips { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 18px; align-items: center; }
-      .route-chips .rc-label { font-size: 13px; color: #bcd6c6; font-weight: 600; }
+      .route-chips .rc-label { flex: 0 0 100%; font-size: 13px; color: #bcd6c6; font-weight: 600; }
       .route-chip {
+        flex: 1 1 26%; text-align: center;
         border: 1px solid rgba(255,255,255,.35); background: rgba(255,255,255,.08); color: #eef6f1;
         border-radius: 999px; padding: 6px 14px; font-size: 13.5px; font-weight: 600; cursor: pointer; font-family: inherit;
         transition: background-color .16s var(--ease), border-color .16s var(--ease), transform .16s var(--ease);
       }
+      @media (max-width: 640px) { .route-chip { flex-basis: 44%; } }
       .route-chip:hover { background: rgba(255,255,255,.18); border-color: rgba(255,255,255,.6); transform: translateY(-1px); }
 
       /* instant verdict card (homepage checker result) */
@@ -262,9 +265,10 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
       .vc-big { font-size: 24px; font-weight: 800; letter-spacing: -0.02em; line-height: 1.2; }
       .vc-sub { color: var(--ink-2); font-size: 15px; margin-top: 3px; }
       .vc-actions { margin: 14px 0 0; }
-      .vc-seal { flex: none; text-align: center; width: 104px; }
+      .vc-seal { flex: none; text-align: center; width: 136px; }
       .vc-seal .stamp-svg { margin: 0 auto; }
-      .vc-seal-cap { display: block; font-size: 11.5px; font-weight: 700; color: var(--ink-2); margin-top: 6px; line-height: 1.35; }
+      .vc-seal-cap { display: block; font-size: 12px; font-weight: 700; color: var(--ink-2); margin-top: 6px; line-height: 1.35; }
+      .vc-seal-cap .nw { white-space: nowrap; }
       @media (max-width: 560px) { .verdict-card { flex-direction: column; } .vc-seal { width: auto; text-align: left; } .vc-seal .stamp-svg { margin: 0; } }
       @keyframes riseIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
       @keyframes stampIn {
@@ -285,7 +289,9 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
 
       /* ================= stat band ================= */
       .stat-band { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin: 26px 0 6px; }
-      @media (max-width: 720px) { .stat-band { grid-template-columns: repeat(2, 1fr); } }
+      .stat-band.five { grid-template-columns: repeat(5, 1fr); }
+      @media (max-width: 900px) { .stat-band.five { grid-template-columns: repeat(3, 1fr); } }
+      @media (max-width: 720px) { .stat-band { grid-template-columns: repeat(2, 1fr); } .stat-band.five { grid-template-columns: repeat(2, 1fr); } }
       .stat-tile { background: var(--card); border: 1px solid var(--line); border-radius: 16px; padding: 17px 19px; transition: border-color .16s var(--ease), transform .16s var(--ease), box-shadow .16s var(--ease); }
       .stat-tile:hover { border-color: #bfe3d0; transform: translateY(-2px); box-shadow: var(--sh-md); }
       .stat-tile b { display: block; font-size: 33px; font-weight: 800; letter-spacing: -0.025em; font-variant-numeric: tabular-nums; line-height: 1.1; }
@@ -307,6 +313,7 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
       }
       .route-card:hover { text-decoration: none; border-color: var(--brand); transform: translateY(-3px); box-shadow: var(--sh-md); }
       .route-card .rc-top { display: flex; align-items: center; gap: 8px; padding-right: 18px; }
+      .route-card .rc-flag { font-size: 16px; line-height: 1; flex: none; }
       .route-card .rc-name { font-weight: 700; font-size: 15.5px; }
       .route-card .rc-meta { display: block; font-size: 13.5px; color: var(--muted); margin-top: 3px; }
       .route-card .chip { margin-top: 9px; }
@@ -335,7 +342,7 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
       /* ================= verdict hero & seals ================= */
       .verdict { border: 1px solid var(--line); border-left: 5px solid var(--brand); border-radius: 12px; padding: 18px 20px; background: var(--soft); margin: 18px 0; }
       .verdict .big { font-size: 24px; font-weight: 700; letter-spacing: -0.01em; }
-      .verdict-hero { border: 1px solid var(--line); border-top: 6px solid var(--brand); border-radius: 16px; padding: 22px 24px; margin: 16px 0; background: var(--card); position: relative; overflow: hidden; }
+      .verdict-hero { border: 1px solid var(--line); border-top: 3px solid var(--brand); border-radius: 16px; padding: 22px 24px; margin: 16px 0; background: var(--card); position: relative; overflow: hidden; }
       .verdict-hero.s-F { border-top-color: var(--f); background: var(--f-bg); }
       .verdict-hero.s-A { border-top-color: var(--a); background: var(--a-bg); }
       .verdict-hero.s-E { border-top-color: var(--e); background: var(--e-bg); }
@@ -361,7 +368,7 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
       .seal-block.verified { border: 1.5px solid var(--brand); background: #eef7f2; color: var(--ink); }
       .seal-block.verified .seal-art { color: var(--brand); --check: var(--brand); }
       .seal-block.pending { border: 1.5px dashed #b8b2a4; background: #f4f2ec; color: var(--ink-2); }
-      .seal-block.pending .seal-art { color: #8a8378; }
+      .seal-block.pending .seal-art { color: #6f6a5e; }
       .seal-block.compact { padding: 13px 15px; font-size: 13.5px; margin: 12px 0 0; }
       .js .seal-block.inview.verified .seal-art .stamp-svg { animation: stampIn .5s var(--spring) both; }
       /* round-1 .seal alias kept for safety */
@@ -374,20 +381,21 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
       table.spec th, table.spec td { text-align: left; padding: 9px 12px; border-bottom: 1px solid var(--line); vertical-align: top; font-size: 15px; }
       table.spec th { width: 190px; color: var(--muted); font-weight: 600; }
       .spec-card { background: var(--card); border: 1px solid var(--line); border-radius: 16px; padding: 4px 22px; margin: 12px 0; box-shadow: var(--sh-sm); }
-      .spec-row { display: flex; gap: 18px; padding: 12px 6px; border-bottom: 1px solid var(--line); font-size: 15.5px; border-radius: 8px; transition: background-color .16s var(--ease); }
+      .spec-row { display: flex; gap: 18px; padding: 12px 6px; border-bottom: 1px solid var(--line); font-size: 15.5px; border-radius: 8px; background: transparent; transition: background-color .16s var(--ease); }
       .spec-row:last-child { border-bottom: 0; }
       .spec-row:hover { background: var(--soft); }
       .spec-row dt { flex: 0 0 190px; color: var(--muted); font-weight: 600; margin: 0; }
       .spec-row dd { margin: 0; font-weight: 550; }
       @media (max-width: 640px) { .spec-row { flex-direction: column; gap: 2px; } .spec-row dt { flex: none; } }
       .source-link {
-        display: inline-flex; align-items: center; gap: 7px; max-width: 100%;
-        border: 1px solid var(--line); background: var(--soft); color: var(--ink); font-weight: 600;
-        border-radius: 999px; padding: 4px 13px; font-size: 14px;
+        display: inline-flex; flex-direction: column; align-items: flex-start; gap: 1px; max-width: 100%;
+        border: 1px solid var(--line); background: var(--soft); color: var(--ink);
+        border-radius: 14px; padding: 9px 15px;
         transition: border-color .16s var(--ease), background-color .16s var(--ease);
       }
       .source-link:hover { text-decoration: none; border-color: var(--brand); background: var(--f-bg); }
-      .source-link .host { color: var(--muted); font-weight: 550; }
+      .source-link .src-name { display: inline-flex; align-items: center; gap: 7px; font-size: 15px; font-weight: 650; line-height: 1.35; }
+      .source-link .host { color: var(--muted); font-weight: 600; font-size: 12px; letter-spacing: .05em; text-transform: uppercase; }
       .source-link svg { flex: none; color: var(--brand); transition: transform .16s var(--ease); }
       .source-link:hover svg { transform: translate(1px, -1px); }
 
@@ -398,22 +406,24 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
         background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 15px 18px; font-size: 15.5px;
         transition: border-color .16s var(--ease), transform .16s var(--ease), box-shadow .16s var(--ease);
       }
-      ol.steps li:hover { border-color: #bfe3d0; transform: translateY(-2px); box-shadow: var(--sh-md); }
+      ol.steps li:hover { border-color: #bfe3d0; box-shadow: var(--sh-md); }
       ol.steps li::before {
         content: counter(step); flex: none; width: 28px; height: 28px; border-radius: 50%;
         background: var(--brand-ink); color: #fff; font-weight: 750; font-size: 14.5px; font-variant-numeric: tabular-nums;
         display: flex; align-items: center; justify-content: center; margin-top: 1px; position: relative; z-index: 1;
       }
       ol.steps li:not(:last-child)::after {
-        content: ""; position: absolute; left: 31px; top: 46px; bottom: -11px; width: 2px;
+        /* continuous thread: crosses the 10px grid gap and the next card's top
+           padding, ending exactly at the next step's number circle */
+        content: ""; position: absolute; left: 31px; top: 46px; bottom: -28px; width: 2px;
         background: linear-gradient(var(--line-strong), var(--line)); border-radius: 2px;
         transform-origin: top; transition: transform .7s var(--ease);
       }
       .js ol.steps[data-reveal] li::after { transform: scaleY(0); }
       .js ol.steps[data-reveal].inview li::after { transform: scaleY(1); }
-      .checklist-card { background: var(--card); border: 1px solid var(--line); border-radius: 16px; padding: 8px 22px; box-shadow: var(--sh-sm); }
+      .checklist-card { background: var(--card); border: 1px solid var(--line); border-radius: 16px; padding: 8px 22px; box-shadow: var(--sh-sm); overflow: hidden; }
       ul.checklist { list-style: none; padding: 0; margin: 0; }
-      ul.checklist li { display: flex; gap: 12px; font-size: 15.5px; align-items: flex-start; padding: 10px 6px; border-bottom: 1px solid var(--line); border-radius: 8px; transition: background-color .16s var(--ease); }
+      ul.checklist li { display: flex; gap: 12px; font-size: 15.5px; align-items: flex-start; margin: 0 -22px; padding: 10px 22px; border-bottom: 1px solid var(--line); transition: background-color .16s var(--ease); }
       ul.checklist li:last-child { border-bottom: 0; }
       ul.checklist li:hover { background: var(--soft); }
       .ck-ic { flex: none; width: 22px; height: 22px; border-radius: 50%; background: var(--f-bg); border: 1px solid #bfe3d0; color: var(--brand); display: flex; align-items: center; justify-content: center; margin-top: 1px; }
@@ -438,13 +448,14 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
       /* ================= shelf ================= */
       .shelf { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin: 14px 0; }
       @media (max-width: 720px) { .shelf { grid-template-columns: 1fr; } }
-      .shelf .card { position: relative; overflow: hidden; transition: transform .18s var(--ease), box-shadow .18s var(--ease), border-color .18s var(--ease); }
+      .shelf .card { position: relative; overflow: hidden; display: flex; flex-direction: column; transition: transform .18s var(--ease), box-shadow .18s var(--ease), border-color .18s var(--ease); }
       .shelf .card::before { content: ""; position: absolute; left: 0; right: 0; top: 0; height: 3px; background: var(--brand); transform: scaleX(0); transform-origin: left; transition: transform .3s var(--ease); }
       .shelf .card:hover { transform: translateY(-3px); box-shadow: var(--sh-md); border-color: #bfe3d0; }
       .shelf .card:hover::before { transform: scaleX(1); }
-      .shelf .card .k { font-size: 11.5px; text-transform: uppercase; letter-spacing: .08em; color: var(--gold); font-weight: 750; }
+      .shelf .card .k { font-size: 11.5px; text-transform: uppercase; letter-spacing: .08em; color: var(--gold-ink); font-weight: 750; }
       .shelf .card .t { font-weight: 800; font-size: 18px; margin: 4px 0; letter-spacing: -0.01em; }
-      .shelf .card p { margin: 4px 0 12px; font-size: 14.5px; color: var(--ink-2); }
+      .shelf .card p { margin: 4px 0 14px; font-size: 14.5px; color: var(--ink-2); }
+      .shelf .card .visit-link { margin-top: auto; align-self: flex-start; }
       .visit-link { display: inline-flex; align-items: center; gap: 7px; font-weight: 700; font-size: 14.5px; }
       .visit-link .arr { transition: transform .16s var(--ease); }
       .visit-link:hover { text-decoration: none; }
@@ -456,11 +467,14 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
       .how-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin: 14px 0; }
       .how-grid.cols-2 { grid-template-columns: repeat(2, 1fr); }
       @media (max-width: 860px) { .how-grid { grid-template-columns: 1fr; } .how-grid.cols-2 { grid-template-columns: 1fr; } }
-      .how-card { background: var(--card); border: 1px solid var(--line); border-radius: 16px; padding: 19px 21px; transition: transform .18s var(--ease), box-shadow .18s var(--ease), border-color .18s var(--ease); }
+      .how-card { background: var(--card); border: 1px solid var(--line); border-radius: 16px; padding: 19px 21px; display: flex; flex-direction: column; transition: transform .18s var(--ease), box-shadow .18s var(--ease), border-color .18s var(--ease); }
       .how-card:hover { transform: translateY(-3px); box-shadow: var(--sh-md); border-color: #bfe3d0; }
-      .how-card .num { display: inline-flex; align-items: center; justify-content: center; width: 31px; height: 31px; border-radius: 50%; background: var(--brand-ink); color: #fff; font-weight: 750; font-size: 15px; font-variant-numeric: tabular-nums; }
+      .how-card .num { display: inline-flex; align-items: center; justify-content: center; width: 31px; height: 31px; border-radius: 50%; background: var(--brand-ink); color: #fff; font-weight: 750; font-size: 15px; font-variant-numeric: tabular-nums; align-self: flex-start; }
       .how-card h3 { margin: 11px 0 6px; }
-      .how-card p { margin: 0; font-size: 15px; color: var(--ink-2); }
+      .how-card p { margin: 0 0 14px; font-size: 15px; color: var(--ink-2); }
+      /* sample seal pins to the card bottom: grid stretch equalises card heights,
+         margin-top:auto aligns the seal block with the shared bottom baseline */
+      .how-card .seal-block { margin-top: auto; }
       .contrast { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 14px 0; }
       @media (max-width: 720px) { .contrast { grid-template-columns: 1fr; } }
       .contrast-card { border-radius: 16px; padding: 19px 21px; border: 1px solid var(--line); background: var(--card); }
@@ -475,9 +489,9 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
       .rank-rows { display: grid; gap: 8px; margin: 12px 0; }
       .rank-row { display: flex; align-items: center; gap: 13px; background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 12px 17px; transition: border-color .16s var(--ease), transform .16s var(--ease), box-shadow .16s var(--ease); }
       .rank-row:hover { border-color: #bfe3d0; transform: translateY(-2px); box-shadow: var(--sh-md); }
-      .rank-medal { flex: none; width: 31px; height: 31px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 14.5px; background: var(--soft); border: 1px solid var(--line-strong); color: var(--ink-2); font-variant-numeric: tabular-nums; }
+      .rank-medal { flex: 0 0 auto; width: 31px; height: 31px; aspect-ratio: 1 / 1; padding: 0; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 14.5px; background: var(--soft); border: 1px solid var(--line-strong); color: var(--ink-2); font-variant-numeric: tabular-nums; }
       .rank-medal.top { background: #faf0cd; border: 1.5px solid var(--gold); color: #7a5d08; box-shadow: inset 0 0 0 2.5px #fff8e1; }
-      .rank-medal.big { width: 58px; height: 58px; font-size: 19px; border-width: 2px; box-shadow: inset 0 0 0 3px var(--paper); }
+      .rank-medal.big { width: 58px; height: 58px; aspect-ratio: 1 / 1; font-size: 19px; border-width: 2px; box-shadow: inset 0 0 0 3px var(--paper); }
       .rank-row .rr-name { font-weight: 700; flex: none; }
       .rank-row .bar { flex: 1; height: 8px; border-radius: 999px; background: var(--soft); border: 1px solid var(--line); overflow: hidden; min-width: 60px; }
       .rank-row .bar i { display: block; height: 100%; background: linear-gradient(90deg, var(--brand), #149a73); border-radius: 999px; transition: width 1s var(--ease); }
@@ -496,8 +510,9 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
       .closing-band p { color: #c9ded2; }
       .closing-band .cb-actions { display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; margin-top: 16px; }
       .hub-hero-flex { display: flex; gap: 18px; align-items: flex-start; }
-      .hub-hero-flex .rank-block { flex: none; text-align: center; margin-left: auto; }
+      .hub-hero-flex .rank-block { flex: none; text-align: center; margin-left: auto; max-width: 190px; }
       .hub-hero-flex .rank-block .rb-label { font-size: 11.5px; text-transform: uppercase; letter-spacing: .08em; font-weight: 700; color: var(--muted); margin-top: 6px; }
+      .hub-hero-flex .rank-block .rb-note { font-size: 12px; line-height: 1.45; color: var(--muted); margin-top: 5px; }
 
       /* ================= hub filter chips ================= */
       .filter-chips { display: flex; gap: 8px; flex-wrap: wrap; margin: 20px 0 4px; }
@@ -596,12 +611,15 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
       .f-legal a { color: #9fd8bc; }
 
       /* ================= 404 ================= */
-      .nf { text-align: center; padding: 34px 0 10px; }
-      .nf .nf-seal { margin: 0 auto 8px; color: #8a8378; }
+      .nf { text-align: center; padding: 22px 0 6px; }
+      .nf .nf-seal { margin: 0 auto 2px; color: #6f6a5e; }
       .nf .nf-seal .stamp-svg { margin: 0 auto; }
-      .nf h1 { margin-top: 10px; }
+      .nf .nf-code { font-size: clamp(64px, 12vw, 104px); font-weight: 800; letter-spacing: -0.04em; line-height: 1; color: var(--brand-ink); margin: 2px 0 0; font-variant-numeric: tabular-nums; }
+      .nf h1 { margin-top: 8px; }
       .nf .lede { max-width: 520px; margin: 0 auto 18px; }
-      .nf .cb-actions { display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; }
+      .nf .cb-actions { display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; margin-top: 18px; }
+      .nf-checker { max-width: 840px; margin: 0 auto; text-align: left; }
+      .nf-checker .checker-card { box-shadow: var(--sh-md); border: 1px solid var(--line); margin: 0 auto; }
 
       @media (max-width: 640px) { h1 { font-size: 26px; } }
 
@@ -642,9 +660,9 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
     <div class="trustbar">
       <div class="wrap">
         <div class="tb-in">
-          <span><b data-count={data.pairCount}>{pairCountFmt}</b> pairs</span>
-          <span><b data-count={verifiedCount}>{verifiedFmt}</b> verified against official sources</span>
-          <span><b data-count={changelogCount}>{correctionsFmt}</b> corrections published</span>
+          <span><b>{pairCountFmt}</b> pairs</span>
+          <span><b>{verifiedFmt}</b> verified against official sources</span>
+          <span><b>{correctionsFmt}</b> corrections published</span>
           <span>See the <a href="/changelog/">changelog</a> · <a href="/about/">how we verify</a></span>
         </div>
       </div>
@@ -709,34 +727,19 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
           onScroll();
         }
 
-        /* reveal + count-up (IntersectionObserver, once) */
+        /* reveal on scroll (IntersectionObserver, once).
+           All statistics are server-rendered final values and are never
+           animated — no frame may ever display a wrong number. */
         var revealEls = document.querySelectorAll('[data-reveal]');
-        var countEls = document.querySelectorAll('[data-count]');
-        function fmt(n) { return Math.round(n).toLocaleString('en-US'); }
-        function countUp(el) {
-          var target = parseFloat(el.getAttribute('data-count'));
-          if (reduce || !isFinite(target) || target <= 0) { el.textContent = fmt(target || 0); return; }
-          var dur = 900, t0 = null;
-          function step(ts) {
-            if (!t0) t0 = ts;
-            var p = Math.min(1, (ts - t0) / dur);
-            var e = 1 - Math.pow(1 - p, 3);
-            el.textContent = fmt(target * e);
-            if (p < 1) requestAnimationFrame(step); else el.textContent = fmt(target);
-          }
-          requestAnimationFrame(step);
-        }
         if ('IntersectionObserver' in window) {
           var io = new IntersectionObserver(function (entries) {
             entries.forEach(function (en) {
               if (!en.isIntersecting) return;
               en.target.classList.add('inview');
-              if (en.target.hasAttribute('data-count')) countUp(en.target);
               io.unobserve(en.target);
             });
           }, { threshold: 0.25 });
           revealEls.forEach(function (el) { io.observe(el); });
-          countEls.forEach(function (el) { io.observe(el); });
         } else {
           revealEls.forEach(function (el) { el.classList.add('inview'); });
         }
@@ -927,8 +930,8 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
           var key = pc.code + ':' + dc.code;
           var vDate = VERIFIED[key];
           var seal = vDate
-            ? '<div class="vc-seal" style="color:var(--brand)"><div class="stamp-anim stamp-anim-pulse">' + sealSVG('verified', 96) + '</div><span class="vc-seal-cap">Verified ' + esc(fmtDate(vDate)) + '<br/>against an official source</span></div>'
-            : '<div class="vc-seal" style="color:#8a8378">' + sealSVG('pending', 96) + '<span class="vc-seal-cap">Dataset value — not yet individually verified</span></div>';
+            ? '<div class="vc-seal" style="color:var(--brand)"><div class="stamp-anim stamp-anim-pulse">' + sealSVG('verified', 96) + '</div><span class="vc-seal-cap"><span class="nw">Verified ' + esc(fmtDate(vDate)) + '</span><br/>against an official source</span></div>'
+            : '<div class="vc-seal" style="color:#6f6a5e">' + sealSVG('pending', 96) + '<span class="vc-seal-cap">Dataset value —<br/>not yet individually verified</span></div>';
           out.innerHTML =
             '<div class="verdict-card enter s-' + code + '">'
             + '<div class="vc-main">'

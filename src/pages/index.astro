@@ -1,6 +1,7 @@
 ---
 import Base from '../layouts/Base.astro';
 import Stamp from '../components/Stamp.astro';
+import Checker from '../components/Checker.astro';
 import {
   countries,
   countryBySlug,
@@ -9,7 +10,6 @@ import {
   verifiedCount,
   changelogCount,
   passportsByEasy,
-  verifiedPairDates,
   statusLabel,
   STATUS_ORDER,
   STATUS_BLURB,
@@ -19,6 +19,10 @@ import {
 
 const ranked = passportsByEasy.slice(0, 10);
 const maxEasy = ranked[0]?.easy || 1;
+const minEasy = ranked[ranked.length - 1]?.easy ?? 0;
+// Rescale bars across the displayed top-10 range so close scores (185 vs 186) still read differently.
+const barPct = (easy: number) =>
+  maxEasy === minEasy ? 100 : Math.round(42 + ((easy - minEasy) / (maxEasy - minEasy)) * 58);
 const popularPassports = ['united-states', 'united-kingdom', 'japan', 'germany', 'canada', 'australia', 'singapore', 'france']
   .map((slug) => countryBySlug[slug])
   .filter(Boolean);
@@ -44,46 +48,15 @@ const correctionsFmt = changelogCount.toLocaleString('en-US');
   title="Visa Requirements Checker — Do You Need a Visa? | visafreely"
   description="Check visa requirements for 199 passports and 39,402 country pairs: visa free, visa on arrival, e-Visa, ETA or visa required — with per-pair verification dates."
 >
-  <script is:inline define:vars={{ verifiedPairDates }}>window.__VF_VERIFIED = verifiedPairDates;</script>
   <section class="band dark">
-    <div class="hero-wm" aria-hidden="true"><Stamp size={470} /></div>
+    <div class="hero-wm" aria-hidden="true"><Stamp size={330} /></div>
     <div class="band-in">
       <h1 class="h-display">Do you need a visa? Get the answer — and the evidence.</h1>
       <p class="lede">
         {countries.length} passports · {pairCountFmt} routes. Every answer shows when it was last
         checked against an official source — or says plainly that it hasn't been yet.
       </p>
-      <div class="checker-card" id="checker" style="scroll-margin-top:76px;">
-        <p class="ck-eyebrow">
-          <Stamp size={17} />
-          Check a route — get the stamp
-        </p>
-        <form id="ck-form" class="checker" aria-label="Visa requirement checker">
-          <div class="ck-field">
-            <label for="ck-passport">I hold a passport from</label>
-            <div class="ck-wrap">
-              <span class="ck-flag" id="ck-flag-p" aria-hidden="true"></span>
-              <input id="ck-passport" class="ck-input" placeholder="Start typing a country…" autocomplete="off" role="combobox" aria-expanded="false" aria-controls="ck-list-p" aria-autocomplete="list" required />
-              <svg class="ck-chev" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M5 9l7 7 7-7" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
-              <ul class="ck-list" id="ck-list-p" role="listbox" aria-label="Passport countries"></ul>
-            </div>
-          </div>
-          <button type="button" id="ck-swap" class="swap-btn" aria-label="Swap passport and destination" title="Swap">
-            <svg width="19" height="19" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4 7h13M13 3.5L16.5 7 13 10.5M20 17H7M11 13.5L7.5 17l3.5 3.5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-          </button>
-          <div class="ck-field">
-            <label for="ck-destination">I want to visit</label>
-            <div class="ck-wrap">
-              <span class="ck-flag" id="ck-flag-d" aria-hidden="true"></span>
-              <input id="ck-destination" class="ck-input" placeholder="Start typing a country…" autocomplete="off" role="combobox" aria-expanded="false" aria-controls="ck-list-d" aria-autocomplete="list" required />
-              <svg class="ck-chev" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M5 9l7 7 7-7" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
-              <ul class="ck-list" id="ck-list-d" role="listbox" aria-label="Destination countries"></ul>
-            </div>
-          </div>
-          <button type="submit" class="go-btn">Check</button>
-        </form>
-        <div id="ck-result" hidden></div>
-      </div>
+      <Checker />
       <div class="route-chips">
         <span class="rc-label">Popular routes:</span>
         {popularRoutes.map((r) => (
@@ -98,10 +71,10 @@ const correctionsFmt = changelogCount.toLocaleString('en-US');
   </section>
 
   <div class="stat-band">
-    <div class="stat-tile"><b data-count={countries.length}>{countries.length}</b><span>passports covered</span></div>
-    <div class="stat-tile"><b data-count={data.pairCount}>{pairCountFmt}</b><span>passport → destination pairs</span></div>
-    <div class="stat-tile"><b data-count={verifiedCount}>{verifiedFmt}</b><span>pairs verified against official sources</span></div>
-    <div class="stat-tile"><b data-count={changelogCount}>{correctionsFmt}</b><span>corrections published</span></div>
+    <div class="stat-tile"><b>{countries.length}</b><span>passports covered</span></div>
+    <div class="stat-tile"><b>{pairCountFmt}</b><span>passport → destination pairs</span></div>
+    <div class="stat-tile"><b>{verifiedFmt}</b><span>pairs verified against official sources</span></div>
+    <div class="stat-tile"><b>{correctionsFmt}</b><span>corrections published</span></div>
   </div>
 
   <h2>How it works</h2>
@@ -145,7 +118,7 @@ const correctionsFmt = changelogCount.toLocaleString('en-US');
       <h3><svg width="19" height="19" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M12 3l7 3v5c0 4.6-3 8.4-7 10-4-1.6-7-5.4-7-10V6l7-3z" stroke="currentColor" stroke-width="1.9" stroke-linejoin="round"/><path d="M9 12l2 2 4-4" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/></svg>visafreely</h3>
       <ul>
         <li><svg width="15" height="15" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4.5 12.5l5 5L19.5 7" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>A verified date and a named official source on {verifiedFmt} pairs — and counting</li>
-        <li><svg width="15" height="15" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4.5 12.5l5 5L19.5 7" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>Every correction published in a public <a href="/changelog/">changelog</a>: old value, new value, source</li>
+        <li><svg width="15" height="15" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4.5 12.5l5 5L19.5 7" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg><span>Every correction published in a public <a href="/changelog/">changelog</a>: old value, new value, source</span></li>
         <li><svg width="15" height="15" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4.5 12.5l5 5L19.5 7" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>Announced end dates shown as “Scheduled change” warnings on the pair page</li>
         <li><svg width="15" height="15" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4.5 12.5l5 5L19.5 7" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>Unverified pairs labelled plainly, never dressed up</li>
       </ul>
@@ -159,7 +132,7 @@ const correctionsFmt = changelogCount.toLocaleString('en-US');
       <div class="rank-row">
         <span class={`rank-medal${i < 3 ? ' top' : ''}`}>{i + 1}</span>
         <a class="rr-name" href={`/passport/${r.c.slug}/`}>{r.c.name}</a>
-        <span class="bar" aria-hidden="true"><i style={`--w:${Math.round((r.easy / maxEasy) * 100)}%;width:var(--w)`}></i></span>
+        <span class="bar" aria-hidden="true"><i style={`--w:${barPct(r.easy)}%;width:var(--w)`}></i></span>
         <span class="rr-count">{r.easy} without a prior visa · {r.free} fully visa free</span>
       </div>
     ))}

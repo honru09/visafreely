@@ -1,6 +1,7 @@
 ---
 import Base from '../layouts/Base.astro';
 import Stamp from '../components/Stamp.astro';
+import Checker from '../components/Checker.astro';
 ---
 
 <Base
@@ -9,16 +10,20 @@ import Stamp from '../components/Stamp.astro';
 >
   <div class="nf">
     <div class="nf-seal" aria-hidden="true">
-      <Stamp variant="seal" state="pending" size={128} />
+      <Stamp variant="seal" state="pending" size={112} />
     </div>
+    <div class="nf-code" aria-hidden="true">404</div>
     <h1>This route isn't stamped in</h1>
     <p class="lede">
       The page you asked for doesn't exist — but the answer you came for probably does.
       Check the route directly, or browse by passport.
     </p>
+    <div class="nf-checker">
+      <Checker />
+    </div>
     <div class="cb-actions">
-      <a class="btn" href="/#checker">Check a route <span class="arr">→</span></a>
       <a class="btn ghost" href="/passports/">Browse passports</a>
+      <a class="btn ghost" href="/destinations/">Browse destinations</a>
     </div>
   </div>
 </Base>

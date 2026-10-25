@@ -134,9 +134,11 @@ const freePassports = countries
           </p>
           <p>
             <a class="source-link" href={extra.source} rel="noopener" target="_blank">
-              {extra.source_name}
+              <span class="src-name">
+                {extra.source_name}
+                <svg width="13" height="13" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M7 17L17 7M9.5 7H17v7.5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+              </span>
               {sourceHost && <span class="host">{sourceHost}</span>}
-              <svg width="13" height="13" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M7 17L17 7M9.5 7H17v7.5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
             </a>
           </p>
           {extra.note && <p>{extra.note}</p>}
@@ -271,7 +273,6 @@ const freePassports = countries
             <a class="route-card" href={pairPath(p, countryByCode[r.d])}>
               <span class="rc-top"><span class={`sdot ${r.s}`}></span><span class="rc-name">{countryByCode[r.d].name}</span></span>
               <span class="rc-meta">{verdictText(r)}</span>
-              <span class={`chip ${r.s}`}>{statusLabel(r.s)}</span>
               <svg class="rc-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4 12h15M13 5.5L19.5 12 13 18.5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
             </a>
           ))}
@@ -288,7 +289,6 @@ const freePassports = countries
             <a class="route-card" href={pairPath(x.c, d)}>
               <span class="rc-top"><span class="sdot F"></span><span class="rc-name">{x.c.name}</span></span>
               <span class="rc-meta">{verdictText(x.r)}</span>
-              <span class="chip F">{statusLabel('F')}</span>
               <svg class="rc-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4 12h15M13 5.5L19.5 12 13 18.5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
             </a>
           ))}
