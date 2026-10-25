@@ -35,7 +35,10 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
     <meta name="twitter:description" content={description} />
     <link rel="preload" href="/fonts/inter-400.woff2" as="font" type="font/woff2" crossorigin />
     <link rel="preload" href="/fonts/inter-700.woff2" as="font" type="font/woff2" crossorigin />
-    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cg transform='rotate(-6 24 24)'%3E%3Crect x='5' y='5' width='38' height='38' rx='11' fill='none' stroke='%230b6e4f' stroke-width='3.6'/%3E%3Cpath d='M15.5 17L23 30.5L33.5 13.5' fill='none' stroke='%230b6e4f' stroke-width='4.4' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/g%3E%3C/svg%3E" />
+    <link rel="icon" type="image/svg+xml" sizes="16x16" href="/favicon-16.svg" />
+    <link rel="icon" type="image/svg+xml" sizes="32x32" href="/favicon.svg" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="apple-touch-icon" href="/favicon.svg" />
     <script is:inline>document.documentElement.classList.add('js');</script>
     <style is:global>
       /* ================= fonts ================= */
@@ -193,7 +196,7 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
 
       /* ================= checker ================= */
       .checker-card { background: var(--card); border-radius: 18px; box-shadow: var(--sh-lg); padding: 22px; color: var(--ink); max-width: 840px; position: relative; }
-      .ck-eyebrow { display: flex; align-items: center; gap: 8px; margin: 0 0 14px; font-size: 12px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: var(--gold-ink); }
+      .ck-eyebrow { display: flex; align-items: center; gap: 8px; margin: 0 0 14px; font-size: 12px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: var(--gold-ink); --check: var(--brand); }
       .checker { display: flex; gap: 10px; flex-wrap: wrap; align-items: end; }
       .ck-field { display: flex; flex-direction: column; gap: 6px; flex: 1 1 210px; min-width: 0; }
       .ck-field > label { font-size: 13.5px; font-weight: 650; color: var(--ink-2); }
@@ -802,9 +805,14 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
           var uid = 'j' + Math.random().toString(36).slice(2, 8);
           var top = '<path id="' + uid + 't" d="M11.5,48 a36.5,36.5 0 0,1 73,0" fill="none"/>';
           var bot = '<path id="' + uid + 'b" d="M4.8,48 a43.2,43.2 0 0,0 86.4,0" fill="none"/>';
-          var center = state === 'verified'
-            ? '<path d="M32 40L44.5 58L65 33" stroke="currentColor" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>'
-            : '<g stroke="currentColor" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round" fill="none"><circle cx="48" cy="47" r="11"/><path d="M48 39.5V47l5 3.4"/></g>';
+          var center = '<g transform="translate(48 48.8) scale(0.58) translate(-37.2 -32)" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">'
+            + '<rect x="16" y="8" width="32" height="48" rx="6" stroke-width="3.8"/>'
+            + '<path d="M21.5 14 V50" stroke-width="2"/>'
+            + '<circle cx="34" cy="27.5" r="10.5" stroke-width="2.4"/>'
+            + '<ellipse cx="34" cy="27.5" rx="4.2" ry="10.5" stroke-width="2.2"/>'
+            + '<path d="M23.5 27.5 H44.5" stroke-width="2.2"/>'
+            + '<path class="stamp-check" d="M38 44 L45.5 52.5 L58 39" stroke="var(--check, currentColor)" stroke-width="4.6"/>'
+            + '</g>';
           return '<svg width="' + size + '" height="' + size + '" viewBox="0 0 96 96" fill="none" aria-hidden="true">'
             + '<defs>' + top + bot + '</defs>'
             + '<g transform="rotate(-8 48 48)">'
