@@ -10,6 +10,537 @@
  },
  {
   "date": "2026-10-25",
+  "pair": "TJ:QA",
+  "title": "Tajikistan → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "e-visa",
+  "reason": "Tajik citizens are not eligible for Qatar visa-free entry or visa on arrival; entry is available via the official Hayya e-visa platform (Tourist Visa A1).",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "NI:QA",
+  "title": "Nicaragua → Qatar",
+  "old": "visa free (30 days)",
+  "new": "e-visa",
+  "reason": "Nicaraguan citizens are not eligible for Qatar visa-free entry or visa on arrival; entry is available via the official Hayya e-visa platform (Tourist Visa A1).",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "VE:QA",
+  "title": "Venezuela → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (30 days)",
+  "reason": "Qatar renamed its on-arrival waiver “visa-free entry” (Visit Qatar FAQ: “Nothing changed except the name”); this passport is in the 30-day waiver group (extendable by 30 days).",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "VA:QA",
+  "title": "Vatican City → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (30 days)",
+  "reason": "Qatar renamed its on-arrival waiver “visa-free entry” (Visit Qatar FAQ: “Nothing changed except the name”); this passport is in the 30-day waiver group (extendable by 30 days).",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "UZ:QA",
+  "title": "Uzbekistan → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (30 days)",
+  "reason": "Qatar renamed its on-arrival waiver “visa-free entry” (Visit Qatar FAQ: “Nothing changed except the name”); this passport is in the 30-day waiver group (extendable by 30 days).",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "UY:QA",
+  "title": "Uruguay → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (30 days)",
+  "reason": "Qatar renamed its on-arrival waiver “visa-free entry” (Visit Qatar FAQ: “Nothing changed except the name”); this passport is in the 30-day waiver group (extendable by 30 days).",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "SR:QA",
+  "title": "Suriname → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (30 days)",
+  "reason": "Qatar renamed its on-arrival waiver “visa-free entry” (Visit Qatar FAQ: “Nothing changed except the name”); this passport is in the 30-day waiver group (extendable by 30 days).",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "ZA:QA",
+  "title": "South Africa → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (30 days)",
+  "reason": "Qatar renamed its on-arrival waiver “visa-free entry” (Visit Qatar FAQ: “Nothing changed except the name”); this passport is in the 30-day waiver group (extendable by 30 days).",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "SM:QA",
+  "title": "San Marino → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (30 days)",
+  "reason": "Qatar renamed its on-arrival waiver “visa-free entry” (Visit Qatar FAQ: “Nothing changed except the name”); this passport is in the 30-day waiver group (extendable by 30 days).",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "RW:QA",
+  "title": "Rwanda → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (30 days)",
+  "reason": "Qatar renamed its on-arrival waiver “visa-free entry” (Visit Qatar FAQ: “Nothing changed except the name”); this passport is in the 30-day waiver group (extendable by 30 days).",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "RU:QA",
+  "title": "Russia → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (30 days)",
+  "reason": "Qatar renamed its on-arrival waiver “visa-free entry” (Visit Qatar FAQ: “Nothing changed except the name”); this passport is in the 30-day waiver group (extendable by 30 days).",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "PE:QA",
+  "title": "Peru → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (30 days)",
+  "reason": "Qatar renamed its on-arrival waiver “visa-free entry” (Visit Qatar FAQ: “Nothing changed except the name”); this passport is in the 30-day waiver group (extendable by 30 days).",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "PY:QA",
+  "title": "Paraguay → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (30 days)",
+  "reason": "Qatar renamed its on-arrival waiver “visa-free entry” (Visit Qatar FAQ: “Nothing changed except the name”); this passport is in the 30-day waiver group (extendable by 30 days).",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "PA:QA",
+  "title": "Panama → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (30 days)",
+  "reason": "Qatar renamed its on-arrival waiver “visa-free entry” (Visit Qatar FAQ: “Nothing changed except the name”); this passport is in the 30-day waiver group (extendable by 30 days).",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "MK:QA",
+  "title": "North Macedonia → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (30 days)",
+  "reason": "Qatar renamed its on-arrival waiver “visa-free entry” (Visit Qatar FAQ: “Nothing changed except the name”); this passport is in the 30-day waiver group (extendable by 30 days).",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "MC:QA",
+  "title": "Monaco → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (30 days)",
+  "reason": "Qatar renamed its on-arrival waiver “visa-free entry” (Visit Qatar FAQ: “Nothing changed except the name”); this passport is in the 30-day waiver group (extendable by 30 days).",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "MD:QA",
+  "title": "Moldova → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (30 days)",
+  "reason": "Qatar renamed its on-arrival waiver “visa-free entry” (Visit Qatar FAQ: “Nothing changed except the name”); this passport is in the 30-day waiver group (extendable by 30 days).",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "MX:QA",
+  "title": "Mexico → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (30 days)",
+  "reason": "Qatar renamed its on-arrival waiver “visa-free entry” (Visit Qatar FAQ: “Nothing changed except the name”); this passport is in the 30-day waiver group (extendable by 30 days).",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "MV:QA",
+  "title": "Maldives → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (30 days)",
+  "reason": "Qatar renamed its on-arrival waiver “visa-free entry” (Visit Qatar FAQ: “Nothing changed except the name”); this passport is in the 30-day waiver group (extendable by 30 days).",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "MO:QA",
+  "title": "Macao SAR China → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (30 days)",
+  "reason": "Qatar renamed its on-arrival waiver “visa-free entry” (Visit Qatar FAQ: “Nothing changed except the name”); this passport is in the 30-day waiver group (extendable by 30 days).",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "LB:QA",
+  "title": "Lebanon → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (30 days)",
+  "reason": "Qatar renamed its on-arrival waiver “visa-free entry” (Visit Qatar FAQ: “Nothing changed except the name”); this passport is in the 30-day waiver group (extendable by 30 days).",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "KZ:QA",
+  "title": "Kazakhstan → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (30 days)",
+  "reason": "Qatar renamed its on-arrival waiver “visa-free entry” (Visit Qatar FAQ: “Nothing changed except the name”); this passport is in the 30-day waiver group (extendable by 30 days).",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "ID:QA",
+  "title": "Indonesia → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (30 days)",
+  "reason": "Qatar renamed its on-arrival waiver “visa-free entry” (Visit Qatar FAQ: “Nothing changed except the name”); this passport is in the 30-day waiver group (extendable by 30 days).",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "HK:QA",
+  "title": "Hong Kong SAR China → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (30 days)",
+  "reason": "Qatar renamed its on-arrival waiver “visa-free entry” (Visit Qatar FAQ: “Nothing changed except the name”); this passport is in the 30-day waiver group (extendable by 30 days).",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "GY:QA",
+  "title": "Guyana → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (30 days)",
+  "reason": "Qatar renamed its on-arrival waiver “visa-free entry” (Visit Qatar FAQ: “Nothing changed except the name”); this passport is in the 30-day waiver group (extendable by 30 days).",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "GE:QA",
+  "title": "Georgia → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (30 days)",
+  "reason": "Qatar renamed its on-arrival waiver “visa-free entry” (Visit Qatar FAQ: “Nothing changed except the name”); this passport is in the 30-day waiver group (extendable by 30 days).",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "EC:QA",
+  "title": "Ecuador → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (30 days)",
+  "reason": "Qatar renamed its on-arrival waiver “visa-free entry” (Visit Qatar FAQ: “Nothing changed except the name”); this passport is in the 30-day waiver group (extendable by 30 days).",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "CU:QA",
+  "title": "Cuba → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (30 days)",
+  "reason": "Qatar renamed its on-arrival waiver “visa-free entry” (Visit Qatar FAQ: “Nothing changed except the name”); this passport is in the 30-day waiver group (extendable by 30 days).",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "CR:QA",
+  "title": "Costa Rica → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (30 days)",
+  "reason": "Qatar renamed its on-arrival waiver “visa-free entry” (Visit Qatar FAQ: “Nothing changed except the name”); this passport is in the 30-day waiver group (extendable by 30 days).",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "CO:QA",
+  "title": "Colombia → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (30 days)",
+  "reason": "Qatar renamed its on-arrival waiver “visa-free entry” (Visit Qatar FAQ: “Nothing changed except the name”); this passport is in the 30-day waiver group (extendable by 30 days).",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "CL:QA",
+  "title": "Chile → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (30 days)",
+  "reason": "Qatar renamed its on-arrival waiver “visa-free entry” (Visit Qatar FAQ: “Nothing changed except the name”); this passport is in the 30-day waiver group (extendable by 30 days).",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "BN:QA",
+  "title": "Brunei → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (30 days)",
+  "reason": "Qatar renamed its on-arrival waiver “visa-free entry” (Visit Qatar FAQ: “Nothing changed except the name”); this passport is in the 30-day waiver group (extendable by 30 days).",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "BR:QA",
+  "title": "Brazil → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (30 days)",
+  "reason": "Qatar renamed its on-arrival waiver “visa-free entry” (Visit Qatar FAQ: “Nothing changed except the name”); this passport is in the 30-day waiver group (extendable by 30 days).",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "BA:QA",
+  "title": "Bosnia & Herzegovina → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (30 days)",
+  "reason": "Qatar renamed its on-arrival waiver “visa-free entry” (Visit Qatar FAQ: “Nothing changed except the name”); this passport is in the 30-day waiver group (extendable by 30 days).",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "BO:QA",
+  "title": "Bolivia → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (30 days)",
+  "reason": "Qatar renamed its on-arrival waiver “visa-free entry” (Visit Qatar FAQ: “Nothing changed except the name”); this passport is in the 30-day waiver group (extendable by 30 days).",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "BY:QA",
+  "title": "Belarus → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (30 days)",
+  "reason": "Qatar renamed its on-arrival waiver “visa-free entry” (Visit Qatar FAQ: “Nothing changed except the name”); this passport is in the 30-day waiver group (extendable by 30 days).",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "AZ:QA",
+  "title": "Azerbaijan → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (30 days)",
+  "reason": "Qatar renamed its on-arrival waiver “visa-free entry” (Visit Qatar FAQ: “Nothing changed except the name”); this passport is in the 30-day waiver group (extendable by 30 days).",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "AR:QA",
+  "title": "Argentina → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (30 days)",
+  "reason": "Qatar renamed its on-arrival waiver “visa-free entry” (Visit Qatar FAQ: “Nothing changed except the name”); this passport is in the 30-day waiver group (extendable by 30 days).",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "AD:QA",
+  "title": "Andorra → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (30 days)",
+  "reason": "Qatar renamed its on-arrival waiver “visa-free entry” (Visit Qatar FAQ: “Nothing changed except the name”); this passport is in the 30-day waiver group (extendable by 30 days).",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "US:QA",
+  "title": "United States → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (90 days)",
+  "reason": "Qatar–US bilateral entry agreement: U.S. citizens receive visa-free entry valid for two years enabling multiple entries, with each stay up to 90 days.",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "AM:QA",
+  "title": "Armenia → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (90 days)",
+  "reason": "Qatar’s visa-waiver groups: this passport is in the 90-day waiver group (waiver valid 180 days, multiple entry). Qatar also renamed the waiver “visa-free entry” — it is granted on arrival without prior application.",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "DO:QA",
+  "title": "Dominican Republic → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (90 days)",
+  "reason": "Qatar’s visa-waiver groups: this passport is in the 90-day waiver group (waiver valid 180 days, multiple entry). Qatar also renamed the waiver “visa-free entry” — it is granted on arrival without prior application.",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "AG:QA",
+  "title": "Antigua & Barbuda → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (90 days)",
+  "reason": "Qatar’s visa-waiver groups: this passport is in the 90-day waiver group (waiver valid 180 days, multiple entry). Qatar also renamed the waiver “visa-free entry” — it is granted on arrival without prior application.",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "BS:QA",
+  "title": "Bahamas → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (90 days)",
+  "reason": "Qatar’s visa-waiver groups: this passport is in the 90-day waiver group (waiver valid 180 days, multiple entry). Qatar also renamed the waiver “visa-free entry” — it is granted on arrival without prior application.",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "SC:QA",
+  "title": "Seychelles → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (90 days)",
+  "reason": "Qatar’s visa-waiver groups: this passport is in the 90-day waiver group (waiver valid 180 days, multiple entry). Qatar also renamed the waiver “visa-free entry” — it is granted on arrival without prior application.",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "TR:QA",
+  "title": "Türkiye → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (90 days)",
+  "reason": "Qatar’s visa-waiver groups: this passport is in the 90-day waiver group (waiver valid 180 days, multiple entry). Qatar also renamed the waiver “visa-free entry” — it is granted on arrival without prior application.",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "LI:QA",
+  "title": "Liechtenstein → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (90 days)",
+  "reason": "Qatar’s visa-waiver groups: this passport is in the 90-day waiver group (waiver valid 180 days, multiple entry). Qatar also renamed the waiver “visa-free entry” — it is granted on arrival without prior application.",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "IS:QA",
+  "title": "Iceland → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (90 days)",
+  "reason": "Qatar’s visa-waiver groups: this passport is in the 90-day waiver group (waiver valid 180 days, multiple entry). Qatar also renamed the waiver “visa-free entry” — it is granted on arrival without prior application.",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "SI:QA",
+  "title": "Slovenia → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (90 days)",
+  "reason": "Qatar’s visa-waiver groups: this passport is in the 90-day waiver group (waiver valid 180 days, multiple entry). Qatar also renamed the waiver “visa-free entry” — it is granted on arrival without prior application.",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "SK:QA",
+  "title": "Slovakia → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (90 days)",
+  "reason": "Qatar’s visa-waiver groups: this passport is in the 90-day waiver group (waiver valid 180 days, multiple entry). Qatar also renamed the waiver “visa-free entry” — it is granted on arrival without prior application.",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "RO:QA",
+  "title": "Romania → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (90 days)",
+  "reason": "Qatar’s visa-waiver groups: this passport is in the 90-day waiver group (waiver valid 180 days, multiple entry). Qatar also renamed the waiver “visa-free entry” — it is granted on arrival without prior application.",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "MT:QA",
+  "title": "Malta → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (90 days)",
+  "reason": "Qatar’s visa-waiver groups: this passport is in the 90-day waiver group (waiver valid 180 days, multiple entry). Qatar also renamed the waiver “visa-free entry” — it is granted on arrival without prior application.",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "LU:QA",
+  "title": "Luxembourg → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (90 days)",
+  "reason": "Qatar’s visa-waiver groups: this passport is in the 90-day waiver group (waiver valid 180 days, multiple entry). Qatar also renamed the waiver “visa-free entry” — it is granted on arrival without prior application.",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "LT:QA",
+  "title": "Lithuania → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (90 days)",
+  "reason": "Qatar’s visa-waiver groups: this passport is in the 90-day waiver group (waiver valid 180 days, multiple entry). Qatar also renamed the waiver “visa-free entry” — it is granted on arrival without prior application.",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "LV:QA",
+  "title": "Latvia → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (90 days)",
+  "reason": "Qatar’s visa-waiver groups: this passport is in the 90-day waiver group (waiver valid 180 days, multiple entry). Qatar also renamed the waiver “visa-free entry” — it is granted on arrival without prior application.",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "EE:QA",
+  "title": "Estonia → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (90 days)",
+  "reason": "Qatar’s visa-waiver groups: this passport is in the 90-day waiver group (waiver valid 180 days, multiple entry). Qatar also renamed the waiver “visa-free entry” — it is granted on arrival without prior application.",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "CY:QA",
+  "title": "Cyprus → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (90 days)",
+  "reason": "Qatar’s visa-waiver groups: this passport is in the 90-day waiver group (waiver valid 180 days, multiple entry). Qatar also renamed the waiver “visa-free entry” — it is granted on arrival without prior application.",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "HR:QA",
+  "title": "Croatia → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (90 days)",
+  "reason": "Qatar’s visa-waiver groups: this passport is in the 90-day waiver group (waiver valid 180 days, multiple entry). Qatar also renamed the waiver “visa-free entry” — it is granted on arrival without prior application.",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "BG:QA",
+  "title": "Bulgaria → Qatar",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (90 days)",
+  "reason": "Qatar’s visa-waiver groups: this passport is in the 90-day waiver group (waiver valid 180 days, multiple entry). Qatar also renamed the waiver “visa-free entry” — it is granted on arrival without prior application.",
+  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas"
+ },
+ {
+  "date": "2026-10-25",
   "pair": "WS:MY",
   "title": "Samoa → Malaysia",
   "old": "visa free (30 days)",
