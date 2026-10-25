@@ -3166,5 +3166,30 @@
   "source": "https://www.immigration.gov.lk/pages_t.php?id=60",
   "date": "2026-10-25",
   "days": 30
+ },
+ "AL:AE": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Albania is in the UAE’s 90-day visa-on-arrival group (multiple entry valid for 6 months, stay up to 90 days per bilateral waiver); the dataset’s 180 days conflated the 180-day validity window with the 90-day stay limit.",
+  "source": "https://u.ae/en/information-and-services/visa-and-emirates-id/Types-of-visas/tourist-visa",
+  "date": "2026-10-25"
+ },
+ "MD:AE": {
+  "status": "e-visa",
+  "reason": "Moldovan ordinary passports are not eligible for visa-free entry or visa-on-arrival (UAE Ministry of Foreign Affairs and UAE Embassy confirm Visa Required); an entry permit/e-Visa must be obtained before travel.",
+  "source": "https://www.mofa.gov.ae/en/visa-exemptions-for-non-citizen",
+  "date": "2026-10-25"
+ },
+ "MK:AE": {
+  "status": "e-visa",
+  "reason": "North Macedonian ordinary passports are not eligible for visa-free entry or visa-on-arrival (UAE Ministry of Foreign Affairs and UAE Embassy confirm Visa Required); an entry permit/e-Visa must be obtained before travel.",
+  "source": "https://www.mofa.gov.ae/en/visa-exemptions-for-non-citizen",
+  "date": "2026-10-25"
+ },
+ "MO:AE": {
+  "status": "e-visa",
+  "reason": "Macao SAR ordinary passports are not eligible for visa-free entry or visa-on-arrival (UAE Ministry of Foreign Affairs and UAE Embassy confirm Visa Required); an entry permit/e-Visa must be obtained before travel.",
+  "source": "https://www.mofa.gov.ae/en/visa-exemptions-for-non-citizen",
+  "date": "2026-10-25"
  }
 }
