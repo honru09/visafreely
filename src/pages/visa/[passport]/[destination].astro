@@ -199,6 +199,8 @@ const freePassports = countries
     </ul>
   </div>
 
+  <Shelf status={row.s} passportName={p.name} destinationName={d.name} />
+
   <h2>Requirement details</h2>
   <div class="spec-card">
     <dl style="margin:0;">
@@ -247,8 +249,6 @@ const freePassports = countries
       )
     }
   </div>
-
-  <Shelf mode={shelfMode} passportName={p.name} destinationName={d.name} />
 
   <h2>Frequently asked questions</h2>
   {faq.map((f, i) => (

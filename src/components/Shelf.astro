@@ -1,42 +1,81 @@
 ---
-// Affiliate shelf — placed below the free information on pair pages (incumbent pattern).
+// Affiliate shelf — sits at the natural action point on pair pages: after the
+// verdict, steps and "Before you go" checklist, before the requirement spec table.
 // Live programs: VisaHQ (vaff18633) and SafetyWing (26624375). Airalo stays a plain link until its program is joined.
-// Segmented by route type (2026-10-26): the VisaHQ card renders ONLY on routes that actually
-// need a visa (status R/E). Visa-free / on-arrival / ETA routes show insurance + eSIM only.
-// No-admission routes (status N) render no shelf at all.
+// Presentation is driven by the route's raw status (2026-10-26):
+//   R (embassy visa) — VisaHQ featured full-width, insurance + eSIM secondary.
+//   E (e-visa)       — VisaHQ featured, with an honest note that the official online application exists.
+//   F (visa free)    — no VisaHQ; insurance + eSIM as an equal two-card row.
+//   A (on arrival)   — no VisaHQ; eSIM leads (data on landing), insurance second.
+//   T (ETA)          — no VisaHQ (an ETA is a quick official form); insurance + eSIM two-card row.
+//   N (no admission) — renders nothing at all.
+// Visual identity: "travel kit" panel — tinted band with a dashed stamp-style inner
+// border; cards are boarding-pass style with an icon stub, a Partner tag and a pill CTA.
+import Stamp from './Stamp.astro';
 interface Props {
-  mode: 'visa' | 'general' | 'none';
+  status: string;
   passportName: string;
   destinationName: string;
 }
-const { mode } = Astro.props;
+const { status, destinationName } = Astro.props;
+const isVisa = status === 'R' || status === 'E';
+const headings: Record<string, string> = {
+  R: 'Get this visa handled',
+  E: 'Sort the e-Visa without the form stress',
+  F: 'Plan the rest of the trip',
+  A: `Land ready in ${destinationName}`,
+  T: 'Finish your travel prep',
+};
+const heading = headings[status] ?? 'Plan the rest of the trip';
+const shelfClass = isVisa ? 'shelf shelf--featured' : 'shelf shelf--duo';
 ---
 
-{mode !== 'none' && (
+{status !== 'N' && (
 <section class="shelf-section">
-  <h2>Plan the rest of the trip</h2>
-  <div class="shelf">
-    {mode === 'visa' && (
-    <div class="card">
-      <div class="k">Visa services</div>
-      <div class="t">VisaHQ</div>
-      <p>
-        If you would rather not handle the application yourself, VisaHQ can prepare and submit visa paperwork for a service fee.
-      </p>
-      <a class="visit-link" href="https://www.visahq.co.uk/?a_aid=vaff18633" rel="sponsored nofollow noopener" target="_blank">Visit VisaHQ <span class="arr">→</span></a>
+  <div class="shelf-head">
+    <span class="shelf-stamp" aria-hidden="true"><Stamp size={24} /></span>
+    <h2>{heading}</h2>
+  </div>
+  <div class={shelfClass}>
+    {isVisa && (
+    <div class="card featured">
+      <div class="stub" aria-hidden="true">
+        <svg width="26" height="26" viewBox="0 0 24 24" fill="none"><rect x="5" y="3.5" width="14" height="17" rx="2" stroke="currentColor" stroke-width="1.9"/><path d="M9 8.5h6M9 12h4" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"/><path d="M9.2 16.4l1.6 1.6 3-3.2" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </div>
+      <div class="pass-main">
+        <div class="k">Visa services<span class="partner-tag">Partner</span></div>
+        <div class="t">VisaHQ</div>
+        <p>
+          If you would rather not handle the application yourself, VisaHQ can prepare and submit visa paperwork for a service fee.
+        </p>
+        {status === 'E' && (
+        <p class="official-note">You can also apply yourself on the official government site — this is simply the done-for-you option.</p>
+        )}
+        <a class="visit-link" href="https://www.visahq.co.uk/?a_aid=vaff18633" rel="sponsored nofollow noopener" target="_blank">Visit VisaHQ <span class="arr">→</span></a>
+      </div>
     </div>
     )}
     <div class="card">
-      <div class="k">Travel insurance</div>
-      <div class="t">SafetyWing</div>
-      <p>Travel medical insurance built for long and short trips, with per-day pricing and monthly subscriptions.</p>
-      <a class="visit-link" href="https://safetywing.com/nomad-insurance?referenceID=26624375&utm_source=26624375&utm_medium=Ambassador" rel="sponsored nofollow noopener" target="_blank">Visit SafetyWing <span class="arr">→</span></a>
+      <div class="stub" aria-hidden="true">
+        <svg width="26" height="26" viewBox="0 0 24 24" fill="none"><path d="M12 3.2 19 5.8v5.4c0 4.4-2.9 7.4-7 9.3-4.1-1.9-7-4.9-7-9.3V5.8Z" stroke="currentColor" stroke-width="1.9" stroke-linejoin="round"/><path d="M12 8.2v5.6M9.2 11h5.6" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"/></svg>
+      </div>
+      <div class="pass-main">
+        <div class="k">Travel insurance<span class="partner-tag">Partner</span></div>
+        <div class="t">SafetyWing</div>
+        <p>Travel medical insurance built for long and short trips, with per-day pricing and monthly subscriptions.</p>
+        <a class="visit-link" href="https://safetywing.com/nomad-insurance?referenceID=26624375&utm_source=26624375&utm_medium=Ambassador" rel="sponsored nofollow noopener" target="_blank">Visit SafetyWing <span class="arr">→</span></a>
+      </div>
     </div>
-    <div class="card">
-      <div class="k">Mobile data</div>
-      <div class="t">Airalo</div>
-      <p>Local and regional eSIMs so you land with data working — no physical SIM swap, no roaming bill.</p>
-      <a class="visit-link" href="https://www.airalo.com/" rel="sponsored nofollow noopener" target="_blank">Visit Airalo <span class="arr">→</span></a>
+    <div class={status === 'A' ? 'card card--lead' : 'card'}>
+      <div class="stub" aria-hidden="true">
+        <svg width="26" height="26" viewBox="0 0 24 24" fill="none"><path d="M4.5 10.3a11 11 0 0 1 15 0M7.3 13.7a6.8 6.8 0 0 1 9.4 0" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"/><circle cx="12" cy="17.4" r="1.4" fill="currentColor"/></svg>
+      </div>
+      <div class="pass-main">
+        <div class="k">Mobile data<span class="partner-tag">Partner</span></div>
+        <div class="t">Airalo</div>
+        <p>Local and regional eSIMs so you land with data working — no physical SIM swap, no roaming bill.</p>
+        <a class="visit-link" href="https://www.airalo.com/" rel="sponsored nofollow noopener" target="_blank">Visit Airalo <span class="arr">→</span></a>
+      </div>
     </div>
   </div>
   <p class="honest-line">
