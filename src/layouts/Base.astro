@@ -846,7 +846,7 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
               if (n.indexOf(q) === 0) starts.push(all[i]);
               else if (q && n.indexOf(q) >= 0) contains.push(all[i]);
             }
-            current = (q ? starts.concat(contains) : all).slice(0, 9);
+            current = q ? starts.concat(contains) : all;
             if (!current.length) {
               list.innerHTML = '<li class="ck-empty">No country matches — try another spelling.</li>';
             } else {
@@ -864,7 +864,7 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
             var opts = list.querySelectorAll('.ck-option');
             opts.forEach(function (o, j) { o.classList.toggle('active', j === i); });
             active = i;
-            if (i >= 0 && opts[i]) input.setAttribute('aria-activedescendant', opts[i].id);
+            if (i >= 0 && opts[i]) { input.setAttribute('aria-activedescendant', opts[i].id); opts[i].scrollIntoView({ block: 'nearest' }); }
             else input.removeAttribute('aria-activedescendant');
           }
           function choose(c) {
