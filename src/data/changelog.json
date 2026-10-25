@@ -10,6 +10,33 @@
  },
  {
   "date": "2026-10-25",
+  "pair": "SC:KH",
+  "title": "Seychelles → Cambodia",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (15 days)",
+  "reason": "Ordinary-passport holders of Seychelles are visa-exempt for 15 days under Cambodia’s official visa-exemption list (MFAIC, as of 28 Feb 2025); the dataset shows visa on arrival (30 days).",
+  "source": "https://www.mfaic.gov.kh/en/2025-03-26-visa-exemption-list-of-visa-exemption-between-cambodia-and-other-countries-15-22-56"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "MV:KH",
+  "title": "Maldives → Cambodia",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (30 days)",
+  "reason": "Ordinary-passport holders of Maldives are visa-exempt for 30 days under Cambodia’s official visa-exemption list (MFAIC, as of 28 Feb 2025); the dataset shows visa on arrival (30 days).",
+  "source": "https://www.mfaic.gov.kh/en/2025-03-26-visa-exemption-list-of-visa-exemption-between-cambodia-and-other-countries-15-22-56"
+ },
+ {
+  "date": "2026-10-25",
+  "pair": "MM:KH",
+  "title": "Myanmar (Burma) → Cambodia",
+  "old": "visa on arrival (30 days)",
+  "new": "visa free (14 days)",
+  "reason": "Ordinary-passport holders of Myanmar are visa-exempt for 14 days under Cambodia’s official visa-exemption list (MFAIC, as of 28 Feb 2025); the dataset shows visa on arrival (30 days).",
+  "source": "https://www.mfaic.gov.kh/en/2025-03-26-visa-exemption-list-of-visa-exemption-between-cambodia-and-other-countries-15-22-56"
+ },
+ {
+  "date": "2026-10-25",
   "pair": "TJ:QA",
   "title": "Tajikistan → Qatar",
   "old": "visa on arrival (30 days)",

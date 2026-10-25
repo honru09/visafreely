@@ -3638,5 +3638,26 @@
   "reason": "Tajik citizens are not eligible for Qatar visa-free entry or visa on arrival; entry is available via the official Hayya e-visa platform (Tourist Visa A1).",
   "source": "https://visitqatar.com/intl-en/plan-your-trip/visas",
   "date": "2026-10-25"
+ },
+ "MM:KH": {
+  "status": "visa free",
+  "reason": "Ordinary-passport holders of Myanmar are visa-exempt for 14 days under Cambodia’s official visa-exemption list (MFAIC, as of 28 Feb 2025); the dataset shows visa on arrival (30 days).",
+  "source": "https://www.mfaic.gov.kh/en/2025-03-26-visa-exemption-list-of-visa-exemption-between-cambodia-and-other-countries-15-22-56",
+  "date": "2026-10-25",
+  "days": 14
+ },
+ "MV:KH": {
+  "status": "visa free",
+  "reason": "Ordinary-passport holders of Maldives are visa-exempt for 30 days under Cambodia’s official visa-exemption list (MFAIC, as of 28 Feb 2025); the dataset shows visa on arrival (30 days).",
+  "source": "https://www.mfaic.gov.kh/en/2025-03-26-visa-exemption-list-of-visa-exemption-between-cambodia-and-other-countries-15-22-56",
+  "date": "2026-10-25",
+  "days": 30
+ },
+ "SC:KH": {
+  "status": "visa free",
+  "reason": "Ordinary-passport holders of Seychelles are visa-exempt for 15 days under Cambodia’s official visa-exemption list (MFAIC, as of 28 Feb 2025); the dataset shows visa on arrival (30 days).",
+  "source": "https://www.mfaic.gov.kh/en/2025-03-26-visa-exemption-list-of-visa-exemption-between-cambodia-and-other-countries-15-22-56",
+  "date": "2026-10-25",
+  "days": 15
  }
 }
