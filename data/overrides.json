@@ -5585,5 +5585,651 @@
   "reason": "The 14-day unilateral visa-free regime of 1 May 2024 applies only to citizens of Vanuatu aged 55 and over; other ordinary passport holders use the e-Visa (up to 60 days). The seed dataset’s visa required value is incorrect.",
   "source": "https://mfa.tj/en/korea/consular-issues/consular-services/standard-visa",
   "date": "2026-10-26"
+ },
+ "RU:SA": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "The Saudi Arabia–Russia mutual visa exemption agreement entered into force on 11 May 2026 (Saudi Press Agency): ordinary passports travel visa-free for up to 90 days. The seed dataset’s visa on arrival value predates the agreement.",
+  "source": "https://www.spa.gov.sa/en/w2582764",
+  "date": "2026-10-26"
+ },
+ "BR:SA": {
+  "status": "visa on arrival",
+  "days": 90,
+  "reason": "Brazil is on the Permitted Country list in clause 3.3 of the official Saudi eVisa Terms & Conditions (tourist visa on arrival / e-Visa, stays up to 90 days); the seed dataset’s e-visa value is incorrect.",
+  "source": "https://visa.visitsaudi.com/Home/TermsConditions",
+  "date": "2026-10-26"
+ },
+ "GY:SA": {
+  "status": "visa on arrival",
+  "days": 90,
+  "reason": "Guyana is on the Permitted Country list in clause 3.3 of the official Saudi eVisa Terms & Conditions (tourist visa on arrival / e-Visa, stays up to 90 days); the seed dataset’s e-visa value is incorrect.",
+  "source": "https://visa.visitsaudi.com/Home/TermsConditions",
+  "date": "2026-10-26"
+ },
+ "XK:SA": {
+  "status": "visa on arrival",
+  "days": 90,
+  "reason": "Kosovo is on the Permitted Country list in clause 3.3 of the official Saudi eVisa Terms & Conditions (tourist visa on arrival / e-Visa, stays up to 90 days); the seed dataset’s e-visa value is incorrect.",
+  "source": "https://visa.visitsaudi.com/Home/TermsConditions",
+  "date": "2026-10-26"
+ },
+ "EG:SA": {
+  "status": "visa required",
+  "reason": "Egypt is not on the official Permitted Country list; its only self-service channel is the Package Visa programme (combined flight-and-hotel booking), otherwise a consular visa is required in advance. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://www.visitsaudi.com/en/campaigns/package-visa",
+  "date": "2026-10-26"
+ },
+ "ID:SA": {
+  "status": "visa required",
+  "reason": "Indonesia is not on the official Permitted Country list; its only self-service channel is the Package Visa programme (combined flight-and-hotel booking), otherwise a consular visa is required in advance. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://www.visitsaudi.com/en/campaigns/package-visa",
+  "date": "2026-10-26"
+ },
+ "IN:SA": {
+  "status": "visa required",
+  "reason": "India is not on the official Permitted Country list; its only self-service channel is the Package Visa programme (combined flight-and-hotel booking), otherwise a consular visa is required in advance. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://www.visitsaudi.com/en/campaigns/package-visa",
+  "date": "2026-10-26"
+ },
+ "JO:SA": {
+  "status": "visa required",
+  "reason": "Jordan is not on the official Permitted Country list; its only self-service channel is the Package Visa programme (combined flight-and-hotel booking), otherwise a consular visa is required in advance. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://www.visitsaudi.com/en/campaigns/package-visa",
+  "date": "2026-10-26"
+ },
+ "MX:SA": {
+  "status": "visa required",
+  "reason": "Mexico is not on the official Permitted Country list; its only self-service channel is the Package Visa programme (combined flight-and-hotel booking), otherwise a consular visa is required in advance. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://www.visitsaudi.com/en/campaigns/package-visa",
+  "date": "2026-10-26"
+ },
+ "PK:SA": {
+  "status": "visa required",
+  "reason": "Pakistan is not on the official Permitted Country list; its only self-service channel is the Package Visa programme (combined flight-and-hotel booking), otherwise a consular visa is required in advance. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://www.visitsaudi.com/en/campaigns/package-visa",
+  "date": "2026-10-26"
+ },
+ "AG:SA": {
+  "status": "visa required",
+  "reason": "Antigua & Barbuda is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "AM:SA": {
+  "status": "visa required",
+  "reason": "Armenia is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "AO:SA": {
+  "status": "visa required",
+  "reason": "Angola is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "AR:SA": {
+  "status": "visa required",
+  "reason": "Argentina is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "BA:SA": {
+  "status": "visa required",
+  "reason": "Bosnia & Herzegovina is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "BF:SA": {
+  "status": "visa required",
+  "reason": "Burkina Faso is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "BI:SA": {
+  "status": "visa required",
+  "reason": "Burundi is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "BJ:SA": {
+  "status": "visa required",
+  "reason": "Benin is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "BO:SA": {
+  "status": "visa required",
+  "reason": "Bolivia is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "BT:SA": {
+  "status": "visa required",
+  "reason": "Bhutan is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "BW:SA": {
+  "status": "visa required",
+  "reason": "Botswana is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "BY:SA": {
+  "status": "visa required",
+  "reason": "Belarus is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "BZ:SA": {
+  "status": "visa required",
+  "reason": "Belize is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "CD:SA": {
+  "status": "visa required",
+  "reason": "Congo - Kinshasa is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "CF:SA": {
+  "status": "visa required",
+  "reason": "Central African Republic is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "CG:SA": {
+  "status": "visa required",
+  "reason": "Congo - Brazzaville is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "CI:SA": {
+  "status": "visa required",
+  "reason": "Côte d’Ivoire is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "CL:SA": {
+  "status": "visa required",
+  "reason": "Chile is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "CM:SA": {
+  "status": "visa required",
+  "reason": "Cameroon is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "CO:SA": {
+  "status": "visa required",
+  "reason": "Colombia is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "CR:SA": {
+  "status": "visa required",
+  "reason": "Costa Rica is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "CU:SA": {
+  "status": "visa required",
+  "reason": "Cuba is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "CV:SA": {
+  "status": "visa required",
+  "reason": "Cape Verde is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "DJ:SA": {
+  "status": "visa required",
+  "reason": "Djibouti is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "DM:SA": {
+  "status": "visa required",
+  "reason": "Dominica is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "DO:SA": {
+  "status": "visa required",
+  "reason": "Dominican Republic is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "DZ:SA": {
+  "status": "visa required",
+  "reason": "Algeria is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "EC:SA": {
+  "status": "visa required",
+  "reason": "Ecuador is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "ER:SA": {
+  "status": "visa required",
+  "reason": "Eritrea is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "ET:SA": {
+  "status": "visa required",
+  "reason": "Ethiopia is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "FJ:SA": {
+  "status": "visa required",
+  "reason": "Fiji is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "GA:SA": {
+  "status": "visa required",
+  "reason": "Gabon is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "GH:SA": {
+  "status": "visa required",
+  "reason": "Ghana is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "GM:SA": {
+  "status": "visa required",
+  "reason": "Gambia is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "GN:SA": {
+  "status": "visa required",
+  "reason": "Guinea is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "GT:SA": {
+  "status": "visa required",
+  "reason": "Guatemala is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "GW:SA": {
+  "status": "visa required",
+  "reason": "Guinea-Bissau is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "HN:SA": {
+  "status": "visa required",
+  "reason": "Honduras is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "HT:SA": {
+  "status": "visa required",
+  "reason": "Haiti is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "IQ:SA": {
+  "status": "visa required",
+  "reason": "Iraq is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "IR:SA": {
+  "status": "visa required",
+  "reason": "Iran is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "JM:SA": {
+  "status": "visa required",
+  "reason": "Jamaica is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "KE:SA": {
+  "status": "visa required",
+  "reason": "Kenya is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "KH:SA": {
+  "status": "visa required",
+  "reason": "Cambodia is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "KI:SA": {
+  "status": "visa required",
+  "reason": "Kiribati is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "KM:SA": {
+  "status": "visa required",
+  "reason": "Comoros is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "LA:SA": {
+  "status": "visa required",
+  "reason": "Laos is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "LB:SA": {
+  "status": "visa required",
+  "reason": "Lebanon is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "LC:SA": {
+  "status": "visa required",
+  "reason": "St. Lucia is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "LK:SA": {
+  "status": "visa required",
+  "reason": "Sri Lanka is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "LR:SA": {
+  "status": "visa required",
+  "reason": "Liberia is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "LS:SA": {
+  "status": "visa required",
+  "reason": "Lesotho is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "MA:SA": {
+  "status": "visa required",
+  "reason": "Morocco is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "MD:SA": {
+  "status": "visa required",
+  "reason": "Moldova is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "MG:SA": {
+  "status": "visa required",
+  "reason": "Madagascar is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "MH:SA": {
+  "status": "visa required",
+  "reason": "Marshall Islands is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "ML:SA": {
+  "status": "visa required",
+  "reason": "Mali is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "MM:SA": {
+  "status": "visa required",
+  "reason": "Myanmar (Burma) is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "MN:SA": {
+  "status": "visa required",
+  "reason": "Mongolia is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "MR:SA": {
+  "status": "visa required",
+  "reason": "Mauritania is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "MW:SA": {
+  "status": "visa required",
+  "reason": "Malawi is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "MZ:SA": {
+  "status": "visa required",
+  "reason": "Mozambique is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "NA:SA": {
+  "status": "visa required",
+  "reason": "Namibia is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "NI:SA": {
+  "status": "visa required",
+  "reason": "Nicaragua is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "NP:SA": {
+  "status": "visa required",
+  "reason": "Nepal is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "NR:SA": {
+  "status": "visa required",
+  "reason": "Nauru is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "PE:SA": {
+  "status": "visa required",
+  "reason": "Peru is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "PG:SA": {
+  "status": "visa required",
+  "reason": "Papua New Guinea is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "PH:SA": {
+  "status": "visa required",
+  "reason": "Philippines is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "PW:SA": {
+  "status": "visa required",
+  "reason": "Palau is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "PY:SA": {
+  "status": "visa required",
+  "reason": "Paraguay is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "RS:SA": {
+  "status": "visa required",
+  "reason": "Serbia is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "RW:SA": {
+  "status": "visa required",
+  "reason": "Rwanda is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "SB:SA": {
+  "status": "visa required",
+  "reason": "Solomon Islands is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "SL:SA": {
+  "status": "visa required",
+  "reason": "Sierra Leone is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "SN:SA": {
+  "status": "visa required",
+  "reason": "Senegal is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "SR:SA": {
+  "status": "visa required",
+  "reason": "Suriname is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "SS:SA": {
+  "status": "visa required",
+  "reason": "South Sudan is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "ST:SA": {
+  "status": "visa required",
+  "reason": "São Tomé & Príncipe is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "SV:SA": {
+  "status": "visa required",
+  "reason": "El Salvador is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "SZ:SA": {
+  "status": "visa required",
+  "reason": "Eswatini is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "TD:SA": {
+  "status": "visa required",
+  "reason": "Chad is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "TG:SA": {
+  "status": "visa required",
+  "reason": "Togo is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "TM:SA": {
+  "status": "visa required",
+  "reason": "Turkmenistan is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "TO:SA": {
+  "status": "visa required",
+  "reason": "Tonga is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "TT:SA": {
+  "status": "visa required",
+  "reason": "Trinidad & Tobago is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "TV:SA": {
+  "status": "visa required",
+  "reason": "Tuvalu is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "TZ:SA": {
+  "status": "visa required",
+  "reason": "Tanzania is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "UG:SA": {
+  "status": "visa required",
+  "reason": "Uganda is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "UY:SA": {
+  "status": "visa required",
+  "reason": "Uruguay is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "VC:SA": {
+  "status": "visa required",
+  "reason": "St. Vincent & Grenadines is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "VE:SA": {
+  "status": "visa required",
+  "reason": "Venezuela is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "VN:SA": {
+  "status": "visa required",
+  "reason": "Vietnam is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "VU:SA": {
+  "status": "visa required",
+  "reason": "Vanuatu is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "WS:SA": {
+  "status": "visa required",
+  "reason": "Samoa is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "ZM:SA": {
+  "status": "visa required",
+  "reason": "Zambia is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
+ },
+ "ZW:SA": {
+  "status": "visa required",
+  "reason": "Zimbabwe is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+  "date": "2026-10-26"
  }
 }
