@@ -2958,210 +2958,210 @@
   "valid_until": "2027-01-15"
  },
  "SG:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival value reflects the superseded framing.",
   "source": "https://www.immigration.gov.lk/pages_e.php?id=64",
   "date": "2026-10-27"
  },
  "KR:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "JP:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "FR:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "DE:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "IT:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "ES:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "FI:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "NL:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "BE:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "DK:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "SE:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "NO:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "CH:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "AT:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "IE:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "GB:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "AU:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "NZ:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "CA:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "US:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "PT:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "GR:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "PL:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "CZ:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "HU:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "AE:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "MY:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "IL:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "CN:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
@@ -7366,126 +7366,126 @@
   "date": "2026-10-27"
  },
  "BH:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "BY:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "IN:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "ID:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "IR:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "KZ:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "KW:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "NP:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "OM:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "PK:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "QA:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "RU:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "SA:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "TH:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "TR:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "MV:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 90,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 90-day visit visa is issued. The seed dataset’s visa on arrival value reflects the superseded framing.",
   "source": "https://www.immigration.gov.lk/pages_e.php?id=64",
   "date": "2026-10-27"
  },
  "SC:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 60,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 60-day visit visa is issued. The seed dataset’s visa on arrival value reflects the superseded framing.",
   "source": "https://www.immigration.gov.lk/pages_e.php?id=64",
   "date": "2026-10-27"
  },
  "HK:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
@@ -7522,987 +7522,987 @@
   "date": "2026-10-27"
  },
  "AD:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "AG:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "AL:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "AM:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "AO:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "AR:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "AZ:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "BA:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "BB:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "BD:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "BF:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "BG:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "BI:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "BJ:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "BN:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "BO:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "BR:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "BS:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "BT:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "BW:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "BZ:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "CD:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "CF:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "CG:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "CL:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "CO:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "CR:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "CU:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "CV:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "CY:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "DJ:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "DM:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "DO:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "DZ:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "EC:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "EE:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "EG:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "ER:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "ET:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "FJ:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "FM:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "GA:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "GD:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "GE:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "GM:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "GN:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "GQ:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "GT:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "GW:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "GY:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "HN:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "HR:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "HT:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "IQ:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "IS:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "JM:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "JO:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "KE:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "KG:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "KH:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "KI:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "KM:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "KN:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "LA:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "LB:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "LC:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "LI:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "LR:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "LS:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "LT:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "LU:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "LV:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "LY:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "MA:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "MC:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "MD:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "ME:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "MG:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "MH:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "MK:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "ML:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "MM:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "MN:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "MO:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "MR:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "MT:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "MU:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "MW:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "MX:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "MZ:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "NA:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "NE:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "NI:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "NR:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "PA:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "PE:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "PG:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "PH:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "PS:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "PW:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "PY:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "RO:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "RS:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "RW:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "SB:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "SD:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "SI:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "SK:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "SL:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "SM:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "SN:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "SO:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "SR:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "SS:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "ST:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "SV:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "SZ:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "TD:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "TG:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "TJ:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "TL:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "TM:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "TN:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "TO:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "TT:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "TV:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "TZ:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "UA:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "UG:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "UY:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "UZ:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "VA:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "VC:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "VE:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "VN:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "VU:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "WS:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "YE:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "ZA:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "ZM:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
  },
  "ZW:LK": {
-  "status": "ETA",
+  "status": "eta",
   "days": 30,
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
