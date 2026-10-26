@@ -4747,5 +4747,502 @@
   "reason": "South Africa appears in Appendix 1 (countries eligible for an electronic entry visa) of the official list published by the Embassy of Uzbekistan in Poland (MFA); the seed dataset’s visa required value is incorrect.",
   "source": "https://poland.mfa.uz/page/2537",
   "date": "2026-10-26"
+ },
+ "AM:KG": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Under Article 13 of the stay rules (as amended by Resolution No. 855 of 31 Dec 2025), citizens of Armenia may stay visa-free for up to 90 days in total within each 180-day period. The seed dataset’s visa free value is incorrect.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "BY:KG": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Under Article 13 of the stay rules (as amended by Resolution No. 855 of 31 Dec 2025), citizens of Belarus may stay visa-free for up to 90 days in total within each 180-day period. The seed dataset’s visa free value is incorrect.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "KZ:KG": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Under Article 13 of the stay rules (as amended by Resolution No. 855 of 31 Dec 2025), citizens of Kazakhstan may stay visa-free for up to 90 days in total within each 180-day period. The seed dataset’s visa free value is incorrect.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "RU:KG": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Under Article 13 of the stay rules (as amended by Resolution No. 855 of 31 Dec 2025), citizens of Russia may stay visa-free for up to 90 days in total within each 180-day period. The seed dataset’s visa free value is incorrect.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "SA:KG": {
+  "status": "visa free",
+  "days": 180,
+  "reason": "Cabinet Resolution No. 855 of 31 Dec 2025 set the visa-free stay for citizens of Saudi Arabia at up to 180 days in total within each 360-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "AE:KG": {
+  "status": "visa free",
+  "days": 180,
+  "reason": "Cabinet Resolution No. 855 of 31 Dec 2025 set the visa-free stay for citizens of United Arab Emirates at up to 180 days in total within each 360-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "QA:KG": {
+  "status": "visa free",
+  "days": 180,
+  "reason": "Cabinet Resolution No. 855 of 31 Dec 2025 set the visa-free stay for citizens of Qatar at up to 180 days in total within each 360-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "KW:KG": {
+  "status": "visa free",
+  "days": 180,
+  "reason": "Cabinet Resolution No. 855 of 31 Dec 2025 set the visa-free stay for citizens of Kuwait at up to 180 days in total within each 360-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "OM:KG": {
+  "status": "visa free",
+  "days": 180,
+  "reason": "Cabinet Resolution No. 855 of 31 Dec 2025 set the visa-free stay for citizens of Oman at up to 180 days in total within each 360-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "BH:KG": {
+  "status": "visa free",
+  "days": 180,
+  "reason": "Cabinet Resolution No. 855 of 31 Dec 2025 set the visa-free stay for citizens of Bahrain at up to 180 days in total within each 360-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "AL:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Albania is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "AD:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Andorra is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "AR:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Argentina is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "AU:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Australia is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "AT:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Austria is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "BE:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Belgium is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "BA:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Bosnia & Herzegovina is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "BR:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Brazil is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "BN:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Brunei is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "BG:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Bulgaria is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "CA:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Canada is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "CL:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Chile is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "HR:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Croatia is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "CY:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Cyprus is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "CZ:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Czechia is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "DK:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Denmark is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "EE:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Estonia is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "FI:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Finland is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "FR:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "France is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "DE:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Germany is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "GR:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Greece is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "HU:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Hungary is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "IS:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Iceland is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "IE:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Ireland is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "IL:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Israel is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "IT:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Italy is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "JP:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Japan is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "KR:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "South Korea is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "LV:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Latvia is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "LI:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Liechtenstein is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "LT:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Lithuania is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "LU:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Luxembourg is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "MT:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Malta is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "MX:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Mexico is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "MC:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Monaco is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "ME:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Montenegro is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "NL:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Netherlands is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "NZ:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "New Zealand is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "MK:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "North Macedonia is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "NO:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Norway is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "PL:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Poland is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "PT:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Portugal is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "RO:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Romania is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "SM:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "San Marino is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "SG:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Singapore is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "SK:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Slovakia is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "SI:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Slovenia is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "ES:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Spain is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "SE:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Sweden is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "CH:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Switzerland is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "TH:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Thailand is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "GB:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "United Kingdom is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "US:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "United States is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "VA:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Vatican City is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "VN:KG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Vietnam is on the Law No. 121 visa-free list, but Cabinet Resolution No. 855 of 31 Dec 2025 rewrote the stay rules: Appendix 1 nationals may now stay visa-free for a total of 30 days within each 60-day period. The seed dataset’s visa free (60 days) value predates the reform.",
+  "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
+  "date": "2026-10-26"
+ },
+ "CU:KG": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "No current official Kyrgyz source confirms a visa-free regime for ordinary passports of Cuba (Soviet-era treaties are not carried in current MFA materials); Cuba is in the apply-for-a-visa group of the official e-Visa portal. The seed dataset’s visa free value is incorrect.",
+  "source": "https://www.evisa.e-gov.kg/get_information.php?lng=en",
+  "date": "2026-10-26"
+ },
+ "ID:KG": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Kyrgyzstan has no visa-on-arrival regime in its official sources; citizens of this country are in the apply-for-a-visa group of the official e-Visa portal of the Kyrgyz MFA (tourist e-visa, up to 30 days). The seed dataset’s visa on arrival (30 days) value is incorrect.",
+  "source": "https://www.evisa.e-gov.kg/get_information.php?lng=en",
+  "date": "2026-10-26"
+ },
+ "KP:KG": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "No current official Kyrgyz source confirms a visa-free regime for ordinary passports of North Korea (Soviet-era treaties are not carried in current MFA materials); North Korea is in the apply-for-a-visa group of the official e-Visa portal. The seed dataset’s visa free value is incorrect.",
+  "source": "https://www.evisa.e-gov.kg/get_information.php?lng=en",
+  "date": "2026-10-26"
+ },
+ "PH:KG": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Kyrgyzstan has no visa-on-arrival regime in its official sources; citizens of this country are in the apply-for-a-visa group of the official e-Visa portal of the Kyrgyz MFA (tourist e-visa, up to 30 days). The seed dataset’s visa on arrival (30 days) value is incorrect.",
+  "source": "https://www.evisa.e-gov.kg/get_information.php?lng=en",
+  "date": "2026-10-26"
+ },
+ "ZA:KG": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Kyrgyzstan has no visa-on-arrival regime in its official sources; citizens of this country are in the apply-for-a-visa group of the official e-Visa portal of the Kyrgyz MFA (tourist e-visa, up to 30 days). The seed dataset’s visa on arrival (30 days) value is incorrect.",
+  "source": "https://www.evisa.e-gov.kg/get_information.php?lng=en",
+  "date": "2026-10-26"
+ },
+ "VE:KG": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Kyrgyzstan has no visa-on-arrival regime in its official sources; citizens of this country are in the apply-for-a-visa group of the official e-Visa portal of the Kyrgyz MFA (tourist e-visa, up to 30 days). The seed dataset’s visa on arrival (30 days) value is incorrect.",
+  "source": "https://www.evisa.e-gov.kg/get_information.php?lng=en",
+  "date": "2026-10-26"
  }
 }
