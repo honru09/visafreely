@@ -13357,5 +13357,999 @@
   "date": "2026-10-26",
   "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956",
   "source_name": "Georgia MFA Consular Department — Georgian Visa Information"
+ },
+ "AD:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visafreelist",
+  "source_name": "Ministry of Foreign Affairs of Armenia — List of countries whose citizens are unilaterally exempt from visa requirement"
+ },
+ "AE:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visafreelist",
+  "source_name": "Ministry of Foreign Affairs of Armenia — List of countries whose citizens are unilaterally exempt from visa requirement"
+ },
+ "AF:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "AG:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visa",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Visa requirements for foreigners (Visa on Arrival eligibility)"
+ },
+ "AL:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/whoneedvisa",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Bilateral and multilateral visa-free agreements"
+ },
+ "AO:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "AR:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/whoneedvisa",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Bilateral and multilateral visa-free agreements"
+ },
+ "AT:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visafreelist",
+  "source_name": "Ministry of Foreign Affairs of Armenia — List of countries whose citizens are unilaterally exempt from visa requirement"
+ },
+ "AU:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visafreelist",
+  "source_name": "Ministry of Foreign Affairs of Armenia — List of countries whose citizens are unilaterally exempt from visa requirement"
+ },
+ "AZ:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visa",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Visa requirements for foreigners",
+  "note": "Citizens of Azerbaijan must have a special entry permit."
+ },
+ "BA:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visa",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Visa requirements for foreigners (Visa on Arrival eligibility)"
+ },
+ "BB:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visa",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Visa requirements for foreigners (Visa on Arrival eligibility)"
+ },
+ "BD:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "BE:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visafreelist",
+  "source_name": "Ministry of Foreign Affairs of Armenia — List of countries whose citizens are unilaterally exempt from visa requirement"
+ },
+ "BF:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "BG:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visafreelist",
+  "source_name": "Ministry of Foreign Affairs of Armenia — List of countries whose citizens are unilaterally exempt from visa requirement"
+ },
+ "BH:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visafreelist",
+  "source_name": "Ministry of Foreign Affairs of Armenia — List of countries whose citizens are unilaterally exempt from visa requirement"
+ },
+ "BI:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "BJ:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "BN:AM": {
+  "date": "2026-10-26",
+  "source": "https://evisa.mfa.am",
+  "source_name": "Republic of Armenia Electronic Visa Issuance System (E-VISA)"
+ },
+ "BO:AM": {
+  "date": "2026-10-26",
+  "source": "https://evisa.mfa.am",
+  "source_name": "Republic of Armenia Electronic Visa Issuance System (E-VISA)"
+ },
+ "BR:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/whoneedvisa",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Bilateral and multilateral visa-free agreements"
+ },
+ "BS:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visa",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Visa requirements for foreigners (Visa on Arrival eligibility)"
+ },
+ "BT:AM": {
+  "date": "2026-10-26",
+  "source": "https://evisa.mfa.am",
+  "source_name": "Republic of Armenia Electronic Visa Issuance System (E-VISA)"
+ },
+ "BW:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "BY:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/whoneedvisa",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Bilateral and multilateral visa-free agreements"
+ },
+ "BZ:AM": {
+  "date": "2026-10-26",
+  "source": "https://evisa.mfa.am",
+  "source_name": "Republic of Armenia Electronic Visa Issuance System (E-VISA)"
+ },
+ "CA:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visa",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Visa requirements for foreigners (Visa on Arrival eligibility)"
+ },
+ "CD:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "CF:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "CG:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "CH:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visafreelist",
+  "source_name": "Ministry of Foreign Affairs of Armenia — List of countries whose citizens are unilaterally exempt from visa requirement"
+ },
+ "CI:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "CL:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visa",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Visa requirements for foreigners (Visa on Arrival eligibility)"
+ },
+ "CM:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "CN:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/whoneedvisa",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Bilateral and multilateral visa-free agreements"
+ },
+ "CO:AM": {
+  "date": "2026-10-26",
+  "source": "https://evisa.mfa.am",
+  "source_name": "Republic of Armenia Electronic Visa Issuance System (E-VISA)"
+ },
+ "CR:AM": {
+  "date": "2026-10-26",
+  "source": "https://evisa.mfa.am",
+  "source_name": "Republic of Armenia Electronic Visa Issuance System (E-VISA)"
+ },
+ "CU:AM": {
+  "date": "2026-10-26",
+  "source": "https://evisa.mfa.am",
+  "source_name": "Republic of Armenia Electronic Visa Issuance System (E-VISA)"
+ },
+ "CV:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "CY:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visafreelist",
+  "source_name": "Ministry of Foreign Affairs of Armenia — List of countries whose citizens are unilaterally exempt from visa requirement"
+ },
+ "CZ:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visafreelist",
+  "source_name": "Ministry of Foreign Affairs of Armenia — List of countries whose citizens are unilaterally exempt from visa requirement"
+ },
+ "DE:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visafreelist",
+  "source_name": "Ministry of Foreign Affairs of Armenia — List of countries whose citizens are unilaterally exempt from visa requirement"
+ },
+ "DJ:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "DK:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visafreelist",
+  "source_name": "Ministry of Foreign Affairs of Armenia — List of countries whose citizens are unilaterally exempt from visa requirement"
+ },
+ "DM:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visa",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Visa requirements for foreigners (Visa on Arrival eligibility)"
+ },
+ "DO:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visa",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Visa requirements for foreigners (Visa on Arrival eligibility)"
+ },
+ "DZ:AM": {
+  "date": "2026-10-26",
+  "source": "https://evisa.mfa.am",
+  "source_name": "Republic of Armenia Electronic Visa Issuance System (E-VISA)"
+ },
+ "EC:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/whoneedvisa",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Bilateral and multilateral visa-free agreements"
+ },
+ "EE:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visafreelist",
+  "source_name": "Ministry of Foreign Affairs of Armenia — List of countries whose citizens are unilaterally exempt from visa requirement"
+ },
+ "EG:AM": {
+  "date": "2026-10-26",
+  "source": "https://evisa.mfa.am",
+  "source_name": "Republic of Armenia Electronic Visa Issuance System (E-VISA)",
+  "note": "e-Visa application requires an invitation or a valid visa/residence permit from EU/Schengen, US, UK, Canada, Japan, Korea, Australia, New Zealand, Russia, or GCC states."
+ },
+ "ER:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "ES:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visafreelist",
+  "source_name": "Ministry of Foreign Affairs of Armenia — List of countries whose citizens are unilaterally exempt from visa requirement"
+ },
+ "ET:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "FI:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visafreelist",
+  "source_name": "Ministry of Foreign Affairs of Armenia — List of countries whose citizens are unilaterally exempt from visa requirement"
+ },
+ "FJ:AM": {
+  "date": "2026-10-26",
+  "source": "https://evisa.mfa.am",
+  "source_name": "Republic of Armenia Electronic Visa Issuance System (E-VISA)"
+ },
+ "FM:AM": {
+  "date": "2026-10-26",
+  "source": "https://evisa.mfa.am",
+  "source_name": "Republic of Armenia Electronic Visa Issuance System (E-VISA)"
+ },
+ "FR:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visafreelist",
+  "source_name": "Ministry of Foreign Affairs of Armenia — List of countries whose citizens are unilaterally exempt from visa requirement"
+ },
+ "GA:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "GB:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visafreelist",
+  "source_name": "Ministry of Foreign Affairs of Armenia — List of countries whose citizens are unilaterally exempt from visa requirement"
+ },
+ "GD:AM": {
+  "date": "2026-10-26",
+  "source": "https://evisa.mfa.am",
+  "source_name": "Republic of Armenia Electronic Visa Issuance System (E-VISA)"
+ },
+ "GE:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/whoneedvisa",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Bilateral and multilateral visa-free agreements"
+ },
+ "GH:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "GM:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "GN:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "GQ:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "GR:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visafreelist",
+  "source_name": "Ministry of Foreign Affairs of Armenia — List of countries whose citizens are unilaterally exempt from visa requirement"
+ },
+ "GT:AM": {
+  "date": "2026-10-26",
+  "source": "https://evisa.mfa.am",
+  "source_name": "Republic of Armenia Electronic Visa Issuance System (E-VISA)"
+ },
+ "GW:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "GY:AM": {
+  "date": "2026-10-26",
+  "source": "https://evisa.mfa.am",
+  "source_name": "Republic of Armenia Electronic Visa Issuance System (E-VISA)"
+ },
+ "HK:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/whoneedvisa",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Bilateral and multilateral visa-free agreements"
+ },
+ "HN:AM": {
+  "date": "2026-10-26",
+  "source": "https://evisa.mfa.am",
+  "source_name": "Republic of Armenia Electronic Visa Issuance System (E-VISA)"
+ },
+ "HR:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visafreelist",
+  "source_name": "Ministry of Foreign Affairs of Armenia — List of countries whose citizens are unilaterally exempt from visa requirement"
+ },
+ "HT:AM": {
+  "date": "2026-10-26",
+  "source": "https://evisa.mfa.am",
+  "source_name": "Republic of Armenia Electronic Visa Issuance System (E-VISA)"
+ },
+ "HU:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visafreelist",
+  "source_name": "Ministry of Foreign Affairs of Armenia — List of countries whose citizens are unilaterally exempt from visa requirement"
+ },
+ "ID:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visa",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Visa requirements for foreigners (Visa on Arrival eligibility)"
+ },
+ "IE:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visafreelist",
+  "source_name": "Ministry of Foreign Affairs of Armenia — List of countries whose citizens are unilaterally exempt from visa requirement"
+ },
+ "IL:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visa",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Visa requirements for foreigners (Visa on Arrival eligibility)"
+ },
+ "IN:AM": {
+  "date": "2026-10-26",
+  "source": "https://evisa.mfa.am",
+  "source_name": "Republic of Armenia Electronic Visa Issuance System (E-VISA)",
+  "note": "e-Visa application requires an invitation or a valid visa/residence permit from EU/Schengen, US, UK, Canada, Japan, Korea, Australia, New Zealand, Russia, or GCC states."
+ },
+ "IQ:AM": {
+  "date": "2026-10-26",
+  "source": "https://evisa.mfa.am",
+  "source_name": "Republic of Armenia Electronic Visa Issuance System (E-VISA)",
+  "note": "e-Visa application requires an invitation or a valid visa/residence permit from EU/Schengen, US, UK, Canada, Japan, Korea, Australia, New Zealand, Russia, or GCC states."
+ },
+ "IR:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/whoneedvisa",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Bilateral and multilateral visa-free agreements"
+ },
+ "IS:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visafreelist",
+  "source_name": "Ministry of Foreign Affairs of Armenia — List of countries whose citizens are unilaterally exempt from visa requirement"
+ },
+ "IT:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visafreelist",
+  "source_name": "Ministry of Foreign Affairs of Armenia — List of countries whose citizens are unilaterally exempt from visa requirement"
+ },
+ "JM:AM": {
+  "date": "2026-10-26",
+  "source": "https://evisa.mfa.am",
+  "source_name": "Republic of Armenia Electronic Visa Issuance System (E-VISA)"
+ },
+ "JO:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visa",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Visa requirements for foreigners (Visa on Arrival eligibility)"
+ },
+ "JP:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visafreelist",
+  "source_name": "Ministry of Foreign Affairs of Armenia — List of countries whose citizens are unilaterally exempt from visa requirement"
+ },
+ "KE:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "KG:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/whoneedvisa",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Bilateral and multilateral visa-free agreements"
+ },
+ "KH:AM": {
+  "date": "2026-10-26",
+  "source": "https://evisa.mfa.am",
+  "source_name": "Republic of Armenia Electronic Visa Issuance System (E-VISA)"
+ },
+ "KI:AM": {
+  "date": "2026-10-26",
+  "source": "https://evisa.mfa.am",
+  "source_name": "Republic of Armenia Electronic Visa Issuance System (E-VISA)"
+ },
+ "KM:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "KN:AM": {
+  "date": "2026-10-26",
+  "source": "https://evisa.mfa.am",
+  "source_name": "Republic of Armenia Electronic Visa Issuance System (E-VISA)"
+ },
+ "KP:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visa",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Visa requirements for foreigners (Visa on Arrival eligibility)"
+ },
+ "KR:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visafreelist",
+  "source_name": "Ministry of Foreign Affairs of Armenia — List of countries whose citizens are unilaterally exempt from visa requirement"
+ },
+ "KW:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visafreelist",
+  "source_name": "Ministry of Foreign Affairs of Armenia — List of countries whose citizens are unilaterally exempt from visa requirement"
+ },
+ "KZ:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/whoneedvisa",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Bilateral and multilateral visa-free agreements"
+ },
+ "LA:AM": {
+  "date": "2026-10-26",
+  "source": "https://evisa.mfa.am",
+  "source_name": "Republic of Armenia Electronic Visa Issuance System (E-VISA)"
+ },
+ "LB:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visa",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Visa requirements for foreigners (Visa on Arrival eligibility)"
+ },
+ "LC:AM": {
+  "date": "2026-10-26",
+  "source": "https://evisa.mfa.am",
+  "source_name": "Republic of Armenia Electronic Visa Issuance System (E-VISA)"
+ },
+ "LI:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visafreelist",
+  "source_name": "Ministry of Foreign Affairs of Armenia — List of countries whose citizens are unilaterally exempt from visa requirement"
+ },
+ "LK:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "LR:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "LS:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "LT:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visafreelist",
+  "source_name": "Ministry of Foreign Affairs of Armenia — List of countries whose citizens are unilaterally exempt from visa requirement"
+ },
+ "LU:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visafreelist",
+  "source_name": "Ministry of Foreign Affairs of Armenia — List of countries whose citizens are unilaterally exempt from visa requirement"
+ },
+ "LV:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visafreelist",
+  "source_name": "Ministry of Foreign Affairs of Armenia — List of countries whose citizens are unilaterally exempt from visa requirement"
+ },
+ "LY:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "MA:AM": {
+  "date": "2026-10-26",
+  "source": "https://evisa.mfa.am",
+  "source_name": "Republic of Armenia Electronic Visa Issuance System (E-VISA)"
+ },
+ "MC:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visafreelist",
+  "source_name": "Ministry of Foreign Affairs of Armenia — List of countries whose citizens are unilaterally exempt from visa requirement"
+ },
+ "MD:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/whoneedvisa",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Bilateral and multilateral visa-free agreements"
+ },
+ "ME:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visafreelist",
+  "source_name": "Ministry of Foreign Affairs of Armenia — List of countries whose citizens are unilaterally exempt from visa requirement"
+ },
+ "MG:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "MH:AM": {
+  "date": "2026-10-26",
+  "source": "https://evisa.mfa.am",
+  "source_name": "Republic of Armenia Electronic Visa Issuance System (E-VISA)"
+ },
+ "MK:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visa",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Visa requirements for foreigners (Visa on Arrival eligibility)"
+ },
+ "ML:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "MM:AM": {
+  "date": "2026-10-26",
+  "source": "https://evisa.mfa.am",
+  "source_name": "Republic of Armenia Electronic Visa Issuance System (E-VISA)"
+ },
+ "MN:AM": {
+  "date": "2026-10-26",
+  "source": "https://evisa.mfa.am",
+  "source_name": "Republic of Armenia Electronic Visa Issuance System (E-VISA)"
+ },
+ "MO:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/whoneedvisa",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Bilateral and multilateral visa-free agreements"
+ },
+ "MR:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "MT:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visafreelist",
+  "source_name": "Ministry of Foreign Affairs of Armenia — List of countries whose citizens are unilaterally exempt from visa requirement"
+ },
+ "MU:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "MV:AM": {
+  "date": "2026-10-26",
+  "source": "https://evisa.mfa.am",
+  "source_name": "Republic of Armenia Electronic Visa Issuance System (E-VISA)"
+ },
+ "MW:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "MX:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visa",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Visa requirements for foreigners (Visa on Arrival eligibility)"
+ },
+ "MY:AM": {
+  "date": "2026-10-26",
+  "source": "https://evisa.mfa.am",
+  "source_name": "Republic of Armenia Electronic Visa Issuance System (E-VISA)"
+ },
+ "MZ:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "NA:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "NE:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "NG:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "NI:AM": {
+  "date": "2026-10-26",
+  "source": "https://evisa.mfa.am",
+  "source_name": "Republic of Armenia Electronic Visa Issuance System (E-VISA)"
+ },
+ "NL:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visafreelist",
+  "source_name": "Ministry of Foreign Affairs of Armenia — List of countries whose citizens are unilaterally exempt from visa requirement"
+ },
+ "NO:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visafreelist",
+  "source_name": "Ministry of Foreign Affairs of Armenia — List of countries whose citizens are unilaterally exempt from visa requirement"
+ },
+ "NP:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "NR:AM": {
+  "date": "2026-10-26",
+  "source": "https://evisa.mfa.am",
+  "source_name": "Republic of Armenia Electronic Visa Issuance System (E-VISA)"
+ },
+ "NZ:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visafreelist",
+  "source_name": "Ministry of Foreign Affairs of Armenia — List of countries whose citizens are unilaterally exempt from visa requirement"
+ },
+ "OM:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visafreelist",
+  "source_name": "Ministry of Foreign Affairs of Armenia — List of countries whose citizens are unilaterally exempt from visa requirement"
+ },
+ "PA:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/whoneedvisa",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Bilateral and multilateral visa-free agreements"
+ },
+ "PE:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visa",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Visa requirements for foreigners (Visa on Arrival eligibility)"
+ },
+ "PG:AM": {
+  "date": "2026-10-26",
+  "source": "https://evisa.mfa.am",
+  "source_name": "Republic of Armenia Electronic Visa Issuance System (E-VISA)"
+ },
+ "PH:AM": {
+  "date": "2026-10-26",
+  "source": "https://evisa.mfa.am",
+  "source_name": "Republic of Armenia Electronic Visa Issuance System (E-VISA)"
+ },
+ "PK:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "PL:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visafreelist",
+  "source_name": "Ministry of Foreign Affairs of Armenia — List of countries whose citizens are unilaterally exempt from visa requirement"
+ },
+ "PS:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "PT:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visafreelist",
+  "source_name": "Ministry of Foreign Affairs of Armenia — List of countries whose citizens are unilaterally exempt from visa requirement"
+ },
+ "PW:AM": {
+  "date": "2026-10-26",
+  "source": "https://evisa.mfa.am",
+  "source_name": "Republic of Armenia Electronic Visa Issuance System (E-VISA)"
+ },
+ "PY:AM": {
+  "date": "2026-10-26",
+  "source": "https://evisa.mfa.am",
+  "source_name": "Republic of Armenia Electronic Visa Issuance System (E-VISA)"
+ },
+ "QA:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visafreelist",
+  "source_name": "Ministry of Foreign Affairs of Armenia — List of countries whose citizens are unilaterally exempt from visa requirement"
+ },
+ "RO:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visafreelist",
+  "source_name": "Ministry of Foreign Affairs of Armenia — List of countries whose citizens are unilaterally exempt from visa requirement"
+ },
+ "RS:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/whoneedvisa",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Bilateral and multilateral visa-free agreements"
+ },
+ "RU:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/whoneedvisa",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Bilateral and multilateral visa-free agreements"
+ },
+ "RW:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "SA:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visafreelist",
+  "source_name": "Ministry of Foreign Affairs of Armenia — List of countries whose citizens are unilaterally exempt from visa requirement"
+ },
+ "SB:AM": {
+  "date": "2026-10-26",
+  "source": "https://evisa.mfa.am",
+  "source_name": "Republic of Armenia Electronic Visa Issuance System (E-VISA)"
+ },
+ "SC:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "SD:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "SE:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visafreelist",
+  "source_name": "Ministry of Foreign Affairs of Armenia — List of countries whose citizens are unilaterally exempt from visa requirement"
+ },
+ "SG:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visafreelist",
+  "source_name": "Ministry of Foreign Affairs of Armenia — List of countries whose citizens are unilaterally exempt from visa requirement"
+ },
+ "SI:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visafreelist",
+  "source_name": "Ministry of Foreign Affairs of Armenia — List of countries whose citizens are unilaterally exempt from visa requirement"
+ },
+ "SK:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visafreelist",
+  "source_name": "Ministry of Foreign Affairs of Armenia — List of countries whose citizens are unilaterally exempt from visa requirement"
+ },
+ "SL:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "SM:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visafreelist",
+  "source_name": "Ministry of Foreign Affairs of Armenia — List of countries whose citizens are unilaterally exempt from visa requirement"
+ },
+ "SN:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "SO:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "SR:AM": {
+  "date": "2026-10-26",
+  "source": "https://evisa.mfa.am",
+  "source_name": "Republic of Armenia Electronic Visa Issuance System (E-VISA)"
+ },
+ "SS:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "ST:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "SV:AM": {
+  "date": "2026-10-26",
+  "source": "https://evisa.mfa.am",
+  "source_name": "Republic of Armenia Electronic Visa Issuance System (E-VISA)"
+ },
+ "SY:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "SZ:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "TD:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "TG:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "TH:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visa",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Visa requirements for foreigners (Visa on Arrival eligibility)"
+ },
+ "TJ:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/whoneedvisa",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Bilateral and multilateral visa-free agreements"
+ },
+ "TL:AM": {
+  "date": "2026-10-26",
+  "source": "https://evisa.mfa.am",
+  "source_name": "Republic of Armenia Electronic Visa Issuance System (E-VISA)"
+ },
+ "TM:AM": {
+  "date": "2026-10-26",
+  "source": "https://evisa.mfa.am",
+  "source_name": "Republic of Armenia Electronic Visa Issuance System (E-VISA)"
+ },
+ "TN:AM": {
+  "date": "2026-10-26",
+  "source": "https://evisa.mfa.am",
+  "source_name": "Republic of Armenia Electronic Visa Issuance System (E-VISA)"
+ },
+ "TO:AM": {
+  "date": "2026-10-26",
+  "source": "https://evisa.mfa.am",
+  "source_name": "Republic of Armenia Electronic Visa Issuance System (E-VISA)"
+ },
+ "TR:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visa",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Visa requirements for foreigners (Visa on Arrival eligibility)"
+ },
+ "TT:AM": {
+  "date": "2026-10-26",
+  "source": "https://evisa.mfa.am",
+  "source_name": "Republic of Armenia Electronic Visa Issuance System (E-VISA)"
+ },
+ "TV:AM": {
+  "date": "2026-10-26",
+  "source": "https://evisa.mfa.am",
+  "source_name": "Republic of Armenia Electronic Visa Issuance System (E-VISA)"
+ },
+ "TW:AM": {
+  "date": "2026-10-26",
+  "source": "https://evisa.mfa.am",
+  "source_name": "Republic of Armenia Electronic Visa Issuance System (E-VISA)"
+ },
+ "TZ:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "UA:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/whoneedvisa",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Bilateral and multilateral visa-free agreements"
+ },
+ "UG:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "US:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visafreelist",
+  "source_name": "Ministry of Foreign Affairs of Armenia — List of countries whose citizens are unilaterally exempt from visa requirement"
+ },
+ "UY:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/whoneedvisa",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Bilateral and multilateral visa-free agreements"
+ },
+ "UZ:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/whoneedvisa",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Bilateral and multilateral visa-free agreements"
+ },
+ "VA:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visafreelist",
+  "source_name": "Ministry of Foreign Affairs of Armenia — List of countries whose citizens are unilaterally exempt from visa requirement"
+ },
+ "VC:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visa",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Visa requirements for foreigners (Visa on Arrival eligibility)"
+ },
+ "VE:AM": {
+  "date": "2026-10-26",
+  "source": "https://evisa.mfa.am",
+  "source_name": "Republic of Armenia Electronic Visa Issuance System (E-VISA)"
+ },
+ "VN:AM": {
+  "date": "2026-10-26",
+  "source": "https://evisa.mfa.am",
+  "source_name": "Republic of Armenia Electronic Visa Issuance System (E-VISA)"
+ },
+ "VU:AM": {
+  "date": "2026-10-26",
+  "source": "https://evisa.mfa.am",
+  "source_name": "Republic of Armenia Electronic Visa Issuance System (E-VISA)"
+ },
+ "WS:AM": {
+  "date": "2026-10-26",
+  "source": "https://evisa.mfa.am",
+  "source_name": "Republic of Armenia Electronic Visa Issuance System (E-VISA)"
+ },
+ "XK:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visa",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Visa requirements for foreigners"
+ },
+ "YE:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "ZA:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/visa",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Visa requirements for foreigners (Visa on Arrival eligibility)"
+ },
+ "ZM:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
+ },
+ "ZW:AM": {
+  "date": "2026-10-26",
+  "source": "https://www.mfa.am/en/invitation_only",
+  "source_name": "Ministry of Foreign Affairs of Armenia — Countries whose citizens can apply for visitor visa only upon invitation"
  }
 }

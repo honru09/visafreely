@@ -4512,5 +4512,66 @@
   "reason": "Zimbabwe does not appear in the Ordinance No. 255 visa-free annex or on the official Georgian e-VISA eligibility list, and the Georgian MFA Consular Department's visa information service returns a visa requirement for ordinary passports — a visa must be obtained in advance. The dataset's e-visa status is incorrect.",
   "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956",
   "date": "2026-10-26"
+ },
+ "AZ:AM": {
+  "status": "visa required",
+  "reason": "Citizens of Azerbaijan are required to obtain a visa and must have a special entry permit to travel to Armenia, per official Armenian MFA consular regulations; the seed dataset’s visa-free (180 days) status is incorrect.",
+  "source": "https://www.mfa.am/en/visa",
+  "date": "2026-10-26"
+ },
+ "CN:AM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Citizens of China holding ordinary passports may enter and stay in Armenia visa-free for up to 90 days in any 180-day period under the bilateral mutual visa exemption agreement; the seed dataset’s 180-day figure is incorrect.",
+  "source": "https://www.mfa.am/en/whoneedvisa",
+  "date": "2026-10-26"
+ },
+ "GE:AM": {
+  "status": "visa free",
+  "days": 180,
+  "reason": "Citizens of Georgia holding ordinary passports (or electronic ID cards) may enter and stay in Armenia without a visa for up to 180 days in a year per official Armenian MFA consular regulations; the seed dataset’s 90-day figure is incorrect.",
+  "source": "https://www.mfa.am/en/whoneedvisa",
+  "date": "2026-10-26"
+ },
+ "KZ:AM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Citizens of Kazakhstan may enter and stay in Armenia without a visa for up to 90 days from the date of crossing the border per the bilateral agreement and official MFA regulations; the seed dataset’s 180-day figure is incorrect.",
+  "source": "https://www.mfa.am/en/whoneedvisa",
+  "date": "2026-10-26"
+ },
+ "MO:AM": {
+  "status": "visa free",
+  "days": 180,
+  "reason": "Holders of Macao SAR passports may enter and stay in Armenia without a visa for up to 180 days in a year per official Ministry of Foreign Affairs of Armenia consular policy; the seed dataset’s 90-day figure is incorrect.",
+  "source": "https://www.mfa.am/en/whoneedvisa",
+  "date": "2026-10-26"
+ },
+ "PA:AM": {
+  "status": "visa free",
+  "days": 180,
+  "reason": "Citizens of Panama are exempt from the visa requirement and may stay in Armenia without a visa for up to 180 days per year under the bilateral visa-free agreement effective 8 September 2023; the seed dataset’s visa-on-arrival status is incorrect.",
+  "source": "https://www.mfa.am/en/whoneedvisa",
+  "date": "2026-10-26"
+ },
+ "TJ:AM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Citizens of Tajikistan may enter and stay in Armenia without a visa for up to 90 days within a 180-day period per the bilateral agreement and official MFA regulations; the seed dataset’s 180-day figure is incorrect.",
+  "source": "https://www.mfa.am/en/whoneedvisa",
+  "date": "2026-10-26"
+ },
+ "UY:AM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Citizens of Uruguay may enter and stay in Armenia without a visa for up to 90 days in a year under the bilateral agreement; the seed dataset’s 180-day figure is incorrect.",
+  "source": "https://www.mfa.am/en/whoneedvisa",
+  "date": "2026-10-26"
+ },
+ "XK:AM": {
+  "status": "visa required",
+  "reason": "Citizens of Kosovo holding ordinary passports are eligible to obtain entry visas in advance at Armenian embassies or consulates abroad per official Ministry of Foreign Affairs regulations; entry is not barred and the seed dataset’s no-admission status is incorrect.",
+  "source": "https://www.mfa.am/en/visa",
+  "date": "2026-10-26"
  }
 }

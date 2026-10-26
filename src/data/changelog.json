@@ -1,6 +1,87 @@
 [
  {
   "date": "2026-10-26",
+  "pair": "XK:AM",
+  "title": "Kosovo → Armenia",
+  "old": "no admission",
+  "new": "visa required",
+  "reason": "Citizens of Kosovo holding ordinary passports are eligible to obtain entry visas in advance at Armenian embassies or consulates abroad per official Ministry of Foreign Affairs regulations; entry is not barred and the seed dataset’s no-admission status is incorrect.",
+  "source": "https://www.mfa.am/en/visa"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "UY:AM",
+  "title": "Uruguay → Armenia",
+  "old": "visa free (180 days)",
+  "new": "visa free (90 days)",
+  "reason": "Citizens of Uruguay may enter and stay in Armenia without a visa for up to 90 days in a year under the bilateral agreement; the seed dataset’s 180-day figure is incorrect.",
+  "source": "https://www.mfa.am/en/whoneedvisa"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "TJ:AM",
+  "title": "Tajikistan → Armenia",
+  "old": "visa free (180 days)",
+  "new": "visa free (90 days)",
+  "reason": "Citizens of Tajikistan may enter and stay in Armenia without a visa for up to 90 days within a 180-day period per the bilateral agreement and official MFA regulations; the seed dataset’s 180-day figure is incorrect.",
+  "source": "https://www.mfa.am/en/whoneedvisa"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "PA:AM",
+  "title": "Panama → Armenia",
+  "old": "visa on arrival (120 days)",
+  "new": "visa free (180 days)",
+  "reason": "Citizens of Panama are exempt from the visa requirement and may stay in Armenia without a visa for up to 180 days per year under the bilateral visa-free agreement effective 8 September 2023; the seed dataset’s visa-on-arrival status is incorrect.",
+  "source": "https://www.mfa.am/en/whoneedvisa"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "MO:AM",
+  "title": "Macao SAR China → Armenia",
+  "old": "visa free (90 days)",
+  "new": "visa free (180 days)",
+  "reason": "Holders of Macao SAR passports may enter and stay in Armenia without a visa for up to 180 days in a year per official Ministry of Foreign Affairs of Armenia consular policy; the seed dataset’s 90-day figure is incorrect.",
+  "source": "https://www.mfa.am/en/whoneedvisa"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "KZ:AM",
+  "title": "Kazakhstan → Armenia",
+  "old": "visa free (180 days)",
+  "new": "visa free (90 days)",
+  "reason": "Citizens of Kazakhstan may enter and stay in Armenia without a visa for up to 90 days from the date of crossing the border per the bilateral agreement and official MFA regulations; the seed dataset’s 180-day figure is incorrect.",
+  "source": "https://www.mfa.am/en/whoneedvisa"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "GE:AM",
+  "title": "Georgia → Armenia",
+  "old": "visa free (90 days)",
+  "new": "visa free (180 days)",
+  "reason": "Citizens of Georgia holding ordinary passports (or electronic ID cards) may enter and stay in Armenia without a visa for up to 180 days in a year per official Armenian MFA consular regulations; the seed dataset’s 90-day figure is incorrect.",
+  "source": "https://www.mfa.am/en/whoneedvisa"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "CN:AM",
+  "title": "China → Armenia",
+  "old": "visa free (180 days)",
+  "new": "visa free (90 days)",
+  "reason": "Citizens of China holding ordinary passports may enter and stay in Armenia visa-free for up to 90 days in any 180-day period under the bilateral mutual visa exemption agreement; the seed dataset’s 180-day figure is incorrect.",
+  "source": "https://www.mfa.am/en/whoneedvisa"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "AZ:AM",
+  "title": "Azerbaijan → Armenia",
+  "old": "visa free (180 days)",
+  "new": "visa required",
+  "reason": "Citizens of Azerbaijan are required to obtain a visa and must have a special entry permit to travel to Armenia, per official Armenian MFA consular regulations; the seed dataset’s visa-free (180 days) status is incorrect.",
+  "source": "https://www.mfa.am/en/visa"
+ },
+ {
+  "date": "2026-10-26",
   "pair": "ZW:GE",
   "title": "Zimbabwe → Georgia",
   "old": "e-visa",
