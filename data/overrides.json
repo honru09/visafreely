@@ -3744,5 +3744,17 @@
   "reason": "The bilateral mutual visa exemption agreement between Azerbaijan and Maldives for ordinary passport holders entered into force on 29 April 2026, granting visa-free stay of up to 90 days; the dataset’s e-Visa (30 days) is outdated.",
   "source": "https://mfa.gov.az/en/category/visa/visa-free-countries",
   "date": "2026-10-26"
+ },
+ "IR:BH": {
+  "status": "visa required",
+  "reason": "Iran does not appear on Bahrain NPRA's official eVisa eligibility list or on-arrival eligibility list. Per the NPRA FAQ, travellers whose nationality cannot be found on the eligibility lists cannot obtain a visa directly and must have a guarantor in Bahrain apply on their behalf — a visa is required in advance. The dataset's e-visa status is incorrect.",
+  "source": "https://www.evisa.gov.bh/VisaBhr7En.html",
+  "date": "2026-10-26"
+ },
+ "XK:BH": {
+  "status": "visa required",
+  "reason": "Kosovo does not appear on Bahrain NPRA's official eVisa eligibility list or on-arrival eligibility list. Per the NPRA FAQ, travellers whose nationality cannot be found on the eligibility lists cannot obtain a visa directly and must have a guarantor in Bahrain apply on their behalf — a visa is required in advance. The dataset's e-visa status is incorrect.",
+  "source": "https://www.evisa.gov.bh/VisaBhr7En.html",
+  "date": "2026-10-26"
  }
 }

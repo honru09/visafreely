@@ -1,6 +1,24 @@
 [
  {
   "date": "2026-10-26",
+  "pair": "XK:BH",
+  "title": "Kosovo → Bahrain",
+  "old": "e-visa",
+  "new": "visa required",
+  "reason": "Kosovo does not appear on Bahrain NPRA's official eVisa eligibility list or on-arrival eligibility list. Per the NPRA FAQ, travellers whose nationality cannot be found on the eligibility lists cannot obtain a visa directly and must have a guarantor in Bahrain apply on their behalf — a visa is required in advance. The dataset's e-visa status is incorrect.",
+  "source": "https://www.evisa.gov.bh/VisaBhr7En.html"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "IR:BH",
+  "title": "Iran → Bahrain",
+  "old": "e-visa",
+  "new": "visa required",
+  "reason": "Iran does not appear on Bahrain NPRA's official eVisa eligibility list or on-arrival eligibility list. Per the NPRA FAQ, travellers whose nationality cannot be found on the eligibility lists cannot obtain a visa directly and must have a guarantor in Bahrain apply on their behalf — a visa is required in advance. The dataset's e-visa status is incorrect.",
+  "source": "https://www.evisa.gov.bh/VisaBhr7En.html"
+ },
+ {
+  "date": "2026-10-26",
   "pair": "MV:AZ",
   "title": "Maldives → Azerbaijan",
   "old": "e-visa (30 days)",
