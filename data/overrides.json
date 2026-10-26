@@ -4573,5 +4573,130 @@
   "reason": "Citizens of Kosovo holding ordinary passports are eligible to obtain entry visas in advance at Armenian embassies or consulates abroad per official Ministry of Foreign Affairs regulations; entry is not barred and the seed dataset’s no-admission status is incorrect.",
   "source": "https://www.mfa.am/en/visa",
   "date": "2026-10-26"
+ },
+ "AF:KZ": {
+  "status": "visa required",
+  "reason": "Citizens of Afghanistan are not eligible for visa-free entry or electronic visa (e-Visa) under Kazakh migration regulations, and must obtain a visa in advance at an embassy or consulate of Kazakhstan; the seed dataset’s e-visa status is incorrect.",
+  "source": "https://www.gov.kz/org/mfa/press/article/details/6764?lang=en",
+  "date": "2026-10-26"
+ },
+ "AZ:KZ": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Citizens of Azerbaijan holding ordinary passports may enter Kazakhstan visa-free for up to 90 days within a 180-day period under the bilateral mutual agreement; the seed dataset’s 30-day figure is incorrect.",
+  "source": "https://www.gov.kz/org/mfa/press/article/details/6764?lang=en",
+  "date": "2026-10-26"
+ },
+ "BB:KZ": {
+  "status": "visa free",
+  "days": 28,
+  "reason": "Citizens of Barbados holding ordinary passports may enter Kazakhstan visa-free for up to 28 days per official Kazakh MFA consular regulations; supersedes the seed dataset’s e-visa status.",
+  "source": "https://www.gov.kz/org/mfa/press/article/details/6764?lang=en",
+  "date": "2026-10-26"
+ },
+ "CD:KZ": {
+  "status": "visa required",
+  "reason": "Citizens of Congo - Kinshasa are not eligible for visa-free entry or electronic visa (e-Visa) under Kazakh migration regulations, and must obtain a visa in advance at an embassy or consulate of Kazakhstan; the seed dataset’s e-visa status is incorrect.",
+  "source": "https://www.gov.kz/org/mfa/press/article/details/6764?lang=en",
+  "date": "2026-10-26"
+ },
+ "CV:KZ": {
+  "status": "visa required",
+  "reason": "Citizens of Cape Verde are not eligible for visa-free entry or electronic visa (e-Visa) under Kazakh migration regulations, and must obtain a visa in advance at an embassy or consulate of Kazakhstan; the seed dataset’s e-visa status is incorrect.",
+  "source": "https://www.gov.kz/org/mfa/press/article/details/6764?lang=en",
+  "date": "2026-10-26"
+ },
+ "DO:KZ": {
+  "status": "visa free",
+  "days": 60,
+  "reason": "Citizens of Dominican Republic holding ordinary passports may enter Kazakhstan visa-free for up to 60 days for tourist purposes under the bilateral mutual visa exemption agreement signed 22 September 2022; supersedes the seed dataset’s e-visa status.",
+  "source": "https://www.gov.kz/org/mfa/press/article/details/6764?lang=en",
+  "date": "2026-10-26"
+ },
+ "GQ:KZ": {
+  "status": "visa required",
+  "reason": "Citizens of Equatorial Guinea are not eligible for visa-free entry or electronic visa (e-Visa) under Kazakh migration regulations, and must obtain a visa in advance at an embassy or consulate of Kazakhstan; the seed dataset’s e-visa status is incorrect.",
+  "source": "https://www.gov.kz/org/mfa/press/article/details/6764?lang=en",
+  "date": "2026-10-26"
+ },
+ "IQ:KZ": {
+  "status": "visa required",
+  "reason": "Citizens of Iraq are not eligible for visa-free entry or electronic visa (e-Visa) under Kazakh migration regulations, and must obtain a visa in advance at an embassy or consulate of Kazakhstan; the seed dataset’s e-visa status is incorrect.",
+  "source": "https://www.gov.kz/org/mfa/press/article/details/6764?lang=en",
+  "date": "2026-10-26"
+ },
+ "JO:KZ": {
+  "status": "visa required",
+  "reason": "Citizens of Jordan are not eligible for visa-free entry or electronic visa (e-Visa) under Kazakh migration regulations, and must obtain a visa in advance at an embassy or consulate of Kazakhstan; the seed dataset’s e-visa status is incorrect.",
+  "source": "https://www.gov.kz/org/mfa/press/article/details/6764?lang=en",
+  "date": "2026-10-26"
+ },
+ "LY:KZ": {
+  "status": "visa required",
+  "reason": "Citizens of Libya are not eligible for visa-free entry or electronic visa (e-Visa) under Kazakh migration regulations, and must obtain a visa in advance at an embassy or consulate of Kazakhstan; the seed dataset’s e-visa status is incorrect.",
+  "source": "https://www.gov.kz/org/mfa/press/article/details/6764?lang=en",
+  "date": "2026-10-26"
+ },
+ "PK:KZ": {
+  "status": "visa required",
+  "reason": "Citizens of Pakistan are not eligible for visa-free entry or electronic visa (e-Visa) under Kazakh migration regulations, and must obtain a visa in advance at an embassy or consulate of Kazakhstan; the seed dataset’s e-visa status is incorrect.",
+  "source": "https://www.gov.kz/org/mfa/press/article/details/6764?lang=en",
+  "date": "2026-10-26"
+ },
+ "SB:KZ": {
+  "status": "visa required",
+  "reason": "Citizens of Solomon Islands are not eligible for visa-free entry or electronic visa (e-Visa) under Kazakh migration regulations, and must obtain a visa in advance at an embassy or consulate of Kazakhstan; the seed dataset’s e-visa status is incorrect.",
+  "source": "https://www.gov.kz/org/mfa/press/article/details/6764?lang=en",
+  "date": "2026-10-26"
+ },
+ "SD:KZ": {
+  "status": "visa required",
+  "reason": "Citizens of Sudan are not eligible for visa-free entry or electronic visa (e-Visa) under Kazakh migration regulations, and must obtain a visa in advance at an embassy or consulate of Kazakhstan; the seed dataset’s e-visa status is incorrect.",
+  "source": "https://www.gov.kz/org/mfa/press/article/details/6764?lang=en",
+  "date": "2026-10-26"
+ },
+ "SO:KZ": {
+  "status": "visa required",
+  "reason": "Citizens of Somalia are not eligible for visa-free entry or electronic visa (e-Visa) under Kazakh migration regulations, and must obtain a visa in advance at an embassy or consulate of Kazakhstan; the seed dataset’s e-visa status is incorrect.",
+  "source": "https://www.gov.kz/org/mfa/press/article/details/6764?lang=en",
+  "date": "2026-10-26"
+ },
+ "SS:KZ": {
+  "status": "visa required",
+  "reason": "Citizens of South Sudan are not eligible for visa-free entry or electronic visa (e-Visa) under Kazakh migration regulations, and must obtain a visa in advance at an embassy or consulate of Kazakhstan; the seed dataset’s e-visa status is incorrect.",
+  "source": "https://www.gov.kz/org/mfa/press/article/details/6764?lang=en",
+  "date": "2026-10-26"
+ },
+ "SY:KZ": {
+  "status": "visa required",
+  "reason": "Citizens of Syria are not eligible for visa-free entry or electronic visa (e-Visa) under Kazakh migration regulations, and must obtain a visa in advance at an embassy or consulate of Kazakhstan; the seed dataset’s e-visa status is incorrect.",
+  "source": "https://www.gov.kz/org/mfa/press/article/details/6764?lang=en",
+  "date": "2026-10-26"
+ },
+ "TJ:KZ": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Citizens of Tajikistan holding ordinary passports may enter Kazakhstan visa-free for up to 90 days under the bilateral mutual agreement; the seed dataset’s 30-day figure is incorrect.",
+  "source": "https://www.gov.kz/org/mfa/press/article/details/6764?lang=en",
+  "date": "2026-10-26"
+ },
+ "TL:KZ": {
+  "status": "visa required",
+  "reason": "Citizens of Timor-Leste are not eligible for visa-free entry or electronic visa (e-Visa) under Kazakh migration regulations, and must obtain a visa in advance at an embassy or consulate of Kazakhstan; the seed dataset’s e-visa status is incorrect.",
+  "source": "https://www.gov.kz/org/mfa/press/article/details/6764?lang=en",
+  "date": "2026-10-26"
+ },
+ "UZ:KZ": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Citizens of Uzbekistan holding ordinary passports may enter Kazakhstan visa-free for up to 90 days under the bilateral mutual agreement; the seed dataset’s 30-day figure is incorrect.",
+  "source": "https://www.gov.kz/org/mfa/press/article/details/6764?lang=en",
+  "date": "2026-10-26"
+ },
+ "YE:KZ": {
+  "status": "visa required",
+  "reason": "Citizens of Yemen are not eligible for visa-free entry or electronic visa (e-Visa) under Kazakh migration regulations, and must obtain a visa in advance at an embassy or consulate of Kazakhstan; the seed dataset’s e-visa status is incorrect.",
+  "source": "https://www.gov.kz/org/mfa/press/article/details/6764?lang=en",
+  "date": "2026-10-26"
  }
 }
