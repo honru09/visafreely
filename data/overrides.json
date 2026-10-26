@@ -459,24 +459,24 @@
  },
  "KR:IN": {
   "status": "visa on arrival",
-  "reason": "India’s visa-on-arrival for Korean nationals allows 60 days (double entry, 6 airports) per the MEA; the dataset’s 30 days is the e-Tourist figure.",
-  "source": "https://sansad.in/getFile/annex/270/AU4404_RhOFvG.pdf",
-  "date": "2026-10-25",
-  "days": 60
+  "days": 60,
+  "reason": "The Bureau of Immigration’s Visa-on-Arrival facility grants South Korea nationals a stay of up to 60 days (double entry); the seed dataset’s visa on arrival (30 days) value is incorrect.",
+  "source": "https://indianvisaonline.gov.in/visa/visa-on-arrival.html",
+  "date": "2026-10-27"
  },
  "JP:IN": {
   "status": "visa on arrival",
-  "reason": "India’s visa-on-arrival for Japanese nationals allows 60 days (double entry, 6 airports) per the MEA; the dataset’s 30 days is the e-Tourist figure.",
-  "source": "https://sansad.in/getFile/annex/270/AU4404_RhOFvG.pdf",
-  "date": "2026-10-25",
-  "days": 60
+  "days": 60,
+  "reason": "The Bureau of Immigration’s Visa-on-Arrival facility grants Japan nationals a stay of up to 60 days (double entry); the seed dataset’s visa on arrival (30 days) value is incorrect.",
+  "source": "https://indianvisaonline.gov.in/visa/visa-on-arrival.html",
+  "date": "2026-10-27"
  },
  "AE:IN": {
   "status": "visa on arrival",
-  "reason": "UAE nationals who previously held an Indian e-Visa or paper visa get visa on arrival for 60 days (MEA); the dataset’s 30 days understates it.",
-  "source": "https://sansad.in/getFile/annex/270/AU4404_RhOFvG.pdf",
-  "date": "2026-10-25",
-  "days": 60
+  "days": 60,
+  "reason": "The Bureau of Immigration’s Visa-on-Arrival facility grants United Arab Emirates nationals a stay of up to 60 days (double entry); the seed dataset’s visa on arrival (30 days) value is incorrect.",
+  "source": "https://indianvisaonline.gov.in/visa/visa-on-arrival.html",
+  "date": "2026-10-27"
  },
  "CN:IN": {
   "status": "e-visa",
@@ -6231,5 +6231,1138 @@
   "reason": "Zimbabwe is not on the Permitted Country list of the official Saudi eVisa portal; under Article 6 of the Tourist Visa Regulations its nationals apply through a Saudi diplomatic mission or the digital embassy. The seed dataset’s e-visa value is incorrect.",
   "source": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
   "date": "2026-10-26"
+ },
+ "AL:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Albania is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "AD:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Andorra is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "AO:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Angola is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "AG:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Antigua & Barbuda is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "AR:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Argentina is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "AM:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Armenia is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "AU:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Australia is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "AT:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Austria is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "AZ:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Azerbaijan is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "BS:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Bahamas is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "BH:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Bahrain is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "BB:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Barbados is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "BY:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Belarus is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "BE:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Belgium is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "BZ:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Belize is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "BJ:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Benin is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "BO:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Bolivia is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "BA:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Bosnia & Herzegovina is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "BW:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Botswana is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "BR:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Brazil is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "BN:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Brunei is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "BG:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Bulgaria is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "BI:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Burundi is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "CA:IN": {
+  "status": "e-visa",
+  "days": 180,
+  "reason": "Canada is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 180 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "KH:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Cambodia is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "CM:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Cameroon is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "CV:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Cape Verde is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "CL:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Chile is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "CO:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Colombia is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "KM:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Comoros is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "CR:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Costa Rica is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "CI:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Côte d’Ivoire is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "HR:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Croatia is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "CU:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Cuba is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "CY:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Cyprus is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "CZ:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Czechia is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "DK:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Denmark is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "DJ:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Djibouti is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "DM:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Dominica is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "DO:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Dominican Republic is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "TL:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Timor-Leste is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/images/Etourist_fee_final.pdf",
+  "date": "2026-10-27"
+ },
+ "EC:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Ecuador is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "SV:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "El Salvador is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "GQ:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Equatorial Guinea is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "ER:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Eritrea is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "EE:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Estonia is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "SZ:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Eswatini is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "FJ:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Fiji is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "FI:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Finland is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "FR:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "France is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "GA:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Gabon is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "GM:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Gambia is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "GE:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Georgia is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "DE:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Germany is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "GH:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Ghana is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "GR:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Greece is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "GD:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Grenada is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "GT:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Guatemala is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "GN:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Guinea is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "GY:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Guyana is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "HT:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Haiti is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "HN:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Honduras is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "HU:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Hungary is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "IS:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Iceland is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "ID:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Indonesia is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "IE:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Ireland is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "IL:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Israel is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "IT:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Italy is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "JM:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Jamaica is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "JO:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Jordan is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "KZ:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Kazakhstan is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "KE:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Kenya is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "KI:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Kiribati is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "KW:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Kuwait is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "KG:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Kyrgyzstan is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "LA:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Laos is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "LV:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Latvia is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "LS:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Lesotho is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "LR:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Liberia is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "LI:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Liechtenstein is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "LT:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Lithuania is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "LU:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Luxembourg is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "MK:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "North Macedonia is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "MG:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Madagascar is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "MW:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Malawi is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "MY:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Malaysia is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "ML:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Mali is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "MT:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Malta is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "MH:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Marshall Islands is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "MR:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Mauritania is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s visa required value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "MU:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Mauritius is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "MX:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Mexico is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "FM:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Micronesia is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "MD:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Moldova is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "MC:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Monaco is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "MN:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Mongolia is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "ME:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Montenegro is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "MA:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Morocco is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "MZ:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Mozambique is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "MM:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Myanmar (Burma) is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "NA:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Namibia is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "NR:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Nauru is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "NL:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Netherlands is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "NZ:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "New Zealand is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "NI:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Nicaragua is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "NE:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Niger is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "NO:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Norway is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "OM:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Oman is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "PW:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Palau is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "PS:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Palestinian Territories is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "PA:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Panama is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "PG:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Papua New Guinea is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "PY:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Paraguay is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "PE:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Peru is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "PH:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Philippines is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "PL:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Poland is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "PT:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Portugal is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "QA:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Qatar is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "RO:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Romania is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "RU:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Russia is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "RW:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Rwanda is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "KN:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "St. Kitts & Nevis is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "LC:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "St. Lucia is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "VC:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "St. Vincent & Grenadines is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "WS:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Samoa is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "SM:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "San Marino is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "SA:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Saudi Arabia is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/images/Etourist_fee_final.pdf",
+  "date": "2026-10-27"
+ },
+ "SN:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Senegal is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "RS:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Serbia is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "SC:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Seychelles is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "SL:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Sierra Leone is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "SG:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Singapore is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "SK:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Slovakia is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "SI:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Slovenia is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "SB:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Solomon Islands is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "ZA:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "South Africa is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "ES:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Spain is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "LK:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Sri Lanka is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "SR:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Suriname is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "SE:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Sweden is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "CH:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Switzerland is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "TW:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Taiwan is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "TJ:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Tajikistan is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "TZ:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Tanzania is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "TH:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Thailand is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "TG:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Togo is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "TO:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Tonga is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "TT:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Trinidad & Tobago is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "TV:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Tuvalu is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "UG:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Uganda is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "UA:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Ukraine is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "GB:IN": {
+  "status": "e-visa",
+  "days": 180,
+  "reason": "United Kingdom is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 180 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "UY:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Uruguay is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "US:IN": {
+  "status": "e-visa",
+  "days": 180,
+  "reason": "United States is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 180 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "UZ:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Uzbekistan is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "VU:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Vanuatu is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "VA:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Vatican City is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "VE:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Venezuela is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "VN:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Vietnam is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "ZM:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Zambia is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "ZW:IN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Zimbabwe is on the official e-Visa eligible list (Bureau of Immigration). The e-Tourist Visa allows stays of up to 90 days per visit on its 1-year and 5-year multiple-entry versions; the seed dataset’s e-visa (30 days) value reflects only the shortest 30-day variant.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
+ },
+ "AF:IN": {
+  "status": "visa required",
+  "reason": "Afghanistan is excluded from the standard e-Visa portal, which routes Afghan nationals to a separate portal covering only non-tourist categories; tourist visits require a regular visa. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+  "date": "2026-10-27"
  }
 }
