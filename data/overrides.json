@@ -4698,5 +4698,54 @@
   "reason": "Citizens of Yemen are not eligible for visa-free entry or electronic visa (e-Visa) under Kazakh migration regulations, and must obtain a visa in advance at an embassy or consulate of Kazakhstan; the seed dataset’s e-visa status is incorrect.",
   "source": "https://www.gov.kz/org/mfa/press/article/details/6764?lang=en",
   "date": "2026-10-26"
+ },
+ "QA:UZ": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Presidential Decree UP-86 of 5 June 2023 grants citizens of Qatar visa-free entry for 30 days from entry; the seed dataset’s 10-day figure predates the decree.",
+  "source": "https://www.lex.uz/ru/doc-passport/6480190",
+  "date": "2026-10-26"
+ },
+ "SA:UZ": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Presidential Decree UP-190 (as amended by UP-43) grants citizens of Saudi Arabia visa-free entry for 30 days from 15 March 2024; the seed dataset’s 90-day figure is incorrect.",
+  "source": "https://lex.uz/ru/doc-passport/6159680",
+  "date": "2026-10-26"
+ },
+ "JO:UZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Jordan appears in Appendix 1 (countries eligible for an electronic entry visa) of the official list published by the Embassy of Uzbekistan in Poland (MFA); the seed dataset’s visa free (30 days) value is incorrect.",
+  "source": "https://poland.mfa.uz/page/2537",
+  "date": "2026-10-26"
+ },
+ "IR:UZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Iran appears in Appendix 1 (countries eligible for an electronic entry visa) of the official list published by the Embassy of Uzbekistan in Poland (MFA); the seed dataset’s visa required value is incorrect.",
+  "source": "https://poland.mfa.uz/page/2537",
+  "date": "2026-10-26"
+ },
+ "KP:UZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "North Korea appears in Appendix 1 (countries eligible for an electronic entry visa) of the official list published by the Embassy of Uzbekistan in Poland (MFA); the seed dataset’s visa required value is incorrect.",
+  "source": "https://poland.mfa.uz/page/2537",
+  "date": "2026-10-26"
+ },
+ "BT:UZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Bhutan appears in Appendix 1 (countries eligible for an electronic entry visa) of the official list published by the Embassy of Uzbekistan in Poland (MFA); the seed dataset’s visa required value is incorrect.",
+  "source": "https://poland.mfa.uz/page/2537",
+  "date": "2026-10-26"
+ },
+ "ZA:UZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "South Africa appears in Appendix 1 (countries eligible for an electronic entry visa) of the official list published by the Embassy of Uzbekistan in Poland (MFA); the seed dataset’s visa required value is incorrect.",
+  "source": "https://poland.mfa.uz/page/2537",
+  "date": "2026-10-26"
  }
 }
