@@ -5244,5 +5244,346 @@
   "reason": "Kyrgyzstan has no visa-on-arrival regime in its official sources; citizens of this country are in the apply-for-a-visa group of the official e-Visa portal of the Kyrgyz MFA (tourist e-visa, up to 30 days). The seed dataset’s visa on arrival (30 days) value is incorrect.",
   "source": "https://www.evisa.e-gov.kg/get_information.php?lng=en",
   "date": "2026-10-26"
+ },
+ "BY:TJ": {
+  "status": "visa free",
+  "reason": "Official Tajik MFA sources set this pair to visa free; the seed dataset’s visa free (90 days) value is incorrect.",
+  "source": "https://www.mfa.tj/en/washington/consular-issues/visa-system-with-foreign-countries",
+  "date": "2026-10-26"
+ },
+ "BN:TJ": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Official Tajik MFA sources set this pair to visa free (30 days); the seed dataset’s e-visa value is incorrect.",
+  "source": "https://mfa.tj/en/brussels/consular-issues/consular-services/standard-visa",
+  "date": "2026-10-26"
+ },
+ "TR:TJ": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Official Tajik MFA sources set this pair to visa free (30 days); the seed dataset’s visa required value is incorrect.",
+  "source": "https://mfa.tj/en/brussels/consular-issues/consular-services/standard-visa",
+  "date": "2026-10-26"
+ },
+ "VA:TJ": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Vatican City is on the unilateral visa-free list (30 days) in the official MFA materials; the seed dataset’s visa on arrival (45 days) value is incorrect.",
+  "source": "https://mfa.tj/en/main/view/14951/the-list-of-countries-eligible-for-the-unilateral-visa-free-entry-system-has-been-expanded-and-the-visa-application-process-for-citizens-of-certain-countries-to-the-republic-of-tajikistan-has",
+  "date": "2026-10-26"
+ },
+ "DZ:TJ": {
+  "status": "e-visa",
+  "days": 60,
+  "reason": "The 14-day unilateral visa-free regime of 1 May 2024 applies only to citizens of Algeria aged 55 and over; other ordinary passport holders use the e-Visa (up to 60 days). The seed dataset’s visa on arrival (45 days) value is incorrect.",
+  "source": "https://mfa.tj/en/korea/consular-issues/consular-services/standard-visa",
+  "date": "2026-10-26"
+ },
+ "EG:TJ": {
+  "status": "e-visa",
+  "days": 60,
+  "reason": "Egypt is on the official simplified-procedure / e-Visa eligibility list (e-Visa stay up to 60 days, Embassy of Tajikistan in Korea); the seed dataset’s visa on arrival (45 days) value is incorrect.",
+  "source": "https://mfa.tj/en/korea/consular-issues/consular-services/standard-visa",
+  "date": "2026-10-26"
+ },
+ "HT:TJ": {
+  "status": "e-visa",
+  "days": 60,
+  "reason": "Haiti is on the official simplified-procedure / e-Visa eligibility list (e-Visa stay up to 60 days, Embassy of Tajikistan in Korea); the seed dataset’s visa required value is incorrect.",
+  "source": "https://mfa.tj/en/korea/consular-issues/consular-services/standard-visa",
+  "date": "2026-10-26"
+ },
+ "IL:TJ": {
+  "status": "e-visa",
+  "days": 60,
+  "reason": "Israel is on the official simplified-procedure / e-Visa eligibility list (e-Visa stay up to 60 days, Embassy of Tajikistan in Korea); the seed dataset’s visa on arrival (45 days) value is incorrect.",
+  "source": "https://mfa.tj/en/korea/consular-issues/consular-services/standard-visa",
+  "date": "2026-10-26"
+ },
+ "LB:TJ": {
+  "status": "e-visa",
+  "days": 60,
+  "reason": "The 14-day unilateral visa-free regime of 1 May 2024 applies only to citizens of Lebanon aged 55 and over; other ordinary passport holders use the e-Visa (up to 60 days). The seed dataset’s visa on arrival (45 days) value is incorrect.",
+  "source": "https://mfa.tj/en/korea/consular-issues/consular-services/standard-visa",
+  "date": "2026-10-26"
+ },
+ "MA:TJ": {
+  "status": "e-visa",
+  "days": 60,
+  "reason": "The 14-day unilateral visa-free regime of 1 May 2024 applies only to citizens of Morocco aged 55 and over; other ordinary passport holders use the e-Visa (up to 60 days). The seed dataset’s visa on arrival (45 days) value is incorrect.",
+  "source": "https://mfa.tj/en/korea/consular-issues/consular-services/standard-visa",
+  "date": "2026-10-26"
+ },
+ "SD:TJ": {
+  "status": "e-visa",
+  "days": 60,
+  "reason": "Sudan is on the official simplified-procedure / e-Visa eligibility list (e-Visa stay up to 60 days, Embassy of Tajikistan in Korea); the seed dataset’s visa required value is incorrect.",
+  "source": "https://mfa.tj/en/korea/consular-issues/consular-services/standard-visa",
+  "date": "2026-10-26"
+ },
+ "TM:TJ": {
+  "status": "e-visa",
+  "days": 60,
+  "reason": "Turkmenistan is on the official simplified-procedure / e-Visa eligibility list (e-Visa stay up to 60 days, Embassy of Tajikistan in Korea); the seed dataset’s visa on arrival (45 days) value is incorrect.",
+  "source": "https://mfa.tj/en/korea/consular-issues/consular-services/standard-visa",
+  "date": "2026-10-26"
+ },
+ "TN:TJ": {
+  "status": "e-visa",
+  "days": 60,
+  "reason": "The 14-day unilateral visa-free regime of 1 May 2024 applies only to citizens of Tunisia aged 55 and over; other ordinary passport holders use the e-Visa (up to 60 days). The seed dataset’s visa on arrival (45 days) value is incorrect.",
+  "source": "https://mfa.tj/en/korea/consular-issues/consular-services/standard-visa",
+  "date": "2026-10-26"
+ },
+ "UG:TJ": {
+  "status": "e-visa",
+  "days": 60,
+  "reason": "Uganda is on the official simplified-procedure / e-Visa eligibility list (e-Visa stay up to 60 days, Embassy of Tajikistan in Korea); the seed dataset’s visa required value is incorrect.",
+  "source": "https://mfa.tj/en/korea/consular-issues/consular-services/standard-visa",
+  "date": "2026-10-26"
+ },
+ "VE:TJ": {
+  "status": "e-visa",
+  "days": 60,
+  "reason": "Venezuela is on the official simplified-procedure / e-Visa eligibility list (e-Visa stay up to 60 days, Embassy of Tajikistan in Korea); the seed dataset’s visa on arrival (45 days) value is incorrect.",
+  "source": "https://mfa.tj/en/korea/consular-issues/consular-services/standard-visa",
+  "date": "2026-10-26"
+ },
+ "VN:TJ": {
+  "status": "e-visa",
+  "days": 60,
+  "reason": "The 14-day unilateral visa-free regime of 1 May 2024 applies only to citizens of Vietnam aged 55 and over; other ordinary passport holders use the e-Visa (up to 60 days). The seed dataset’s visa on arrival (45 days) value is incorrect.",
+  "source": "https://mfa.tj/en/korea/consular-issues/consular-services/standard-visa",
+  "date": "2026-10-26"
+ },
+ "ZA:TJ": {
+  "status": "e-visa",
+  "days": 60,
+  "reason": "South Africa is on the official simplified-procedure / e-Visa eligibility list (e-Visa stay up to 60 days, Embassy of Tajikistan in Korea); the seed dataset’s visa on arrival (45 days) value is incorrect.",
+  "source": "https://mfa.tj/en/korea/consular-issues/consular-services/standard-visa",
+  "date": "2026-10-26"
+ },
+ "CG:TJ": {
+  "status": "visa required",
+  "reason": "Under Government Decree No. 188 of 28 Mar 2024, the simplified visa procedure for Congo - Brazzaville covers only diplomatic (D), service (X) and business (K) visas; for ordinary tourist travel a standard consular visa must be obtained in advance. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://mfa.tj/en/main/view/14951/the-list-of-countries-eligible-for-the-unilateral-visa-free-entry-system-has-been-expanded-and-the-visa-application-process-for-citizens-of-certain-countries-to-the-republic-of-tajikistan-has",
+  "date": "2026-10-26"
+ },
+ "ET:TJ": {
+  "status": "visa required",
+  "reason": "Under Government Decree No. 188 of 28 Mar 2024, the simplified visa procedure for Ethiopia covers only diplomatic (D), service (X) and business (K) visas; for ordinary tourist travel a standard consular visa must be obtained in advance. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://mfa.tj/en/main/view/14951/the-list-of-countries-eligible-for-the-unilateral-visa-free-entry-system-has-been-expanded-and-the-visa-application-process-for-citizens-of-certain-countries-to-the-republic-of-tajikistan-has",
+  "date": "2026-10-26"
+ },
+ "IQ:TJ": {
+  "status": "visa required",
+  "reason": "Under Government Decree No. 188 of 28 Mar 2024, the simplified visa procedure for Iraq covers only diplomatic (D), service (X) and business (K) visas; for ordinary tourist travel a standard consular visa must be obtained in advance. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://mfa.tj/en/main/view/14951/the-list-of-countries-eligible-for-the-unilateral-visa-free-entry-system-has-been-expanded-and-the-visa-application-process-for-citizens-of-certain-countries-to-the-republic-of-tajikistan-has",
+  "date": "2026-10-26"
+ },
+ "NG:TJ": {
+  "status": "visa required",
+  "reason": "Under Government Decree No. 188 of 28 Mar 2024, the simplified visa procedure for Nigeria covers only diplomatic (D), service (X) and business (K) visas; for ordinary tourist travel a standard consular visa must be obtained in advance. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://mfa.tj/en/main/view/14951/the-list-of-countries-eligible-for-the-unilateral-visa-free-entry-system-has-been-expanded-and-the-visa-application-process-for-citizens-of-certain-countries-to-the-republic-of-tajikistan-has",
+  "date": "2026-10-26"
+ },
+ "AO:TJ": {
+  "status": "visa required",
+  "reason": "Angola appears in none of Tajikistan’s official positive lists (visa-free or simplified-procedure / e-Visa), which operate as a closed system; a consular visa is required in advance. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://mfa.tj/en/brussels/consular-issues/consular-services/standard-visa",
+  "date": "2026-10-26"
+ },
+ "BI:TJ": {
+  "status": "visa required",
+  "reason": "Burundi appears in none of Tajikistan’s official positive lists (visa-free or simplified-procedure / e-Visa), which operate as a closed system; a consular visa is required in advance. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://mfa.tj/en/brussels/consular-issues/consular-services/standard-visa",
+  "date": "2026-10-26"
+ },
+ "CF:TJ": {
+  "status": "visa required",
+  "reason": "Central African Republic appears in none of Tajikistan’s official positive lists (visa-free or simplified-procedure / e-Visa), which operate as a closed system; a consular visa is required in advance. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://mfa.tj/en/brussels/consular-issues/consular-services/standard-visa",
+  "date": "2026-10-26"
+ },
+ "CI:TJ": {
+  "status": "visa required",
+  "reason": "Côte d’Ivoire appears in none of Tajikistan’s official positive lists (visa-free or simplified-procedure / e-Visa), which operate as a closed system; a consular visa is required in advance. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://mfa.tj/en/brussels/consular-issues/consular-services/standard-visa",
+  "date": "2026-10-26"
+ },
+ "DJ:TJ": {
+  "status": "visa required",
+  "reason": "Djibouti appears in none of Tajikistan’s official positive lists (visa-free or simplified-procedure / e-Visa), which operate as a closed system; a consular visa is required in advance. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://mfa.tj/en/brussels/consular-issues/consular-services/standard-visa",
+  "date": "2026-10-26"
+ },
+ "ER:TJ": {
+  "status": "visa required",
+  "reason": "Eritrea appears in none of Tajikistan’s official positive lists (visa-free or simplified-procedure / e-Visa), which operate as a closed system; a consular visa is required in advance. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://mfa.tj/en/brussels/consular-issues/consular-services/standard-visa",
+  "date": "2026-10-26"
+ },
+ "FM:TJ": {
+  "status": "visa required",
+  "reason": "Micronesia appears in none of Tajikistan’s official positive lists (visa-free or simplified-procedure / e-Visa), which operate as a closed system; a consular visa is required in advance. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://mfa.tj/en/brussels/consular-issues/consular-services/standard-visa",
+  "date": "2026-10-26"
+ },
+ "GA:TJ": {
+  "status": "visa required",
+  "reason": "Gabon appears in none of Tajikistan’s official positive lists (visa-free or simplified-procedure / e-Visa), which operate as a closed system; a consular visa is required in advance. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://mfa.tj/en/brussels/consular-issues/consular-services/standard-visa",
+  "date": "2026-10-26"
+ },
+ "GM:TJ": {
+  "status": "visa required",
+  "reason": "Gambia appears in none of Tajikistan’s official positive lists (visa-free or simplified-procedure / e-Visa), which operate as a closed system; a consular visa is required in advance. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://mfa.tj/en/brussels/consular-issues/consular-services/standard-visa",
+  "date": "2026-10-26"
+ },
+ "GN:TJ": {
+  "status": "visa required",
+  "reason": "Guinea appears in none of Tajikistan’s official positive lists (visa-free or simplified-procedure / e-Visa), which operate as a closed system; a consular visa is required in advance. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://mfa.tj/en/brussels/consular-issues/consular-services/standard-visa",
+  "date": "2026-10-26"
+ },
+ "GQ:TJ": {
+  "status": "visa required",
+  "reason": "Equatorial Guinea appears in none of Tajikistan’s official positive lists (visa-free or simplified-procedure / e-Visa), which operate as a closed system; a consular visa is required in advance. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://mfa.tj/en/brussels/consular-issues/consular-services/standard-visa",
+  "date": "2026-10-26"
+ },
+ "GW:TJ": {
+  "status": "visa required",
+  "reason": "Guinea-Bissau appears in none of Tajikistan’s official positive lists (visa-free or simplified-procedure / e-Visa), which operate as a closed system; a consular visa is required in advance. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://mfa.tj/en/brussels/consular-issues/consular-services/standard-visa",
+  "date": "2026-10-26"
+ },
+ "HK:TJ": {
+  "status": "visa required",
+  "reason": "Hong Kong SAR China appears in none of Tajikistan’s official positive lists (visa-free or simplified-procedure / e-Visa), which operate as a closed system; a consular visa is required in advance. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://mfa.tj/en/brussels/consular-issues/consular-services/standard-visa",
+  "date": "2026-10-26"
+ },
+ "KI:TJ": {
+  "status": "visa required",
+  "reason": "Kiribati appears in none of Tajikistan’s official positive lists (visa-free or simplified-procedure / e-Visa), which operate as a closed system; a consular visa is required in advance. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://mfa.tj/en/brussels/consular-issues/consular-services/standard-visa",
+  "date": "2026-10-26"
+ },
+ "KP:TJ": {
+  "status": "visa required",
+  "reason": "North Korea appears in none of Tajikistan’s official positive lists (visa-free or simplified-procedure / e-Visa), which operate as a closed system; a consular visa is required in advance. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://mfa.tj/en/brussels/consular-issues/consular-services/standard-visa",
+  "date": "2026-10-26"
+ },
+ "LR:TJ": {
+  "status": "visa required",
+  "reason": "Liberia appears in none of Tajikistan’s official positive lists (visa-free or simplified-procedure / e-Visa), which operate as a closed system; a consular visa is required in advance. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://mfa.tj/en/brussels/consular-issues/consular-services/standard-visa",
+  "date": "2026-10-26"
+ },
+ "LS:TJ": {
+  "status": "visa required",
+  "reason": "Lesotho appears in none of Tajikistan’s official positive lists (visa-free or simplified-procedure / e-Visa), which operate as a closed system; a consular visa is required in advance. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://mfa.tj/en/brussels/consular-issues/consular-services/standard-visa",
+  "date": "2026-10-26"
+ },
+ "LY:TJ": {
+  "status": "visa required",
+  "reason": "Libya appears in none of Tajikistan’s official positive lists (visa-free or simplified-procedure / e-Visa), which operate as a closed system; a consular visa is required in advance. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://mfa.tj/en/brussels/consular-issues/consular-services/standard-visa",
+  "date": "2026-10-26"
+ },
+ "ML:TJ": {
+  "status": "visa required",
+  "reason": "Mali appears in none of Tajikistan’s official positive lists (visa-free or simplified-procedure / e-Visa), which operate as a closed system; a consular visa is required in advance. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://mfa.tj/en/brussels/consular-issues/consular-services/standard-visa",
+  "date": "2026-10-26"
+ },
+ "MM:TJ": {
+  "status": "visa required",
+  "reason": "Myanmar (Burma) appears in none of Tajikistan’s official positive lists (visa-free or simplified-procedure / e-Visa), which operate as a closed system; a consular visa is required in advance. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://mfa.tj/en/brussels/consular-issues/consular-services/standard-visa",
+  "date": "2026-10-26"
+ },
+ "MO:TJ": {
+  "status": "visa required",
+  "reason": "Macao SAR China appears in none of Tajikistan’s official positive lists (visa-free or simplified-procedure / e-Visa), which operate as a closed system; a consular visa is required in advance. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://mfa.tj/en/brussels/consular-issues/consular-services/standard-visa",
+  "date": "2026-10-26"
+ },
+ "MR:TJ": {
+  "status": "visa required",
+  "reason": "Mauritania appears in none of Tajikistan’s official positive lists (visa-free or simplified-procedure / e-Visa), which operate as a closed system; a consular visa is required in advance. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://mfa.tj/en/brussels/consular-issues/consular-services/standard-visa",
+  "date": "2026-10-26"
+ },
+ "MW:TJ": {
+  "status": "visa required",
+  "reason": "Malawi appears in none of Tajikistan’s official positive lists (visa-free or simplified-procedure / e-Visa), which operate as a closed system; a consular visa is required in advance. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://mfa.tj/en/brussels/consular-issues/consular-services/standard-visa",
+  "date": "2026-10-26"
+ },
+ "MZ:TJ": {
+  "status": "visa required",
+  "reason": "Mozambique appears in none of Tajikistan’s official positive lists (visa-free or simplified-procedure / e-Visa), which operate as a closed system; a consular visa is required in advance. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://mfa.tj/en/brussels/consular-issues/consular-services/standard-visa",
+  "date": "2026-10-26"
+ },
+ "NA:TJ": {
+  "status": "visa required",
+  "reason": "Namibia appears in none of Tajikistan’s official positive lists (visa-free or simplified-procedure / e-Visa), which operate as a closed system; a consular visa is required in advance. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://mfa.tj/en/brussels/consular-issues/consular-services/standard-visa",
+  "date": "2026-10-26"
+ },
+ "NE:TJ": {
+  "status": "visa required",
+  "reason": "Niger appears in none of Tajikistan’s official positive lists (visa-free or simplified-procedure / e-Visa), which operate as a closed system; a consular visa is required in advance. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://mfa.tj/en/brussels/consular-issues/consular-services/standard-visa",
+  "date": "2026-10-26"
+ },
+ "NP:TJ": {
+  "status": "visa required",
+  "reason": "Nepal appears in none of Tajikistan’s official positive lists (visa-free or simplified-procedure / e-Visa), which operate as a closed system; a consular visa is required in advance. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://mfa.tj/en/brussels/consular-issues/consular-services/standard-visa",
+  "date": "2026-10-26"
+ },
+ "NR:TJ": {
+  "status": "visa required",
+  "reason": "Nauru appears in none of Tajikistan’s official positive lists (visa-free or simplified-procedure / e-Visa), which operate as a closed system; a consular visa is required in advance. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://mfa.tj/en/brussels/consular-issues/consular-services/standard-visa",
+  "date": "2026-10-26"
+ },
+ "PW:TJ": {
+  "status": "visa required",
+  "reason": "Palau appears in none of Tajikistan’s official positive lists (visa-free or simplified-procedure / e-Visa), which operate as a closed system; a consular visa is required in advance. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://mfa.tj/en/brussels/consular-issues/consular-services/standard-visa",
+  "date": "2026-10-26"
+ },
+ "SZ:TJ": {
+  "status": "visa required",
+  "reason": "Eswatini appears in none of Tajikistan’s official positive lists (visa-free or simplified-procedure / e-Visa), which operate as a closed system; a consular visa is required in advance. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://mfa.tj/en/brussels/consular-issues/consular-services/standard-visa",
+  "date": "2026-10-26"
+ },
+ "TD:TJ": {
+  "status": "visa required",
+  "reason": "Chad appears in none of Tajikistan’s official positive lists (visa-free or simplified-procedure / e-Visa), which operate as a closed system; a consular visa is required in advance. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://mfa.tj/en/brussels/consular-issues/consular-services/standard-visa",
+  "date": "2026-10-26"
+ },
+ "YE:TJ": {
+  "status": "visa required",
+  "reason": "Yemen appears in none of Tajikistan’s official positive lists (visa-free or simplified-procedure / e-Visa), which operate as a closed system; a consular visa is required in advance. The seed dataset’s visa on arrival (45 days) value is incorrect.",
+  "source": "https://mfa.tj/en/brussels/consular-issues/consular-services/standard-visa",
+  "date": "2026-10-26"
+ },
+ "VU:TJ": {
+  "status": "e-visa",
+  "days": 60,
+  "reason": "The 14-day unilateral visa-free regime of 1 May 2024 applies only to citizens of Vanuatu aged 55 and over; other ordinary passport holders use the e-Visa (up to 60 days). The seed dataset’s visa required value is incorrect.",
+  "source": "https://mfa.tj/en/korea/consular-issues/consular-services/standard-visa",
+  "date": "2026-10-26"
  }
 }
