@@ -8507,5 +8507,908 @@
   "reason": "Sri Lanka’s operative system is the Electronic Travel Authorization (ETA): visitors obtain an ETA (online before travel, or at the ETA counter on arrival at Colombo airport), under which a 30-day visit visa is issued. The seed dataset’s visa on arrival (30 days) value reflects the superseded framing.",
   "source": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
   "date": "2026-10-27"
+ },
+ "DZ:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Algeria is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "AO:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Angola is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "AR:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Argentina is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "AU:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Australia is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "AT:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Austria is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "AZ:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Azerbaijan is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "BD:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Bangladesh is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "BY:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Belarus is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "BE:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Belgium is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "BJ:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Benin is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "BT:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Bhutan is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "BR:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Brazil is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "BG:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Bulgaria is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "KH:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Cambodia is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "CM:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Cameroon is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "CA:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Canada is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "CL:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Chile is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "CN:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "China is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "CO:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Colombia is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "KM:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Comoros is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "CI:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Côte d’Ivoire is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "HR:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Croatia is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "CZ:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Czechia is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "DK:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Denmark is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "DJ:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Djibouti is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "EC:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Ecuador is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "EG:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Egypt is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "EE:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Estonia is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "FI:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Finland is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "FR:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "France is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "GM:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Gambia is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "DE:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Germany is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "GH:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Ghana is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "GR:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Greece is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "GT:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Guatemala is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "GN:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Guinea is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "GW:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Guinea-Bissau is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "HN:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Honduras is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "HU:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Hungary is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "ID:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Indonesia is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "IR:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Iran is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "IQ:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Iraq is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "IE:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Ireland is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "IT:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Italy is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "JP:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Japan is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "JO:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Jordan is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "KZ:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Kazakhstan is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "KE:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Kenya is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "KR:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "South Korea is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "LV:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Latvia is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "LB:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Lebanon is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "LT:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Lithuania is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "MG:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Madagascar is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "MY:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Malaysia is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "MU:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Mauritius is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "MX:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Mexico is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "ME:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Montenegro is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "MA:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Morocco is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "MZ:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Mozambique is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "MM:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Myanmar (Burma) is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "NL:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Netherlands is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "NZ:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "New Zealand is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "NG:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Nigeria is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "NO:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Norway is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "PA:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Panama is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "PY:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Paraguay is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "PE:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Peru is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "PH:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Philippines is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "PL:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Poland is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "PT:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Portugal is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "RO:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Romania is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "RU:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Russia is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "RW:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Rwanda is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "SN:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Senegal is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "SL:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Sierra Leone is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "SG:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Singapore is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "SK:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Slovakia is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "SI:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Slovenia is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "ZA:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "South Africa is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "SS:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "South Sudan is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "ES:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Spain is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "LK:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Sri Lanka is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "SE:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Sweden is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "CH:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Switzerland is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "TZ:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Tanzania is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "TH:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Thailand is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "TG:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Togo is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "TN:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Tunisia is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "TR:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Türkiye is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "UA:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Ukraine is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "GB:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "United Kingdom is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "US:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "United States is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "UZ:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Uzbekistan is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "VN:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Vietnam is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "CD:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Congo - Kinshasa is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "MW:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Malawi is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "ZM:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Zambia is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "ZW:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Zimbabwe is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "KG:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Kyrgyzstan is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "LU:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Luxembourg is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "MT:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Malta is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "BA:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Bosnia & Herzegovina is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "GE:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Georgia is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "MD:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Moldova is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "AL:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Albania is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "AD:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Andorra is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "LI:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Liechtenstein is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "MK:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "North Macedonia is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "SM:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "San Marino is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "IS:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Iceland is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "BN:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Brunei is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "UG:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Uganda is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "ET:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Ethiopia is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "MR:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Mauritania is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "SC:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Seychelles is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "TJ:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Tajikistan is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "TM:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Turkmenistan is on the official Visa Prior to Arrival list: a free, multiple-entry grant notice applied for online, for stays of up to 90 days (in force since August 2024). The seed dataset’s e-visa (30 days) value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/visa-prior-to-arrival/",
+  "date": "2026-10-27"
+ },
+ "AG:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Antigua & Barbuda is on the Pakistan Online Visa System’s official list of countries eligible for a visit visa, which allows a stay of up to 3 months. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/list-of-countries-eligible-for-visit-visa/",
+  "date": "2026-10-27"
+ },
+ "BS:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Bahamas is on the Pakistan Online Visa System’s official list of countries eligible for a visit visa, which allows a stay of up to 3 months. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/list-of-countries-eligible-for-visit-visa/",
+  "date": "2026-10-27"
+ },
+ "BB:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Barbados is on the Pakistan Online Visa System’s official list of countries eligible for a visit visa, which allows a stay of up to 3 months. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/list-of-countries-eligible-for-visit-visa/",
+  "date": "2026-10-27"
+ },
+ "BZ:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Belize is on the Pakistan Online Visa System’s official list of countries eligible for a visit visa, which allows a stay of up to 3 months. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/list-of-countries-eligible-for-visit-visa/",
+  "date": "2026-10-27"
+ },
+ "BO:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Bolivia is on the Pakistan Online Visa System’s official list of countries eligible for a visit visa, which allows a stay of up to 3 months. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/list-of-countries-eligible-for-visit-visa/",
+  "date": "2026-10-27"
+ },
+ "BW:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Botswana is on the Pakistan Online Visa System’s official list of countries eligible for a visit visa, which allows a stay of up to 3 months. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/list-of-countries-eligible-for-visit-visa/",
+  "date": "2026-10-27"
+ },
+ "BF:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Burkina Faso is on the Pakistan Online Visa System’s official list of countries eligible for a visit visa, which allows a stay of up to 3 months. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/list-of-countries-eligible-for-visit-visa/",
+  "date": "2026-10-27"
+ },
+ "BI:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Burundi is on the Pakistan Online Visa System’s official list of countries eligible for a visit visa, which allows a stay of up to 3 months. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/list-of-countries-eligible-for-visit-visa/",
+  "date": "2026-10-27"
+ },
+ "CV:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Cape Verde is on the Pakistan Online Visa System’s official list of countries eligible for a visit visa, which allows a stay of up to 3 months. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/list-of-countries-eligible-for-visit-visa/",
+  "date": "2026-10-27"
+ },
+ "CF:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Central African Republic is on the Pakistan Online Visa System’s official list of countries eligible for a visit visa, which allows a stay of up to 3 months. The seed dataset’s e-visa value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/list-of-countries-eligible-for-visit-visa/",
+  "date": "2026-10-27"
+ },
+ "AF:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Official Pakistani sources set this pair to e-visa (90 days); the seed dataset’s e-visa value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/tourist-visa/",
+  "date": "2026-10-27"
+ },
+ "SO:PK": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Official Pakistani sources set this pair to e-visa (90 days); the seed dataset’s e-visa value is incorrect.",
+  "source": "https://visa.nadra.gov.pk/tourist-visa/",
+  "date": "2026-10-27"
  }
 }
