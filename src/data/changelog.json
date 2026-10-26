@@ -1,6 +1,1005 @@
 [
  {
   "date": "2026-10-26",
+  "pair": "ZW:GE",
+  "title": "Zimbabwe → Georgia",
+  "old": "e-visa",
+  "new": "visa required",
+  "reason": "Zimbabwe does not appear in the Ordinance No. 255 visa-free annex or on the official Georgian e-VISA eligibility list, and the Georgian MFA Consular Department's visa information service returns a visa requirement for ordinary passports — a visa must be obtained in advance. The dataset's e-visa status is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "ZM:GE",
+  "title": "Zambia → Georgia",
+  "old": "e-visa",
+  "new": "visa required",
+  "reason": "Zambia does not appear in the Ordinance No. 255 visa-free annex or on the official Georgian e-VISA eligibility list, and the Georgian MFA Consular Department's visa information service returns a visa requirement for ordinary passports — a visa must be obtained in advance. The dataset's e-visa status is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "ZA:GE",
+  "title": "South Africa → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of South Africa are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "VC:GE",
+  "title": "St. Vincent & Grenadines → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of St. Vincent & Grenadines are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "VA:GE",
+  "title": "Vatican City → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Vatican City are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "UZ:GE",
+  "title": "Uzbekistan → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Uzbekistan are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "US:GE",
+  "title": "United States → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of United States are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "UA:GE",
+  "title": "Ukraine → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Ukraine are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "TR:GE",
+  "title": "Türkiye → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Türkiye are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "TO:GE",
+  "title": "Tonga → Georgia",
+  "old": "e-visa",
+  "new": "visa required",
+  "reason": "Tonga does not appear in the Ordinance No. 255 visa-free annex or on the official Georgian e-VISA eligibility list, and the Georgian MFA Consular Department's visa information service returns a visa requirement for ordinary passports — a visa must be obtained in advance. The dataset's e-visa status is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "TM:GE",
+  "title": "Turkmenistan → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Turkmenistan are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "TL:GE",
+  "title": "Timor-Leste → Georgia",
+  "old": "e-visa",
+  "new": "visa required",
+  "reason": "Timor-Leste does not appear in the Ordinance No. 255 visa-free annex or on the official Georgian e-VISA eligibility list, and the Georgian MFA Consular Department's visa information service returns a visa requirement for ordinary passports — a visa must be obtained in advance. The dataset's e-visa status is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "TJ:GE",
+  "title": "Tajikistan → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Tajikistan are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "TH:GE",
+  "title": "Thailand → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Thailand are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "TG:GE",
+  "title": "Togo → Georgia",
+  "old": "e-visa",
+  "new": "visa required",
+  "reason": "Togo does not appear in the Ordinance No. 255 visa-free annex or on the official Georgian e-VISA eligibility list, and the Georgian MFA Consular Department's visa information service returns a visa requirement for ordinary passports — a visa must be obtained in advance. The dataset's e-visa status is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "SZ:GE",
+  "title": "Eswatini → Georgia",
+  "old": "e-visa",
+  "new": "visa required",
+  "reason": "Eswatini does not appear in the Ordinance No. 255 visa-free annex or on the official Georgian e-VISA eligibility list, and the Georgian MFA Consular Department's visa information service returns a visa requirement for ordinary passports — a visa must be obtained in advance. The dataset's e-visa status is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "SV:GE",
+  "title": "El Salvador → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of El Salvador are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "SM:GE",
+  "title": "San Marino → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of San Marino are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "SK:GE",
+  "title": "Slovakia → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Slovakia are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "SI:GE",
+  "title": "Slovenia → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Slovenia are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "SG:GE",
+  "title": "Singapore → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Singapore are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "SE:GE",
+  "title": "Sweden → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Sweden are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "SC:GE",
+  "title": "Seychelles → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Seychelles are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "SA:GE",
+  "title": "Saudi Arabia → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Saudi Arabia are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "RW:GE",
+  "title": "Rwanda → Georgia",
+  "old": "e-visa",
+  "new": "visa required",
+  "reason": "Rwanda does not appear in the Ordinance No. 255 visa-free annex or on the official Georgian e-VISA eligibility list, and the Georgian MFA Consular Department's visa information service returns a visa requirement for ordinary passports — a visa must be obtained in advance. The dataset's e-visa status is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "RU:GE",
+  "title": "Russia → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Russia are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "RS:GE",
+  "title": "Serbia → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Serbia are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "RO:GE",
+  "title": "Romania → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Romania are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "QA:GE",
+  "title": "Qatar → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Qatar are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "PT:GE",
+  "title": "Portugal → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Portugal are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "PL:GE",
+  "title": "Poland → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Poland are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "PG:GE",
+  "title": "Papua New Guinea → Georgia",
+  "old": "e-visa",
+  "new": "visa required",
+  "reason": "Papua New Guinea does not appear in the Ordinance No. 255 visa-free annex or on the official Georgian e-VISA eligibility list, and the Georgian MFA Consular Department's visa information service returns a visa requirement for ordinary passports — a visa must be obtained in advance. The dataset's e-visa status is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "PA:GE",
+  "title": "Panama → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Panama are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "OM:GE",
+  "title": "Oman → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Oman are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "NZ:GE",
+  "title": "New Zealand → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of New Zealand are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "NO:GE",
+  "title": "Norway → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Norway are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "NL:GE",
+  "title": "Netherlands → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Netherlands are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "NA:GE",
+  "title": "Namibia → Georgia",
+  "old": "e-visa",
+  "new": "visa required",
+  "reason": "Namibia does not appear in the Ordinance No. 255 visa-free annex or on the official Georgian e-VISA eligibility list, and the Georgian MFA Consular Department's visa information service returns a visa requirement for ordinary passports — a visa must be obtained in advance. The dataset's e-visa status is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "MZ:GE",
+  "title": "Mozambique → Georgia",
+  "old": "e-visa",
+  "new": "visa required",
+  "reason": "Mozambique does not appear in the Ordinance No. 255 visa-free annex or on the official Georgian e-VISA eligibility list, and the Georgian MFA Consular Department's visa information service returns a visa requirement for ordinary passports — a visa must be obtained in advance. The dataset's e-visa status is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "MY:GE",
+  "title": "Malaysia → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Malaysia are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "MX:GE",
+  "title": "Mexico → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Mexico are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "MU:GE",
+  "title": "Mauritius → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Mauritius are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "MT:GE",
+  "title": "Malta → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Malta are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "ME:GE",
+  "title": "Montenegro → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Montenegro are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "MD:GE",
+  "title": "Moldova → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Moldova are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "MC:GE",
+  "title": "Monaco → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Monaco are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "LV:GE",
+  "title": "Latvia → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Latvia are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "LU:GE",
+  "title": "Luxembourg → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Luxembourg are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "LT:GE",
+  "title": "Lithuania → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Lithuania are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "LS:GE",
+  "title": "Lesotho → Georgia",
+  "old": "e-visa",
+  "new": "visa required",
+  "reason": "Lesotho does not appear in the Ordinance No. 255 visa-free annex or on the official Georgian e-VISA eligibility list, and the Georgian MFA Consular Department's visa information service returns a visa requirement for ordinary passports — a visa must be obtained in advance. The dataset's e-visa status is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "LI:GE",
+  "title": "Liechtenstein → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Liechtenstein are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "LB:GE",
+  "title": "Lebanon → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Lebanon are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "KZ:GE",
+  "title": "Kazakhstan → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Kazakhstan are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "KW:GE",
+  "title": "Kuwait → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Kuwait are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "KR:GE",
+  "title": "South Korea → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of South Korea are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "KG:GE",
+  "title": "Kyrgyzstan → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Kyrgyzstan are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "JP:GE",
+  "title": "Japan → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Japan are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "JO:GE",
+  "title": "Jordan → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Jordan are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "IT:GE",
+  "title": "Italy → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Italy are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "IS:GE",
+  "title": "Iceland → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Iceland are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "IN:GE",
+  "title": "India → Georgia",
+  "old": "visa required",
+  "new": "e-visa",
+  "reason": "India is on the official Georgian e-VISA eligibility list (evisa.gov.ge country eligibility check), so ordinary passport holders may apply for a visa online in advance; the dataset's visa-required status is incorrect.",
+  "source": "https://www.evisa.gov.ge/GeoVisa/en/VisaApp"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "IL:GE",
+  "title": "Israel → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Israel are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "IE:GE",
+  "title": "Ireland → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Ireland are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "HU:GE",
+  "title": "Hungary → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Hungary are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "HT:GE",
+  "title": "Haiti → Georgia",
+  "old": "e-visa",
+  "new": "visa required",
+  "reason": "Haiti does not appear in the Ordinance No. 255 visa-free annex or on the official Georgian e-VISA eligibility list, and the Georgian MFA Consular Department's visa information service returns a visa requirement for ordinary passports — a visa must be obtained in advance. The dataset's e-visa status is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "HR:GE",
+  "title": "Croatia → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Croatia are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "HN:GE",
+  "title": "Honduras → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Honduras are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "GW:GE",
+  "title": "Guinea-Bissau → Georgia",
+  "old": "e-visa",
+  "new": "visa required",
+  "reason": "Guinea-Bissau does not appear in the Ordinance No. 255 visa-free annex or on the official Georgian e-VISA eligibility list, and the Georgian MFA Consular Department's visa information service returns a visa requirement for ordinary passports — a visa must be obtained in advance. The dataset's e-visa status is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "GR:GE",
+  "title": "Greece → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Greece are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "GB:GE",
+  "title": "United Kingdom → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of United Kingdom are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "FR:GE",
+  "title": "France → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of France are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "FI:GE",
+  "title": "Finland → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Finland are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "ET:GE",
+  "title": "Ethiopia → Georgia",
+  "old": "e-visa",
+  "new": "visa required",
+  "reason": "Ethiopia does not appear in the Ordinance No. 255 visa-free annex or on the official Georgian e-VISA eligibility list, and the Georgian MFA Consular Department's visa information service returns a visa requirement for ordinary passports — a visa must be obtained in advance. The dataset's e-visa status is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "ES:GE",
+  "title": "Spain → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Spain are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "ER:GE",
+  "title": "Eritrea → Georgia",
+  "old": "e-visa",
+  "new": "visa required",
+  "reason": "Eritrea does not appear in the Ordinance No. 255 visa-free annex or on the official Georgian e-VISA eligibility list, and the Georgian MFA Consular Department's visa information service returns a visa requirement for ordinary passports — a visa must be obtained in advance. The dataset's e-visa status is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "EE:GE",
+  "title": "Estonia → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Estonia are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "EC:GE",
+  "title": "Ecuador → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Ecuador are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "DO:GE",
+  "title": "Dominican Republic → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Dominican Republic are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "DK:GE",
+  "title": "Denmark → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Denmark are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "DE:GE",
+  "title": "Germany → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Germany are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "CZ:GE",
+  "title": "Czechia → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Czechia are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "CY:GE",
+  "title": "Cyprus → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Cyprus are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "CR:GE",
+  "title": "Costa Rica → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Costa Rica are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "CO:GE",
+  "title": "Colombia → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Colombia are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "CH:GE",
+  "title": "Switzerland → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Switzerland are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "CF:GE",
+  "title": "Central African Republic → Georgia",
+  "old": "e-visa",
+  "new": "visa required",
+  "reason": "Central African Republic does not appear in the Ordinance No. 255 visa-free annex or on the official Georgian e-VISA eligibility list, and the Georgian MFA Consular Department's visa information service returns a visa requirement for ordinary passports — a visa must be obtained in advance. The dataset's e-visa status is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "CA:GE",
+  "title": "Canada → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Canada are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "BZ:GE",
+  "title": "Belize → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Belize are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "BY:GE",
+  "title": "Belarus → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Belarus are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "BW:GE",
+  "title": "Botswana → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Botswana are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "BS:GE",
+  "title": "Bahamas → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Bahamas are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "BR:GE",
+  "title": "Brazil → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Brazil are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "BN:GE",
+  "title": "Brunei → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Brunei are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "BJ:GE",
+  "title": "Benin → Georgia",
+  "old": "e-visa",
+  "new": "visa required",
+  "reason": "Benin does not appear in the Ordinance No. 255 visa-free annex or on the official Georgian e-VISA eligibility list, and the Georgian MFA Consular Department's visa information service returns a visa requirement for ordinary passports — a visa must be obtained in advance. The dataset's e-visa status is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "BI:GE",
+  "title": "Burundi → Georgia",
+  "old": "e-visa",
+  "new": "visa required",
+  "reason": "Burundi does not appear in the Ordinance No. 255 visa-free annex or on the official Georgian e-VISA eligibility list, and the Georgian MFA Consular Department's visa information service returns a visa requirement for ordinary passports — a visa must be obtained in advance. The dataset's e-visa status is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "BH:GE",
+  "title": "Bahrain → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Bahrain are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "BG:GE",
+  "title": "Bulgaria → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Bulgaria are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "BF:GE",
+  "title": "Burkina Faso → Georgia",
+  "old": "e-visa",
+  "new": "visa required",
+  "reason": "Burkina Faso does not appear in the Ordinance No. 255 visa-free annex or on the official Georgian e-VISA eligibility list, and the Georgian MFA Consular Department's visa information service returns a visa requirement for ordinary passports — a visa must be obtained in advance. The dataset's e-visa status is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "BE:GE",
+  "title": "Belgium → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Belgium are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "BB:GE",
+  "title": "Barbados → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Barbados are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "BA:GE",
+  "title": "Bosnia & Herzegovina → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Bosnia & Herzegovina are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "AZ:GE",
+  "title": "Azerbaijan → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Azerbaijan are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "AU:GE",
+  "title": "Australia → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Australia are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "AT:GE",
+  "title": "Austria → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Austria are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "AR:GE",
+  "title": "Argentina → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Argentina are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "AO:GE",
+  "title": "Angola → Georgia",
+  "old": "e-visa",
+  "new": "visa required",
+  "reason": "Angola does not appear in the Ordinance No. 255 visa-free annex or on the official Georgian e-VISA eligibility list, and the Georgian MFA Consular Department's visa information service returns a visa requirement for ordinary passports — a visa must be obtained in advance. The dataset's e-visa status is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "AM:GE",
+  "title": "Armenia → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Armenia are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "AL:GE",
+  "title": "Albania → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Albania are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "AG:GE",
+  "title": "Antigua & Barbuda → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Antigua & Barbuda are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "AE:GE",
+  "title": "United Arab Emirates → Georgia",
+  "old": "visa free (90 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of United Arab Emirates are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 90-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
+  "pair": "AD:GE",
+  "title": "Andorra → Georgia",
+  "old": "visa free (360 days)",
+  "new": "visa free (365 days)",
+  "reason": "Citizens of Andorra are listed in the annex to Government Ordinance No. 255 and may enter and stay in Georgia without a visa for one full year (365 days), per the Georgian MFA Consular Department's visa information; the dataset's 360-day figure is incorrect.",
+  "source": "https://www.geoconsul.gov.ge/en/HtmlPage/html/View?id=956"
+ },
+ {
+  "date": "2026-10-26",
   "pair": "XK:BH",
   "title": "Kosovo → Bahrain",
   "old": "e-visa",
