@@ -9769,5 +9769,40 @@
   "reason": "Rwanda's current eAIP GEN 1.3 (6 August 2026) lists Jordanian ordinary passports under “No visa required for a stay of thirty (30) days”, and that listing is followed here. (Rwanda's 2023 agreement with Jordan was reported as covering diplomatic and service passports only.) The seed dataset's visa on arrival value is superseded.",
   "source": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-GEN%201.3-en-GB.html",
   "date": "2026-10-28"
+ },
+ "KE:BI": {
+  "status": "visa free",
+  "days": 180,
+  "reason": "Kenya is named on Burundi's official embassy exemption list, and the Foreign Ministry's free-visa table gives the free EAC access visa a validity of 1 to 6 months — the six-month maximum is used here. The seed dataset's visa free (90 days) figure understates this stay.",
+  "source": "https://www.mae.gov.bi/en/free-visa/",
+  "date": "2026-10-28"
+ },
+ "TZ:BI": {
+  "status": "visa free",
+  "days": 180,
+  "reason": "Tanzania is named on Burundi's official embassy exemption list, and the Foreign Ministry's free-visa table gives the free EAC access visa a validity of 1 to 6 months — the six-month maximum is used here. The seed dataset's visa free (90 days) figure understates this stay.",
+  "source": "https://www.mae.gov.bi/en/free-visa/",
+  "date": "2026-10-28"
+ },
+ "UG:BI": {
+  "status": "visa free",
+  "days": 180,
+  "reason": "Uganda is named on Burundi's official embassy exemption list, and the Foreign Ministry's free-visa table gives the free EAC access visa a validity of 1 to 6 months — the six-month maximum is used here. The seed dataset's visa free (90 days) figure understates this stay.",
+  "source": "https://www.mae.gov.bi/en/free-visa/",
+  "date": "2026-10-28"
+ },
+ "RW:BI": {
+  "status": "visa free",
+  "days": 180,
+  "reason": "Rwanda is named on Burundi's official embassy exemption list, and the Foreign Ministry's free-visa table gives the free EAC access visa a validity of 1 to 6 months — the six-month maximum is used here. The seed dataset's visa free (90 days) figure understates this stay.",
+  "source": "https://www.mae.gov.bi/en/free-visa/",
+  "date": "2026-10-28"
+ },
+ "SS:BI": {
+  "status": "visa free",
+  "days": 180,
+  "reason": "South Sudan is an East African Community partner state, and Burundi's Foreign Ministry grants the free EAC access visa to citizens of EAC member countries categorically, with a validity of 1 to 6 months — the six-month maximum is used here. (The EAC's own FAQ exempts EAC nationals from visas “with the exception of DRC”; the Burundi embassy exemption list names only five countries and omits South Sudan.) The seed dataset's visa free (90 days) figure understates this stay.",
+  "source": "https://www.mae.gov.bi/en/free-visa/",
+  "date": "2026-10-28"
  }
 }
