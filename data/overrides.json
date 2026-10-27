@@ -2076,10 +2076,10 @@
  },
  "SO:KE": {
   "status": "eta",
-  "reason": "Somalia is excluded from Kenya’s 2025 eTA exemption lists (the “all African states except Somalia and Libya” carve-out in the official rules); Somali passports need an eTA.",
+  "days": 90,
+  "reason": "Somalia is not in Kenya’s eTA exemption schedule (Legal Notice No. 93 of 2025) — despite Somalia’s East African Community membership, Somali nationals must obtain an eTA before travel. The seed dataset’s visa free (60 days) value is incorrect.",
   "source": "https://etakenya.go.ke/general-information",
-  "date": "2026-10-25",
-  "days": 90
+  "date": "2026-10-27"
  },
  "IN:IR": {
   "status": "visa required",
@@ -9423,6 +9423,20 @@
   "days": 30,
   "reason": "Egypt is named in the official visa-on-arrival provisions applied under Bangladesh’s Visa Policy 2026 (Special Branch visa-on-arrival information and Bangladesh mission pages): visa on arrival for 30 days, single entry. The seed dataset’s visa required value is incorrect.",
   "source": "https://voa.specialbranch.gov.bd/public/voa-info.html",
+  "date": "2026-10-27"
+ },
+ "SB:KE": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Solomon Islands is listed in the persons exempted from obtaining an eTA under Kenya’s Legal Notice No. 93 of 2025, as published on the official eTA portal: no eTA, no visa, stay up to 90 days. The seed dataset’s eta (90 days) value is incorrect.",
+  "source": "https://etakenya.go.ke/general-information",
+  "date": "2026-10-27"
+ },
+ "SC:KE": {
+  "status": "visa free",
+  "days": 60,
+  "reason": "Seychelles is listed in the persons exempted from obtaining an eTA under Kenya’s Legal Notice No. 93 of 2025, as published on the official eTA portal: no eTA, no visa, stay up to 60 days. The seed dataset’s visa free (90 days) value is incorrect.",
+  "source": "https://etakenya.go.ke/general-information",
   "date": "2026-10-27"
  }
 }

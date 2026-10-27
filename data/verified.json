@@ -2918,159 +2918,190 @@
   "note": "Status verified against the PIO exemption list; the day count is as per the dataset. A free digital arrival form (All-in-One Travel Form) is also required."
  },
  "SG:KE": {
-  "date": "2026-10-25",
+  "date": "2026-10-27",
   "source": "https://etakenya.go.ke/general-information",
-  "source_name": "Kenya Electronic Travel Authorisation (etakenya.go.ke) — general information / exemption lists"
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 90 days. Final admission is decided by the border officer on arrival."
  },
  "KR:KE": {
-  "date": "2026-10-25",
+  "date": "2026-10-27",
   "source": "https://etakenya.go.ke/general-information",
-  "source_name": "Kenya Electronic Travel Authorisation (etakenya.go.ke) — general information / exemption lists"
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
  },
  "JP:KE": {
-  "date": "2026-10-25",
+  "date": "2026-10-27",
   "source": "https://etakenya.go.ke/general-information",
-  "source_name": "Kenya Electronic Travel Authorisation (etakenya.go.ke) — general information / exemption lists"
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
  },
  "FR:KE": {
-  "date": "2026-10-25",
+  "date": "2026-10-27",
   "source": "https://etakenya.go.ke/general-information",
-  "source_name": "Kenya Electronic Travel Authorisation (etakenya.go.ke) — general information / exemption lists"
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
  },
  "DE:KE": {
-  "date": "2026-10-25",
+  "date": "2026-10-27",
   "source": "https://etakenya.go.ke/general-information",
-  "source_name": "Kenya Electronic Travel Authorisation (etakenya.go.ke) — general information / exemption lists"
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
  },
  "IT:KE": {
-  "date": "2026-10-25",
+  "date": "2026-10-27",
   "source": "https://etakenya.go.ke/general-information",
-  "source_name": "Kenya Electronic Travel Authorisation (etakenya.go.ke) — general information / exemption lists"
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
  },
  "ES:KE": {
-  "date": "2026-10-25",
+  "date": "2026-10-27",
   "source": "https://etakenya.go.ke/general-information",
-  "source_name": "Kenya Electronic Travel Authorisation (etakenya.go.ke) — general information / exemption lists"
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
  },
  "FI:KE": {
-  "date": "2026-10-25",
+  "date": "2026-10-27",
   "source": "https://etakenya.go.ke/general-information",
-  "source_name": "Kenya Electronic Travel Authorisation (etakenya.go.ke) — general information / exemption lists"
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
  },
  "NL:KE": {
-  "date": "2026-10-25",
+  "date": "2026-10-27",
   "source": "https://etakenya.go.ke/general-information",
-  "source_name": "Kenya Electronic Travel Authorisation (etakenya.go.ke) — general information / exemption lists"
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
  },
  "BE:KE": {
-  "date": "2026-10-25",
+  "date": "2026-10-27",
   "source": "https://etakenya.go.ke/general-information",
-  "source_name": "Kenya Electronic Travel Authorisation (etakenya.go.ke) — general information / exemption lists"
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
  },
  "DK:KE": {
-  "date": "2026-10-25",
+  "date": "2026-10-27",
   "source": "https://etakenya.go.ke/general-information",
-  "source_name": "Kenya Electronic Travel Authorisation (etakenya.go.ke) — general information / exemption lists"
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
  },
  "SE:KE": {
-  "date": "2026-10-25",
+  "date": "2026-10-27",
   "source": "https://etakenya.go.ke/general-information",
-  "source_name": "Kenya Electronic Travel Authorisation (etakenya.go.ke) — general information / exemption lists"
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
  },
  "NO:KE": {
-  "date": "2026-10-25",
+  "date": "2026-10-27",
   "source": "https://etakenya.go.ke/general-information",
-  "source_name": "Kenya Electronic Travel Authorisation (etakenya.go.ke) — general information / exemption lists"
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
  },
  "CH:KE": {
-  "date": "2026-10-25",
+  "date": "2026-10-27",
   "source": "https://etakenya.go.ke/general-information",
-  "source_name": "Kenya Electronic Travel Authorisation (etakenya.go.ke) — general information / exemption lists"
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
  },
  "AT:KE": {
-  "date": "2026-10-25",
+  "date": "2026-10-27",
   "source": "https://etakenya.go.ke/general-information",
-  "source_name": "Kenya Electronic Travel Authorisation (etakenya.go.ke) — general information / exemption lists"
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
  },
  "IE:KE": {
-  "date": "2026-10-25",
+  "date": "2026-10-27",
   "source": "https://etakenya.go.ke/general-information",
-  "source_name": "Kenya Electronic Travel Authorisation (etakenya.go.ke) — general information / exemption lists"
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
  },
  "GB:KE": {
-  "date": "2026-10-25",
+  "date": "2026-10-27",
   "source": "https://etakenya.go.ke/general-information",
-  "source_name": "Kenya Electronic Travel Authorisation (etakenya.go.ke) — general information / exemption lists"
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
  },
  "AU:KE": {
-  "date": "2026-10-25",
+  "date": "2026-10-27",
   "source": "https://etakenya.go.ke/general-information",
-  "source_name": "Kenya Electronic Travel Authorisation (etakenya.go.ke) — general information / exemption lists"
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
  },
  "NZ:KE": {
-  "date": "2026-10-25",
+  "date": "2026-10-27",
   "source": "https://etakenya.go.ke/general-information",
-  "source_name": "Kenya Electronic Travel Authorisation (etakenya.go.ke) — general information / exemption lists"
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
  },
  "CA:KE": {
-  "date": "2026-10-25",
+  "date": "2026-10-27",
   "source": "https://etakenya.go.ke/general-information",
-  "source_name": "Kenya Electronic Travel Authorisation (etakenya.go.ke) — general information / exemption lists"
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
  },
  "US:KE": {
-  "date": "2026-10-25",
+  "date": "2026-10-27",
   "source": "https://etakenya.go.ke/general-information",
-  "source_name": "Kenya Electronic Travel Authorisation (etakenya.go.ke) — general information / exemption lists"
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
  },
  "PT:KE": {
-  "date": "2026-10-25",
+  "date": "2026-10-27",
   "source": "https://etakenya.go.ke/general-information",
-  "source_name": "Kenya Electronic Travel Authorisation (etakenya.go.ke) — general information / exemption lists"
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
  },
  "GR:KE": {
-  "date": "2026-10-25",
+  "date": "2026-10-27",
   "source": "https://etakenya.go.ke/general-information",
-  "source_name": "Kenya Electronic Travel Authorisation (etakenya.go.ke) — general information / exemption lists"
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
  },
  "PL:KE": {
-  "date": "2026-10-25",
+  "date": "2026-10-27",
   "source": "https://etakenya.go.ke/general-information",
-  "source_name": "Kenya Electronic Travel Authorisation (etakenya.go.ke) — general information / exemption lists"
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
  },
  "CZ:KE": {
-  "date": "2026-10-25",
+  "date": "2026-10-27",
   "source": "https://etakenya.go.ke/general-information",
-  "source_name": "Kenya Electronic Travel Authorisation (etakenya.go.ke) — general information / exemption lists"
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
  },
  "HU:KE": {
-  "date": "2026-10-25",
+  "date": "2026-10-27",
   "source": "https://etakenya.go.ke/general-information",
-  "source_name": "Kenya Electronic Travel Authorisation (etakenya.go.ke) — general information / exemption lists"
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
  },
  "AE:KE": {
-  "date": "2026-10-25",
+  "date": "2026-10-27",
   "source": "https://etakenya.go.ke/general-information",
-  "source_name": "Kenya Electronic Travel Authorisation (etakenya.go.ke) — general information / exemption lists"
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
  },
  "MY:KE": {
-  "date": "2026-10-25",
+  "date": "2026-10-27",
   "source": "https://etakenya.go.ke/general-information",
-  "source_name": "Kenya Electronic Travel Authorisation (etakenya.go.ke) — general information / exemption lists"
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 90 days. Final admission is decided by the border officer on arrival."
  },
  "IL:KE": {
-  "date": "2026-10-25",
+  "date": "2026-10-27",
   "source": "https://etakenya.go.ke/general-information",
-  "source_name": "Kenya Electronic Travel Authorisation (etakenya.go.ke) — general information / exemption lists"
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
  },
  "CN:KE": {
-  "date": "2026-10-25",
+  "date": "2026-10-27",
   "source": "https://etakenya.go.ke/general-information",
-  "source_name": "Kenya Electronic Travel Authorisation (etakenya.go.ke) — general information / exemption lists"
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
  },
  "SO:KE": {
-  "date": "2026-10-25",
+  "date": "2026-10-27",
   "source": "https://etakenya.go.ke/general-information",
-  "source_name": "Kenya Electronic Travel Authorisation (etakenya.go.ke) — general information / exemption lists"
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Somalia is an East African Community member but is expressly left out of Kenya’s eTA exemption schedule (Legal Notice No. 93 of 2025): Somali nationals must obtain an eTA at etakenya.go.ke before travel (US$30) and undergo extended security verification — apply at least two weeks ahead. An approved eTA allows a stay of up to 90 days; final admission is decided at the border."
  },
  "IN:IR": {
   "date": "2026-10-25",
@@ -23705,5 +23736,1007 @@
   "source": "https://voa.specialbranch.gov.bd/public/voa-info.html",
   "source_name": "Special Branch, Bangladesh Police — visa on arrival information (voa.specialbranch.gov.bd)",
   "note": "Bangladesh does not recognise Israel and has no diplomatic relations with it; holders of Israeli passports are banned from entry."
+ },
+ "BI:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Citizens of East African Community partner states are exempt from Kenya’s eTA under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 180 days. Final admission is decided by the border officer on arrival."
+ },
+ "CD:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Citizens of East African Community partner states are exempt from Kenya’s eTA under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 180 days. Final admission is decided by the border officer on arrival."
+ },
+ "RW:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Citizens of East African Community partner states are exempt from Kenya’s eTA under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 180 days. Final admission is decided by the border officer on arrival."
+ },
+ "SS:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Citizens of East African Community partner states are exempt from Kenya’s eTA under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 180 days. Final admission is decided by the border officer on arrival."
+ },
+ "TZ:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Citizens of East African Community partner states are exempt from Kenya’s eTA under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 180 days. Final admission is decided by the border officer on arrival."
+ },
+ "UG:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Citizens of East African Community partner states are exempt from Kenya’s eTA under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 180 days. Final admission is decided by the border officer on arrival."
+ },
+ "BB:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 90 days. Final admission is decided by the border officer on arrival."
+ },
+ "BZ:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 90 days. Final admission is decided by the border officer on arrival."
+ },
+ "BW:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 90 days. Final admission is decided by the border officer on arrival."
+ },
+ "BN:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 90 days. Final admission is decided by the border officer on arrival."
+ },
+ "CY:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 90 days. Final admission is decided by the border officer on arrival."
+ },
+ "DM:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 90 days. Final admission is decided by the border officer on arrival."
+ },
+ "ER:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 90 days. Final admission is decided by the border officer on arrival."
+ },
+ "SZ:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 90 days. Final admission is decided by the border officer on arrival."
+ },
+ "ET:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 90 days. Final admission is decided by the border officer on arrival."
+ },
+ "FJ:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 90 days. Final admission is decided by the border officer on arrival."
+ },
+ "GM:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 90 days. Final admission is decided by the border officer on arrival."
+ },
+ "GH:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 90 days. Final admission is decided by the border officer on arrival."
+ },
+ "GD:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 90 days. Final admission is decided by the border officer on arrival."
+ },
+ "GY:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 90 days. Final admission is decided by the border officer on arrival."
+ },
+ "JM:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 90 days. Final admission is decided by the border officer on arrival."
+ },
+ "KI:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 90 days. Final admission is decided by the border officer on arrival."
+ },
+ "LS:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 90 days. Final admission is decided by the border officer on arrival."
+ },
+ "MV:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 90 days. Final admission is decided by the border officer on arrival."
+ },
+ "MW:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 90 days. Final admission is decided by the border officer on arrival."
+ },
+ "MU:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 90 days. Final admission is decided by the border officer on arrival."
+ },
+ "MZ:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 90 days. Final admission is decided by the border officer on arrival."
+ },
+ "NA:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 90 days. Final admission is decided by the border officer on arrival."
+ },
+ "NR:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 90 days. Final admission is decided by the border officer on arrival."
+ },
+ "PG:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 90 days. Final admission is decided by the border officer on arrival."
+ },
+ "KM:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 90 days. Final admission is decided by the border officer on arrival."
+ },
+ "WS:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 90 days. Final admission is decided by the border officer on arrival."
+ },
+ "SM:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 90 days. Final admission is decided by the border officer on arrival."
+ },
+ "SL:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 90 days. Final admission is decided by the border officer on arrival."
+ },
+ "SB:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 90 days. Final admission is decided by the border officer on arrival."
+ },
+ "ZA:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 90 days. Final admission is decided by the border officer on arrival."
+ },
+ "KN:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 90 days. Final admission is decided by the border officer on arrival."
+ },
+ "LC:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 90 days. Final admission is decided by the border officer on arrival."
+ },
+ "VC:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 90 days. Final admission is decided by the border officer on arrival."
+ },
+ "BS:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 90 days. Final admission is decided by the border officer on arrival."
+ },
+ "TO:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 90 days. Final admission is decided by the border officer on arrival."
+ },
+ "TT:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 90 days. Final admission is decided by the border officer on arrival."
+ },
+ "CG:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 90 days. Final admission is decided by the border officer on arrival."
+ },
+ "TV:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 90 days. Final admission is decided by the border officer on arrival."
+ },
+ "VU:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 90 days. Final admission is decided by the border officer on arrival."
+ },
+ "ZM:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 90 days. Final admission is decided by the border officer on arrival."
+ },
+ "ZW:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 90 days. Final admission is decided by the border officer on arrival."
+ },
+ "DZ:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 60 days. Final admission is decided by the border officer on arrival."
+ },
+ "AO:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 60 days. Final admission is decided by the border officer on arrival."
+ },
+ "BJ:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 60 days. Final admission is decided by the border officer on arrival."
+ },
+ "BF:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 60 days. Final admission is decided by the border officer on arrival."
+ },
+ "CV:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 60 days. Final admission is decided by the border officer on arrival."
+ },
+ "CM:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 60 days. Final admission is decided by the border officer on arrival."
+ },
+ "CF:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 60 days. Final admission is decided by the border officer on arrival."
+ },
+ "TD:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 60 days. Final admission is decided by the border officer on arrival."
+ },
+ "CI:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 60 days. Final admission is decided by the border officer on arrival."
+ },
+ "DJ:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 60 days. Final admission is decided by the border officer on arrival."
+ },
+ "EG:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 60 days. Final admission is decided by the border officer on arrival."
+ },
+ "GQ:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 60 days. Final admission is decided by the border officer on arrival."
+ },
+ "GA:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 60 days. Final admission is decided by the border officer on arrival."
+ },
+ "GN:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 60 days. Final admission is decided by the border officer on arrival."
+ },
+ "GW:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 60 days. Final admission is decided by the border officer on arrival."
+ },
+ "LR:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 60 days. Final admission is decided by the border officer on arrival."
+ },
+ "MG:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 60 days. Final admission is decided by the border officer on arrival."
+ },
+ "ML:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 60 days. Final admission is decided by the border officer on arrival."
+ },
+ "MR:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 60 days. Final admission is decided by the border officer on arrival."
+ },
+ "MA:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 60 days. Final admission is decided by the border officer on arrival."
+ },
+ "NE:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 60 days. Final admission is decided by the border officer on arrival."
+ },
+ "NG:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 60 days. Final admission is decided by the border officer on arrival."
+ },
+ "ST:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 60 days. Final admission is decided by the border officer on arrival."
+ },
+ "SN:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 60 days. Final admission is decided by the border officer on arrival."
+ },
+ "SD:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 60 days. Final admission is decided by the border officer on arrival."
+ },
+ "TG:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 60 days. Final admission is decided by the border officer on arrival."
+ },
+ "TN:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Exempt from Kenya’s eTA requirement under Legal Notice No. 93 of 2025 — no eTA and no visa needed for a stay of up to 60 days. Final admission is decided by the border officer on arrival."
+ },
+ "SC:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Seychelles is exempt from Kenya’s eTA, but the official texts conflict on the stay: Legal Notice No. 93 of 2025 lists Seychelles in both its 90-day and its 60-day exemption lists, while the official eTA portal lists Seychelles only at 60 days. Plan on 60 days."
+ },
+ "AD:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "AF:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an eTA in 2024 and abolished the old referred-visa (Category 3) system; applications now run through etakenya.go.ke (US$30), but nationals of Afghanistan receive extended verification screening — apply well before travel, at least two weeks ahead. An approved eTA allows a stay of up to 90 days; final admission is decided at the border."
+ },
+ "AG:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "AL:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "AM:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an eTA in 2024 and abolished the old referred-visa (Category 3) system; applications now run through etakenya.go.ke (US$30), but nationals of Armenia receive extended verification screening — apply well before travel, at least two weeks ahead. An approved eTA allows a stay of up to 90 days; final admission is decided at the border."
+ },
+ "AR:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "AZ:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an eTA in 2024 and abolished the old referred-visa (Category 3) system; applications now run through etakenya.go.ke (US$30), but nationals of Azerbaijan receive extended verification screening — apply well before travel, at least two weeks ahead. An approved eTA allows a stay of up to 90 days; final admission is decided at the border."
+ },
+ "BA:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "BD:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "BG:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "BH:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "BO:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "BR:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "BT:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "BY:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "CL:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "CO:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "CR:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "CU:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "DO:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "EC:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "EE:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "FM:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "GE:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "GT:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "HK:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "HN:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "HR:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "HT:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "ID:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "IN:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "IQ:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an eTA in 2024 and abolished the old referred-visa (Category 3) system; applications now run through etakenya.go.ke (US$30), but nationals of Iraq receive extended verification screening — apply well before travel, at least two weeks ahead. An approved eTA allows a stay of up to 90 days; final admission is decided at the border."
+ },
+ "IR:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "IS:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "JO:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "KG:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "KH:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "KP:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an eTA in 2024 and abolished the old referred-visa (Category 3) system; applications now run through etakenya.go.ke (US$30), but nationals of North Korea receive extended verification screening — apply well before travel, at least two weeks ahead. An approved eTA allows a stay of up to 90 days; final admission is decided at the border."
+ },
+ "KW:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "KZ:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "LA:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "LB:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an eTA in 2024 and abolished the old referred-visa (Category 3) system; applications now run through etakenya.go.ke (US$30), but nationals of Lebanon receive extended verification screening — apply well before travel, at least two weeks ahead. An approved eTA allows a stay of up to 90 days; final admission is decided at the border."
+ },
+ "LI:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "LK:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "LT:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "LU:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "LV:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "LY:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an eTA in 2024 and abolished the old referred-visa (Category 3) system; applications now run through etakenya.go.ke (US$30), but nationals of Libya receive extended verification screening — apply well before travel, at least two weeks ahead. An approved eTA allows a stay of up to 90 days; final admission is decided at the border."
+ },
+ "MC:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "MD:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "ME:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "MH:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "MK:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "MM:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "MN:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "MO:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "MT:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "MX:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "NI:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "NP:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "OM:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "PA:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "PE:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "PH:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "PK:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "PS:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an eTA in 2024 and abolished the old referred-visa (Category 3) system; applications now run through etakenya.go.ke (US$30), but nationals of Palestinian Territories receive extended verification screening — apply well before travel, at least two weeks ahead. An approved eTA allows a stay of up to 90 days; final admission is decided at the border."
+ },
+ "PW:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "PY:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "QA:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "RO:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "RS:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "RU:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "SA:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "SI:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "SK:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "SR:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "SV:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "SY:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an eTA in 2024 and abolished the old referred-visa (Category 3) system; applications now run through etakenya.go.ke (US$30), but nationals of Syria receive extended verification screening — apply well before travel, at least two weeks ahead. An approved eTA allows a stay of up to 90 days; final admission is decided at the border."
+ },
+ "TH:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "TJ:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an eTA in 2024 and abolished the old referred-visa (Category 3) system; applications now run through etakenya.go.ke (US$30), but nationals of Tajikistan receive extended verification screening — apply well before travel, at least two weeks ahead. An approved eTA allows a stay of up to 90 days; final admission is decided at the border."
+ },
+ "TL:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "TM:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "TR:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "TW:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "UA:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "UY:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "UZ:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an eTA in 2024 and abolished the old referred-visa (Category 3) system; applications now run through etakenya.go.ke (US$30), but nationals of Uzbekistan receive extended verification screening — apply well before travel, at least two weeks ahead. An approved eTA allows a stay of up to 90 days; final admission is decided at the border."
+ },
+ "VA:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "VE:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "VN:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an Electronic Travel Authorisation (eTA) in 2024. Apply at etakenya.go.ke before departure (US$30; usually decided within 3 working days — the portal recommends applying at least 2 weeks ahead). An approved eTA allows a stay of up to 90 days; it is permission to travel, and final admission is decided at the border."
+ },
+ "XK:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an eTA in 2024 and abolished the old referred-visa (Category 3) system; applications now run through etakenya.go.ke (US$30), but nationals of Kosovo receive extended verification screening — apply well before travel, at least two weeks ahead. An approved eTA allows a stay of up to 90 days; final admission is decided at the border."
+ },
+ "YE:KE": {
+  "date": "2026-10-27",
+  "source": "https://etakenya.go.ke/general-information",
+  "source_name": "Kenya eTA portal — general information and eTA exemption list (etakenya.go.ke)",
+  "note": "Kenya replaced visas with an eTA in 2024 and abolished the old referred-visa (Category 3) system; applications now run through etakenya.go.ke (US$30), but nationals of Yemen receive extended verification screening — apply well before travel, at least two weeks ahead. An approved eTA allows a stay of up to 90 days; final admission is decided at the border."
  }
 }
