@@ -9438,5 +9438,24 @@
   "reason": "Seychelles is listed in the persons exempted from obtaining an eTA under Kenya’s Legal Notice No. 93 of 2025, as published on the official eTA portal: no eTA, no visa, stay up to 60 days. The seed dataset’s visa free (90 days) value is incorrect.",
   "source": "https://etakenya.go.ke/general-information",
   "date": "2026-10-27"
+ },
+ "KE:ET": {
+  "status": "visa free",
+  "reason": "The official e-Visa portal exempts citizens of Kenya by name (“Citizens of Kenya and Djibouti who have a valid passport can enter Ethiopia without a visa”) but states no maximum stay; the seed dataset’s visa free (360 days) figure appears in no official text and is removed.",
+  "source": "https://www.evisa.gov.et/information/touristOnArrivalVisa",
+  "date": "2026-10-27"
+ },
+ "DJ:ET": {
+  "status": "visa free",
+  "reason": "The official e-Visa portal exempts citizens of Djibouti by name (“Citizens of Kenya and Djibouti who have a valid passport can enter Ethiopia without a visa”) but states no maximum stay; the seed dataset’s visa free (90 days) figure appears in no official text and is removed.",
+  "source": "https://www.evisa.gov.et/information/touristOnArrivalVisa",
+  "date": "2026-10-27"
+ },
+ "SY:ET": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Syria is not on Ethiopia’s official visa-on-arrival list and is not visa-exempt; the tourist e-Visa at evisa.gov.et is open to citizens of all countries (30 or 90 days, single entry). The seed dataset’s visa required value is incorrect.",
+  "source": "https://www.evisa.gov.et/information/tourist",
+  "date": "2026-10-27"
  }
 }
