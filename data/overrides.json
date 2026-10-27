@@ -9713,5 +9713,61 @@
   "reason": "Angola appeared in the DCIC's 2021 mandatory-online-application notice among the visa-exempt countries, but it is absent from both current DCIC visa-exempt lists (services page and FAQ). Every non-exempt traveller must apply for an e-Visa online and hold an approval letter before travel — Uganda issues no visas on arrival. The seed dataset's visa free (90 days) value is outdated.",
   "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
   "date": "2026-10-27"
+ },
+ "BS:RW": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "The Bahamas is named in the 90-day visa-free list in Rwanda's current eAIP GEN 1.3 (6 August 2026). The DGIE's visa-on-arrival page and the 2020 visa-regime communiqué still place it in the 30-day African Union / Commonwealth / La Francophonie fee-waiver tier; the eAIP's specific 90-day listing is followed here. The seed dataset's visa free (30 days) value is superseded.",
+  "source": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-GEN%201.3-en-GB.html",
+  "date": "2026-10-28"
+ },
+ "CG:RW": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Congo is named in the 90-day visa-free list in Rwanda's current eAIP GEN 1.3 (6 August 2026). The DGIE's visa-on-arrival page and the 2020 visa-regime communiqué still place it in the 30-day African Union / Commonwealth / La Francophonie fee-waiver tier; the eAIP's specific 90-day listing is followed here. The seed dataset's visa free (30 days) value is superseded.",
+  "source": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-GEN%201.3-en-GB.html",
+  "date": "2026-10-28"
+ },
+ "DM:RW": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Dominica is named in the 90-day visa-free list in Rwanda's current eAIP GEN 1.3 (6 August 2026). The DGIE's visa-on-arrival page and the 2020 visa-regime communiqué still place it in the 30-day African Union / Commonwealth / La Francophonie fee-waiver tier; the eAIP's specific 90-day listing is followed here. The seed dataset's visa free (30 days) value is superseded.",
+  "source": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-GEN%201.3-en-GB.html",
+  "date": "2026-10-28"
+ },
+ "MV:RW": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Maldives is named in the 90-day visa-free list in Rwanda's current eAIP GEN 1.3 (6 August 2026). The DGIE's visa-on-arrival page and the 2020 visa-regime communiqué still place it in the 30-day African Union / Commonwealth / La Francophonie fee-waiver tier; the eAIP's specific 90-day listing is followed here. The seed dataset's visa free (30 days) value is superseded.",
+  "source": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-GEN%201.3-en-GB.html",
+  "date": "2026-10-28"
+ },
+ "ML:RW": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Mali is named in the 90-day visa-free list in Rwanda's current eAIP GEN 1.3 (6 August 2026). The DGIE's visa-on-arrival page and the 2020 visa-regime communiqué still place it in the 30-day African Union / Commonwealth / La Francophonie fee-waiver tier; the eAIP's specific 90-day listing is followed here. The seed dataset's visa free (30 days) value is superseded.",
+  "source": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-GEN%201.3-en-GB.html",
+  "date": "2026-10-28"
+ },
+ "MZ:RW": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Mozambique is named in the 90-day visa-free list in Rwanda's current eAIP GEN 1.3 (6 August 2026). The DGIE's visa-on-arrival page and the 2020 visa-regime communiqué still place it in the 30-day African Union / Commonwealth / La Francophonie fee-waiver tier; the eAIP's specific 90-day listing is followed here. The seed dataset's visa free (30 days) value is superseded.",
+  "source": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-GEN%201.3-en-GB.html",
+  "date": "2026-10-28"
+ },
+ "TV:RW": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Tuvalu is named in the African Union / Commonwealth / La Francophonie fee-waiver enumeration in Rwanda's eAIP GEN 1.3 as a Commonwealth member: a free visa on arrival for 30 days. The seed dataset's e-visa value is incorrect.",
+  "source": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-GEN%201.3-en-GB.html",
+  "date": "2026-10-28"
+ },
+ "JO:RW": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Rwanda's current eAIP GEN 1.3 (6 August 2026) lists Jordanian ordinary passports under “No visa required for a stay of thirty (30) days”, and that listing is followed here. (Rwanda's 2023 agreement with Jordan was reported as covering diplomatic and service passports only.) The seed dataset's visa on arrival value is superseded.",
+  "source": "https://aim.asecna.aero/eAIP_Rwanda/01-26_2026_08_06/eAIP/HR-GEN%201.3-en-GB.html",
+  "date": "2026-10-28"
  }
 }
