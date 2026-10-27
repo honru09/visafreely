@@ -9457,5 +9457,219 @@
   "reason": "Syria is not on Ethiopia’s official visa-on-arrival list and is not visa-exempt; the tourist e-Visa at evisa.gov.et is open to citizens of all countries (30 or 90 days, single entry). The seed dataset’s visa required value is incorrect.",
   "source": "https://www.evisa.gov.et/information/tourist",
   "date": "2026-10-27"
+ },
+ "KE:TZ": {
+  "status": "visa free",
+  "days": 180,
+  "reason": "Kenya is named on the official e-Visa portal's visa-free list, and as an East African Community member state its citizens are issued a Visitor's Pass valid for up to six months (Tanzania High Commission, Abuja — entry requirements). The seed dataset's visa free (90 days) figure understates this stay.",
+  "source": "https://www.ng.tzembassy.go.tz/services/visa-entry-requirements",
+  "date": "2026-10-27"
+ },
+ "RW:TZ": {
+  "status": "visa free",
+  "days": 180,
+  "reason": "Rwanda is named on the official e-Visa portal's visa-free list, and as an East African Community member state its citizens are issued a Visitor's Pass valid for up to six months (Tanzania High Commission, Abuja — entry requirements). The seed dataset's visa free (90 days) figure understates this stay.",
+  "source": "https://www.ng.tzembassy.go.tz/services/visa-entry-requirements",
+  "date": "2026-10-27"
+ },
+ "UG:TZ": {
+  "status": "visa free",
+  "days": 180,
+  "reason": "Uganda is named on the official e-Visa portal's visa-free list, and as an East African Community member state its citizens are issued a Visitor's Pass valid for up to six months (Tanzania High Commission, Abuja — entry requirements). The seed dataset's visa free (90 days) figure understates this stay.",
+  "source": "https://www.ng.tzembassy.go.tz/services/visa-entry-requirements",
+  "date": "2026-10-27"
+ },
+ "CD:TZ": {
+  "status": "visa free",
+  "days": 180,
+  "reason": "The DR Congo is named on the official e-Visa portal's visa-free list (as “Congo, Democratic Republic (Zaire)”), and as an East African Community member state its citizens are issued a Visitor's Pass valid for up to six months (Tanzania High Commission, Abuja — entry requirements). The seed dataset's visa on arrival value is incorrect.",
+  "source": "https://visa.immigration.go.tz/visafreecountry",
+  "date": "2026-10-27"
+ },
+ "BI:TZ": {
+  "status": "visa free",
+  "days": 180,
+  "reason": "Burundi does not appear on the e-Visa portal's visa-free list, but it is named on the Tanzania High Commission in Kuala Lumpur's official list of countries which do not require a visa, and as an East African Community member state its citizens are issued a Visitor's Pass valid for up to six months (Tanzania High Commission, Abuja — entry requirements). The seed dataset's visa free (90 days) figure understates this stay.",
+  "source": "https://www.my.tzembassy.go.tz/services/list-of-countries-which-do-not-require-visa",
+  "date": "2026-10-27"
+ },
+ "SS:TZ": {
+  "status": "visa free",
+  "days": 180,
+  "reason": "South Sudan does not appear on the e-Visa portal's visa-free list, but it is named on the Tanzania High Commission in Kuala Lumpur's official list of countries which do not require a visa, and as an East African Community member state its citizens are issued a Visitor's Pass valid for up to six months (Tanzania High Commission, Abuja — entry requirements). The seed dataset's visa free (90 days) figure understates this stay.",
+  "source": "https://www.my.tzembassy.go.tz/services/list-of-countries-which-do-not-require-visa",
+  "date": "2026-10-27"
+ },
+ "AZ:TZ": {
+  "status": "visa on arrival",
+  "days": 90,
+  "reason": "Azerbaijan is named in the official e-Visa portal guidelines as eligible for both the online e-Visa and a visa on arrival (Ordinary Visa, US$50, stay up to 90 days), and it is not in the portal's Referral Visa list. Older Tanzanian embassy lists still show it as a referral case. The seed dataset's visa free (90 days) value is incorrect.",
+  "source": "https://visa.immigration.go.tz/guidelines",
+  "date": "2026-10-27"
+ },
+ "DJ:TZ": {
+  "status": "visa on arrival",
+  "days": 90,
+  "reason": "Djibouti is named in the official e-Visa portal guidelines as eligible for both the online e-Visa and a visa on arrival (Ordinary Visa, US$50, stay up to 90 days), and it is not in the portal's Referral Visa list. Older Tanzanian embassy lists still show it as a referral case. The seed dataset's visa free (90 days) value is incorrect.",
+  "source": "https://visa.immigration.go.tz/guidelines",
+  "date": "2026-10-27"
+ },
+ "GQ:TZ": {
+  "status": "visa on arrival",
+  "days": 90,
+  "reason": "Equatorial Guinea is named in the official e-Visa portal guidelines as eligible for both the online e-Visa and a visa on arrival (Ordinary Visa, US$50, stay up to 90 days), and it is not in the portal's Referral Visa list. Older Tanzanian embassy lists still show it as a referral case. The seed dataset's visa free (90 days) value is incorrect.",
+  "source": "https://visa.immigration.go.tz/guidelines",
+  "date": "2026-10-27"
+ },
+ "SN:TZ": {
+  "status": "visa on arrival",
+  "days": 90,
+  "reason": "Senegal is named in the official e-Visa portal guidelines as eligible for both the online e-Visa and a visa on arrival (Ordinary Visa, US$50, stay up to 90 days), and it is not in the portal's Referral Visa list. Older Tanzanian embassy lists still show it as a referral case. The seed dataset's visa free (90 days) value is incorrect.",
+  "source": "https://visa.immigration.go.tz/guidelines",
+  "date": "2026-10-27"
+ },
+ "AF:TZ": {
+  "status": "visa required",
+  "reason": "Tanzania places these nationals in the Referral Visa category on the official e-Visa portal: they cannot obtain a visa on arrival and must apply online and obtain approval from the Commissioner General of Immigration before travelling. The seed dataset's e-visa value is incorrect.",
+  "source": "https://visa.immigration.go.tz/guidelines",
+  "date": "2026-10-27"
+ },
+ "BD:TZ": {
+  "status": "visa required",
+  "reason": "Tanzania places these nationals in the Referral Visa category on the official e-Visa portal: they cannot obtain a visa on arrival and must apply online and obtain approval from the Commissioner General of Immigration before travelling. The seed dataset's e-visa value is incorrect.",
+  "source": "https://visa.immigration.go.tz/guidelines",
+  "date": "2026-10-27"
+ },
+ "TD:TZ": {
+  "status": "visa required",
+  "reason": "Tanzania places these nationals in the Referral Visa category on the official e-Visa portal: they cannot obtain a visa on arrival and must apply online and obtain approval from the Commissioner General of Immigration before travelling. The seed dataset's e-visa value is incorrect.",
+  "source": "https://visa.immigration.go.tz/guidelines",
+  "date": "2026-10-27"
+ },
+ "ER:TZ": {
+  "status": "visa required",
+  "reason": "Tanzania places these nationals in the Referral Visa category on the official e-Visa portal: they cannot obtain a visa on arrival and must apply online and obtain approval from the Commissioner General of Immigration before travelling. The seed dataset's e-visa value is incorrect.",
+  "source": "https://visa.immigration.go.tz/guidelines",
+  "date": "2026-10-27"
+ },
+ "GW:TZ": {
+  "status": "visa required",
+  "reason": "Tanzania places these nationals in the Referral Visa category on the official e-Visa portal: they cannot obtain a visa on arrival and must apply online and obtain approval from the Commissioner General of Immigration before travelling. The seed dataset's e-visa value is incorrect.",
+  "source": "https://visa.immigration.go.tz/guidelines",
+  "date": "2026-10-27"
+ },
+ "IR:TZ": {
+  "status": "visa required",
+  "reason": "Tanzania places these nationals in the Referral Visa category on the official e-Visa portal: they cannot obtain a visa on arrival and must apply online and obtain approval from the Commissioner General of Immigration before travelling. The seed dataset's e-visa value is incorrect.",
+  "source": "https://visa.immigration.go.tz/guidelines",
+  "date": "2026-10-27"
+ },
+ "IQ:TZ": {
+  "status": "visa required",
+  "reason": "Tanzania places these nationals in the Referral Visa category on the official e-Visa portal: they cannot obtain a visa on arrival and must apply online and obtain approval from the Commissioner General of Immigration before travelling. The seed dataset's e-visa value is incorrect.",
+  "source": "https://visa.immigration.go.tz/guidelines",
+  "date": "2026-10-27"
+ },
+ "KG:TZ": {
+  "status": "visa required",
+  "reason": "Tanzania places these nationals in the Referral Visa category on the official e-Visa portal: they cannot obtain a visa on arrival and must apply online and obtain approval from the Commissioner General of Immigration before travelling. The seed dataset's e-visa value is incorrect.",
+  "source": "https://visa.immigration.go.tz/guidelines",
+  "date": "2026-10-27"
+ },
+ "LB:TZ": {
+  "status": "visa required",
+  "reason": "Tanzania places these nationals in the Referral Visa category on the official e-Visa portal: they cannot obtain a visa on arrival and must apply online and obtain approval from the Commissioner General of Immigration before travelling. The seed dataset's e-visa value is incorrect.",
+  "source": "https://visa.immigration.go.tz/guidelines",
+  "date": "2026-10-27"
+ },
+ "ML:TZ": {
+  "status": "visa required",
+  "reason": "Tanzania places these nationals in the Referral Visa category on the official e-Visa portal: they cannot obtain a visa on arrival and must apply online and obtain approval from the Commissioner General of Immigration before travelling. The seed dataset's e-visa value is incorrect.",
+  "source": "https://visa.immigration.go.tz/guidelines",
+  "date": "2026-10-27"
+ },
+ "MR:TZ": {
+  "status": "visa required",
+  "reason": "Tanzania places these nationals in the Referral Visa category on the official e-Visa portal: they cannot obtain a visa on arrival and must apply online and obtain approval from the Commissioner General of Immigration before travelling. The seed dataset's e-visa value is incorrect.",
+  "source": "https://visa.immigration.go.tz/guidelines",
+  "date": "2026-10-27"
+ },
+ "NE:TZ": {
+  "status": "visa required",
+  "reason": "Tanzania places these nationals in the Referral Visa category on the official e-Visa portal: they cannot obtain a visa on arrival and must apply online and obtain approval from the Commissioner General of Immigration before travelling. The seed dataset's e-visa value is incorrect.",
+  "source": "https://visa.immigration.go.tz/guidelines",
+  "date": "2026-10-27"
+ },
+ "PK:TZ": {
+  "status": "visa required",
+  "reason": "Tanzania places these nationals in the Referral Visa category on the official e-Visa portal: they cannot obtain a visa on arrival and must apply online and obtain approval from the Commissioner General of Immigration before travelling. The seed dataset's e-visa value is incorrect.",
+  "source": "https://visa.immigration.go.tz/guidelines",
+  "date": "2026-10-27"
+ },
+ "PS:TZ": {
+  "status": "visa required",
+  "reason": "Tanzania places these nationals in the Referral Visa category on the official e-Visa portal: they cannot obtain a visa on arrival and must apply online and obtain approval from the Commissioner General of Immigration before travelling. The seed dataset's e-visa value is incorrect.",
+  "source": "https://visa.immigration.go.tz/guidelines",
+  "date": "2026-10-27"
+ },
+ "SY:TZ": {
+  "status": "visa required",
+  "reason": "Tanzania places these nationals in the Referral Visa category on the official e-Visa portal: they cannot obtain a visa on arrival and must apply online and obtain approval from the Commissioner General of Immigration before travelling. The seed dataset's e-visa value is incorrect.",
+  "source": "https://visa.immigration.go.tz/guidelines",
+  "date": "2026-10-27"
+ },
+ "SL:TZ": {
+  "status": "visa required",
+  "reason": "Tanzania places these nationals in the Referral Visa category on the official e-Visa portal: they cannot obtain a visa on arrival and must apply online and obtain approval from the Commissioner General of Immigration before travelling. The seed dataset's e-visa value is incorrect.",
+  "source": "https://visa.immigration.go.tz/guidelines",
+  "date": "2026-10-27"
+ },
+ "TJ:TZ": {
+  "status": "visa required",
+  "reason": "Tanzania places these nationals in the Referral Visa category on the official e-Visa portal: they cannot obtain a visa on arrival and must apply online and obtain approval from the Commissioner General of Immigration before travelling. The seed dataset's e-visa value is incorrect.",
+  "source": "https://visa.immigration.go.tz/guidelines",
+  "date": "2026-10-27"
+ },
+ "TM:TZ": {
+  "status": "visa required",
+  "reason": "Tanzania places these nationals in the Referral Visa category on the official e-Visa portal: they cannot obtain a visa on arrival and must apply online and obtain approval from the Commissioner General of Immigration before travelling. The seed dataset's e-visa value is incorrect.",
+  "source": "https://visa.immigration.go.tz/guidelines",
+  "date": "2026-10-27"
+ },
+ "UZ:TZ": {
+  "status": "visa required",
+  "reason": "Tanzania places these nationals in the Referral Visa category on the official e-Visa portal: they cannot obtain a visa on arrival and must apply online and obtain approval from the Commissioner General of Immigration before travelling. The seed dataset's e-visa value is incorrect.",
+  "source": "https://visa.immigration.go.tz/guidelines",
+  "date": "2026-10-27"
+ },
+ "YE:TZ": {
+  "status": "visa required",
+  "reason": "Tanzania places these nationals in the Referral Visa category on the official e-Visa portal: they cannot obtain a visa on arrival and must apply online and obtain approval from the Commissioner General of Immigration before travelling. The seed dataset's e-visa value is incorrect.",
+  "source": "https://visa.immigration.go.tz/guidelines",
+  "date": "2026-10-27"
+ },
+ "BF:TZ": {
+  "status": "visa required",
+  "reason": "Tanzania places Burkina Faso in the Referral Visa category on the official e-Visa portal: its nationals cannot obtain a visa on arrival and must obtain approval from the Commissioner General of Immigration before travelling. The same guidelines also print Burkina Faso in the visa-on-arrival list; the referral prohibition is the operative rule and is followed here. The seed dataset's e-visa value is incorrect.",
+  "source": "https://visa.immigration.go.tz/guidelines",
+  "date": "2026-10-27"
+ },
+ "GN:TZ": {
+  "status": "visa required",
+  "reason": "Tanzania places Guinea in the Referral Visa category on the official e-Visa portal: its nationals cannot obtain a visa on arrival and must obtain approval from the Commissioner General of Immigration before travelling. The same guidelines also print Guinea in the visa-on-arrival list; the referral prohibition is the operative rule and is followed here. The seed dataset's e-visa value is incorrect.",
+  "source": "https://visa.immigration.go.tz/guidelines",
+  "date": "2026-10-27"
+ },
+ "SO:TZ": {
+  "status": "visa required",
+  "reason": "Tanzania places Somalia in the Referral Visa category on the official e-Visa portal: its nationals cannot obtain a visa on arrival and must obtain approval from the Commissioner General of Immigration before travelling. Somalia is not on the portal's visa-free list despite its East African Community membership. The seed dataset's e-visa value is incorrect.",
+  "source": "https://visa.immigration.go.tz/guidelines",
+  "date": "2026-10-27"
+ },
+ "NG:TZ": {
+  "status": "visa required",
+  "reason": "The live e-Visa portal lists Nigeria in the Referral Visa category: its nationals cannot obtain a visa on arrival and must obtain approval from the Commissioner General of Immigration before travelling. Official sources conflict — the Immigration Department's September 2026 guidelines PDF instead prints Nigeria in the visa-on-arrival list — and the live portal, which is the channel applications are actually processed through, is followed here. The seed dataset's e-visa value does not reflect the referral requirement.",
+  "source": "https://visa.immigration.go.tz/guidelines",
+  "date": "2026-10-27"
  }
 }
