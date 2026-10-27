@@ -9410,5 +9410,19 @@
   "reason": "Official Pakistani sources set this pair to e-visa (90 days); the seed dataset’s e-visa value is incorrect.",
   "source": "https://visa.nadra.gov.pk/tourist-visa/",
   "date": "2026-10-27"
+ },
+ "BN:BD": {
+  "status": "visa on arrival",
+  "days": 30,
+  "reason": "Brunei is named in the official visa-on-arrival provisions applied under Bangladesh’s Visa Policy 2026 (Special Branch visa-on-arrival information and Bangladesh mission pages): visa on arrival for 30 days, single entry. The seed dataset’s visa required value is incorrect.",
+  "source": "https://voa.specialbranch.gov.bd/public/voa-info.html",
+  "date": "2026-10-27"
+ },
+ "EG:BD": {
+  "status": "visa on arrival",
+  "days": 30,
+  "reason": "Egypt is named in the official visa-on-arrival provisions applied under Bangladesh’s Visa Policy 2026 (Special Branch visa-on-arrival information and Bangladesh mission pages): visa on arrival for 30 days, single entry. The seed dataset’s visa required value is incorrect.",
+  "source": "https://voa.specialbranch.gov.bd/public/voa-info.html",
+  "date": "2026-10-27"
  }
 }
