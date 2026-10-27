@@ -27090,5 +27090,989 @@
   "source": "https://visa.immigration.go.tz/guidelines",
   "source_name": "Tanzania e-Visa portal — Visa Guidelines (visa.immigration.go.tz)",
   "note": "Tanzania's Referral Visa category: these nationals cannot obtain a visa on arrival. They must apply online and wait for approval from the Commissioner General of Immigration before travelling (Immigration advises applying at least six weeks ahead; the portal guidelines say two months), with local-host details and an application letter addressed to the Commissioner General. Official sources conflict: the Immigration Department's September 2026 guidelines PDF prints Nigeria in the visa-on-arrival list instead. The live e-Visa portal's referral list is followed here."
+ },
+ "BI:UG": {
+  "date": "2026-10-27",
+  "source": "https://www.immigration.go.ug/services/visa-exempt-countries",
+  "source_name": "Directorate of Citizenship and Immigration Control — visa exempt countries (immigration.go.ug)",
+  "note": "Named on the Directorate of Citizenship and Immigration Control's visa-exempt list: no visa is required. As an East African Community citizen, entry is under the EAC Common Market arrangement, with a stay of up to six months."
+ },
+ "CD:UG": {
+  "date": "2026-10-27",
+  "source": "https://www.immigration.go.ug/services/visa-exempt-countries",
+  "source_name": "Directorate of Citizenship and Immigration Control — visa exempt countries (immigration.go.ug)",
+  "note": "Named on the Directorate of Citizenship and Immigration Control's visa-exempt list: no visa is required. As an East African Community citizen, entry is under the EAC Common Market arrangement, with a stay of up to six months. Uganda and the DR Congo waived visa requirements for each other's citizens in October 2023 (East African Community)."
+ },
+ "KE:UG": {
+  "date": "2026-10-27",
+  "source": "https://www.immigration.go.ug/services/visa-exempt-countries",
+  "source_name": "Directorate of Citizenship and Immigration Control — visa exempt countries (immigration.go.ug)",
+  "note": "Named on the Directorate of Citizenship and Immigration Control's visa-exempt list: no visa is required. As an East African Community citizen, entry is under the EAC Common Market arrangement, with a stay of up to six months."
+ },
+ "RW:UG": {
+  "date": "2026-10-27",
+  "source": "https://www.immigration.go.ug/services/visa-exempt-countries",
+  "source_name": "Directorate of Citizenship and Immigration Control — visa exempt countries (immigration.go.ug)",
+  "note": "Named on the Directorate of Citizenship and Immigration Control's visa-exempt list: no visa is required. As an East African Community citizen, entry is under the EAC Common Market arrangement, with a stay of up to six months."
+ },
+ "SS:UG": {
+  "date": "2026-10-27",
+  "source": "https://www.immigration.go.ug/services/visa-exempt-countries",
+  "source_name": "Directorate of Citizenship and Immigration Control — visa exempt countries (immigration.go.ug)",
+  "note": "Named on the Directorate of Citizenship and Immigration Control's visa-exempt list: no visa is required. As an East African Community citizen, entry is under the EAC Common Market arrangement, with a stay of up to six months."
+ },
+ "TZ:UG": {
+  "date": "2026-10-27",
+  "source": "https://www.immigration.go.ug/services/visa-exempt-countries",
+  "source_name": "Directorate of Citizenship and Immigration Control — visa exempt countries (immigration.go.ug)",
+  "note": "Named on the Directorate of Citizenship and Immigration Control's visa-exempt list: no visa is required. As an East African Community citizen, entry is under the EAC Common Market arrangement, with a stay of up to six months."
+ },
+ "AD:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "AF:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "AL:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "AM:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "AO:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "AR:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "AT:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "AU:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "AZ:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "BA:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "BD:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "BE:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "BF:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "BG:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "BH:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "BJ:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "BN:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "BO:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "BR:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "BT:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "BY:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "CA:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "CF:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "CG:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "CH:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "CI:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "CL:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "CM:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "CN:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "CO:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "CR:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "CU:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "CV:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "CZ:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "DE:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "DJ:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "DK:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "DM:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "DO:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "DZ:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "EC:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "EE:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "EG:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "ES:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "ET:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "FI:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "FM:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "FR:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "GA:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "GB:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "GE:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "GN:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "GQ:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "GR:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "GT:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "GW:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "GY:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "HN:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "HR:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "HT:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "HU:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "ID:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "IL:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "IN:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "IQ:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "IR:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "IS:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "IT:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "JO:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "JP:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "KG:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "KH:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "KI:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "KN:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "KP:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "KR:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "KW:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "KZ:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "LA:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "LB:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "LC:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "LI:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "LK:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "LR:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "LT:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "LU:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "LV:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "LY:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "MA:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "MC:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "MD:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "ME:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "MH:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "MK:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "ML:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "MM:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "MN:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "MO:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "MR:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "MV:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "MX:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "NA:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "NE:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "NG:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "NI:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "NL:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "NO:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "NP:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "NR:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "NZ:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "OM:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "PA:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "PE:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "PG:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "PH:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "PK:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "PL:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "PS:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "PT:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "PW:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "PY:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "QA:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "RO:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "RS:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "RU:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "SA:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "SD:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "SE:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "SI:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "SK:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "SM:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "SN:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "SO:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months. Somalia is not on Uganda's visa-exempt list, despite its East African Community membership (full member since March 2024)."
+ },
+ "SR:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "ST:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "SV:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "SY:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "TD:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "TG:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "TH:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "TJ:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "TL:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "TM:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "TN:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "TR:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "TV:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "TW:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "UA:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "US:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "UY:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "UZ:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "VA:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "VE:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "VN:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "WS:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "XK:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "YE:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
+ },
+ "ZA:UG": {
+  "date": "2026-10-27",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "source_name": "DCIC — mandatory online visa applications for all visa-prone travellers (immigration.go.ug)",
+  "note": "Uganda issues no visas on arrival: every non-exempt traveller must apply online at visas.immigration.go.ug and hold a Travel Authorization / Visa Approval Letter before travelling (the DCIC advises applying at least ten days ahead; decisions are normally made within 2–3 days). The single-entry tourist visa costs US$50 and allows a stay of up to 3 months."
  }
 }

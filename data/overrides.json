@@ -9671,5 +9671,47 @@
   "reason": "The live e-Visa portal lists Nigeria in the Referral Visa category: its nationals cannot obtain a visa on arrival and must obtain approval from the Commissioner General of Immigration before travelling. Official sources conflict — the Immigration Department's September 2026 guidelines PDF instead prints Nigeria in the visa-on-arrival list — and the live portal, which is the channel applications are actually processed through, is followed here. The seed dataset's e-visa value does not reflect the referral requirement.",
   "source": "https://visa.immigration.go.tz/guidelines",
   "date": "2026-10-27"
+ },
+ "BI:UG": {
+  "status": "visa free",
+  "days": 180,
+  "reason": "Burundi is named on both current DCIC visa-exempt lists (services page and FAQ). As an East African Community citizen the stay runs under the EAC Common Market arrangement — up to six months. The seed dataset's visa free (90 days) figure understates this stay.",
+  "source": "https://www.immigration.go.ug/services/visa-exempt-countries",
+  "date": "2026-10-27"
+ },
+ "CD:UG": {
+  "status": "visa free",
+  "days": 180,
+  "reason": "The DR Congo is named on both current DCIC visa-exempt lists (services page and FAQ), and Uganda and the DR Congo waived visa requirements for each other's citizens in October 2023 (East African Community). As an EAC citizen the stay runs under the EAC Common Market arrangement — up to six months. The seed dataset's visa free (90 days) figure understates this stay.",
+  "source": "https://www.immigration.go.ug/services/visa-exempt-countries",
+  "date": "2026-10-27"
+ },
+ "KE:UG": {
+  "status": "visa free",
+  "days": 180,
+  "reason": "Kenya is named on both current DCIC visa-exempt lists (services page and FAQ). As an East African Community citizen the stay runs under the EAC Common Market arrangement — up to six months. The seed dataset's visa free (90 days) figure understates this stay.",
+  "source": "https://www.immigration.go.ug/services/visa-exempt-countries",
+  "date": "2026-10-27"
+ },
+ "RW:UG": {
+  "status": "visa free",
+  "days": 180,
+  "reason": "Rwanda is named on both current DCIC visa-exempt lists (services page and FAQ). As an East African Community citizen the stay runs under the EAC Common Market arrangement — up to six months. The seed dataset's visa free (90 days) figure understates this stay.",
+  "source": "https://www.immigration.go.ug/services/visa-exempt-countries",
+  "date": "2026-10-27"
+ },
+ "TZ:UG": {
+  "status": "visa free",
+  "days": 180,
+  "reason": "Tanzania is named on both current DCIC visa-exempt lists (services page and FAQ). As an East African Community citizen the stay runs under the EAC Common Market arrangement — up to six months. The seed dataset's visa free (90 days) figure understates this stay.",
+  "source": "https://www.immigration.go.ug/services/visa-exempt-countries",
+  "date": "2026-10-27"
+ },
+ "AO:UG": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Angola appeared in the DCIC's 2021 mandatory-online-application notice among the visa-exempt countries, but it is absent from both current DCIC visa-exempt lists (services page and FAQ). Every non-exempt traveller must apply for an e-Visa online and hold an approval letter before travel — Uganda issues no visas on arrival. The seed dataset's visa free (90 days) value is outdated.",
+  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+  "date": "2026-10-27"
  }
 }
