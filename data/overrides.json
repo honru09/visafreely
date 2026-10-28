@@ -13562,5 +13562,1335 @@
   "reason": "Uganda is not exempt and has no visa on arrival: since 1 September 2025 all foreign visitors — including East African Community partner-state citizens — must obtain Somalia's E-Visa/ETAS online before travel. The seed dataset's visa on arrival (30 days) value is incorrect.",
   "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
   "date": "2026-10-28"
+ },
+ "AD:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "AE:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "AF:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "AG:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "AL:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "AM:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "AO:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "AR:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "AT:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "AU:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "AZ:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "BA:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "BB:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "BD:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "BE:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "BF:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "BG:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "BH:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "BJ:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "BN:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "BO:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "BR:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "BS:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "BT:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "BW:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "BY:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "BZ:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "CA:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "CD:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "CF:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "CG:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "CH:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "CI:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "CL:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "CM:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "CN:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "CO:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "CR:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "CU:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "CV:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "CY:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "CZ:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "DE:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "DK:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "DM:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "DO:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "DZ:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "EC:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "EE:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "EG:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "ER:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "ES:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "FI:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "FJ:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "FM:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "FR:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "GA:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "GB:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "GD:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "GE:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "GH:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "GM:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "GN:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "GQ:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "GR:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "GT:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "GW:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "GY:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "HK:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "HN:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "HR:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "HT:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "HU:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "ID:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "IE:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "IL:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "IN:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "IQ:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "IR:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "IS:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "IT:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "JM:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "JO:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "JP:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "KE:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "KG:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "KH:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "KI:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "KN:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "KP:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "KR:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "KW:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "KZ:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "LA:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "LB:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "LC:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "LI:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "LK:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "LR:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "LS:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "LT:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "LU:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "LV:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "LY:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "MA:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "MC:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "MD:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "ME:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "MG:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "MH:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "MK:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "ML:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "MM:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "MN:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "MO:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "MR:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "MT:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "MU:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "MV:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "MW:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "MX:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "MZ:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "NA:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "NE:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "NG:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "NI:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "NL:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "NO:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "NP:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "NR:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "NZ:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "OM:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "PA:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "PE:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "PG:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "PH:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "PK:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "PL:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "PS:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "PT:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "PW:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "PY:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "QA:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "RO:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "RS:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "RU:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "SA:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "SB:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "SC:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "SD:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "SE:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "SG:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "SI:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "SK:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "SL:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "SM:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "SN:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "SR:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "SS:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "ST:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "SV:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "SY:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "SZ:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "TD:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "TG:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "TH:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "TJ:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "TL:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "TM:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "TN:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "TO:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "TR:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "TT:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "TV:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "TW:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "UA:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "US:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "UY:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "UZ:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "VA:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "VC:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "VE:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "VN:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "VU:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "WS:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "XK:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "YE:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "ZA:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "ZM:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "ZW:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
  }
 }
