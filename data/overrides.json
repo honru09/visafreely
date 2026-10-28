@@ -9815,7 +9815,7 @@
  "AE:MZ": {
   "status": "eta",
   "days": 30,
-  "reason": "AE is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "reason": "The United Arab Emirates is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
   "source": "https://evisa.gov.mz/requirements",
   "date": "2026-10-28"
  },
@@ -9898,7 +9898,7 @@
  "BE:MZ": {
   "status": "eta",
   "days": 30,
-  "reason": "BE is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "reason": "Belgium is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
   "source": "https://evisa.gov.mz/requirements",
   "date": "2026-10-28"
  },
@@ -9996,7 +9996,7 @@
  "CA:MZ": {
   "status": "eta",
   "days": 30,
-  "reason": "CA is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "reason": "Canada is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
   "source": "https://evisa.gov.mz/requirements",
   "date": "2026-10-28"
  },
@@ -10024,14 +10024,14 @@
  "CH:MZ": {
   "status": "eta",
   "days": 30,
-  "reason": "CH is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "reason": "Switzerland is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
   "source": "https://evisa.gov.mz/requirements",
   "date": "2026-10-28"
  },
  "CI:MZ": {
   "status": "eta",
   "days": 30,
-  "reason": "CI is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "reason": "Côte d'Ivoire is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
   "source": "https://evisa.gov.mz/requirements",
   "date": "2026-10-28"
  },
@@ -10052,7 +10052,7 @@
  "CN:MZ": {
   "status": "eta",
   "days": 30,
-  "reason": "CN is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "reason": "China is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
   "source": "https://evisa.gov.mz/requirements",
   "date": "2026-10-28"
  },
@@ -10101,7 +10101,7 @@
  "DE:MZ": {
   "status": "eta",
   "days": 30,
-  "reason": "DE is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "reason": "Germany is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
   "source": "https://evisa.gov.mz/requirements",
   "date": "2026-10-28"
  },
@@ -10115,7 +10115,7 @@
  "DK:MZ": {
   "status": "eta",
   "days": 30,
-  "reason": "DK is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "reason": "Denmark is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
   "source": "https://evisa.gov.mz/requirements",
   "date": "2026-10-28"
  },
@@ -10171,7 +10171,7 @@
  "ES:MZ": {
   "status": "eta",
   "days": 30,
-  "reason": "ES is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "reason": "Spain is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
   "source": "https://evisa.gov.mz/requirements",
   "date": "2026-10-28"
  },
@@ -10184,7 +10184,7 @@
  "FI:MZ": {
   "status": "eta",
   "days": 30,
-  "reason": "FI is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "reason": "Finland is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
   "source": "https://evisa.gov.mz/requirements",
   "date": "2026-10-28"
  },
@@ -10205,7 +10205,7 @@
  "FR:MZ": {
   "status": "eta",
   "days": 30,
-  "reason": "FR is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "reason": "France is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
   "source": "https://evisa.gov.mz/requirements",
   "date": "2026-10-28"
  },
@@ -10219,7 +10219,7 @@
  "GB:MZ": {
   "status": "eta",
   "days": 30,
-  "reason": "GB is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "reason": "The United Kingdom is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
   "source": "https://evisa.gov.mz/requirements",
   "date": "2026-10-28"
  },
@@ -10240,7 +10240,7 @@
  "GH:MZ": {
   "status": "eta",
   "days": 30,
-  "reason": "GH is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "reason": "Ghana is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
   "source": "https://evisa.gov.mz/requirements",
   "date": "2026-10-28"
  },
@@ -10338,14 +10338,14 @@
  "IE:MZ": {
   "status": "eta",
   "days": 30,
-  "reason": "IE is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "reason": "Ireland is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
   "source": "https://evisa.gov.mz/requirements",
   "date": "2026-10-28"
  },
  "IL:MZ": {
   "status": "eta",
   "days": 30,
-  "reason": "IL is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "reason": "Israel is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
   "source": "https://evisa.gov.mz/requirements",
   "date": "2026-10-28"
  },
@@ -10380,7 +10380,7 @@
  "IT:MZ": {
   "status": "eta",
   "days": 30,
-  "reason": "IT is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "reason": "Italy is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
   "source": "https://evisa.gov.mz/requirements",
   "date": "2026-10-28"
  },
@@ -10401,7 +10401,7 @@
  "JP:MZ": {
   "status": "eta",
   "days": 30,
-  "reason": "JP is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "reason": "Japan is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
   "source": "https://evisa.gov.mz/requirements",
   "date": "2026-10-28"
  },
@@ -10457,7 +10457,7 @@
  "KR:MZ": {
   "status": "eta",
   "days": 30,
-  "reason": "KR is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "reason": "South Korea is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
   "source": "https://evisa.gov.mz/requirements",
   "date": "2026-10-28"
  },
@@ -10708,14 +10708,14 @@
  "NL:MZ": {
   "status": "eta",
   "days": 30,
-  "reason": "NL is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "reason": "The Netherlands is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
   "source": "https://evisa.gov.mz/requirements",
   "date": "2026-10-28"
  },
  "NO:MZ": {
   "status": "eta",
   "days": 30,
-  "reason": "NO is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "reason": "Norway is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
   "source": "https://evisa.gov.mz/requirements",
   "date": "2026-10-28"
  },
@@ -10797,7 +10797,7 @@
  "PT:MZ": {
   "status": "eta",
   "days": 30,
-  "reason": "PT is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "reason": "Portugal is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
   "source": "https://evisa.gov.mz/requirements",
   "date": "2026-10-28"
  },
@@ -10839,7 +10839,7 @@
  "RU:MZ": {
   "status": "eta",
   "days": 30,
-  "reason": "RU is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "reason": "Russia is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
   "source": "https://evisa.gov.mz/requirements",
   "date": "2026-10-28"
  },
@@ -10853,7 +10853,7 @@
  "SA:MZ": {
   "status": "eta",
   "days": 30,
-  "reason": "SA is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "reason": "Saudi Arabia is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
   "source": "https://evisa.gov.mz/requirements",
   "date": "2026-10-28"
  },
@@ -10881,14 +10881,14 @@
  "SE:MZ": {
   "status": "eta",
   "days": 30,
-  "reason": "SE is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "reason": "Sweden is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
   "source": "https://evisa.gov.mz/requirements",
   "date": "2026-10-28"
  },
  "SG:MZ": {
   "status": "eta",
   "days": 30,
-  "reason": "SG is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "reason": "Singapore is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
   "source": "https://evisa.gov.mz/requirements",
   "date": "2026-10-28"
  },
@@ -10923,7 +10923,7 @@
  "SN:MZ": {
   "status": "eta",
   "days": 30,
-  "reason": "SN is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "reason": "Senegal is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
   "source": "https://evisa.gov.mz/requirements",
   "date": "2026-10-28"
  },
@@ -11069,7 +11069,7 @@
  "UA:MZ": {
   "status": "eta",
   "days": 30,
-  "reason": "UA is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "reason": "Ukraine is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
   "source": "https://evisa.gov.mz/requirements",
   "date": "2026-10-28"
  },
@@ -11083,7 +11083,7 @@
  "US:MZ": {
   "status": "eta",
   "days": 30,
-  "reason": "US is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "reason": "The United States is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
   "source": "https://evisa.gov.mz/requirements",
   "date": "2026-10-28"
  },
