@@ -15898,5 +15898,1193 @@
   "reason": "Zambia's Department of Immigration places this passport on the referred-visa list: approval by the Director General is required before travel and there is no visa on arrival. The seed dataset's e-visa value understates the restriction.",
   "source": "https://www.zambiaimmigration.gov.zm/nationals-requiring-visa-prior-to-travel/",
   "date": "2026-10-29"
+ },
+ "AD:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "AE:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "AF:ZW": {
+  "status": "visa required",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category C: the visa must be applied for, paid for and obtained online before travel — no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7196",
+  "date": "2026-10-29"
+ },
+ "AG:ZW": {
+  "status": "visa free",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category A (no visa required). Its official tables state no maximum stay, so the seed dataset's visa free (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7176",
+  "date": "2026-10-29"
+ },
+ "AL:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "AM:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "AO:ZW": {
+  "status": "visa free",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category A (no visa required). Its official tables state no maximum stay, so the seed dataset's visa free (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7176",
+  "date": "2026-10-29"
+ },
+ "AR:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "AT:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "AU:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "AZ:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "BA:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "BB:ZW": {
+  "status": "visa free",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category A (no visa required). Its official tables state no maximum stay, so the seed dataset's visa free (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7176",
+  "date": "2026-10-29"
+ },
+ "BD:ZW": {
+  "status": "visa required",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category C: the visa must be applied for, paid for and obtained online before travel — no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7196",
+  "date": "2026-10-29"
+ },
+ "BE:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "BF:ZW": {
+  "status": "visa required",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category C: the visa must be applied for, paid for and obtained online before travel — no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7196",
+  "date": "2026-10-29"
+ },
+ "BG:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "BH:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "BI:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "BJ:ZW": {
+  "status": "visa required",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category C: the visa must be applied for, paid for and obtained online before travel — no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7196",
+  "date": "2026-10-29"
+ },
+ "BN:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "BO:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's e-visa value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "BR:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "BS:ZW": {
+  "status": "visa free",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category A (no visa required). Its official tables state no maximum stay, so the seed dataset's visa free (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7176",
+  "date": "2026-10-29"
+ },
+ "BT:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "BW:ZW": {
+  "status": "visa free",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category A (no visa required). Its official tables state no maximum stay, so the seed dataset's visa free (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7176",
+  "date": "2026-10-29"
+ },
+ "BY:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "BZ:ZW": {
+  "status": "visa free",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category A (no visa required). Its official tables state no maximum stay, so the seed dataset's visa free (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7176",
+  "date": "2026-10-29"
+ },
+ "CA:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "CD:ZW": {
+  "status": "visa free",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category A (no visa required). Its official tables state no maximum stay, so the seed dataset's visa free (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7176",
+  "date": "2026-10-29"
+ },
+ "CF:ZW": {
+  "status": "visa required",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category C: the visa must be applied for, paid for and obtained online before travel — no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7196",
+  "date": "2026-10-29"
+ },
+ "CG:ZW": {
+  "status": "visa required",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category C: the visa must be applied for, paid for and obtained online before travel — no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7196",
+  "date": "2026-10-29"
+ },
+ "CH:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "CI:ZW": {
+  "status": "visa required",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category C: the visa must be applied for, paid for and obtained online before travel — no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7196",
+  "date": "2026-10-29"
+ },
+ "CL:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "CM:ZW": {
+  "status": "visa required",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category C: the visa must be applied for, paid for and obtained online before travel — no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7196",
+  "date": "2026-10-29"
+ },
+ "CN:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (30 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "CO:ZW": {
+  "status": "visa required",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category C: the visa must be applied for, paid for and obtained online before travel — no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7196",
+  "date": "2026-10-29"
+ },
+ "CR:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "CU:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "CV:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "CY:ZW": {
+  "status": "visa free",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category A (no visa required). Its official tables state no maximum stay, so the seed dataset's visa free (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7176",
+  "date": "2026-10-29"
+ },
+ "CZ:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "DE:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "DJ:ZW": {
+  "status": "visa required",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category C: the visa must be applied for, paid for and obtained online before travel — no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7196",
+  "date": "2026-10-29"
+ },
+ "DK:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "DM:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's e-visa value — in particular the stay figure — is not followed.",
+  "source": "https://zimembassydc.org/wp-content/uploads/2023/10/country-category.pdf",
+  "date": "2026-10-29"
+ },
+ "DO:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "DZ:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "EC:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "EE:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "EG:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "ER:ZW": {
+  "status": "visa required",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category C: the visa must be applied for, paid for and obtained online before travel — no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7196",
+  "date": "2026-10-29"
+ },
+ "ES:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "ET:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "FI:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://zimembassydc.org/wp-content/uploads/2023/10/country-category.pdf",
+  "date": "2026-10-29"
+ },
+ "FJ:ZW": {
+  "status": "visa free",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category A (no visa required). Its official tables state no maximum stay, so the seed dataset's visa free (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7176",
+  "date": "2026-10-29"
+ },
+ "FM:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "FR:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://zimembassydc.org/wp-content/uploads/2023/10/country-category.pdf",
+  "date": "2026-10-29"
+ },
+ "GA:ZW": {
+  "status": "visa required",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category C: the visa must be applied for, paid for and obtained online before travel — no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7196",
+  "date": "2026-10-29"
+ },
+ "GB:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "GD:ZW": {
+  "status": "visa free",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category A (no visa required). Its official tables state no maximum stay, so the seed dataset's visa free (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7176",
+  "date": "2026-10-29"
+ },
+ "GE:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "GH:ZW": {
+  "status": "visa free",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category A (no visa required). Its official tables state no maximum stay, so the seed dataset's visa free (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7176",
+  "date": "2026-10-29"
+ },
+ "GM:ZW": {
+  "status": "visa required",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category C: the visa must be applied for, paid for and obtained online before travel — no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7196",
+  "date": "2026-10-29"
+ },
+ "GN:ZW": {
+  "status": "visa required",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category C: the visa must be applied for, paid for and obtained online before travel — no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7196",
+  "date": "2026-10-29"
+ },
+ "GQ:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "GR:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "GT:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "GW:ZW": {
+  "status": "visa required",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category C: the visa must be applied for, paid for and obtained online before travel — no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7196",
+  "date": "2026-10-29"
+ },
+ "GY:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "HK:ZW": {
+  "status": "visa free",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category A (no visa required). Its official tables state no maximum stay, so the seed dataset's visa free (180 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7176",
+  "date": "2026-10-29"
+ },
+ "HN:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "HR:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "HT:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "HU:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "ID:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "IE:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "IL:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "IN:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "IQ:ZW": {
+  "status": "visa required",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category C: the visa must be applied for, paid for and obtained online before travel — no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7196",
+  "date": "2026-10-29"
+ },
+ "IR:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "IS:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "IT:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "JM:ZW": {
+  "status": "visa free",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category A (no visa required). Its official tables state no maximum stay, so the seed dataset's visa free (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7176",
+  "date": "2026-10-29"
+ },
+ "JO:ZW": {
+  "status": "visa required",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category C: the visa must be applied for, paid for and obtained online before travel — no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7196",
+  "date": "2026-10-29"
+ },
+ "JP:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "KE:ZW": {
+  "status": "visa free",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category A (no visa required). Its official tables state no maximum stay, so the seed dataset's visa free (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7176",
+  "date": "2026-10-29"
+ },
+ "KG:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "KH:ZW": {
+  "status": "visa required",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category C: the visa must be applied for, paid for and obtained online before travel — no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7196",
+  "date": "2026-10-29"
+ },
+ "KI:ZW": {
+  "status": "visa free",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category A (no visa required). Its official tables state no maximum stay, so the seed dataset's visa free (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7176",
+  "date": "2026-10-29"
+ },
+ "KM:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "KN:ZW": {
+  "status": "visa free",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category A (no visa required). Its official tables state no maximum stay, so the seed dataset's visa free (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7176",
+  "date": "2026-10-29"
+ },
+ "KP:ZW": {
+  "status": "visa required",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category C: the visa must be applied for, paid for and obtained online before travel — no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7196",
+  "date": "2026-10-29"
+ },
+ "KR:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "KW:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "KZ:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "LA:ZW": {
+  "status": "visa required",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category C: the visa must be applied for, paid for and obtained online before travel — no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7196",
+  "date": "2026-10-29"
+ },
+ "LB:ZW": {
+  "status": "visa required",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category C: the visa must be applied for, paid for and obtained online before travel — no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7196",
+  "date": "2026-10-29"
+ },
+ "LC:ZW": {
+  "status": "visa free",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category A (no visa required). Its official tables state no maximum stay, so the seed dataset's visa free (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7176",
+  "date": "2026-10-29"
+ },
+ "LI:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://zimembassydc.org/wp-content/uploads/2023/10/country-category.pdf",
+  "date": "2026-10-29"
+ },
+ "LK:ZW": {
+  "status": "visa required",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category C: the visa must be applied for, paid for and obtained online before travel — no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7196",
+  "date": "2026-10-29"
+ },
+ "LR:ZW": {
+  "status": "visa required",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category C: the visa must be applied for, paid for and obtained online before travel — no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7196",
+  "date": "2026-10-29"
+ },
+ "LS:ZW": {
+  "status": "visa free",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category A (no visa required). Its official tables state no maximum stay, so the seed dataset's visa free (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7176",
+  "date": "2026-10-29"
+ },
+ "LT:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "LU:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "LV:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "LY:ZW": {
+  "status": "visa required",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category C: the visa must be applied for, paid for and obtained online before travel — no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7196",
+  "date": "2026-10-29"
+ },
+ "MA:ZW": {
+  "status": "visa required",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category C: the visa must be applied for, paid for and obtained online before travel — no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7196",
+  "date": "2026-10-29"
+ },
+ "MC:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "MD:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "ME:ZW": {
+  "status": "visa required",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category C: the visa must be applied for, paid for and obtained online before travel — no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7196",
+  "date": "2026-10-29"
+ },
+ "MG:ZW": {
+  "status": "visa free",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category A (no visa required). Its official tables state no maximum stay, so the seed dataset's visa free (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7176",
+  "date": "2026-10-29"
+ },
+ "MH:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "MK:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "ML:ZW": {
+  "status": "visa required",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category C: the visa must be applied for, paid for and obtained online before travel — no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7196",
+  "date": "2026-10-29"
+ },
+ "MM:ZW": {
+  "status": "visa required",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category C: the visa must be applied for, paid for and obtained online before travel — no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7196",
+  "date": "2026-10-29"
+ },
+ "MN:ZW": {
+  "status": "visa required",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category C: the visa must be applied for, paid for and obtained online before travel — no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7196",
+  "date": "2026-10-29"
+ },
+ "MO:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "MR:ZW": {
+  "status": "visa required",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category C: the visa must be applied for, paid for and obtained online before travel — no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7196",
+  "date": "2026-10-29"
+ },
+ "MT:ZW": {
+  "status": "visa free",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category A (no visa required). Its official tables state no maximum stay, so the seed dataset's visa free (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7176",
+  "date": "2026-10-29"
+ },
+ "MU:ZW": {
+  "status": "visa free",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category A (no visa required). Its official tables state no maximum stay, so the seed dataset's visa free (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7176",
+  "date": "2026-10-29"
+ },
+ "MV:ZW": {
+  "status": "visa free",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category A (no visa required). Its official tables state no maximum stay, so the seed dataset's visa free (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7176",
+  "date": "2026-10-29"
+ },
+ "MW:ZW": {
+  "status": "visa free",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category A (no visa required). Its official tables state no maximum stay, so the seed dataset's visa free (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7176",
+  "date": "2026-10-29"
+ },
+ "MX:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "MY:ZW": {
+  "status": "visa free",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category A (no visa required). Its official tables state no maximum stay, so the seed dataset's visa free (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7176",
+  "date": "2026-10-29"
+ },
+ "MZ:ZW": {
+  "status": "visa free",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category A (no visa required). Its official tables state no maximum stay, so the seed dataset's visa free (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7176",
+  "date": "2026-10-29"
+ },
+ "NA:ZW": {
+  "status": "visa free",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category A (no visa required). Its official tables state no maximum stay, so the seed dataset's visa free (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7176",
+  "date": "2026-10-29"
+ },
+ "NE:ZW": {
+  "status": "visa required",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category C: the visa must be applied for, paid for and obtained online before travel — no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7196",
+  "date": "2026-10-29"
+ },
+ "NG:ZW": {
+  "status": "visa required",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category C: the visa must be applied for, paid for and obtained online before travel — no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7196",
+  "date": "2026-10-29"
+ },
+ "NI:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "NL:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "NO:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "NP:ZW": {
+  "status": "visa required",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category C: the visa must be applied for, paid for and obtained online before travel — no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7196",
+  "date": "2026-10-29"
+ },
+ "NR:ZW": {
+  "status": "visa free",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category A (no visa required). Its official tables state no maximum stay, so the seed dataset's visa free (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7176",
+  "date": "2026-10-29"
+ },
+ "NZ:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "OM:ZW": {
+  "status": "visa required",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category C: the visa must be applied for, paid for and obtained online before travel — no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7196",
+  "date": "2026-10-29"
+ },
+ "PA:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "PE:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "PG:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "PH:ZW": {
+  "status": "visa required",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category C: the visa must be applied for, paid for and obtained online before travel — no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7196",
+  "date": "2026-10-29"
+ },
+ "PK:ZW": {
+  "status": "visa required",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category C: the visa must be applied for, paid for and obtained online before travel — no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7196",
+  "date": "2026-10-29"
+ },
+ "PL:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "PS:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "PT:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "PW:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "PY:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "QA:ZW": {
+  "status": "visa required",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category C: the visa must be applied for, paid for and obtained online before travel — no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7196",
+  "date": "2026-10-29"
+ },
+ "RO:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "RS:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "RU:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "RW:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "SA:ZW": {
+  "status": "visa required",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category C: the visa must be applied for, paid for and obtained online before travel — no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7196",
+  "date": "2026-10-29"
+ },
+ "SB:ZW": {
+  "status": "visa free",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category A (no visa required). Its official tables state no maximum stay, so the seed dataset's visa free (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7176",
+  "date": "2026-10-29"
+ },
+ "SC:ZW": {
+  "status": "visa free",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category A (no visa required). Its official tables state no maximum stay, so the seed dataset's visa free (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7176",
+  "date": "2026-10-29"
+ },
+ "SD:ZW": {
+  "status": "visa required",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category C: the visa must be applied for, paid for and obtained online before travel — no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7196",
+  "date": "2026-10-29"
+ },
+ "SE:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "SG:ZW": {
+  "status": "visa free",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category A (no visa required). Its official tables state no maximum stay, so the seed dataset's visa free (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7176",
+  "date": "2026-10-29"
+ },
+ "SI:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "SK:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "SL:ZW": {
+  "status": "visa required",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category C: the visa must be applied for, paid for and obtained online before travel — no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://zimembassydc.org/wp-content/uploads/2023/10/country-category.pdf",
+  "date": "2026-10-29"
+ },
+ "SM:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "SN:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "SO:ZW": {
+  "status": "visa required",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category C: the visa must be applied for, paid for and obtained online before travel — no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://zimembassydc.org/wp-content/uploads/2023/10/country-category.pdf",
+  "date": "2026-10-29"
+ },
+ "SR:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "SS:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's e-visa value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "ST:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "SV:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "SY:ZW": {
+  "status": "visa required",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category C: the visa must be applied for, paid for and obtained online before travel — no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7196",
+  "date": "2026-10-29"
+ },
+ "SZ:ZW": {
+  "status": "visa free",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category A (no visa required). Its official tables state no maximum stay, so the seed dataset's visa free (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7176",
+  "date": "2026-10-29"
+ },
+ "TD:ZW": {
+  "status": "visa required",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category C: the visa must be applied for, paid for and obtained online before travel — no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7196",
+  "date": "2026-10-29"
+ },
+ "TG:ZW": {
+  "status": "visa required",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category C: the visa must be applied for, paid for and obtained online before travel — no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7196",
+  "date": "2026-10-29"
+ },
+ "TH:ZW": {
+  "status": "visa required",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category C: the visa must be applied for, paid for and obtained online before travel — no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7196",
+  "date": "2026-10-29"
+ },
+ "TJ:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "TL:ZW": {
+  "status": "visa required",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category C: the visa must be applied for, paid for and obtained online before travel — no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://zimembassydc.org/wp-content/uploads/2023/10/country-category.pdf",
+  "date": "2026-10-29"
+ },
+ "TM:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "TN:ZW": {
+  "status": "visa required",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category C: the visa must be applied for, paid for and obtained online before travel — no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7196",
+  "date": "2026-10-29"
+ },
+ "TO:ZW": {
+  "status": "visa free",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category A (no visa required). Its official tables state no maximum stay, so the seed dataset's visa free (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7176",
+  "date": "2026-10-29"
+ },
+ "TR:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "TT:ZW": {
+  "status": "visa free",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category A (no visa required). Its official tables state no maximum stay, so the seed dataset's visa free (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7176",
+  "date": "2026-10-29"
+ },
+ "TV:ZW": {
+  "status": "visa free",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category A (no visa required). Its official tables state no maximum stay, so the seed dataset's visa free (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7176",
+  "date": "2026-10-29"
+ },
+ "TW:ZW": {
+  "status": "visa required",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category C: the visa must be applied for, paid for and obtained online before travel — no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7196",
+  "date": "2026-10-29"
+ },
+ "TZ:ZW": {
+  "status": "visa free",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category A (no visa required). Its official tables state no maximum stay, so the seed dataset's visa free (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7176",
+  "date": "2026-10-29"
+ },
+ "UA:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "UG:ZW": {
+  "status": "visa free",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category A (no visa required). Its official tables state no maximum stay, so the seed dataset's visa free (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7176",
+  "date": "2026-10-29"
+ },
+ "US:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "UY:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "UZ:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "VA:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "VC:ZW": {
+  "status": "visa free",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category A (no visa required). Its official tables state no maximum stay, so the seed dataset's visa free (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7176",
+  "date": "2026-10-29"
+ },
+ "VE:ZW": {
+  "status": "visa on arrival",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category B (visa on arrival or online in advance). Its official tables state no stay for a holiday visa, so the seed dataset's visa on arrival (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7186",
+  "date": "2026-10-29"
+ },
+ "VN:ZW": {
+  "status": "visa required",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category C: the visa must be applied for, paid for and obtained online before travel — no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7196",
+  "date": "2026-10-29"
+ },
+ "VU:ZW": {
+  "status": "visa free",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category A (no visa required). Its official tables state no maximum stay, so the seed dataset's visa free (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7176",
+  "date": "2026-10-29"
+ },
+ "WS:ZW": {
+  "status": "visa free",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category A (no visa required). Its official tables state no maximum stay, so the seed dataset's visa free (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7176",
+  "date": "2026-10-29"
+ },
+ "XK:ZW": {
+  "status": "visa required",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category C: the visa must be applied for, paid for and obtained online before travel — no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://zimembassydc.org/wp-content/uploads/2023/10/country-category.pdf",
+  "date": "2026-10-29"
+ },
+ "YE:ZW": {
+  "status": "visa required",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category C: the visa must be applied for, paid for and obtained online before travel — no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7196",
+  "date": "2026-10-29"
+ },
+ "ZA:ZW": {
+  "status": "visa free",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category A (no visa required). Its official tables state no maximum stay, so the seed dataset's visa free (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7176",
+  "date": "2026-10-29"
+ },
+ "ZM:ZW": {
+  "status": "visa free",
+  "reason": "Zimbabwe's Immigration Department lists this passport in Category A (no visa required). Its official tables state no maximum stay, so the seed dataset's visa free (90 days) value — in particular the stay figure — is not followed.",
+  "source": "https://www.zimimmigration.gov.zw/?p=7176",
+  "date": "2026-10-29"
  }
 }
