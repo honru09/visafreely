@@ -9804,5 +9804,1378 @@
   "reason": "South Sudan is an East African Community partner state, and Burundi's Foreign Ministry grants the free EAC access visa to citizens of EAC member countries categorically, with a validity of 1 to 6 months — the six-month maximum is used here. (The EAC's own FAQ exempts EAC nationals from visas “with the exception of DRC”; the Burundi embassy exemption list names only five countries and omits South Sudan.) The seed dataset's visa free (90 days) figure understates this stay.",
   "source": "https://www.mae.gov.bi/en/free-visa/",
   "date": "2026-10-28"
+ },
+ "AD:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "AE:MZ": {
+  "status": "eta",
+  "days": 30,
+  "reason": "AE is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "AF:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "AG:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "AL:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "AM:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "AR:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "AT:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "AU:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "AZ:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "BA:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "BB:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "BD:MZ": {
+  "status": "visa required",
+  "reason": "Mozambique's e-Visa portal places Bangladesh on its restricted list: its travellers are not allowed to apply for a visa via the eVisa portal and must request a visa at the nearest Mozambican embassy. The seed dataset's e-visa value is incorrect.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "BE:MZ": {
+  "status": "eta",
+  "days": 30,
+  "reason": "BE is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "BF:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "BG:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "BH:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "BI:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "BJ:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "BN:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "BO:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "BR:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "BS:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "BT:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "BW:MZ": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Mozambique's e-Visa portal lists Botswana as visa-exempt for all passport types for tourist and business stays of up to 90 days. The seed dataset's visa free value is superseded.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "BY:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "BZ:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "CA:MZ": {
+  "status": "eta",
+  "days": 30,
+  "reason": "CA is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "CD:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "CF:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "CG:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "CH:MZ": {
+  "status": "eta",
+  "days": 30,
+  "reason": "CH is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "CI:MZ": {
+  "status": "eta",
+  "days": 30,
+  "reason": "CI is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "CL:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "CM:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "CN:MZ": {
+  "status": "eta",
+  "days": 30,
+  "reason": "CN is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "CO:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "CR:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "CU:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "CV:MZ": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Mozambique's e-Visa portal lists Cabo Verde as visa-exempt for all passport types for tourist and business stays of up to 30 days. The seed dataset's visa on arrival (30 days) value is superseded.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "CY:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "CZ:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "DE:MZ": {
+  "status": "eta",
+  "days": 30,
+  "reason": "DE is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "DJ:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "DK:MZ": {
+  "status": "eta",
+  "days": 30,
+  "reason": "DK is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "DM:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "DO:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "DZ:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "EC:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "EE:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "EG:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "ER:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique's e-Visa portal lists Eritrea among the nationalities eligible for the tourist e-Visa, issued for a stay of 30, 60 or 90 days (30 days is the standard stay shown here). The seed dataset carried no stay for this route.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "ES:MZ": {
+  "status": "eta",
+  "days": 30,
+  "reason": "ES is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "ET:MZ": {
+  "status": "visa required",
+  "reason": "Mozambique's e-Visa portal places Ethiopia on its restricted list: its travellers are not allowed to apply for a visa via the eVisa portal and must request a visa at the nearest Mozambican embassy. The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "FI:MZ": {
+  "status": "eta",
+  "days": 30,
+  "reason": "FI is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "FJ:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "FM:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "FR:MZ": {
+  "status": "eta",
+  "days": 30,
+  "reason": "FR is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "GA:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "GB:MZ": {
+  "status": "eta",
+  "days": 30,
+  "reason": "GB is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "GD:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "GE:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "GH:MZ": {
+  "status": "eta",
+  "days": 30,
+  "reason": "GH is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "GM:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "GN:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "GQ:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "GR:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "GT:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "GW:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "GY:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "HK:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "HN:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "HR:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "HT:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "HU:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "ID:MZ": {
+  "status": "eta",
+  "days": 30,
+  "reason": "Indonesia is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa on arrival (30 days) value predates the ETA mandate.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "IE:MZ": {
+  "status": "eta",
+  "days": 30,
+  "reason": "IE is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "IL:MZ": {
+  "status": "eta",
+  "days": 30,
+  "reason": "IL is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "IN:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique's e-Visa portal lists India among the nationalities eligible for the tourist e-Visa, issued for a stay of 30, 60 or 90 days (30 days is the standard stay shown here). The seed dataset carried no stay for this route.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "IQ:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "IR:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "IS:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "IT:MZ": {
+  "status": "eta",
+  "days": 30,
+  "reason": "IT is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "JM:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "JO:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "JP:MZ": {
+  "status": "eta",
+  "days": 30,
+  "reason": "JP is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "KE:MZ": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Mozambique's e-Visa portal lists Kenya as visa-exempt for all passport types for tourist and business stays of up to 90 days. The seed dataset's visa on arrival (30 days) value is superseded.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "KG:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "KH:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "KI:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "KM:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "KN:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "KP:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "KR:MZ": {
+  "status": "eta",
+  "days": 30,
+  "reason": "KR is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "KW:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "KZ:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "LA:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "LB:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "LC:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "LI:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "LK:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique's e-Visa portal lists Sri Lanka among the nationalities eligible for the tourist e-Visa, issued for a stay of 30, 60 or 90 days (30 days is the standard stay shown here). The seed dataset carried no stay for this route.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "LR:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "LS:MZ": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Mozambique's e-Visa portal lists Lesotho as visa-exempt for all passport types for tourist and business stays of up to 30 days. The seed dataset's visa on arrival (30 days) value is superseded. Other official Mozambican listings have carried 90 days for this exemption; the portal's requirements table gives 30 days and is followed here.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "LT:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "LU:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "LV:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "LY:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "MA:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "MC:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "MD:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "ME:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "MG:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "MH:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "MK:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "ML:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "MM:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "MN:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "MO:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "MR:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "MT:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "MU:MZ": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Mozambique's e-Visa portal lists Mauritius as visa-exempt for all passport types for tourist and business stays of up to 30 days. The seed dataset's visa free value is superseded. Other official Mozambican listings have carried 90 days for this exemption; the portal's requirements table gives 30 days and is followed here.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "MV:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "MW:MZ": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Mozambique's e-Visa portal lists Malawi as visa-exempt for all passport types for tourist and business stays of up to 30 days. The seed dataset's visa free value is superseded. Other official Mozambican listings have carried 90 days for this exemption; the portal's requirements table gives 30 days and is followed here.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "MX:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "MY:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "NA:MZ": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Mozambique's e-Visa portal lists Namibia as visa-exempt for all passport types for tourist and business stays of up to 30 days. The seed dataset's visa on arrival (30 days) value is superseded. Other official Mozambican listings have carried 90 days for this exemption; the portal's requirements table gives 30 days and is followed here.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "NE:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "NG:MZ": {
+  "status": "visa required",
+  "reason": "Mozambique's e-Visa portal places Nigeria on its restricted list: its travellers are not allowed to apply for a visa via the eVisa portal and must request a visa at the nearest Mozambican embassy. The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "NI:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "NL:MZ": {
+  "status": "eta",
+  "days": 30,
+  "reason": "NL is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "NO:MZ": {
+  "status": "eta",
+  "days": 30,
+  "reason": "NO is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "NP:MZ": {
+  "status": "visa required",
+  "reason": "Mozambique's e-Visa portal places Nepal on its restricted list: its travellers are not allowed to apply for a visa via the eVisa portal and must request a visa at the nearest Mozambican embassy. The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "NR:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "NZ:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "OM:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "PA:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "PE:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "PG:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "PH:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "PK:MZ": {
+  "status": "visa required",
+  "reason": "Mozambique's e-Visa portal places Pakistan on its restricted list: its travellers are not allowed to apply for a visa via the eVisa portal and must request a visa at the nearest Mozambican embassy. The seed dataset's e-visa value is incorrect.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "PL:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "PS:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "PT:MZ": {
+  "status": "eta",
+  "days": 30,
+  "reason": "PT is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "PW:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "PY:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "QA:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "RO:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "RS:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "RU:MZ": {
+  "status": "eta",
+  "days": 30,
+  "reason": "RU is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "RW:MZ": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Mozambique's e-Visa portal lists Rwanda as visa-exempt for all passport types for tourist and business stays of up to 90 days. The seed dataset's visa on arrival (30 days) value is superseded.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "SA:MZ": {
+  "status": "eta",
+  "days": 30,
+  "reason": "SA is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "SB:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "SC:MZ": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Mozambique's e-Visa portal lists Seychelles as visa-exempt for all passport types for tourist and business stays of up to 30 days. The seed dataset's visa on arrival (30 days) value is superseded. Other official Mozambican listings have carried 90 days for this exemption; the portal's requirements table gives 30 days and is followed here.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "SD:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "SE:MZ": {
+  "status": "eta",
+  "days": 30,
+  "reason": "SE is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "SG:MZ": {
+  "status": "eta",
+  "days": 30,
+  "reason": "SG is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "SI:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "SK:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "SL:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "SM:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "SN:MZ": {
+  "status": "eta",
+  "days": 30,
+  "reason": "SN is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "SO:MZ": {
+  "status": "visa required",
+  "reason": "Mozambique's e-Visa portal places Somalia on its restricted list: its travellers are not allowed to apply for a visa via the eVisa portal and must request a visa at the nearest Mozambican embassy. The seed dataset's e-visa value is incorrect.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "SR:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "SS:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "ST:MZ": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Mozambique's e-Visa portal lists Sao Tome and Principe as visa-exempt for all passport types for tourist and business stays of up to 30 days. The seed dataset's visa on arrival (30 days) value is superseded.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "SV:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "SY:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "SZ:MZ": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Mozambique's e-Visa portal lists Eswatini as visa-exempt for all passport types for tourist and business stays of up to 30 days. The seed dataset's visa free value is superseded.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "TD:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "TG:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "TH:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "TJ:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "TL:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "TM:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "TN:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "TO:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "TR:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "TT:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "TV:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "TW:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "TZ:MZ": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Mozambique's e-Visa portal lists Tanzania as visa-exempt for all passport types for tourist and business stays of up to 90 days. The seed dataset's visa free value is superseded.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "UA:MZ": {
+  "status": "eta",
+  "days": 30,
+  "reason": "UA is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "UG:MZ": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Mozambique's e-Visa portal lists Uganda as visa-exempt for all passport types for tourist and business stays of up to 30 days. The seed dataset's visa on arrival (30 days) value is superseded. Other official Mozambican listings have carried 90 days for this exemption; the portal's requirements table gives 30 days and is followed here.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "US:MZ": {
+  "status": "eta",
+  "days": 30,
+  "reason": "US is visa-exempt under Decree 10/2023, but since 2025 its citizens must obtain an electronic travel authorisation (ETA) on the official portal at least 48 hours before departure — an authorisation is now required in advance, so the route is no longer visa-free in the dataset's sense. The seed dataset's visa free (30 days) value predates the ETA mandate.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "UY:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "UZ:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "VA:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "VC:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "VE:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "VN:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "VU:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "WS:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "XK:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "YE:MZ": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Mozambique now requires this nationality to apply online for an e-Visa before travel and present the printed preliminary approval on arrival; there is no walk-up visa on arrival. The seed dataset's visa on arrival (30 days) value reflects the pre-reform border-visa regime.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "ZA:MZ": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Mozambique's e-Visa portal lists South Africa as visa-exempt for all passport types for tourist and business stays of up to 30 days. The seed dataset's visa free value is superseded.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "ZM:MZ": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Mozambique's e-Visa portal lists Zambia as visa-exempt for all passport types for tourist and business stays of up to 30 days. The seed dataset's visa free value is superseded. Other official Mozambican listings have carried 90 days for this exemption; the portal's requirements table gives 30 days and is followed here.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
+ },
+ "ZW:MZ": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Mozambique's e-Visa portal lists Zimbabwe as visa-exempt for all passport types for tourist and business stays of up to 30 days. The seed dataset's visa free value is superseded. Other official Mozambican listings have carried 90 days for this exemption; the portal's requirements table gives 30 days and is followed here.",
+  "source": "https://evisa.gov.mz/requirements",
+  "date": "2026-10-28"
  }
 }
