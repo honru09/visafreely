@@ -14892,5 +14892,698 @@
   "reason": "Somalia's E-Visa/ETAS has been mandatory for all foreign visitors since 1 September 2025, so the seed dataset's e-visa status is correct — but it left the stay blank. The maximum stay of 30 days from entry is stated by the Czech Ministry of Foreign Affairs' official travel information (Somali federal pages publish no duration); it is now shown, with the attribution carried in the page note.",
   "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
   "date": "2026-10-28"
+ },
+ "AD:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "AF:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "AL:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "AM:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "AZ:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "BA:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "BD:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "BF:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "BH:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "BI:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "BJ:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "BN:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "BO:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "BT:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "BY:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "CD:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "CF:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "CG:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "CI:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "CM:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "CO:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "CR:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "CU:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "DJ:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "DM:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "EC:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "EG:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "ER:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "ET:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "GA:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "GE:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "GH:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "GM:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "GN:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "GT:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "GW:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "HK:AO": {
+  "status": "e-visa",
+  "reason": "Hong Kong passports are not on Angola's exemption lists, and there is no walk-up visa on arrival for tourists: the tourist visa is applied for in advance, online through the SME e-Visa portal or at an embassy, under the simplified procedure of Presidential Decree 189/23. The seed dataset's visa-on-arrival value is incorrect.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "HN:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "IQ:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "IR:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "JO:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "KE:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "KG:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "KH:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "KM:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "KP:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "KW:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "KZ:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "LA:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "LB:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "LI:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "LK:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "LR:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "LY:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "MD:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "ME:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "MK:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "ML:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "MM:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "MN:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "MO:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "MR:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "MV:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "MY:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "NE:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "NG:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "NI:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "NP:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "OM:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "PE:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "PH:AO": {
+  "status": "visa free",
+  "reason": "The Philippines was added to Angola's unilateral tourist-visa exemption list by Presidential Decree 193/25, effective 17 October 2025 (up to 30 days per visit, 90 days per year, tourism only). The seed dataset still shows a visa as required.",
+  "source": "https://governo.gov.ao/noticias/1046/governo/decreto-presidencial/angola-isenta-cidadaos-de-98-paises-de-vistos-de-turismo",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "PK:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "PS:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "PY:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "RS:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "SD:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "SL:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "SM:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "SN:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "SO:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "SS:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "ST:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "SV:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "SY:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "TD:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "TG:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "TH:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "TJ:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "TM:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "TN:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "TW:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "UA:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "UG:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "UZ:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "VE:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "VN:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "WS:AO": {
+  "status": "visa free",
+  "reason": "Samoa is on Angola's unilateral tourist-visa exemption list (Presidential Decree 189/23 annex, in force 29 September 2023): up to 30 days per visit, 90 days per year, tourism only. The seed dataset still shows a visa as required.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "XK:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
+ },
+ "YE:AO": {
+  "status": "e-visa",
+  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
+  "date": "2026-10-29",
+  "days": 30
  }
 }
