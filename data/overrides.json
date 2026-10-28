@@ -11177,5 +11177,1182 @@
   "reason": "Mozambique's e-Visa portal lists Zimbabwe as visa-exempt for all passport types for tourist and business stays of up to 30 days. The seed dataset's visa free value is superseded. Other official Mozambican listings have carried 90 days for this exemption; the portal's requirements table gives 30 days and is followed here.",
   "source": "https://evisa.gov.mz/requirements",
   "date": "2026-10-28"
+ },
+ "AD:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "AE:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "AF:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "AG:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "AL:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "AM:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "AO:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "AR:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "AT:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "AU:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "AZ:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "BA:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "BB:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "BD:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "BE:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "BF:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "BG:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "BH:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "BJ:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "BN:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "BO:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "BR:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "BS:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "BT:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "BW:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "BY:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "BZ:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "CA:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "CF:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "CG:CD": {
+  "status": "visa required",
+  "reason": "No official Congolese source verifies a visa exemption for Congo (Brazzaville) — claims of a 90-day exemption circulate only in non-official sources, and the standard advance-visa rule applies. The seed dataset's visa free (90 days) value is unverified and is withdrawn.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "CH:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "CI:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "CL:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "CM:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "CN:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "CO:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "CR:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "CU:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "CV:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "CY:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "CZ:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "DE:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "DJ:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "DK:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "DM:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "DO:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "DZ:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "EC:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "EE:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "EG:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "ER:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "ES:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "ET:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "FI:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "FJ:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "FM:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "FR:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "GA:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "GB:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "GD:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "GE:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "GH:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "GM:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "GN:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "GQ:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "GR:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "GT:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "GW:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "GY:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "HK:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "HN:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "HR:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "HT:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "HU:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "ID:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "IE:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "IL:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "IN:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "IQ:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "IR:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "IS:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "IT:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "JM:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "JO:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "JP:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "KE:CD": {
+  "status": "visa free",
+  "reason": "Kenya is visa-exempt under the September 2023 reciprocal waiver between Kenya and the DR Congo under the EAC Common Market Protocol; no official text states a maximum stay, so the stay is left blank rather than guessed. The seed dataset's visa on arrival (7 days) value is incorrect.",
+  "source": "https://www.eac.int/press-releases/2871-eac-lauds-the-republic-of-kenya-and-the-united-republic-of-tanzania-for-waiving-visa-requirements-for-citizens-of-the-democratic-republic-of-congo",
+  "date": "2026-10-28"
+ },
+ "KG:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "KH:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "KI:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "KM:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "KN:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "KP:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "KR:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "KW:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "KZ:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "LA:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "LB:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "LC:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "LI:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "LK:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "LR:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "LS:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "LT:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "LU:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "LV:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "LY:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "MA:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "MC:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "MD:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "ME:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "MG:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "MH:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "MK:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "ML:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "MM:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "MN:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "MO:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "MR:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "MT:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "MU:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's visa on arrival (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "MV:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "MW:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "MX:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "MY:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "MZ:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "NA:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "NE:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "NG:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "NI:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "NL:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "NO:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "NP:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "NR:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "NZ:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "OM:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "PA:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "PE:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "PG:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "PH:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "PK:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "PL:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "PS:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "PT:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "PW:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "PY:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "QA:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "RO:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "RS:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "RU:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "SA:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "SB:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "SC:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "SD:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "SE:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "SG:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "SI:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "SK:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "SL:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "SM:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "SN:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "SO:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "SR:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "SS:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "ST:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "SV:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "SY:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "SZ:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "TD:CD": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Chad and the DR Congo signed a reciprocal visa-exemption agreement in June 2024 with a maximum stay of 90 days, recorded in the Council of Ministers record of 28 June 2024. The seed dataset's e-visa (7 days) value is incorrect.",
+  "source": "https://www.primature.gouv.cd/storage/2026/03/COMPTE-RENDU-DE-LA-3E-REUNION-DU-CONSEIL-DES-MINISTRES-DU-Vendredi-28-JUIN-2024.pdf",
+  "date": "2026-10-28"
+ },
+ "TG:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "TH:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "TJ:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "TL:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "TM:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "TN:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "TO:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "TR:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "TT:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "TV:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "TW:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "TZ:CD": {
+  "status": "visa free",
+  "reason": "Tanzania is visa-exempt under the DR Congo's exemption for Tanzanian citizens, approved in the Council of Ministers record of 4 April 2025 following the 2023 EAC waivers; no official text states a maximum stay, so the stay is left blank rather than guessed. The seed dataset's visa on arrival (7 days) value is incorrect.",
+  "source": "https://www.primature.gouv.cd/wp-content/uploads/2026/03/COMPTE-RENDU-DE-LA-38E-REUNION-DU-CONSEIL-DES-MINISTRES-DU-Vendredi-04-AVRIL-2025.pdf",
+  "date": "2026-10-28"
+ },
+ "UA:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "UG:CD": {
+  "status": "visa free",
+  "reason": "Uganda is visa-exempt under the October 2023 reciprocal waiver between Uganda and the DR Congo under the EAC Common Market Protocol; no official text states a maximum stay, so the stay is left blank rather than guessed. The seed dataset's e-visa (7 days) value is incorrect.",
+  "source": "https://www.eac.int/press-releases/2889-eac-lauds-the-republic-of-uganda-and-the-democratic-republic-of-congo-for-waiving-visa-requirements-for-their-nationals",
+  "date": "2026-10-28"
+ },
+ "US:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "UY:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "UZ:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "VA:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "VC:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "VE:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "VN:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "VU:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "WS:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "XK:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "YE:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "ZA:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "ZM:CD": {
+  "status": "visa required",
+  "reason": "The DR Congo's standard channel is an advance embassy visa (Visa de Voyage, 1 to 6 months). The seed dataset's e-visa (7 days) figure is the 7-day airport visa granted under a Visa Volant pre-approval — a special channel designed for travellers from countries without a Congolese embassy — not the general rule for this nationality.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
+ },
+ "ZW:CD": {
+  "status": "visa required",
+  "reason": "No official Congolese source verifies a visa exemption for Zimbabwe — claims of a 90-day exemption circulate only in non-official sources, and the standard advance-visa rule applies. The seed dataset's visa free (90 days) value is unverified and is withdrawn.",
+  "source": "https://evisa.gouv.cd/helps/faqs",
+  "date": "2026-10-28"
  }
 }
