@@ -15462,7 +15462,7 @@
  },
  "ST:AO": {
   "status": "e-visa",
-  "reason": "Not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days; the seed dataset's plain 'visa required' misses the official online channel.",
+  "reason": "São Tomé and Príncipe is not on Angola's exemption lists (the Presidential Decree 189/23 annex, as amended, nor a bilateral waiver — its 2018 arrangement with Angola was visa facilitation, not exemption). The tourist visa is obtained in advance — online through the SME e-Visa portal or at an embassy — under the decree's simplified procedure (decision within three working days), for a stay of up to 30 days. The seed dataset's visa-free value is incorrect.",
   "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
   "date": "2026-10-29",
   "days": 30
@@ -15585,5 +15585,318 @@
   "source": "https://angola.org/pt/consulado/paises-isentos-de-visto",
   "date": "2026-10-29",
   "days": 30
+ },
+ "AF:ZM": {
+  "status": "visa required",
+  "reason": "Zambia's Department of Immigration places this passport on the referred-visa list: approval by the Director General is required before travel and there is no visa on arrival. The seed dataset's e-visa value understates the restriction.",
+  "source": "https://www.zambiaimmigration.gov.zm/nationals-requiring-visa-prior-to-travel/",
+  "date": "2026-10-29"
+ },
+ "AM:ZM": {
+  "status": "visa required",
+  "reason": "Zambia's Department of Immigration places this passport on the referred-visa list: approval by the Director General is required before travel and there is no visa on arrival. The seed dataset's e-visa value understates the restriction.",
+  "source": "https://www.zambiaimmigration.gov.zm/nationals-requiring-visa-prior-to-travel/",
+  "date": "2026-10-29"
+ },
+ "AZ:ZM": {
+  "status": "visa required",
+  "reason": "Zambia's Department of Immigration places this passport on the referred-visa list: approval by the Director General is required before travel and there is no visa on arrival. The seed dataset's e-visa value understates the restriction.",
+  "source": "https://www.zambiaimmigration.gov.zm/nationals-requiring-visa-prior-to-travel/",
+  "date": "2026-10-29"
+ },
+ "BD:ZM": {
+  "status": "visa required",
+  "reason": "Zambia's Department of Immigration places this passport on the referred-visa list: approval by the Director General is required before travel and there is no visa on arrival. The seed dataset's e-visa value understates the restriction.",
+  "source": "https://www.zambiaimmigration.gov.zm/nationals-requiring-visa-prior-to-travel/",
+  "date": "2026-10-29"
+ },
+ "BF:ZM": {
+  "status": "visa required",
+  "reason": "Zambia's Department of Immigration places this passport on the referred-visa list: approval by the Director General is required before travel and there is no visa on arrival. The seed dataset's e-visa value understates the restriction.",
+  "source": "https://www.zambiaimmigration.gov.zm/nationals-requiring-visa-prior-to-travel/",
+  "date": "2026-10-29"
+ },
+ "BJ:ZM": {
+  "status": "visa required",
+  "reason": "Zambia's Department of Immigration places this passport on the referred-visa list: approval by the Director General is required before travel and there is no visa on arrival. The seed dataset's e-visa value understates the restriction.",
+  "source": "https://www.zambiaimmigration.gov.zm/nationals-requiring-visa-prior-to-travel/",
+  "date": "2026-10-29"
+ },
+ "CF:ZM": {
+  "status": "visa required",
+  "reason": "Zambia's Department of Immigration places this passport on the referred-visa list: approval by the Director General is required before travel and there is no visa on arrival. The seed dataset's e-visa value understates the restriction.",
+  "source": "https://www.zambiaimmigration.gov.zm/nationals-requiring-visa-prior-to-travel/",
+  "date": "2026-10-29"
+ },
+ "CI:ZM": {
+  "status": "visa required",
+  "reason": "Zambia's Department of Immigration places this passport on the referred-visa list: approval by the Director General is required before travel and there is no visa on arrival. The seed dataset's e-visa value understates the restriction.",
+  "source": "https://www.zambiaimmigration.gov.zm/nationals-requiring-visa-prior-to-travel/",
+  "date": "2026-10-29"
+ },
+ "CM:ZM": {
+  "status": "visa required",
+  "reason": "Zambia's Department of Immigration places this passport on the referred-visa list: approval by the Director General is required before travel and there is no visa on arrival. The seed dataset's e-visa value understates the restriction.",
+  "source": "https://www.zambiaimmigration.gov.zm/nationals-requiring-visa-prior-to-travel/",
+  "date": "2026-10-29"
+ },
+ "DZ:ZM": {
+  "status": "visa required",
+  "reason": "Zambia's Department of Immigration places this passport on the referred-visa list: approval by the Director General is required before travel and there is no visa on arrival. The seed dataset's e-visa value understates the restriction.",
+  "source": "https://www.zambiaimmigration.gov.zm/nationals-requiring-visa-prior-to-travel/",
+  "date": "2026-10-29"
+ },
+ "EG:ZM": {
+  "status": "visa required",
+  "reason": "Zambia's Department of Immigration places this passport on the referred-visa list: approval by the Director General is required before travel and there is no visa on arrival. The seed dataset's e-visa value understates the restriction.",
+  "source": "https://www.zambiaimmigration.gov.zm/nationals-requiring-visa-prior-to-travel/",
+  "date": "2026-10-29"
+ },
+ "ET:ZM": {
+  "status": "visa required",
+  "reason": "Zambia's Department of Immigration places this passport on the referred-visa list: approval by the Director General is required before travel and there is no visa on arrival. The seed dataset's e-visa value understates the restriction.",
+  "source": "https://www.zambiaimmigration.gov.zm/nationals-requiring-visa-prior-to-travel/",
+  "date": "2026-10-29"
+ },
+ "GA:ZM": {
+  "status": "visa required",
+  "reason": "Zambia's Department of Immigration places this passport on the referred-visa list: approval by the Director General is required before travel and there is no visa on arrival. The seed dataset's e-visa value understates the restriction.",
+  "source": "https://www.zambiaimmigration.gov.zm/nationals-requiring-visa-prior-to-travel/",
+  "date": "2026-10-29"
+ },
+ "GM:ZM": {
+  "status": "visa required",
+  "reason": "Zambia's Department of Immigration places this passport on the referred-visa list: approval by the Director General is required before travel and there is no visa on arrival. The seed dataset's e-visa value understates the restriction.",
+  "source": "https://www.zambiaimmigration.gov.zm/nationals-requiring-visa-prior-to-travel/",
+  "date": "2026-10-29"
+ },
+ "GN:ZM": {
+  "status": "visa required",
+  "reason": "Zambia's Department of Immigration places this passport on the referred-visa list: approval by the Director General is required before travel and there is no visa on arrival. The seed dataset's e-visa value understates the restriction.",
+  "source": "https://www.zambiaimmigration.gov.zm/nationals-requiring-visa-prior-to-travel/",
+  "date": "2026-10-29"
+ },
+ "GQ:ZM": {
+  "status": "visa required",
+  "reason": "Zambia's Department of Immigration places this passport on the referred-visa list: approval by the Director General is required before travel and there is no visa on arrival. The seed dataset's e-visa value understates the restriction.",
+  "source": "https://www.zambiaimmigration.gov.zm/nationals-requiring-visa-prior-to-travel/",
+  "date": "2026-10-29"
+ },
+ "GW:ZM": {
+  "status": "visa required",
+  "reason": "Zambia's Department of Immigration places this passport on the referred-visa list: approval by the Director General is required before travel and there is no visa on arrival. The seed dataset's e-visa value understates the restriction.",
+  "source": "https://www.zambiaimmigration.gov.zm/nationals-requiring-visa-prior-to-travel/",
+  "date": "2026-10-29"
+ },
+ "HN:ZM": {
+  "status": "visa free",
+  "reason": "Zambia's Department of Immigration lists this passport among nationals who do not require a visa (general visitor entitlement: up to 90 days in any 12 months). The seed dataset's visa on arrival (90 days) value is incorrect.",
+  "source": "https://www.zambiaimmigration.gov.zm/nationals-who-dont-require-visa/",
+  "date": "2026-10-29",
+  "days": 90
+ },
+ "ID:ZM": {
+  "status": "visa required",
+  "reason": "Zambia's Department of Immigration places this passport on the referred-visa list: approval by the Director General is required before travel and there is no visa on arrival. The seed dataset's e-visa value understates the restriction.",
+  "source": "https://www.zambiaimmigration.gov.zm/nationals-requiring-visa-prior-to-travel/",
+  "date": "2026-10-29"
+ },
+ "IN:ZM": {
+  "status": "visa required",
+  "reason": "Zambia's Department of Immigration places this passport on the referred-visa list: approval by the Director General is required before travel and there is no visa on arrival. The seed dataset's e-visa value understates the restriction.",
+  "source": "https://www.zambiaimmigration.gov.zm/nationals-requiring-visa-prior-to-travel/",
+  "date": "2026-10-29"
+ },
+ "IR:ZM": {
+  "status": "visa required",
+  "reason": "Zambia's Department of Immigration places this passport on the referred-visa list: approval by the Director General is required before travel and there is no visa on arrival. The seed dataset's e-visa value understates the restriction.",
+  "source": "https://www.zambiaimmigration.gov.zm/nationals-requiring-visa-prior-to-travel/",
+  "date": "2026-10-29"
+ },
+ "JO:ZM": {
+  "status": "visa required",
+  "reason": "Zambia's Department of Immigration places this passport on the referred-visa list: approval by the Director General is required before travel and there is no visa on arrival. The seed dataset's e-visa value understates the restriction.",
+  "source": "https://www.zambiaimmigration.gov.zm/nationals-requiring-visa-prior-to-travel/",
+  "date": "2026-10-29"
+ },
+ "KG:ZM": {
+  "status": "visa required",
+  "reason": "Zambia's Department of Immigration places this passport on the referred-visa list: approval by the Director General is required before travel and there is no visa on arrival. The seed dataset's e-visa value understates the restriction.",
+  "source": "https://www.zambiaimmigration.gov.zm/nationals-requiring-visa-prior-to-travel/",
+  "date": "2026-10-29"
+ },
+ "KH:ZM": {
+  "status": "visa required",
+  "reason": "Zambia's Department of Immigration places this passport on the referred-visa list: approval by the Director General is required before travel and there is no visa on arrival. The seed dataset's e-visa value understates the restriction.",
+  "source": "https://www.zambiaimmigration.gov.zm/nationals-requiring-visa-prior-to-travel/",
+  "date": "2026-10-29"
+ },
+ "KP:ZM": {
+  "status": "visa required",
+  "reason": "Zambia's Department of Immigration places this passport on the referred-visa list: approval by the Director General is required before travel and there is no visa on arrival. The seed dataset's e-visa value understates the restriction.",
+  "source": "https://www.zambiaimmigration.gov.zm/nationals-requiring-visa-prior-to-travel/",
+  "date": "2026-10-29"
+ },
+ "LB:ZM": {
+  "status": "visa required",
+  "reason": "Zambia's Department of Immigration places this passport on the referred-visa list: approval by the Director General is required before travel and there is no visa on arrival. The seed dataset's e-visa value understates the restriction.",
+  "source": "https://www.zambiaimmigration.gov.zm/nationals-requiring-visa-prior-to-travel/",
+  "date": "2026-10-29"
+ },
+ "LK:ZM": {
+  "status": "visa required",
+  "reason": "Zambia's Department of Immigration places this passport on the referred-visa list: approval by the Director General is required before travel and there is no visa on arrival. The seed dataset's e-visa value understates the restriction.",
+  "source": "https://www.zambiaimmigration.gov.zm/nationals-requiring-visa-prior-to-travel/",
+  "date": "2026-10-29"
+ },
+ "LY:ZM": {
+  "status": "visa required",
+  "reason": "Zambia's Department of Immigration places this passport on the referred-visa list: approval by the Director General is required before travel and there is no visa on arrival. The seed dataset's e-visa value understates the restriction.",
+  "source": "https://www.zambiaimmigration.gov.zm/nationals-requiring-visa-prior-to-travel/",
+  "date": "2026-10-29"
+ },
+ "ML:ZM": {
+  "status": "visa required",
+  "reason": "Zambia's Department of Immigration places this passport on the referred-visa list: approval by the Director General is required before travel and there is no visa on arrival. The seed dataset's e-visa value understates the restriction.",
+  "source": "https://www.zambiaimmigration.gov.zm/nationals-requiring-visa-prior-to-travel/",
+  "date": "2026-10-29"
+ },
+ "MO:ZM": {
+  "status": "visa required",
+  "reason": "Zambia's Department of Immigration places this passport on the referred-visa list: approval by the Director General is required before travel and there is no visa on arrival. The seed dataset's e-visa value understates the restriction.",
+  "source": "https://www.zambiaimmigration.gov.zm/nationals-requiring-visa-prior-to-travel/",
+  "date": "2026-10-29"
+ },
+ "MR:ZM": {
+  "status": "visa required",
+  "reason": "Zambia's Department of Immigration places this passport on the referred-visa list: approval by the Director General is required before travel and there is no visa on arrival. The seed dataset's e-visa value understates the restriction.",
+  "source": "https://www.zambiaimmigration.gov.zm/nationals-requiring-visa-prior-to-travel/",
+  "date": "2026-10-29"
+ },
+ "NE:ZM": {
+  "status": "visa required",
+  "reason": "Zambia's Department of Immigration places this passport on the referred-visa list: approval by the Director General is required before travel and there is no visa on arrival. The seed dataset's e-visa value understates the restriction.",
+  "source": "https://www.zambiaimmigration.gov.zm/nationals-requiring-visa-prior-to-travel/",
+  "date": "2026-10-29"
+ },
+ "NG:ZM": {
+  "status": "visa required",
+  "reason": "Zambia's Department of Immigration places this passport on the referred-visa list: approval by the Director General is required before travel and there is no visa on arrival. The seed dataset's e-visa value understates the restriction.",
+  "source": "https://www.zambiaimmigration.gov.zm/nationals-requiring-visa-prior-to-travel/",
+  "date": "2026-10-29"
+ },
+ "NP:ZM": {
+  "status": "visa required",
+  "reason": "Zambia's Department of Immigration places this passport on the referred-visa list: approval by the Director General is required before travel and there is no visa on arrival. The seed dataset's e-visa value understates the restriction.",
+  "source": "https://www.zambiaimmigration.gov.zm/nationals-requiring-visa-prior-to-travel/",
+  "date": "2026-10-29"
+ },
+ "PH:ZM": {
+  "status": "visa required",
+  "reason": "Zambia's Department of Immigration places this passport on the referred-visa list: approval by the Director General is required before travel and there is no visa on arrival. The seed dataset's e-visa value understates the restriction.",
+  "source": "https://www.zambiaimmigration.gov.zm/nationals-requiring-visa-prior-to-travel/",
+  "date": "2026-10-29"
+ },
+ "PK:ZM": {
+  "status": "visa required",
+  "reason": "Zambia's Department of Immigration places this passport on the referred-visa list: approval by the Director General is required before travel and there is no visa on arrival. The seed dataset's e-visa value understates the restriction.",
+  "source": "https://www.zambiaimmigration.gov.zm/nationals-requiring-visa-prior-to-travel/",
+  "date": "2026-10-29"
+ },
+ "PS:ZM": {
+  "status": "visa required",
+  "reason": "Zambia's Department of Immigration places this passport on the referred-visa list: approval by the Director General is required before travel and there is no visa on arrival. The seed dataset's e-visa value understates the restriction.",
+  "source": "https://www.zambiaimmigration.gov.zm/nationals-requiring-visa-prior-to-travel/",
+  "date": "2026-10-29"
+ },
+ "SD:ZM": {
+  "status": "visa required",
+  "reason": "Zambia's Department of Immigration places this passport on the referred-visa list: approval by the Director General is required before travel and there is no visa on arrival. The seed dataset's e-visa value understates the restriction.",
+  "source": "https://www.zambiaimmigration.gov.zm/nationals-requiring-visa-prior-to-travel/",
+  "date": "2026-10-29"
+ },
+ "SL:ZM": {
+  "status": "visa required",
+  "reason": "Zambia's Department of Immigration places this passport on the referred-visa list: approval by the Director General is required before travel and there is no visa on arrival. The seed dataset's e-visa value understates the restriction.",
+  "source": "https://www.zambiaimmigration.gov.zm/nationals-requiring-visa-prior-to-travel/",
+  "date": "2026-10-29"
+ },
+ "SN:ZM": {
+  "status": "visa required",
+  "reason": "Zambia's Department of Immigration places this passport on the referred-visa list: approval by the Director General is required before travel and there is no visa on arrival. The seed dataset's e-visa value understates the restriction.",
+  "source": "https://www.zambiaimmigration.gov.zm/nationals-requiring-visa-prior-to-travel/",
+  "date": "2026-10-29"
+ },
+ "SO:ZM": {
+  "status": "visa required",
+  "reason": "Zambia's Department of Immigration places this passport on the referred-visa list: approval by the Director General is required before travel and there is no visa on arrival. The seed dataset's e-visa value understates the restriction.",
+  "source": "https://www.zambiaimmigration.gov.zm/nationals-requiring-visa-prior-to-travel/",
+  "date": "2026-10-29"
+ },
+ "SS:ZM": {
+  "status": "visa required",
+  "reason": "Zambia's Department of Immigration places this passport on the referred-visa list: approval by the Director General is required before travel and there is no visa on arrival. The seed dataset's e-visa value understates the restriction.",
+  "source": "https://www.zambiaimmigration.gov.zm/nationals-requiring-visa-prior-to-travel/",
+  "date": "2026-10-29"
+ },
+ "SY:ZM": {
+  "status": "visa required",
+  "reason": "Zambia's Department of Immigration places this passport on the referred-visa list: approval by the Director General is required before travel and there is no visa on arrival. The seed dataset's e-visa value understates the restriction.",
+  "source": "https://www.zambiaimmigration.gov.zm/nationals-requiring-visa-prior-to-travel/",
+  "date": "2026-10-29"
+ },
+ "TD:ZM": {
+  "status": "visa required",
+  "reason": "Zambia's Department of Immigration places this passport on the referred-visa list: approval by the Director General is required before travel and there is no visa on arrival. The seed dataset's e-visa value understates the restriction.",
+  "source": "https://www.zambiaimmigration.gov.zm/nationals-requiring-visa-prior-to-travel/",
+  "date": "2026-10-29"
+ },
+ "TG:ZM": {
+  "status": "visa required",
+  "reason": "Zambia's Department of Immigration places this passport on the referred-visa list: approval by the Director General is required before travel and there is no visa on arrival. The seed dataset's e-visa value understates the restriction.",
+  "source": "https://www.zambiaimmigration.gov.zm/nationals-requiring-visa-prior-to-travel/",
+  "date": "2026-10-29"
+ },
+ "TJ:ZM": {
+  "status": "visa required",
+  "reason": "Zambia's Department of Immigration places this passport on the referred-visa list: approval by the Director General is required before travel and there is no visa on arrival. The seed dataset's e-visa value understates the restriction.",
+  "source": "https://www.zambiaimmigration.gov.zm/nationals-requiring-visa-prior-to-travel/",
+  "date": "2026-10-29"
+ },
+ "TL:ZM": {
+  "status": "visa required",
+  "reason": "Zambia's Department of Immigration places this passport on the referred-visa list: approval by the Director General is required before travel and there is no visa on arrival. The seed dataset's e-visa value understates the restriction.",
+  "source": "https://www.zambiaimmigration.gov.zm/nationals-requiring-visa-prior-to-travel/",
+  "date": "2026-10-29"
+ },
+ "TM:ZM": {
+  "status": "visa required",
+  "reason": "Zambia's Department of Immigration places this passport on the referred-visa list: approval by the Director General is required before travel and there is no visa on arrival. The seed dataset's e-visa value understates the restriction.",
+  "source": "https://www.zambiaimmigration.gov.zm/nationals-requiring-visa-prior-to-travel/",
+  "date": "2026-10-29"
+ },
+ "TN:ZM": {
+  "status": "visa required",
+  "reason": "Zambia's Department of Immigration places this passport on the referred-visa list: approval by the Director General is required before travel and there is no visa on arrival. The seed dataset's e-visa value understates the restriction.",
+  "source": "https://www.zambiaimmigration.gov.zm/nationals-requiring-visa-prior-to-travel/",
+  "date": "2026-10-29"
+ },
+ "UZ:ZM": {
+  "status": "visa required",
+  "reason": "Zambia's Department of Immigration places this passport on the referred-visa list: approval by the Director General is required before travel and there is no visa on arrival. The seed dataset's e-visa value understates the restriction.",
+  "source": "https://www.zambiaimmigration.gov.zm/nationals-requiring-visa-prior-to-travel/",
+  "date": "2026-10-29"
+ },
+ "VN:ZM": {
+  "status": "visa required",
+  "reason": "Zambia's Department of Immigration places this passport on the referred-visa list: approval by the Director General is required before travel and there is no visa on arrival. The seed dataset's e-visa value understates the restriction.",
+  "source": "https://www.zambiaimmigration.gov.zm/nationals-requiring-visa-prior-to-travel/",
+  "date": "2026-10-29"
+ },
+ "YE:ZM": {
+  "status": "visa required",
+  "reason": "Zambia's Department of Immigration places this passport on the referred-visa list: approval by the Director General is required before travel and there is no visa on arrival. The seed dataset's e-visa value understates the restriction.",
+  "source": "https://www.zambiaimmigration.gov.zm/nationals-requiring-visa-prior-to-travel/",
+  "date": "2026-10-29"
  }
 }
