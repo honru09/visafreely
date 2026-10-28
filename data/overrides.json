@@ -17086,5 +17086,540 @@
   "reason": "Zimbabwe's Immigration Department lists this passport in Category A (no visa required). Its official tables state no maximum stay, so the seed dataset's visa free (90 days) value — in particular the stay figure — is not followed.",
   "source": "https://www.zimimmigration.gov.zw/?p=7176",
   "date": "2026-10-29"
+ },
+ "AD:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "AF:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "AL:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "AM:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "AZ:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "BA:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "BD:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "BF:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "BI:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "BJ:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "BO:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "BT:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "BY:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "CD:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "CF:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "CG:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "CI:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "CM:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "CN:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "CO:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "CV:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "DJ:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "DZ:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "EC:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "EG:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "ER:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "ET:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "FJ:BW": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Botswana's official visa-exempt annex (government list published by the UN) covers this passport; exempt visitors hold a visitor's permit capped at 90 days in total in any 12 months. The seed dataset's e-visa value is not followed.",
+  "source": "https://www.botswanaembassy.or.jp/visa.php?La=E",
+  "date": "2026-10-29"
+ },
+ "FM:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "GA:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "GE:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "GH:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "GN:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "GQ:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "GT:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "GW:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "HN:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "HT:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "ID:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "IN:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "IQ:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "IR:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "JO:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "KG:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "KH:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "KM:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "KP:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "KZ:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "LA:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "LB:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "LK:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "LR:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "LY:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "MA:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "MD:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "MG:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "MH:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "MK:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "ML:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "MM:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "MN:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "MR:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "NE:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "NG:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "NI:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "NP:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "PA:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "PH:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "PK:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "PW:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "RS:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "RW:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "SD:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "SN:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "SO:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "SR:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "ST:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "SV:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "SY:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "TD:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "TG:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "TH:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "TJ:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "TM:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "TN:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "UA:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "UZ:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "VN:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
+ },
+ "YE:BW": {
+  "status": "visa required",
+  "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
+  "date": "2026-10-29"
  }
 }
