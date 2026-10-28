@@ -13506,5 +13506,61 @@
   "reason": "South Sudan requires a visa before entry, obtained on the official e-Visa portal (US$100 single / US$200 3-month multiple / US$350 6-month multiple under the Financial Act 2024/25). No official source states a maximum stay per entry — the seed dataset's 90 days appears in no official text and is withdrawn; the stay is left blank rather than guessed.",
   "source": "https://tradeinfohub.gov.ss/procedure/308/step/499",
   "date": "2026-10-28"
+ },
+ "BI:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Burundi is not exempt and has no visa on arrival: since 1 September 2025 all foreign visitors — including East African Community partner-state citizens — must obtain Somalia's E-Visa/ETAS online before travel. The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "DJ:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Djibouti is not exempt and has no visa on arrival: since 1 September 2025 all foreign visitors — including East African Community partner-state citizens — must obtain Somalia's E-Visa/ETAS online before travel. The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "ET:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Ethiopia is not exempt and has no visa on arrival: since 1 September 2025 all foreign visitors — including East African Community partner-state citizens — must obtain Somalia's E-Visa/ETAS online before travel. The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "KM:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "KM is not exempt and has no visa on arrival: since 1 September 2025 all foreign visitors — including East African Community partner-state citizens — must obtain Somalia's E-Visa/ETAS online before travel. The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "MY:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "MY is not exempt and has no visa on arrival: since 1 September 2025 all foreign visitors — including East African Community partner-state citizens — must obtain Somalia's E-Visa/ETAS online before travel. The seed dataset's visa free (30 days) value is incorrect.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "RW:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Rwanda is not exempt and has no visa on arrival: since 1 September 2025 all foreign visitors — including East African Community partner-state citizens — must obtain Somalia's E-Visa/ETAS online before travel. The seed dataset's visa free (30 days) value is incorrect.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "TZ:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Tanzania is not exempt and has no visa on arrival: since 1 September 2025 all foreign visitors — including East African Community partner-state citizens — must obtain Somalia's E-Visa/ETAS online before travel. The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
+ },
+ "UG:SO": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Uganda is not exempt and has no visa on arrival: since 1 September 2025 all foreign visitors — including East African Community partner-state citizens — must obtain Somalia's E-Visa/ETAS online before travel. The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://immigration.gov.so/news/somalia-launches-e-visa-etas-system",
+  "date": "2026-10-28"
  }
 }
