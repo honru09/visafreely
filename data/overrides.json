@@ -17621,5 +17621,33 @@
   "reason": "Botswana has no visa on arrival and this passport is not visa-exempt: a visa must be obtained before travel (evisa.gov.bw or a Botswana mission). The seed dataset's e-visa value is incorrect.",
   "source": "https://www.gov.bw/visa-applications/visa-application-visitors-visa",
   "date": "2026-10-29"
+ },
+ "DO:NA": {
+  "status": "visa on arrival",
+  "days": 90,
+  "reason": "Under Namibia's regime in force since 1 April 2025 this passport requires a visa that is issued on arrival (or online in advance): multiple-entry holiday visa, up to 90 days in a calendar year. The seed dataset's e-visa value is incorrect or outdated.",
+  "source": "https://mhaiss.gov.na/legislations/-/document_library/jdfi/view_file/331422",
+  "date": "2026-10-29"
+ },
+ "GH:NA": {
+  "status": "visa on arrival",
+  "days": 90,
+  "reason": "Under Namibia's regime in force since 1 April 2025 this passport requires a visa that is issued on arrival (or online in advance): multiple-entry holiday visa, up to 90 days in a calendar year. The seed dataset's e-visa value is incorrect or outdated.",
+  "source": "https://www.nust.na/sites/default/files/Visa-Namibia-Visa-Fact-Sheet-Version4-28May2025.pdf",
+  "date": "2026-10-29"
+ },
+ "ID:NA": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Namibia's Ministry of Home Affairs fact sheet (v4, 28 May 2025) lists this passport as visa-exempt (Visitor's Entry Permit, up to 90 days in a calendar year). The seed dataset's visa free (30 days) value is not followed.",
+  "source": "https://www.nust.na/sites/default/files/Visa-Namibia-Visa-Fact-Sheet-Version4-28May2025.pdf",
+  "date": "2026-10-29"
+ },
+ "RS:NA": {
+  "status": "visa on arrival",
+  "days": 90,
+  "reason": "Under Namibia's regime in force since 1 April 2025 this passport requires a visa that is issued on arrival (or online in advance): multiple-entry holiday visa, up to 90 days in a calendar year. The seed dataset's e-visa value is incorrect or outdated.",
+  "source": "https://eservices.mhaiss.gov.na/visaonarrival",
+  "date": "2026-10-29"
  }
 }
