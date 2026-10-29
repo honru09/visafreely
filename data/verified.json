@@ -1186,154 +1186,184 @@
   "source_name": "Egypt e-Visa Portal (Ministry of Interior) — eligible nationalities"
  },
  "SG:ZA": {
-  "date": "2026-10-25",
+  "date": "2026-10-29",
   "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
-  "source_name": "South Africa Department of Home Affairs — visa exemption list, 9 Dec 2025"
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Singapore (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
  },
  "KR:ZA": {
-  "date": "2026-10-25",
+  "date": "2026-10-29",
   "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
-  "source_name": "South Africa Department of Home Affairs — visa exemption list, 9 Dec 2025"
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of South Korea (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 30 days."
  },
  "JP:ZA": {
-  "date": "2026-10-25",
+  "date": "2026-10-29",
   "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
-  "source_name": "South Africa Department of Home Affairs — visa exemption list, 9 Dec 2025"
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Japan (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
  },
  "FR:ZA": {
-  "date": "2026-10-25",
+  "date": "2026-10-29",
   "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
-  "source_name": "South Africa Department of Home Affairs — visa exemption list, 9 Dec 2025"
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of France (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
  },
  "DE:ZA": {
-  "date": "2026-10-25",
+  "date": "2026-10-29",
   "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
-  "source_name": "South Africa Department of Home Affairs — visa exemption list, 9 Dec 2025"
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Germany (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
  },
  "IT:ZA": {
-  "date": "2026-10-25",
+  "date": "2026-10-29",
   "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
-  "source_name": "South Africa Department of Home Affairs — visa exemption list, 9 Dec 2025"
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Italy (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
  },
  "ES:ZA": {
-  "date": "2026-10-25",
+  "date": "2026-10-29",
   "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
-  "source_name": "South Africa Department of Home Affairs — visa exemption list, 9 Dec 2025"
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Spain (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
  },
  "FI:ZA": {
-  "date": "2026-10-25",
+  "date": "2026-10-29",
   "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
-  "source_name": "South Africa Department of Home Affairs — visa exemption list, 9 Dec 2025"
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Finland (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
  },
  "NL:ZA": {
-  "date": "2026-10-25",
+  "date": "2026-10-29",
   "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
-  "source_name": "South Africa Department of Home Affairs — visa exemption list, 9 Dec 2025"
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Netherlands (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
  },
  "BE:ZA": {
-  "date": "2026-10-25",
+  "date": "2026-10-29",
   "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
-  "source_name": "South Africa Department of Home Affairs — visa exemption list, 9 Dec 2025"
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Belgium (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
  },
  "DK:ZA": {
-  "date": "2026-10-25",
+  "date": "2026-10-29",
   "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
-  "source_name": "South Africa Department of Home Affairs — visa exemption list, 9 Dec 2025"
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Denmark (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
  },
  "SE:ZA": {
-  "date": "2026-10-25",
+  "date": "2026-10-29",
   "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
-  "source_name": "South Africa Department of Home Affairs — visa exemption list, 9 Dec 2025"
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Sweden (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
  },
  "NO:ZA": {
-  "date": "2026-10-25",
+  "date": "2026-10-29",
   "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
-  "source_name": "South Africa Department of Home Affairs — visa exemption list, 9 Dec 2025"
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Norway (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
  },
  "CH:ZA": {
-  "date": "2026-10-25",
+  "date": "2026-10-29",
   "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
-  "source_name": "South Africa Department of Home Affairs — visa exemption list, 9 Dec 2025"
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Switzerland (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
  },
  "AT:ZA": {
-  "date": "2026-10-25",
+  "date": "2026-10-29",
   "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
-  "source_name": "South Africa Department of Home Affairs — visa exemption list, 9 Dec 2025"
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Austria (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
  },
  "IE:ZA": {
-  "date": "2026-10-25",
+  "date": "2026-10-29",
   "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
-  "source_name": "South Africa Department of Home Affairs — visa exemption list, 9 Dec 2025"
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Ireland (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
  },
  "GB:ZA": {
-  "date": "2026-10-25",
+  "date": "2026-10-29",
   "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
-  "source_name": "South Africa Department of Home Affairs — visa exemption list, 9 Dec 2025"
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of United Kingdom (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
  },
  "AU:ZA": {
-  "date": "2026-10-25",
+  "date": "2026-10-29",
   "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
-  "source_name": "South Africa Department of Home Affairs — visa exemption list, 9 Dec 2025"
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Australia (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
  },
  "NZ:ZA": {
-  "date": "2026-10-25",
+  "date": "2026-10-29",
   "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
-  "source_name": "South Africa Department of Home Affairs — visa exemption list, 9 Dec 2025"
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of New Zealand (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
  },
  "CA:ZA": {
-  "date": "2026-10-25",
+  "date": "2026-10-29",
   "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
-  "source_name": "South Africa Department of Home Affairs — visa exemption list, 9 Dec 2025"
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Canada (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
  },
  "US:ZA": {
-  "date": "2026-10-25",
+  "date": "2026-10-29",
   "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
-  "source_name": "South Africa Department of Home Affairs — visa exemption list, 9 Dec 2025"
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of United States (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
  },
  "PT:ZA": {
-  "date": "2026-10-25",
+  "date": "2026-10-29",
   "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
-  "source_name": "South Africa Department of Home Affairs — visa exemption list, 9 Dec 2025"
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Portugal (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
  },
  "GR:ZA": {
-  "date": "2026-10-25",
+  "date": "2026-10-29",
   "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
-  "source_name": "South Africa Department of Home Affairs — visa exemption list, 9 Dec 2025"
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Greece (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
  },
  "PL:ZA": {
-  "date": "2026-10-25",
+  "date": "2026-10-29",
   "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
-  "source_name": "South Africa Department of Home Affairs — visa exemption list, 9 Dec 2025"
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Poland (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 30 days."
  },
  "CZ:ZA": {
-  "date": "2026-10-25",
+  "date": "2026-10-29",
   "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
-  "source_name": "South Africa Department of Home Affairs — visa exemption list, 9 Dec 2025"
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Czechia (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
  },
  "AE:ZA": {
-  "date": "2026-10-25",
+  "date": "2026-10-29",
   "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
-  "source_name": "South Africa Department of Home Affairs — visa exemption list, 9 Dec 2025"
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of United Arab Emirates (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
  },
  "MY:ZA": {
-  "date": "2026-10-25",
+  "date": "2026-10-29",
   "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
-  "source_name": "South Africa Department of Home Affairs — visa exemption list, 9 Dec 2025"
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Malaysia (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
  },
  "IL:ZA": {
-  "date": "2026-10-25",
+  "date": "2026-10-29",
   "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
-  "source_name": "South Africa Department of Home Affairs — visa exemption list, 9 Dec 2025"
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Israel (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
  },
  "HU:ZA": {
-  "date": "2026-10-25",
+  "date": "2026-10-29",
   "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
-  "source_name": "South Africa Department of Home Affairs — visa exemption list, 9 Dec 2025"
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Hungary (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
  },
  "CN:ZA": {
-  "date": "2026-10-25",
-  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
-  "source_name": "South Africa Department of Home Affairs — visa exemption list, 9 Dec 2025"
+  "date": "2026-10-29",
+  "source": "https://eta.dha.gov.za/faq",
+  "source_name": "South Africa Electronic Travel Authorisation — official ETA portal FAQ (eta.dha.gov.za)",
+  "note": "Citizens of China must hold a South African visa or ETA before travelling — there is no visa on arrival. Since the ETA launch on 12 August 2026, the Electronic Travel Authorisation (eta.dha.gov.za) covers arrivals by air at O. R. Tambo, Cape Town, King Shaka and Lanseria airports (multiple entry, stays up to 90 days); land-border, seaport and cruise arrivals still need a standard visitor's visa from a mission or the e-Visa system. Tour groups booked through approved operators can use the Trusted Tour Operator Scheme (since February 2025)."
  },
  "SG:MV": {
   "date": "2026-10-25",
@@ -40884,5 +40914,1013 @@
   "source": "https://www.nust.na/sites/default/files/Visa-Namibia-Visa-Fact-Sheet-Version4-28May2025.pdf",
   "source_name": "Namibia Ministry of Home Affairs, Immigration, Safety and Security — Fact Sheet v4 (28 May 2025) on the visa-on-arrival regime (mhaiss.gov.na)",
   "note": "Namibia does not require a visa from citizens of Zimbabwe (Ministry of Home Affairs fact sheet, May 2025): you receive a Visitor's Entry Permit at the port of entry, for holidays up to 90 days in a calendar year in total."
+ },
+ "AD:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Andorra (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
+ },
+ "AF:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Afghanistan must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "AG:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Antigua & Barbuda (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 30 days."
+ },
+ "AL:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Albania must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published. Albania is on Home Affairs' e-Visa list, so the application can be made online at ehome.dha.gov.za."
+ },
+ "AM:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Armenia must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "AO:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Angola (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days. The 90 days is a per-calendar-year total (marked 'P/A' on the official list), not a fresh allowance per visit. Each visit is additionally capped at 30 days."
+ },
+ "AR:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Argentina (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
+ },
+ "AZ:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Azerbaijan must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "BA:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Bosnia & Herzegovina must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "BB:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Barbados (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 30 days."
+ },
+ "BD:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Bangladesh must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published. Since 1 August 2022 Bangladeshi passport holders also need a transit visa even when only transiting South Africa; applications go through the VFS centre in New Delhi (South Africa has no mission in Bangladesh)."
+ },
+ "BF:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Burkina Faso must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "BG:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Bulgaria (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
+ },
+ "BH:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Bahrain must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "BI:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Burundi must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "BJ:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Benin (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 30 days."
+ },
+ "BN:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Brunei must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "BO:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Bolivia (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 30 days."
+ },
+ "BR:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Brazil (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
+ },
+ "BS:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Bahamas (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 30 days."
+ },
+ "BT:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Bhutan must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "BW:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Botswana (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
+ },
+ "BY:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Belarus must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published. Belarus is on Home Affairs' e-Visa list, so the application can be made online at ehome.dha.gov.za."
+ },
+ "BZ:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Belize (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 30 days."
+ },
+ "CD:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Congo - Kinshasa must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published. Congo - Kinshasa is on Home Affairs' e-Visa list, so the application can be made online at ehome.dha.gov.za."
+ },
+ "CF:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Central African Republic must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "CG:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Congo - Brazzaville must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published. Congo - Brazzaville is on Home Affairs' e-Visa list, so the application can be made online at ehome.dha.gov.za."
+ },
+ "CI:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Côte d’Ivoire must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published. Côte d’Ivoire is on Home Affairs' e-Visa list, so the application can be made online at ehome.dha.gov.za."
+ },
+ "CL:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Chile (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
+ },
+ "CM:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Cameroon must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published. Cameroon is on Home Affairs' e-Visa list, so the application can be made online at ehome.dha.gov.za."
+ },
+ "CO:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Colombia must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "CR:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Costa Rica (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 30 days."
+ },
+ "CU:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Cuba must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published. Cuba is on Home Affairs' e-Visa list, so the application can be made online at ehome.dha.gov.za."
+ },
+ "CV:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Cape Verde (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 30 days."
+ },
+ "CY:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Cyprus (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 30 days."
+ },
+ "DJ:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Djibouti must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "DM:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Dominica must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "DO:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Dominican Republic must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "DZ:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Algeria must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published. Algeria is on Home Affairs' e-Visa list, so the application can be made online at ehome.dha.gov.za."
+ },
+ "EC:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Ecuador (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
+ },
+ "EE:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Estonia (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
+ },
+ "EG:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Egypt must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published. Egypt is on Home Affairs' e-Visa list, so the application can be made online at ehome.dha.gov.za."
+ },
+ "ER:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Eritrea must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "ET:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Ethiopia must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published. Ethiopia is on Home Affairs' e-Visa list, so the application can be made online at ehome.dha.gov.za."
+ },
+ "FJ:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Fiji must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "FM:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Micronesia must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "GA:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Gabon (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 30 days."
+ },
+ "GD:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Grenada must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "GE:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Georgia must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "GH:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Ghana (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days. The 90 days is a per-calendar-year total (marked 'P/A' on the official list), not a fresh allowance per visit."
+ },
+ "GM:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Gambia must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "GN:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Guinea must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published. Guinea is on Home Affairs' e-Visa list, so the application can be made online at ehome.dha.gov.za."
+ },
+ "GQ:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Equatorial Guinea must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "GT:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Guatemala must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "GW:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Guinea-Bissau must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "GY:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Guyana (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 30 days."
+ },
+ "HK:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Hong Kong SAR China (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 30 days."
+ },
+ "HN:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Honduras must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "HR:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Croatia (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
+ },
+ "HT:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Haiti must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "ID:ZA": {
+  "date": "2026-10-29",
+  "source": "https://eta.dha.gov.za/faq",
+  "source_name": "South Africa Electronic Travel Authorisation — official ETA portal FAQ (eta.dha.gov.za)",
+  "note": "Citizens of Indonesia must hold a South African visa or ETA before travelling — there is no visa on arrival. Since the ETA launch on 12 August 2026, the Electronic Travel Authorisation (eta.dha.gov.za) covers arrivals by air at O. R. Tambo, Cape Town, King Shaka and Lanseria airports (multiple entry, stays up to 90 days); land-border, seaport and cruise arrivals still need a standard visitor's visa from a mission or the e-Visa system."
+ },
+ "IN:ZA": {
+  "date": "2026-10-29",
+  "source": "https://eta.dha.gov.za/faq",
+  "source_name": "South Africa Electronic Travel Authorisation — official ETA portal FAQ (eta.dha.gov.za)",
+  "note": "Citizens of India must hold a South African visa or ETA before travelling — there is no visa on arrival. Since the ETA launch on 12 August 2026, the Electronic Travel Authorisation (eta.dha.gov.za) covers arrivals by air at O. R. Tambo, Cape Town, King Shaka and Lanseria airports (multiple entry, stays up to 90 days); land-border, seaport and cruise arrivals still need a standard visitor's visa from a mission or the e-Visa system. Tour groups booked through approved operators can use the Trusted Tour Operator Scheme (since February 2025)."
+ },
+ "IQ:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Iraq must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "IR:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Iran must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published. Iran is on Home Affairs' e-Visa list, so the application can be made online at ehome.dha.gov.za."
+ },
+ "IS:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Iceland (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
+ },
+ "JM:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Jamaica (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
+ },
+ "JO:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Jordan (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 30 days."
+ },
+ "KE:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Kenya (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days. The 90 days is a per-calendar-year total (marked 'P/A' on the official list), not a fresh allowance per visit."
+ },
+ "KG:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Kyrgyzstan must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "KH:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Cambodia must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "KI:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Kiribati must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "KM:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Comoros must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published. Comoros is on Home Affairs' e-Visa list, so the application can be made online at ehome.dha.gov.za."
+ },
+ "KN:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of St. Kitts & Nevis must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "KP:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of North Korea must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "KW:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Kuwait must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "KZ:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Kazakhstan must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "LA:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Laos must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "LB:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Lebanon must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "LC:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of St. Lucia must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "LI:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Liechtenstein (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
+ },
+ "LK:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Sri Lanka must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "LR:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Liberia must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "LS:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Lesotho must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "LT:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Lithuania (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
+ },
+ "LU:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Luxembourg (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
+ },
+ "LV:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Latvia (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
+ },
+ "LY:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Libya must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "MA:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Morocco must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published. Morocco is on Home Affairs' e-Visa list, so the application can be made online at ehome.dha.gov.za."
+ },
+ "MC:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Monaco (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
+ },
+ "MD:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Moldova must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "ME:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Montenegro must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "MG:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Madagascar (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days. The 90 days is a per-calendar-year total (marked 'P/A' on the official list), not a fresh allowance per visit."
+ },
+ "MH:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Marshall Islands must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "MK:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of North Macedonia must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "ML:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Mali must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published. Mali is on Home Affairs' e-Visa list, so the application can be made online at ehome.dha.gov.za."
+ },
+ "MM:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Myanmar (Burma) must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "MN:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Mongolia must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "MO:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Macao SAR China (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 30 days."
+ },
+ "MR:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Mauritania must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "MT:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Malta (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
+ },
+ "MU:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Mauritius (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
+ },
+ "MV:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Maldives (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 30 days."
+ },
+ "MW:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Malawi (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 30 days."
+ },
+ "MX:ZA": {
+  "date": "2026-10-29",
+  "source": "https://eta.dha.gov.za/faq",
+  "source_name": "South Africa Electronic Travel Authorisation — official ETA portal FAQ (eta.dha.gov.za)",
+  "note": "Citizens of Mexico must hold a South African visa or ETA before travelling — there is no visa on arrival. Since the ETA launch on 12 August 2026, the Electronic Travel Authorisation (eta.dha.gov.za) covers arrivals by air at O. R. Tambo, Cape Town, King Shaka and Lanseria airports (multiple entry, stays up to 90 days); land-border, seaport and cruise arrivals still need a standard visitor's visa from a mission or the e-Visa system."
+ },
+ "MZ:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Mozambique (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 30 days."
+ },
+ "NA:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Namibia (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days. The 90 days is a per-calendar-year total (marked 'P/A' on the official list), not a fresh allowance per visit."
+ },
+ "NE:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Niger must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published. Niger is on Home Affairs' e-Visa list, so the application can be made online at ehome.dha.gov.za."
+ },
+ "NG:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Nigeria must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published. Nigeria is on Home Affairs' e-Visa list, so the application can be made online at ehome.dha.gov.za."
+ },
+ "NI:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Nicaragua must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "NP:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Nepal must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "NR:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Nauru must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "OM:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Oman must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published. Oman is on Home Affairs' e-Visa list, so the application can be made online at ehome.dha.gov.za."
+ },
+ "PA:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Panama (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
+ },
+ "PE:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Peru (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 30 days."
+ },
+ "PG:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Papua New Guinea must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "PH:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Philippines must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published. Philippines is on Home Affairs' e-Visa list, so the application can be made online at ehome.dha.gov.za."
+ },
+ "PK:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Pakistan must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published. Pakistan is on Home Affairs' e-Visa list, so the application can be made online at ehome.dha.gov.za. Since 1 August 2022 Pakistani passport holders also need a transit visa even when only transiting South Africa."
+ },
+ "PS:ZA": {
+  "date": "2026-10-29",
+  "source": "https://dirco.gov.za/uk/visa-countries-waivers/",
+  "source_name": "DIRCO / South African High Commission London — visa exemption list (dirco.gov.za)",
+  "note": "South Africa does not require a visa from citizens of Palestinian Territories (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days. Palestine is affirmatively listed by DIRCO's official exemption list; it does not appear in the Home Affairs table of 9 December 2025 — no revocation has been published, and the affirmative listing is followed here."
+ },
+ "PW:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Palau must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "PY:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Paraguay (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
+ },
+ "QA:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Qatar (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
+ },
+ "RO:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Romania (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
+ },
+ "RS:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Serbia must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "RU:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Russia (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
+ },
+ "RW:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Rwanda must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "SA:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Saudi Arabia (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
+ },
+ "SB:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Solomon Islands must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "SC:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Seychelles (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days. The 90 days is a per-calendar-year total (marked 'P/A' on the official list), not a fresh allowance per visit."
+ },
+ "SD:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Sudan must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "SI:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Slovenia (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
+ },
+ "SK:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Slovakia (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
+ },
+ "SL:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Sierra Leone must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "SM:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of San Marino (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
+ },
+ "SN:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Senegal must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published. Senegal is on Home Affairs' e-Visa list, so the application can be made online at ehome.dha.gov.za."
+ },
+ "SO:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Somalia must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "SR:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Suriname must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "SS:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of South Sudan must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "ST:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of São Tomé & Príncipe (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
+ },
+ "SV:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of El Salvador must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "SY:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Syria must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "SZ:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Eswatini (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 30 days."
+ },
+ "TD:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Chad must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "TG:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Togo must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "TH:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Thailand (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 30 days."
+ },
+ "TJ:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Tajikistan must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "TL:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Timor-Leste must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "TM:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Turkmenistan must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "TN:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Tunisia (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
+ },
+ "TO:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Tonga must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "TR:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Türkiye (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 30 days."
+ },
+ "TT:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Trinidad & Tobago (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
+ },
+ "TV:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Tuvalu must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "TW:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Taiwan must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "TZ:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Tanzania (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days. The 90 days is a per-calendar-year total (marked 'P/A' on the official list), not a fresh allowance per visit."
+ },
+ "UA:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Ukraine must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "UG:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Uganda must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published. Uganda is on Home Affairs' e-Visa list, so the application can be made online at ehome.dha.gov.za."
+ },
+ "UY:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Uruguay (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
+ },
+ "UZ:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Uzbekistan must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "VA:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Vatican City must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "VC:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of St. Vincent & Grenadines (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
+ },
+ "VE:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Venezuela (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
+ },
+ "VN:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Vietnam must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "VU:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Vanuatu must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "WS:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Samoa must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "XK:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Kosovo must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "YE:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "source_name": "South African government — visitor's visa service page (gov.za); passport not on the Department of Home Affairs exemption list",
+  "note": "Citizens of Yemen must hold a South African visitor's visa BEFORE travelling — South Africa has no visa on arrival. Apply at a South African mission (about 10 working days) or online where eligible; the visa allows stays of up to 90 days. Official fee amounts are not published."
+ },
+ "ZM:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Zambia (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days. The 90 days is a per-calendar-year total (marked 'P/A' on the official list), not a fresh allowance per visit."
+ },
+ "ZW:ZA": {
+  "date": "2026-10-29",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "source_name": "Department of Home Affairs — countries exempt from South African visas (exemption list issued 9 December 2025)",
+  "note": "South Africa does not require a visa from citizens of Zimbabwe (Department of Home Affairs exemption list, issued 9 December 2025): stays of up to 90 days."
  }
 }

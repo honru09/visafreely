@@ -17649,5 +17649,195 @@
   "reason": "Under Namibia's regime in force since 1 April 2025 this passport requires a visa that is issued on arrival (or online in advance): multiple-entry holiday visa, up to 90 days in a calendar year. The seed dataset's e-visa value is incorrect or outdated.",
   "source": "https://eservices.mhaiss.gov.na/visaonarrival",
   "date": "2026-10-29"
+ },
+ "AL:ZA": {
+  "status": "visa required",
+  "reason": "This passport is not on South Africa's exemption list (Department of Home Affairs, 9 December 2025): a visitor's visa must be held before travel — there is no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "date": "2026-10-29"
+ },
+ "AO:ZA": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "South Africa's Department of Home Affairs exemption list (issued 9 December 2025) exempts this passport for 90 days. The seed dataset's visa free (30 days) value is not followed.",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "date": "2026-10-29"
+ },
+ "BY:ZA": {
+  "status": "visa required",
+  "reason": "This passport is not on South Africa's exemption list (Department of Home Affairs, 9 December 2025): a visitor's visa must be held before travel — there is no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "date": "2026-10-29"
+ },
+ "CD:ZA": {
+  "status": "visa required",
+  "reason": "This passport is not on South Africa's exemption list (Department of Home Affairs, 9 December 2025): a visitor's visa must be held before travel — there is no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "date": "2026-10-29"
+ },
+ "CG:ZA": {
+  "status": "visa required",
+  "reason": "This passport is not on South Africa's exemption list (Department of Home Affairs, 9 December 2025): a visitor's visa must be held before travel — there is no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "date": "2026-10-29"
+ },
+ "CI:ZA": {
+  "status": "visa required",
+  "reason": "This passport is not on South Africa's exemption list (Department of Home Affairs, 9 December 2025): a visitor's visa must be held before travel — there is no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "date": "2026-10-29"
+ },
+ "CM:ZA": {
+  "status": "visa required",
+  "reason": "This passport is not on South Africa's exemption list (Department of Home Affairs, 9 December 2025): a visitor's visa must be held before travel — there is no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "date": "2026-10-29"
+ },
+ "CU:ZA": {
+  "status": "visa required",
+  "reason": "This passport is not on South Africa's exemption list (Department of Home Affairs, 9 December 2025): a visitor's visa must be held before travel — there is no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "date": "2026-10-29"
+ },
+ "DZ:ZA": {
+  "status": "visa required",
+  "reason": "This passport is not on South Africa's exemption list (Department of Home Affairs, 9 December 2025): a visitor's visa must be held before travel — there is no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "date": "2026-10-29"
+ },
+ "EG:ZA": {
+  "status": "visa required",
+  "reason": "This passport is not on South Africa's exemption list (Department of Home Affairs, 9 December 2025): a visitor's visa must be held before travel — there is no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "date": "2026-10-29"
+ },
+ "ET:ZA": {
+  "status": "visa required",
+  "reason": "This passport is not on South Africa's exemption list (Department of Home Affairs, 9 December 2025): a visitor's visa must be held before travel — there is no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "date": "2026-10-29"
+ },
+ "GN:ZA": {
+  "status": "visa required",
+  "reason": "This passport is not on South Africa's exemption list (Department of Home Affairs, 9 December 2025): a visitor's visa must be held before travel — there is no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "date": "2026-10-29"
+ },
+ "ID:ZA": {
+  "status": "visa required",
+  "reason": "This passport is not on South Africa's exemption list (Department of Home Affairs, 9 December 2025): a visitor's visa must be held before travel — there is no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://eta.dha.gov.za/faq",
+  "date": "2026-10-29"
+ },
+ "IN:ZA": {
+  "status": "visa required",
+  "reason": "This passport is not on South Africa's exemption list (Department of Home Affairs, 9 December 2025): a visitor's visa must be held before travel — there is no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://eta.dha.gov.za/faq",
+  "date": "2026-10-29"
+ },
+ "IR:ZA": {
+  "status": "visa required",
+  "reason": "This passport is not on South Africa's exemption list (Department of Home Affairs, 9 December 2025): a visitor's visa must be held before travel — there is no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "date": "2026-10-29"
+ },
+ "KM:ZA": {
+  "status": "visa required",
+  "reason": "This passport is not on South Africa's exemption list (Department of Home Affairs, 9 December 2025): a visitor's visa must be held before travel — there is no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "date": "2026-10-29"
+ },
+ "LR:ZA": {
+  "status": "visa required",
+  "reason": "This passport is not on South Africa's exemption list (Department of Home Affairs, 9 December 2025): a visitor's visa must be held before travel — there is no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "date": "2026-10-29"
+ },
+ "LS:ZA": {
+  "status": "visa required",
+  "reason": "This passport is not on South Africa's exemption list (Department of Home Affairs, 9 December 2025): a visitor's visa must be held before travel — there is no visa on arrival. The seed dataset's visa free (30 days) value is incorrect.",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "date": "2026-10-29"
+ },
+ "MA:ZA": {
+  "status": "visa required",
+  "reason": "This passport is not on South Africa's exemption list (Department of Home Affairs, 9 December 2025): a visitor's visa must be held before travel — there is no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "date": "2026-10-29"
+ },
+ "ML:ZA": {
+  "status": "visa required",
+  "reason": "This passport is not on South Africa's exemption list (Department of Home Affairs, 9 December 2025): a visitor's visa must be held before travel — there is no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "date": "2026-10-29"
+ },
+ "MU:ZA": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "South Africa's Department of Home Affairs exemption list (issued 9 December 2025) exempts this passport for 90 days. The seed dataset's visa free (30 days) value is not followed.",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "date": "2026-10-29"
+ },
+ "MX:ZA": {
+  "status": "visa required",
+  "reason": "This passport is not on South Africa's exemption list (Department of Home Affairs, 9 December 2025): a visitor's visa must be held before travel — there is no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://eta.dha.gov.za/faq",
+  "date": "2026-10-29"
+ },
+ "NE:ZA": {
+  "status": "visa required",
+  "reason": "This passport is not on South Africa's exemption list (Department of Home Affairs, 9 December 2025): a visitor's visa must be held before travel — there is no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "date": "2026-10-29"
+ },
+ "NG:ZA": {
+  "status": "visa required",
+  "reason": "This passport is not on South Africa's exemption list (Department of Home Affairs, 9 December 2025): a visitor's visa must be held before travel — there is no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "date": "2026-10-29"
+ },
+ "OM:ZA": {
+  "status": "visa required",
+  "reason": "This passport is not on South Africa's exemption list (Department of Home Affairs, 9 December 2025): a visitor's visa must be held before travel — there is no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "date": "2026-10-29"
+ },
+ "PH:ZA": {
+  "status": "visa required",
+  "reason": "This passport is not on South Africa's exemption list (Department of Home Affairs, 9 December 2025): a visitor's visa must be held before travel — there is no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "date": "2026-10-29"
+ },
+ "PK:ZA": {
+  "status": "visa required",
+  "reason": "This passport is not on South Africa's exemption list (Department of Home Affairs, 9 December 2025): a visitor's visa must be held before travel — there is no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "date": "2026-10-29"
+ },
+ "PS:ZA": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "South Africa's Department of Home Affairs exemption list (issued 9 December 2025) exempts this passport for 90 days. The seed dataset's visa required value is not followed.",
+  "source": "https://dirco.gov.za/uk/visa-countries-waivers/",
+  "date": "2026-10-29"
+ },
+ "SC:ZA": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "South Africa's Department of Home Affairs exemption list (issued 9 December 2025) exempts this passport for 90 days. The seed dataset's visa free (30 days) value is not followed.",
+  "source": "https://www.dha.gov.za/index.php/immigration-services/exempt-countries",
+  "date": "2026-10-29"
+ },
+ "SN:ZA": {
+  "status": "visa required",
+  "reason": "This passport is not on South Africa's exemption list (Department of Home Affairs, 9 December 2025): a visitor's visa must be held before travel — there is no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "date": "2026-10-29"
+ },
+ "UG:ZA": {
+  "status": "visa required",
+  "reason": "This passport is not on South Africa's exemption list (Department of Home Affairs, 9 December 2025): a visitor's visa must be held before travel — there is no visa on arrival. The seed dataset's e-visa value is incorrect.",
+  "source": "https://www.gov.za/services/temporary-residence/visa",
+  "date": "2026-10-29"
  }
 }
