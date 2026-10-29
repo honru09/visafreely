@@ -17839,5 +17839,456 @@
   "reason": "This passport is not on South Africa's exemption list (Department of Home Affairs, 9 December 2025): a visitor's visa must be held before travel — there is no visa on arrival. The seed dataset's e-visa value is incorrect.",
   "source": "https://www.gov.za/services/temporary-residence/visa",
   "date": "2026-10-29"
+ },
+ "AD:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "AM:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "AO:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://eiti.org/sites/default/files/2023-03/FR%20EITI%20Country%20list%20for%20visa%20information_Senegal.pdf",
+  "date": "2026-10-29"
+ },
+ "AR:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "AU:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "BB:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "BH:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "BI:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "BN:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "BS:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "BW:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "CD:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "CM:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "CN:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://eiti.org/sites/default/files/2023-03/FR%20EITI%20Country%20list%20for%20visa%20information_Senegal.pdf",
+  "date": "2026-10-29"
+ },
+ "CR:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "DO:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "DZ:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "EG:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "ET:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "FJ:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "FM:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "GA:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "GD:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "GQ:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://eiti.org/sites/default/files/2023-03/FR%20EITI%20Country%20list%20for%20visa%20information_Senegal.pdf",
+  "date": "2026-10-29"
+ },
+ "GT:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "HN:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "HT:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "IL:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "IS:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "JM:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "KE:SN": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Senegal's embassy-published exemption list covers this passport for up to 90 days. The seed dataset's visa on arrival (30 days) value is not followed.",
+  "source": "https://www.ambsencanada.org/visa",
+  "date": "2026-10-29"
+ },
+ "KI:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "KM:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "KN:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "KW:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "LC:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "LI:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "LS:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "LY:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://eiti.org/sites/default/files/2023-03/FR%20EITI%20Country%20list%20for%20visa%20information_Senegal.pdf",
+  "date": "2026-10-29"
+ },
+ "MC:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "MG:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "MH:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "MW:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "NA:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "NO:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "NP:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "NZ:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "OM:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "PG:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "PH:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "PK:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://eiti.org/sites/default/files/2023-03/FR%20EITI%20Country%20list%20for%20visa%20information_Senegal.pdf",
+  "date": "2026-10-29"
+ },
+ "PS:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "PW:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "RU:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://eiti.org/sites/default/files/2023-03/FR%20EITI%20Country%20list%20for%20visa%20information_Senegal.pdf",
+  "date": "2026-10-29"
+ },
+ "SB:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "SC:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "SM:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "SR:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "SV:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "SZ:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "TD:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "TH:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "TR:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "TT:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "TV:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "TZ:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://eiti.org/sites/default/files/2023-03/FR%20EITI%20Country%20list%20for%20visa%20information_Senegal.pdf",
+  "date": "2026-10-29"
+ },
+ "UA:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "UG:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "VA:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "VC:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "VU:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "WS:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "ZA:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "ZM:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
+ },
+ "ZW:SN": {
+  "status": "visa required",
+  "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
+  "source": "https://consulsenmilan.com/?page_id=2581",
+  "date": "2026-10-29"
  }
 }
