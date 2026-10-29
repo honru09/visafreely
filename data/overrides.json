@@ -18380,5 +18380,41 @@
   "reason": "Mali suspended the entry of US citizens with effect from 1 January 2026 (Foreign Ministry communiqués of 30 Dec 2025 / 2 Jan 2026, reciprocity). The seed dataset's 'visa required' understates the current position.",
   "source": "https://cdmofficiel.com/communique-par-lequel-le-ministere-des-affaires-etrangeres-et-de-la-cooperation-internationale-precise-les-modalites-de-mise-en-oeuvre-de-la-decision-du-gouvernement-de-la-republique-du-mali-relatives-a-l-entree-de-ressortissants-americains-sur-le-territoire-malien-conformement-a-l-application-du-principe-de-reciprocite/",
   "date": "2026-10-29"
+ },
+ "HK:NE": {
+  "status": "visa required",
+  "reason": "This passport is not covered by any published Nigerien exemption: a visa must be obtained before travel (Foreign Ministry rule). The seed dataset's visa free (14 days) value is incorrect.",
+  "source": "https://diplomatie.gouv.ne/index.php/services-aux-usagers/entree-au-niger",
+  "date": "2026-10-30"
+ },
+ "MA:NE": {
+  "status": "visa required",
+  "reason": "This passport is not covered by any published Nigerien exemption: a visa must be obtained before travel (Foreign Ministry rule). The seed dataset's visa free (90 days) value is incorrect.",
+  "source": "https://diplomatie.gouv.ne/index.php/services-aux-usagers/entree-au-niger",
+  "date": "2026-10-30"
+ },
+ "MR:NE": {
+  "status": "visa required",
+  "reason": "This passport is not covered by any published Nigerien exemption: a visa must be obtained before travel (Foreign Ministry rule). The seed dataset's visa free (90 days) value is incorrect.",
+  "source": "https://diplomatie.gouv.ne/index.php/services-aux-usagers/entree-au-niger",
+  "date": "2026-10-30"
+ },
+ "TD:NE": {
+  "status": "visa free",
+  "reason": "Niger's community/bilateral exemption framework covers this passport (AES Niamey statement, Dec 2024); no official maximum stay is published, so the seed dataset's visa free (90 days) value is not followed.",
+  "source": "https://anp.ne/aes-la-libre-circulation-des-personnes-et-des-biens-bientot-une-realite-dans-lespace/",
+  "date": "2026-10-30"
+ },
+ "TN:NE": {
+  "status": "visa required",
+  "reason": "This passport is not covered by any published Nigerien exemption: a visa must be obtained before travel (Foreign Ministry rule). The seed dataset's visa free (90 days) value is incorrect.",
+  "source": "https://diplomatie.gouv.ne/index.php/services-aux-usagers/entree-au-niger",
+  "date": "2026-10-30"
+ },
+ "US:NE": {
+  "status": "no admission",
+  "reason": "Niger barred US citizens from entry and stopped issuing them visas on 25 December 2025 (ANP, reciprocity). The seed dataset's 'visa required' understates the current position.",
+  "source": "https://anp.ne/le-niger-interdit-la-delivrance-de-visas-aux-citoyens-americains/",
+  "date": "2026-10-30"
  }
 }
