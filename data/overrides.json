@@ -19699,5 +19699,24 @@
   "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
   "source": "https://www.visaburkina.bf/",
   "date": "2026-10-30"
+ },
+ "AE:GN": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Guinea's channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's visa on arrival (90 days) value is incorrect.",
+  "source": "https://www.paf.gov.gn/visa",
+  "date": "2026-10-30"
+ },
+ "SG:GN": {
+  "status": "visa free",
+  "reason": "Guinea's official portal exempts this passport; no maximum stay is published, so the seed dataset's visa free (30 days) value is not followed.",
+  "source": "https://www.paf.gov.gn/visa",
+  "date": "2026-10-30"
+ },
+ "XK:GN": {
+  "status": "visa required",
+  "reason": "Kosovo does not appear in Guinea's e-Visa portal nationality lists; a consular visa with clearance is the only channel. The seed dataset's 'e-visa' value is incorrect.",
+  "source": "https://www.paf.gov.gn/visa",
+  "date": "2026-10-30"
  }
 }
