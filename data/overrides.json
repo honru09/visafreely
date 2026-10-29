@@ -18290,5 +18290,95 @@
   "reason": "This passport is not on Senegal's exemption list: a visa must be obtained before travel (official Categories B/C — no visa on arrival exists; the biometric arrival visa was abolished on 1 May 2015). The seed dataset's visa on arrival (30 days) value is incorrect.",
   "source": "https://consulsenmilan.com/?page_id=2581",
   "date": "2026-10-29"
+ },
+ "AD:ML": {
+  "status": "visa free",
+  "reason": "Mali's embassy exemption lists cover this passport; no official maximum stay is published, so the seed dataset's visa required figure is removed.",
+  "source": "https://maliembassy.us/visas/",
+  "date": "2026-10-29"
+ },
+ "AE:ML": {
+  "status": "visa required",
+  "reason": "This passport is not on Mali's exemption list: a visa must be obtained before travel — no visa on arrival and no e-Visa exists. The seed dataset's visa free (90 days) value is incorrect.",
+  "source": "https://ambamali.ca/informations-pour-les-touristes/",
+  "date": "2026-10-29"
+ },
+ "CM:ML": {
+  "status": "visa free",
+  "reason": "Mali's embassy exemption lists cover this passport; no official maximum stay is published, so the seed dataset's visa free (90 days) figure is removed.",
+  "source": "https://maliembassy.us/visas/",
+  "date": "2026-10-29"
+ },
+ "DZ:ML": {
+  "status": "visa free",
+  "reason": "Mali's embassy exemption lists cover this passport; no official maximum stay is published, so the seed dataset's visa free (30 days) figure is removed.",
+  "source": "https://maliembassy.us/visas/",
+  "date": "2026-10-29"
+ },
+ "HK:ML": {
+  "status": "visa required",
+  "reason": "This passport is not on Mali's exemption list: a visa must be obtained before travel — no visa on arrival and no e-Visa exists. The seed dataset's visa free (90 days) value is incorrect.",
+  "source": "https://ambamali.ca/informations-pour-les-touristes/",
+  "date": "2026-10-29"
+ },
+ "ID:ML": {
+  "status": "visa required",
+  "reason": "This passport is not on Mali's exemption list: a visa must be obtained before travel — no visa on arrival and no e-Visa exists. The seed dataset's visa free (30 days) value is incorrect.",
+  "source": "https://ambamali.ca/informations-pour-les-touristes/",
+  "date": "2026-10-29"
+ },
+ "KE:ML": {
+  "status": "visa required",
+  "reason": "This passport is not on Mali's exemption list: a visa must be obtained before travel — no visa on arrival and no e-Visa exists. The seed dataset's visa on arrival (90 days) value is incorrect.",
+  "source": "https://ambamali.ca/informations-pour-les-touristes/",
+  "date": "2026-10-29"
+ },
+ "MA:ML": {
+  "status": "visa free",
+  "reason": "Mali's embassy exemption lists cover this passport; no official maximum stay is published, so the seed dataset's visa free (90 days) figure is removed.",
+  "source": "https://maliembassy.us/visas/",
+  "date": "2026-10-29"
+ },
+ "MC:ML": {
+  "status": "visa free",
+  "reason": "Mali's embassy exemption lists cover this passport; no official maximum stay is published, so the seed dataset's visa required figure is removed.",
+  "source": "https://maliembassy.us/visas/",
+  "date": "2026-10-29"
+ },
+ "MO:ML": {
+  "status": "visa required",
+  "reason": "This passport is not on Mali's exemption list: a visa must be obtained before travel — no visa on arrival and no e-Visa exists. The seed dataset's visa free (90 days) value is incorrect.",
+  "source": "https://ambamali.ca/informations-pour-les-touristes/",
+  "date": "2026-10-29"
+ },
+ "MR:ML": {
+  "status": "visa free",
+  "reason": "Mali's embassy exemption lists cover this passport; no official maximum stay is published, so the seed dataset's visa free (90 days) figure is removed.",
+  "source": "https://maliembassy.us/visas/",
+  "date": "2026-10-29"
+ },
+ "RW:ML": {
+  "status": "visa required",
+  "reason": "This passport is not on Mali's exemption list: a visa must be obtained before travel — no visa on arrival and no e-Visa exists. The seed dataset's visa on arrival (90 days) value is incorrect.",
+  "source": "https://ambamali.ca/informations-pour-les-touristes/",
+  "date": "2026-10-29"
+ },
+ "TD:ML": {
+  "status": "visa free",
+  "reason": "Mali's embassy exemption lists cover this passport; no official maximum stay is published, so the seed dataset's visa free (90 days) figure is removed.",
+  "source": "https://maliembassy.us/visas/",
+  "date": "2026-10-29"
+ },
+ "TN:ML": {
+  "status": "visa free",
+  "reason": "Mali's embassy exemption lists cover this passport; no official maximum stay is published, so the seed dataset's visa free (90 days) figure is removed.",
+  "source": "https://maliembassy.us/visas/",
+  "date": "2026-10-29"
+ },
+ "US:ML": {
+  "status": "no admission",
+  "reason": "Mali suspended the entry of US citizens with effect from 1 January 2026 (Foreign Ministry communiqués of 30 Dec 2025 / 2 Jan 2026, reciprocity). The seed dataset's 'visa required' understates the current position.",
+  "source": "https://cdmofficiel.com/communique-par-lequel-le-ministere-des-affaires-etrangeres-et-de-la-cooperation-internationale-precise-les-modalites-de-mise-en-oeuvre-de-la-decision-du-gouvernement-de-la-republique-du-mali-relatives-a-l-entree-de-ressortissants-americains-sur-le-territoire-malien-conformement-a-l-application-du-principe-de-reciprocite/",
+  "date": "2026-10-29"
  }
 }
