@@ -18416,5 +18416,1288 @@
   "reason": "Niger barred US citizens from entry and stopped issuing them visas on 25 December 2025 (ANP, reciprocity). The seed dataset's 'visa required' understates the current position.",
   "source": "https://anp.ne/le-niger-interdit-la-delivrance-de-visas-aux-citoyens-americains/",
   "date": "2026-10-30"
+ },
+ "AD:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "AE:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's visa free value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "AF:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "AG:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "AL:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "AM:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "AO:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "AR:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "AT:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "AU:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "AZ:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "BA:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "BB:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "BD:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "BE:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "BG:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "BH:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "BI:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "BN:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "BO:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "BR:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "BS:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "BT:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "BW:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "BY:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "BZ:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "CA:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "CD:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "CF:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's visa free (90 days) value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "CG:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "CH:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "CL:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "CM:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "CN:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "CO:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "CR:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "CU:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "CY:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "CZ:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "DE:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "DJ:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "DK:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "DM:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "DO:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "DZ:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "EC:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "EE:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "EG:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "ER:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "ES:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "ET:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "FI:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "FJ:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "FM:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "FR:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "GA:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "GB:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "GD:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "GE:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "GQ:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "GR:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "GT:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "GY:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "HK:BF": {
+  "status": "visa free",
+  "reason": "Burkina Faso's official eAIP exemption list covers this passport; no official maximum stay is published, so the seed dataset's e-visa value is not followed.",
+  "source": "https://aim.asecna.aero/html/eAIP/FR-_02GEN-1.3-01-fr-FR.html",
+  "date": "2026-10-30"
+ },
+ "HN:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "HR:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "HT:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "HU:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "ID:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "IE:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "IL:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "IN:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "IQ:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "IR:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "IS:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "IT:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "JM:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "JO:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "JP:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "KE:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "KG:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "KH:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "KI:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "KM:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "KN:BF": {
+  "status": "visa free",
+  "reason": "Burkina Faso's official eAIP exemption list covers this passport; no official maximum stay is published, so the seed dataset's e-visa value is not followed.",
+  "source": "https://aim.asecna.aero/html/eAIP/FR-_02GEN-1.3-01-fr-FR.html",
+  "date": "2026-10-30"
+ },
+ "KP:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "KR:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "KW:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "KZ:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "LA:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "LB:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "LC:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "LI:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "LK:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "LS:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "LT:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "LU:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "LV:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "LY:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "MA:BF": {
+  "status": "visa free",
+  "reason": "Burkina Faso's official eAIP exemption list covers this passport; no official maximum stay is published, so the seed dataset's visa free (90 days) value is not followed.",
+  "source": "https://aim.asecna.aero/html/eAIP/FR-_02GEN-1.3-01-fr-FR.html",
+  "date": "2026-10-30"
+ },
+ "MC:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "MD:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "ME:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "MG:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "MH:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "MK:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "MM:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "MN:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "MO:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "MR:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's visa free (90 days) value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "MT:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "MU:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "MV:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "MW:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "MX:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "MY:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "MZ:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "NA:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "NI:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "NL:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "NO:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "NP:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "NR:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "NZ:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "OM:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "PA:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "PE:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "PG:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "PH:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "PK:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "PL:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "PS:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "PT:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "PW:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "PY:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "QA:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "RO:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "RS:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "RU:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "RW:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "SA:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "SB:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "SC:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "SD:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "SE:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "SG:BF": {
+  "status": "visa free",
+  "reason": "Burkina Faso's official eAIP exemption list covers this passport; no official maximum stay is published, so the seed dataset's visa free (30 days) value is not followed.",
+  "source": "https://aim.asecna.aero/html/eAIP/FR-_02GEN-1.3-01-fr-FR.html",
+  "date": "2026-10-30"
+ },
+ "SI:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "SK:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "SM:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "SO:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "SR:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "SS:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "ST:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "SV:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "SY:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "SZ:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "TD:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "TH:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "TJ:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "TL:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "TM:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "TN:BF": {
+  "status": "visa free",
+  "reason": "Burkina Faso's official eAIP exemption list covers this passport; no official maximum stay is published, so the seed dataset's e-visa value is not followed.",
+  "source": "https://aim.asecna.aero/html/eAIP/FR-_02GEN-1.3-01-fr-FR.html",
+  "date": "2026-10-30"
+ },
+ "TO:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "TR:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "TT:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "TV:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "TW:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "TZ:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "UA:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "UG:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "US:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "UY:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "UZ:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "VA:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "VC:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "VE:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "VN:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "VU:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "WS:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "XK:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "YE:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "ZA:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "ZM:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
+ },
+ "ZW:BF": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Not exempt: Burkina Faso's universal channel is the official e-Visa portal (short stay up to 90 days). The seed dataset's e-visa value lacked the published stay.",
+  "source": "https://www.visaburkina.bf/",
+  "date": "2026-10-30"
  }
 }
