@@ -21,8 +21,8 @@ const groups = groupedForPassport(c.code);
 const counts = countsForPassport(c.code);
 const easy = easyAccessCount(c.code);
 const rank = passportRank[c.code];
-const title = `${c.name} Passport: Visa-Free Countries & Requirements`;
-const description = `Where can ${c.name} passport holders travel without a visa? ${counts.F || 0} visa-free destinations, ${easy} reachable without applying in advance — full list with stay limits.`;
+const title = `Visa-Free Countries for ${c.name} Passport Holders — Full List | visafreely`;
+const description = `Visa-free countries for ${c.name} passport holders: ${counts.F || 0} destinations need no visa at all, ${easy} are reachable without applying in advance. Full list with stay limits, visa-on-arrival and e-Visa options.`;
 const others = countries.filter((x) => x.code !== c.code);
 const total = groups.reduce((n, g) => n + g.rows.length, 0);
 ---
@@ -35,14 +35,16 @@ const total = groups.reduce((n, g) => n + g.rows.length, 0);
         <div>
           <h1>{c.name} passport</h1>
           <p class="lede" style="margin-bottom:0;">
-            Holders of a {c.name} passport can enter <strong>{counts.F || 0} destinations visa free</strong> and
-            reach <strong>{easy} destinations</strong> in total without applying for a visa in advance.
+            Holders of a {c.name} passport can enter <strong>{counts.F || 0} destinations visa free</strong> — the
+            full visa-free list is below — and reach <strong>{easy} destinations</strong> in total without
+            applying for a visa in advance.
           </p>
         </div>
         <div class="rank-block">
           <span class="rank-medal big top">#{rank}</span>
           <div class="rb-label">of {countries.length} passports</div>
           <div class="rb-note">Ranked by {easy} destinations reachable without applying for a visa in advance.</div>
+          <div class="rb-note"><a href="/passport-ranking/">See the full passport ranking</a></div>
         </div>
       </div>
     </div>

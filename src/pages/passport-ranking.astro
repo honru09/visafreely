@@ -1,0 +1,111 @@
+---
+import Base from '../layouts/Base.astro';
+import {
+  countries,
+  countsForPassport,
+  passportsByEasy,
+  passportRank,
+  verifiedCount,
+  data,
+} from '../lib/data';
+
+const extras = data.extras as Record<string, { verified?: string }>;
+const verifiedByPassport: Record<string, number> = {};
+for (const [key, e] of Object.entries(extras)) {
+  if (!e.verified) continue;
+  const pc = key.split(':')[0];
+  verifiedByPassport[pc] = (verifiedByPassport[pc] || 0) + 1;
+}
+const rows = passportsByEasy.map((r) => {
+  const counts = countsForPassport(r.c.code);
+  return {
+    c: r.c,
+    rank: passportRank[r.c.code],
+    free: counts.F || 0,
+    arrival: counts.A || 0,
+    eta: counts.T || 0,
+    easy: r.easy,
+    verified: verifiedByPassport[r.c.code] || 0,
+  };
+});
+const destCount = countries.length - 1;
+const totalRoutes = countries.length * destCount;
+const top = rows[0];
+const year = new Date().getFullYear();
+---
+
+<Base
+  title={`Passport Ranking ${year} — Strongest Passports by Visa-Free Access | visafreely`}
+  description={`Every passport ranked by visa-free access: ${countries.length} passports scored on ${totalRoutes.toLocaleString('en-US')} routes. ${top.c.name} leads with ${top.easy} destinations reachable without applying in advance.`}
+>
+  <h1>Passport ranking</h1>
+  <p class="lede">
+    The strongest passports in the world, ranked by how many destinations their holders can
+    reach <strong>without applying for a visa in advance</strong> — visa-free entry, visa on arrival
+    and ETAs counted; e-Visas and embassy visas not. The ranking is computed from our full dataset of
+    {totalRoutes.toLocaleString('en-US')} routes, not sampled from a shortlist.
+  </p>
+  <p>
+    {top.c.name} leads with <strong>{top.easy} destinations</strong> open without a prior application.
+    Rankings like this one are usually published as a PDF once a year; this one is recomputed every time
+    our data changes, and every row links to the passport's full requirement list. So far
+    <strong>{verifiedCount.toLocaleString('en-US')} of the {totalRoutes.toLocaleString('en-US')} routes</strong>
+    behind it have been individually verified against official government sources — the last column
+    shows how many of each passport's {destCount} routes are already checked.
+  </p>
+
+  <div class="rank-table-wrap">
+    <table class="rank-table">
+      <thead>
+        <tr>
+          <th scope="col">#</th>
+          <th scope="col">Passport</th>
+          <th scope="col" class="num">Visa free</th>
+          <th scope="col" class="num">On arrival</th>
+          <th scope="col" class="num">ETA</th>
+          <th scope="col" class="num">No prior visa</th>
+          <th scope="col" class="num">Routes verified</th>
+        </tr>
+      </thead>
+      <tbody>
+        {rows.map((r) => (
+          <tr>
+            <td><span class={`rank-medal${r.rank <= 3 ? ' top' : ''}`}>{r.rank}</span></td>
+            <td><a href={`/passport/${r.c.slug}/`}>{r.c.name}</a></td>
+            <td class="num">{r.free}</td>
+            <td class="num">{r.arrival}</td>
+            <td class="num">{r.eta}</td>
+            <td class="num"><strong>{r.easy}</strong></td>
+            <td class="num">{r.verified} / {destCount}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+
+  <h2>How the ranking is counted</h2>
+  <p>
+    For each passport we count, across all {destCount} destinations: <strong>visa free</strong>
+    (no visa of any kind for a short stay), <strong>visa on arrival</strong> (issued at the border) and
+    <strong> ETA</strong> (a mandatory online authorisation that is not a visa). Their sum is the
+    headline figure. An e-Visa means applying and waiting for approval before travel, so it is not
+    counted as open access — it is listed on each passport's own page. Ordinary passports only;
+    diplomatic and official passports follow different rules. Where official sources state no
+    duration, the route still counts by its status.
+  </p>
+  <p>
+    Figures move as verification proceeds: a single destination's rule change can shift several
+    passports at once. Recent regime changes are tracked on the
+    <a href="/visa-policy-changes/">visa policy changes</a> page, and corrections to individual
+    routes are logged in the <a href="/changelog/">data changelog</a>.
+  </p>
+</Base>
+
+<style>
+  .rank-table-wrap { overflow-x: auto; margin: 1.2rem 0 2rem; }
+  .rank-table { border-collapse: collapse; width: 100%; font-size: 0.95rem; }
+  .rank-table th, .rank-table td { padding: 0.45rem 0.6rem; border-bottom: 1px solid #e3e6ea; text-align: left; white-space: nowrap; }
+  .rank-table th { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.04em; color: #5a6472; }
+  .rank-table td.num, .rank-table th.num { text-align: right; font-variant-numeric: tabular-nums; }
+  .rank-table tbody tr:hover { background: #f6f8fa; }
+</style>

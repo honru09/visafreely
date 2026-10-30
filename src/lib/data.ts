@@ -89,8 +89,10 @@ export function countsForPassport(passport: string): Record<string, number> {
 }
 /** "Easy access" score: visa free + on arrival + e-visa + eta destinations. */
 export function easyAccessCount(passport: string): number {
+  // "Without a prior visa": visa free + visa on arrival + ETA only.
+  // An e-Visa is an application made and approved before travel, so it is NOT counted.
   const c = countsForPassport(passport);
-  return (c.F || 0) + (c.A || 0) + (c.E || 0) + (c.T || 0);
+  return (c.F || 0) + (c.A || 0) + (c.T || 0);
 }
 export function pairPath(passport: Country, destination: Country): string {
   return `/visa/${passport.slug}/${destination.slug}/`;
