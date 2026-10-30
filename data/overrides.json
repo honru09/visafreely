@@ -20822,5 +20822,413 @@
   "reason": "Not exempt: the default rule is a visa obtained in advance; the airport facility is conditional (prior notification/authorisation) with no published stay — not a general visa on arrival. The seed dataset's visa on arrival (90 days) value is incorrect.",
   "source": "https://www.diplomatie.gouv.fr/fr/information-par-pays/guinee-bissao/conseils-aux-voyageurs-entree-sejour",
   "date": "2026-10-30"
+ },
+ "AD:SL": {
+  "status": "visa required",
+  "reason": "Andorra is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "AF:SL": {
+  "status": "visa required",
+  "reason": "Afghanistan is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "AL:SL": {
+  "status": "visa required",
+  "reason": "Albania is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "AM:SL": {
+  "status": "visa required",
+  "reason": "Armenia is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "AR:SL": {
+  "status": "visa required",
+  "reason": "Argentina is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "AZ:SL": {
+  "status": "visa required",
+  "reason": "Azerbaijan is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "BA:SL": {
+  "status": "visa required",
+  "reason": "Bosnia & Herzegovina is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "BT:SL": {
+  "status": "visa required",
+  "reason": "Bhutan is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "BY:SL": {
+  "status": "visa required",
+  "reason": "Belarus is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "CH:SL": {
+  "status": "visa required",
+  "reason": "Switzerland is not an EU or Commonwealth member and is not otherwise listed in the Tourist Board's visa-on-arrival policy notice; the notice directs unlisted nationals to obtain a visa from a Sierra Leone mission before travel. The seed's visa-on-arrival value is incorrect.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "CL:SL": {
+  "status": "visa required",
+  "reason": "Chile is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "CO:SL": {
+  "status": "visa required",
+  "reason": "Colombia is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "CR:SL": {
+  "status": "visa required",
+  "reason": "Costa Rica is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "CU:SL": {
+  "status": "visa required",
+  "reason": "Cuba is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "DJ:SL": {
+  "status": "visa on arrival",
+  "days": 30,
+  "reason": "Djibouti is a non-ECOWAS African Union member state: the Tourist Board's policy notice sets a US$25 visa-on-arrival fee for non-ECOWAS AU nationals. The seed's e-visa status missed the AU arrival tier.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "DO:SL": {
+  "status": "visa required",
+  "reason": "Dominican Republic is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "EC:SL": {
+  "status": "visa required",
+  "reason": "Ecuador is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "ET:SL": {
+  "status": "visa on arrival",
+  "days": 30,
+  "reason": "Ethiopia is a non-ECOWAS African Union member state: the Tourist Board's policy notice sets a US$25 visa-on-arrival fee for non-ECOWAS AU nationals. The seed's e-visa status missed the AU arrival tier.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "FM:SL": {
+  "status": "visa required",
+  "reason": "Micronesia is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "GE:SL": {
+  "status": "visa required",
+  "reason": "Georgia is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "GQ:SL": {
+  "status": "visa on arrival",
+  "days": 30,
+  "reason": "Equatorial Guinea is a non-ECOWAS African Union member state: the Tourist Board's policy notice sets a US$25 visa-on-arrival fee for non-ECOWAS AU nationals. The seed's e-visa status missed the AU arrival tier.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "GT:SL": {
+  "status": "visa required",
+  "reason": "Guatemala is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "HK:SL": {
+  "status": "visa required",
+  "reason": "Hong Kong SAR China is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "HN:SL": {
+  "status": "visa required",
+  "reason": "Honduras is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "HT:SL": {
+  "status": "visa required",
+  "reason": "Haiti is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "IQ:SL": {
+  "status": "visa required",
+  "reason": "Iraq is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "IS:SL": {
+  "status": "visa required",
+  "reason": "Iceland is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "JO:SL": {
+  "status": "visa required",
+  "reason": "Jordan is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "KG:SL": {
+  "status": "visa required",
+  "reason": "Kyrgyzstan is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "KP:SL": {
+  "status": "visa required",
+  "reason": "North Korea is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "KZ:SL": {
+  "status": "visa required",
+  "reason": "Kazakhstan is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "LA:SL": {
+  "status": "visa required",
+  "reason": "Laos is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "LI:SL": {
+  "status": "visa required",
+  "reason": "Liechtenstein is in the EEA but is not an EU member, and is not otherwise listed in the Tourist Board's visa-on-arrival policy notice; the notice directs unlisted nationals to obtain a visa from a Sierra Leone mission before travel. The seed's visa-on-arrival value is incorrect.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "MC:SL": {
+  "status": "visa required",
+  "reason": "Monaco is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "MD:SL": {
+  "status": "visa required",
+  "reason": "Moldova is not an EU or Commonwealth member and is not otherwise listed in the Tourist Board's visa-on-arrival policy notice; the notice directs unlisted nationals to obtain a visa from a Sierra Leone mission before travel. The seed's visa-on-arrival value is incorrect.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "ME:SL": {
+  "status": "visa required",
+  "reason": "Montenegro is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "MH:SL": {
+  "status": "visa required",
+  "reason": "Marshall Islands is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "MK:SL": {
+  "status": "visa required",
+  "reason": "North Macedonia is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "MM:SL": {
+  "status": "visa required",
+  "reason": "Myanmar (Burma) is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "MN:SL": {
+  "status": "visa required",
+  "reason": "Mongolia is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "MR:SL": {
+  "status": "visa on arrival",
+  "days": 30,
+  "reason": "Mauritania is a non-ECOWAS African Union member state: the Tourist Board's policy notice sets a US$25 visa-on-arrival fee for non-ECOWAS AU nationals. The seed's e-visa status missed the AU arrival tier.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "MV:SL": {
+  "status": "visa on arrival",
+  "days": 30,
+  "reason": "Maldives is a Commonwealth member country (it rejoined in 2020), and the Tourist Board's policy notice makes Commonwealth citizens eligible for a visa on arrival at US$80. The seed's e-visa status is incorrect.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "MX:SL": {
+  "status": "visa required",
+  "reason": "Mexico is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "NI:SL": {
+  "status": "visa required",
+  "reason": "Nicaragua is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "NP:SL": {
+  "status": "visa required",
+  "reason": "Nepal is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "PA:SL": {
+  "status": "visa required",
+  "reason": "Panama is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "PE:SL": {
+  "status": "visa required",
+  "reason": "Peru is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "PH:SL": {
+  "status": "visa required",
+  "reason": "Philippines is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "PS:SL": {
+  "status": "visa required",
+  "reason": "Palestinian Territories is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "PW:SL": {
+  "status": "visa required",
+  "reason": "Palau is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "PY:SL": {
+  "status": "visa required",
+  "reason": "Paraguay is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "RS:SL": {
+  "status": "visa required",
+  "reason": "Serbia is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "SM:SL": {
+  "status": "visa required",
+  "reason": "San Marino is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "SR:SL": {
+  "status": "visa required",
+  "reason": "Suriname is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "SV:SL": {
+  "status": "visa required",
+  "reason": "El Salvador is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "SY:SL": {
+  "status": "visa required",
+  "reason": "Syria is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "TJ:SL": {
+  "status": "visa required",
+  "reason": "Tajikistan is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "TM:SL": {
+  "status": "visa required",
+  "reason": "Turkmenistan is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "TW:SL": {
+  "status": "visa required",
+  "reason": "Taiwan is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "UA:SL": {
+  "status": "visa required",
+  "reason": "Ukraine is not an EU or Commonwealth member and is not otherwise listed in the Tourist Board's visa-on-arrival policy notice; the notice directs unlisted nationals to obtain a visa from a Sierra Leone mission before travel. The seed's visa-on-arrival value is incorrect.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "UY:SL": {
+  "status": "visa required",
+  "reason": "Uruguay is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "UZ:SL": {
+  "status": "visa required",
+  "reason": "Uzbekistan is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "VA:SL": {
+  "status": "visa required",
+  "reason": "Vatican City is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "VE:SL": {
+  "status": "visa required",
+  "reason": "Venezuela is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "XK:SL": {
+  "status": "visa required",
+  "reason": "Kosovo is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "YE:SL": {
+  "status": "visa required",
+  "reason": "Yemen is not listed in the Tourist Board's visa-on-arrival policy notice and has no published visa-free agreement with Sierra Leone; the notice directs unlisted nationals to a Sierra Leone embassy or mission before travel. The e-Visa portal publishes no eligibility list, so the seed's e-visa status is unverified and is not followed.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
+ },
+ "ZW:SL": {
+  "status": "visa on arrival",
+  "days": 30,
+  "reason": "Zimbabwe is a non-ECOWAS African Union member state: the Tourist Board's policy notice sets a US$25 visa-on-arrival fee for non-ECOWAS AU nationals. The seed's e-visa status missed the AU arrival tier.",
+  "source": "https://ntb.gov.sl/visa-on-arrival-to-sierra-leone/",
+  "date": "2026-10-30"
  }
 }
