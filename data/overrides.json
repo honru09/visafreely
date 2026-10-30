@@ -27029,5 +27029,68 @@
   "reason": "Hong Kong SAR passport holders are visa-free for Algeria for up to 14 days since 25 November 2025 (Algerian government notification to the Hong Kong government); the dataset's 90 days predates the arrangement.",
   "source": "https://www.info.gov.hk/gia/general/202511/25/P2025112500220.htm",
   "date": "2026-10-31"
+ },
+ "DM:TN": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Timatic-based exemption table gives 90 days; the dataset left days blank.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Tunisia",
+  "date": "2026-10-31"
+ },
+ "GM:TN": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Timatic-based exemption table gives 90 days; the dataset left days blank.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Tunisia",
+  "date": "2026-10-31"
+ },
+ "GR:TN": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Greece enters under the table's EU-member clause (90 days); the dataset's 30 days traces to aggregator figures.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Tunisia",
+  "date": "2026-10-31"
+ },
+ "KM:TN": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Timatic-based exemption table lists this country as visa-free for 90 days; the dataset marked it visa-required.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Tunisia",
+  "date": "2026-10-31"
+ },
+ "MA:TN": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Timatic-based exemption table gives 90 days; the dataset left days blank.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Tunisia",
+  "date": "2026-10-31"
+ },
+ "ML:TN": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Timatic-based exemption table gives 90 days; the dataset left days blank.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Tunisia",
+  "date": "2026-10-31"
+ },
+ "MR:TN": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Timatic-based exemption table gives 90 days; the dataset left days blank.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Tunisia",
+  "date": "2026-10-31"
+ },
+ "NE:TN": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Timatic-based exemption table gives 90 days; the dataset left days blank.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Tunisia",
+  "date": "2026-10-31"
+ },
+ "SB:TN": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Timatic-based exemption table lists this country as visa-free for 90 days; the dataset marked it visa-required.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Tunisia",
+  "date": "2026-10-31"
  }
 }
