@@ -27022,5 +27022,12 @@
   "source": "https://www.acces-maroc.ma/assets/docs/Conditions%20utilisation%20eVisa%20-%20Fr.pdf",
   "date": "2026-10-30",
   "days": 30
+ },
+ "HK:DZ": {
+  "status": "visa free",
+  "days": 14,
+  "reason": "Hong Kong SAR passport holders are visa-free for Algeria for up to 14 days since 25 November 2025 (Algerian government notification to the Hong Kong government); the dataset's 90 days predates the arrangement.",
+  "source": "https://www.info.gov.hk/gia/general/202511/25/P2025112500220.htm",
+  "date": "2026-10-31"
  }
 }
