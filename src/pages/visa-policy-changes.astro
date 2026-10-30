@@ -1,0 +1,71 @@
+---
+import Base from '../layouts/Base.astro';
+import policyChanges from '../data/policy-changes.json';
+import { countryByCode, formatDateLong } from '../lib/data';
+
+interface Change {
+  date: string;
+  destination: string;
+  title: string;
+  summary: string;
+  source: string;
+  source_name: string;
+}
+function sourceHost(source: string): string {
+  try {
+    return new URL(source).hostname.replace(/^www\./, '');
+  } catch {
+    return source;
+  }
+}
+const entries = (policyChanges as Change[])
+  .slice()
+  .sort((a, b) => (a.date < b.date ? 1 : -1))
+  .map((e) => {
+    const dc = countryByCode[e.destination];
+    return {
+      ...e,
+      destName: dc?.name || e.destination,
+      destHref: dc ? `/destination/${dc.slug}/` : null,
+      host: sourceHost(e.source),
+    };
+  });
+---
+
+<Base
+  title="Visa Policy Changes — Tracked & Verified | visafreely"
+  description="The visa rule changes that actually took effect — new exemptions, e-Visa mandates, suspensions and fee changes — each one read in the official gazette, ministry notice or government portal that issued it, with the date it took effect."
+>
+  <h1>Visa policy changes</h1>
+  <p class="lede">
+    Visa rules change constantly, and most datasets notice months later. This page tracks the changes
+    themselves — a new exemption, an e-Visa mandate, a suspension, a fee reform — on the date each one
+    took effect, with the official text it comes from.
+  </p>
+  <p>
+    <strong>{entries.length} changes tracked since March 2025.</strong> How this page is built: every
+    entry below was read in the official source named on it — a government gazette, a ministry
+    communiqué, an immigration authority's own portal — while verifying that destination's rules pair by
+    pair. Announced-but-not-in-force measures are not listed as changes; where a change is temporary or
+    residence-based, the entry says so. For the pair-level record of what we corrected in our own data,
+    see the <a href="/changelog/">data changelog</a>.
+  </p>
+
+  <div class="timeline">
+    {entries.map((e) => (
+      <article class="tl-entry">
+        <div class="tl-date">{formatDateLong(e.date)}</div>
+        <div class="tl-card">
+          {e.destHref
+            ? <a class="pair-chip" href={e.destHref}>{e.destName} — current rules</a>
+            : <span class="pair-chip">{e.destName}</span>}
+          <h3>{e.title}</h3>
+          <p>{e.summary}</p>
+          <p>
+            <a class="source-chip" href={e.source} rel="noopener" target="_blank">Official source: {e.host}</a>
+          </p>
+        </div>
+      </article>
+    ))}
+  </div>
+</Base>
