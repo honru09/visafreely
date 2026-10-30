@@ -25037,5 +25037,713 @@
   "source": "https://diplomatie.gouv.tg/actualites/libre-circulation-et-integration-africaine-exemption-de-visa-dentree-au-togo-pour-les-africains",
   "date": "2026-10-30",
   "days": 30
+ },
+ "AF:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Afghanistan in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "AM:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Armenia in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "AO:CV": {
+  "status": "visa free",
+  "reason": "The Cabo Verde government portal's visa-exempt table lists Angola with a maximum stay of 180 days.",
+  "source": "https://www.gov.cv/en/paises-isentos-de-visto-para-cabo-verde",
+  "date": "2026-10-30",
+  "days": 180
+ },
+ "AZ:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Azerbaijan in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "BD:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Bangladesh in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "BF:CV": {
+  "status": "visa free",
+  "reason": "The Cabo Verde government portal's visa-exempt table lists Burkina Faso with a maximum stay of 90 days.",
+  "source": "https://www.gov.cv/en/paises-isentos-de-visto-para-cabo-verde",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "BH:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Bahrain in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "BI:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Burundi in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "BJ:CV": {
+  "status": "visa free",
+  "reason": "The Cabo Verde government portal's visa-exempt table lists Benin with a maximum stay of 90 days.",
+  "source": "https://www.gov.cv/en/paises-isentos-de-visto-para-cabo-verde",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "BN:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Brunei in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "BO:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Bolivia in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "BT:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Bhutan in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "BW:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Botswana in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "BY:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Belarus in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "CD:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Congo - Kinshasa in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "CF:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Central African Republic in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "CG:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Congo - Brazzaville in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "CI:CV": {
+  "status": "visa free",
+  "reason": "The Cabo Verde government portal's visa-exempt table lists Côte d’Ivoire with a maximum stay of 90 days.",
+  "source": "https://www.gov.cv/en/paises-isentos-de-visto-para-cabo-verde",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "CL:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Chile in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "CN:CV": {
+  "status": "visa free",
+  "reason": "The Cabo Verde government portal's visa-exempt table lists China with a maximum stay of 30 days.",
+  "source": "https://www.gov.cv/en/paises-isentos-de-visto-para-cabo-verde",
+  "date": "2026-10-30",
+  "days": 30
+ },
+ "CO:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Colombia in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "CR:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Costa Rica in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "CU:CV": {
+  "status": "visa required",
+  "reason": "The government portal's visa-exempt table covers Cuba only for the 'duration of mission' — an official-mission scope, not visa-free tourist travel.",
+  "source": "https://www.gov.cv/en/paises-isentos-de-visto-para-cabo-verde",
+  "date": "2026-10-30"
+ },
+ "DJ:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Djibouti in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "DM:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Dominica in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "DO:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Dominican Republic in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "DZ:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Algeria in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "EC:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Ecuador in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "EG:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Egypt in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "ER:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Eritrea in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "ET:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Ethiopia in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "GA:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Gabon in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "GH:CV": {
+  "status": "visa free",
+  "reason": "The Cabo Verde government portal's visa-exempt table lists Ghana with a maximum stay of 90 days.",
+  "source": "https://www.gov.cv/en/paises-isentos-de-visto-para-cabo-verde",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "GM:CV": {
+  "status": "visa free",
+  "reason": "The Cabo Verde government portal's visa-exempt table lists Gambia with a maximum stay of 90 days.",
+  "source": "https://www.gov.cv/en/paises-isentos-de-visto-para-cabo-verde",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "GN:CV": {
+  "status": "visa free",
+  "reason": "The Cabo Verde government portal's visa-exempt table lists Guinea with a maximum stay of 90 days.",
+  "source": "https://www.gov.cv/en/paises-isentos-de-visto-para-cabo-verde",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "GT:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Guatemala in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "GW:CV": {
+  "status": "visa free",
+  "reason": "The Cabo Verde government portal's visa-exempt table lists Guinea-Bissau with a maximum stay of 180 days.",
+  "source": "https://www.gov.cv/en/paises-isentos-de-visto-para-cabo-verde",
+  "date": "2026-10-30",
+  "days": 180
+ },
+ "GY:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Guyana in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "HK:CV": {
+  "status": "visa free",
+  "reason": "The Cabo Verde government portal's visa-exempt table lists Hong Kong SAR China with a maximum stay of 30 days.",
+  "source": "https://www.gov.cv/en/paises-isentos-de-visto-para-cabo-verde",
+  "date": "2026-10-30",
+  "days": 30
+ },
+ "HN:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Honduras in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "HT:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Haiti in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "ID:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Indonesia in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "IQ:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Iraq in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "IR:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Iran in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "JM:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Jamaica in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "JO:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Jordan in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "KG:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Kyrgyzstan in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "KH:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Cambodia in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "KI:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Kiribati in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "KM:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Comoros in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "KP:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places North Korea in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "KR:CV": {
+  "status": "visa free",
+  "reason": "The Cabo Verde government portal's visa-exempt table lists South Korea with a maximum stay of 90 days.",
+  "source": "https://www.gov.cv/en/paises-isentos-de-visto-para-cabo-verde",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "KZ:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Kazakhstan in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "LA:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Laos in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "LB:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Lebanon in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "LK:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Sri Lanka in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "LR:CV": {
+  "status": "visa free",
+  "reason": "The Cabo Verde government portal's visa-exempt table lists Liberia with a maximum stay of 90 days.",
+  "source": "https://www.gov.cv/en/paises-isentos-de-visto-para-cabo-verde",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "LS:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Lesotho in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "LY:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Libya in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "MA:CV": {
+  "status": "visa free",
+  "reason": "The Cabo Verde government portal's visa-exempt table lists Morocco with a maximum stay of 30 days.",
+  "source": "https://www.gov.cv/en/paises-isentos-de-visto-para-cabo-verde",
+  "date": "2026-10-30",
+  "days": 30
+ },
+ "MG:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Madagascar in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "ML:CV": {
+  "status": "visa free",
+  "reason": "The Cabo Verde government portal's visa-exempt table lists Mali with a maximum stay of 90 days.",
+  "source": "https://www.gov.cv/en/paises-isentos-de-visto-para-cabo-verde",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "MM:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Myanmar (Burma) in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "MN:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Mongolia in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "MR:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Mauritania in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "MW:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Malawi in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "MX:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Mexico in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "MZ:CV": {
+  "status": "visa free",
+  "reason": "The Cabo Verde government portal's visa-exempt table lists Mozambique with a maximum stay of 180 days.",
+  "source": "https://www.gov.cv/en/paises-isentos-de-visto-para-cabo-verde",
+  "date": "2026-10-30",
+  "days": 180
+ },
+ "NA:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Namibia in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "NE:CV": {
+  "status": "visa free",
+  "reason": "The Cabo Verde government portal's visa-exempt table lists Niger with a maximum stay of 90 days.",
+  "source": "https://www.gov.cv/en/paises-isentos-de-visto-para-cabo-verde",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "NG:CV": {
+  "status": "visa free",
+  "reason": "The Cabo Verde government portal's visa-exempt table lists Nigeria with a maximum stay of 90 days.",
+  "source": "https://www.gov.cv/en/paises-isentos-de-visto-para-cabo-verde",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "NI:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Nicaragua in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "NP:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Nepal in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "NR:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Nauru in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "OM:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Oman in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "PA:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Panama in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "PE:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Peru in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "PG:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Papua New Guinea in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "PH:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Philippines in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "PK:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Pakistan in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "PS:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Palestinian Territories in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "PW:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Palau in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "PY:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Paraguay in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "SD:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Sudan in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "SL:CV": {
+  "status": "visa free",
+  "reason": "The Cabo Verde government portal's visa-exempt table lists Sierra Leone with a maximum stay of 90 days.",
+  "source": "https://www.gov.cv/en/paises-isentos-de-visto-para-cabo-verde",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "SN:CV": {
+  "status": "visa free",
+  "reason": "The Cabo Verde government portal's visa-exempt table lists Senegal with a maximum stay of 90 days.",
+  "source": "https://www.gov.cv/en/paises-isentos-de-visto-para-cabo-verde",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "SO:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Somalia in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "SR:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Suriname in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "SS:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places South Sudan in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "ST:CV": {
+  "status": "visa free",
+  "reason": "The Cabo Verde government portal's visa-exempt table lists São Tomé & Príncipe with a maximum stay of 60 days.",
+  "source": "https://www.gov.cv/en/paises-isentos-de-visto-para-cabo-verde",
+  "date": "2026-10-30",
+  "days": 60
+ },
+ "SV:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places El Salvador in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "SY:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Syria in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "SZ:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Eswatini in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "TD:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Chad in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "TG:CV": {
+  "status": "visa free",
+  "reason": "The Cabo Verde government portal's visa-exempt table lists Togo with a maximum stay of 90 days.",
+  "source": "https://www.gov.cv/en/paises-isentos-de-visto-para-cabo-verde",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "TJ:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Tajikistan in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "TL:CV": {
+  "status": "visa free",
+  "reason": "The Cabo Verde government portal's visa-exempt table lists Timor-Leste with a maximum stay of 30 days.",
+  "source": "https://www.gov.cv/en/paises-isentos-de-visto-para-cabo-verde",
+  "date": "2026-10-30",
+  "days": 30
+ },
+ "TM:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Turkmenistan in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "TN:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Tunisia in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "TO:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Tonga in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "TT:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Trinidad & Tobago in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "TV:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Tuvalu in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "TZ:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Tanzania in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "UA:CV": {
+  "status": "visa free",
+  "reason": "The Cabo Verde government portal's visa-exempt table lists Ukraine with a maximum stay of 180 days.",
+  "source": "https://www.gov.cv/en/paises-isentos-de-visto-para-cabo-verde",
+  "date": "2026-10-30",
+  "days": 180
+ },
+ "UG:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Uganda in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "UZ:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Uzbekistan in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "VE:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Venezuela in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "VN:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Vietnam in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "VU:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Vanuatu in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "WS:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Samoa in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "YE:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Yemen in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "ZA:CV": {
+  "status": "visa free",
+  "reason": "The Cabo Verde government portal's visa-exempt table lists South Africa with a maximum stay of 30 days.",
+  "source": "https://www.gov.cv/en/paises-isentos-de-visto-para-cabo-verde",
+  "date": "2026-10-30",
+  "days": 30
+ },
+ "ZM:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Zambia in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
+ },
+ "ZW:CV": {
+  "status": "visa required",
+  "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Zimbabwe in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
+  "source": "https://boe.incv.cv/Bulletins/View?id=89461",
+  "date": "2026-10-30"
  }
 }
