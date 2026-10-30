@@ -23756,5 +23756,1286 @@
   "source": "https://snedai.com/e-visa/",
   "date": "2026-10-30",
   "days": 90
+ },
+ "AD:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "AE:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "AF:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "AG:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "AL:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "AM:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "AO:TG": {
+  "status": "visa free",
+  "reason": "Togo's decree of 26 May 2026 exempts nationals of all African states holding a valid passport for stays of up to 30 days; the seed, drawn from the platform's pre-decree static tables, still required an e-Visa.",
+  "source": "https://diplomatie.gouv.tg/actualites/libre-circulation-et-integration-africaine-exemption-de-visa-dentree-au-togo-pour-les-africains",
+  "date": "2026-10-30",
+  "days": 30
+ },
+ "AR:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "AT:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "AU:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "AZ:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "BA:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "BB:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "BD:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "BE:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "BG:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "BH:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "BI:TG": {
+  "status": "visa free",
+  "reason": "Togo's decree of 26 May 2026 exempts nationals of all African states holding a valid passport for stays of up to 30 days; the seed, drawn from the platform's pre-decree static tables, still required an e-Visa.",
+  "source": "https://diplomatie.gouv.tg/actualites/libre-circulation-et-integration-africaine-exemption-de-visa-dentree-au-togo-pour-les-africains",
+  "date": "2026-10-30",
+  "days": 30
+ },
+ "BN:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "BO:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "BR:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "BS:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "BT:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "BW:TG": {
+  "status": "visa free",
+  "reason": "Togo's decree of 26 May 2026 exempts nationals of all African states holding a valid passport for stays of up to 30 days; the seed, drawn from the platform's pre-decree static tables, still required an e-Visa.",
+  "source": "https://diplomatie.gouv.tg/actualites/libre-circulation-et-integration-africaine-exemption-de-visa-dentree-au-togo-pour-les-africains",
+  "date": "2026-10-30",
+  "days": 30
+ },
+ "BY:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "BZ:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "CA:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "CD:TG": {
+  "status": "visa free",
+  "reason": "Togo's decree of 26 May 2026 exempts nationals of all African states holding a valid passport for stays of up to 30 days; the seed, drawn from the platform's pre-decree static tables, still required an e-Visa.",
+  "source": "https://diplomatie.gouv.tg/actualites/libre-circulation-et-integration-africaine-exemption-de-visa-dentree-au-togo-pour-les-africains",
+  "date": "2026-10-30",
+  "days": 30
+ },
+ "CF:TG": {
+  "status": "visa free",
+  "reason": "Togo's decree of 26 May 2026 exempts nationals of all African states holding a valid passport for stays of up to 30 days; the seed, drawn from the platform's pre-decree static tables, still required an e-Visa.",
+  "source": "https://diplomatie.gouv.tg/actualites/libre-circulation-et-integration-africaine-exemption-de-visa-dentree-au-togo-pour-les-africains",
+  "date": "2026-10-30",
+  "days": 30
+ },
+ "CG:TG": {
+  "status": "visa free",
+  "reason": "Togo's decree of 26 May 2026 exempts nationals of all African states holding a valid passport for stays of up to 30 days; the seed, drawn from the platform's pre-decree static tables, still required an e-Visa.",
+  "source": "https://diplomatie.gouv.tg/actualites/libre-circulation-et-integration-africaine-exemption-de-visa-dentree-au-togo-pour-les-africains",
+  "date": "2026-10-30",
+  "days": 30
+ },
+ "CH:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "CL:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "CM:TG": {
+  "status": "visa free",
+  "reason": "Togo's decree of 26 May 2026 exempts nationals of all African states holding a valid passport for stays of up to 30 days; the seed, drawn from the platform's pre-decree static tables, still required an e-Visa.",
+  "source": "https://diplomatie.gouv.tg/actualites/libre-circulation-et-integration-africaine-exemption-de-visa-dentree-au-togo-pour-les-africains",
+  "date": "2026-10-30",
+  "days": 30
+ },
+ "CN:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "CO:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "CR:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "CU:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "CY:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "CZ:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "DE:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "DJ:TG": {
+  "status": "visa free",
+  "reason": "Togo's decree of 26 May 2026 exempts nationals of all African states holding a valid passport for stays of up to 30 days; the seed, drawn from the platform's pre-decree static tables, still required an e-Visa.",
+  "source": "https://diplomatie.gouv.tg/actualites/libre-circulation-et-integration-africaine-exemption-de-visa-dentree-au-togo-pour-les-africains",
+  "date": "2026-10-30",
+  "days": 30
+ },
+ "DK:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "DM:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "DO:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "DZ:TG": {
+  "status": "visa free",
+  "reason": "Togo's decree of 26 May 2026 exempts nationals of all African states holding a valid passport for stays of up to 30 days; the seed, drawn from the platform's pre-decree static tables, still required an e-Visa.",
+  "source": "https://diplomatie.gouv.tg/actualites/libre-circulation-et-integration-africaine-exemption-de-visa-dentree-au-togo-pour-les-africains",
+  "date": "2026-10-30",
+  "days": 30
+ },
+ "EC:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "EE:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "EG:TG": {
+  "status": "visa free",
+  "reason": "Togo's decree of 26 May 2026 exempts nationals of all African states holding a valid passport for stays of up to 30 days; the seed, drawn from the platform's pre-decree static tables, still required an e-Visa.",
+  "source": "https://diplomatie.gouv.tg/actualites/libre-circulation-et-integration-africaine-exemption-de-visa-dentree-au-togo-pour-les-africains",
+  "date": "2026-10-30",
+  "days": 30
+ },
+ "ER:TG": {
+  "status": "visa free",
+  "reason": "Togo's decree of 26 May 2026 exempts nationals of all African states holding a valid passport for stays of up to 30 days; the seed, drawn from the platform's pre-decree static tables, still required an e-Visa.",
+  "source": "https://diplomatie.gouv.tg/actualites/libre-circulation-et-integration-africaine-exemption-de-visa-dentree-au-togo-pour-les-africains",
+  "date": "2026-10-30",
+  "days": 30
+ },
+ "ES:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "ET:TG": {
+  "status": "visa free",
+  "reason": "Togo's decree of 26 May 2026 exempts nationals of all African states holding a valid passport for stays of up to 30 days; the seed, drawn from the platform's pre-decree static tables, still required an e-Visa.",
+  "source": "https://diplomatie.gouv.tg/actualites/libre-circulation-et-integration-africaine-exemption-de-visa-dentree-au-togo-pour-les-africains",
+  "date": "2026-10-30",
+  "days": 30
+ },
+ "FI:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "FJ:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "FM:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "FR:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "GA:TG": {
+  "status": "visa free",
+  "reason": "Togo's decree of 26 May 2026 exempts nationals of all African states holding a valid passport for stays of up to 30 days; the seed, drawn from the platform's pre-decree static tables, still required an e-Visa.",
+  "source": "https://diplomatie.gouv.tg/actualites/libre-circulation-et-integration-africaine-exemption-de-visa-dentree-au-togo-pour-les-africains",
+  "date": "2026-10-30",
+  "days": 30
+ },
+ "GB:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "GD:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "GE:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "GQ:TG": {
+  "status": "visa free",
+  "reason": "Togo's decree of 26 May 2026 exempts nationals of all African states holding a valid passport for stays of up to 30 days; the seed, drawn from the platform's pre-decree static tables, still required an e-Visa.",
+  "source": "https://diplomatie.gouv.tg/actualites/libre-circulation-et-integration-africaine-exemption-de-visa-dentree-au-togo-pour-les-africains",
+  "date": "2026-10-30",
+  "days": 30
+ },
+ "GR:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "GT:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "GY:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "HK:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "HN:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "HR:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "HT:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "HU:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "ID:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "IE:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "IL:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "IN:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "IQ:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "IR:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "IS:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "IT:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "JM:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "JO:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "JP:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "KE:TG": {
+  "status": "visa free",
+  "reason": "Togo's decree of 26 May 2026 exempts nationals of all African states holding a valid passport for stays of up to 30 days; the seed, drawn from the platform's pre-decree static tables, still required an e-Visa.",
+  "source": "https://diplomatie.gouv.tg/actualites/libre-circulation-et-integration-africaine-exemption-de-visa-dentree-au-togo-pour-les-africains",
+  "date": "2026-10-30",
+  "days": 30
+ },
+ "KG:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "KH:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "KI:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "KM:TG": {
+  "status": "visa free",
+  "reason": "Togo's decree of 26 May 2026 exempts nationals of all African states holding a valid passport for stays of up to 30 days; the seed, drawn from the platform's pre-decree static tables, still required an e-Visa.",
+  "source": "https://diplomatie.gouv.tg/actualites/libre-circulation-et-integration-africaine-exemption-de-visa-dentree-au-togo-pour-les-africains",
+  "date": "2026-10-30",
+  "days": 30
+ },
+ "KN:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "KP:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "KR:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "KW:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "KZ:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "LA:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "LB:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "LC:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "LI:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "LK:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "LS:TG": {
+  "status": "visa free",
+  "reason": "Togo's decree of 26 May 2026 exempts nationals of all African states holding a valid passport for stays of up to 30 days; the seed, drawn from the platform's pre-decree static tables, still required an e-Visa.",
+  "source": "https://diplomatie.gouv.tg/actualites/libre-circulation-et-integration-africaine-exemption-de-visa-dentree-au-togo-pour-les-africains",
+  "date": "2026-10-30",
+  "days": 30
+ },
+ "LT:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "LU:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "LV:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "LY:TG": {
+  "status": "visa free",
+  "reason": "Togo's decree of 26 May 2026 exempts nationals of all African states holding a valid passport for stays of up to 30 days; the seed, drawn from the platform's pre-decree static tables, still required an e-Visa.",
+  "source": "https://diplomatie.gouv.tg/actualites/libre-circulation-et-integration-africaine-exemption-de-visa-dentree-au-togo-pour-les-africains",
+  "date": "2026-10-30",
+  "days": 30
+ },
+ "MC:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "MD:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "ME:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "MG:TG": {
+  "status": "visa free",
+  "reason": "Togo's decree of 26 May 2026 exempts nationals of all African states holding a valid passport for stays of up to 30 days; the seed, drawn from the platform's pre-decree static tables, still required an e-Visa.",
+  "source": "https://diplomatie.gouv.tg/actualites/libre-circulation-et-integration-africaine-exemption-de-visa-dentree-au-togo-pour-les-africains",
+  "date": "2026-10-30",
+  "days": 30
+ },
+ "MH:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "MK:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "MM:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "MN:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "MO:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "MR:TG": {
+  "status": "visa free",
+  "reason": "Togo's decree of 26 May 2026 exempts nationals of all African states holding a valid passport for stays of up to 30 days; the seed, drawn from the platform's pre-decree static tables, still required an e-Visa.",
+  "source": "https://diplomatie.gouv.tg/actualites/libre-circulation-et-integration-africaine-exemption-de-visa-dentree-au-togo-pour-les-africains",
+  "date": "2026-10-30",
+  "days": 30
+ },
+ "MT:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "MU:TG": {
+  "status": "visa free",
+  "reason": "Togo's decree of 26 May 2026 exempts nationals of all African states holding a valid passport for stays of up to 30 days; the seed, drawn from the platform's pre-decree static tables, still required an e-Visa.",
+  "source": "https://diplomatie.gouv.tg/actualites/libre-circulation-et-integration-africaine-exemption-de-visa-dentree-au-togo-pour-les-africains",
+  "date": "2026-10-30",
+  "days": 30
+ },
+ "MV:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "MW:TG": {
+  "status": "visa free",
+  "reason": "Togo's decree of 26 May 2026 exempts nationals of all African states holding a valid passport for stays of up to 30 days; the seed, drawn from the platform's pre-decree static tables, still required an e-Visa.",
+  "source": "https://diplomatie.gouv.tg/actualites/libre-circulation-et-integration-africaine-exemption-de-visa-dentree-au-togo-pour-les-africains",
+  "date": "2026-10-30",
+  "days": 30
+ },
+ "MX:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "MY:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "MZ:TG": {
+  "status": "visa free",
+  "reason": "Togo's decree of 26 May 2026 exempts nationals of all African states holding a valid passport for stays of up to 30 days; the seed, drawn from the platform's pre-decree static tables, still required an e-Visa.",
+  "source": "https://diplomatie.gouv.tg/actualites/libre-circulation-et-integration-africaine-exemption-de-visa-dentree-au-togo-pour-les-africains",
+  "date": "2026-10-30",
+  "days": 30
+ },
+ "NA:TG": {
+  "status": "visa free",
+  "reason": "Togo's decree of 26 May 2026 exempts nationals of all African states holding a valid passport for stays of up to 30 days; the seed, drawn from the platform's pre-decree static tables, still required an e-Visa.",
+  "source": "https://diplomatie.gouv.tg/actualites/libre-circulation-et-integration-africaine-exemption-de-visa-dentree-au-togo-pour-les-africains",
+  "date": "2026-10-30",
+  "days": 30
+ },
+ "NI:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "NL:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "NO:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "NP:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "NR:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "NZ:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "OM:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "PA:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "PE:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "PG:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "PH:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "PK:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "PL:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "PS:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "PT:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "PW:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "PY:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "QA:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "RO:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "RS:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "RU:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "RW:TG": {
+  "status": "visa free",
+  "reason": "Togo's decree of 26 May 2026 exempts nationals of all African states holding a valid passport for stays of up to 30 days; the seed, drawn from the platform's pre-decree static tables, still required an e-Visa.",
+  "source": "https://diplomatie.gouv.tg/actualites/libre-circulation-et-integration-africaine-exemption-de-visa-dentree-au-togo-pour-les-africains",
+  "date": "2026-10-30",
+  "days": 30
+ },
+ "SA:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "SB:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "SC:TG": {
+  "status": "visa free",
+  "reason": "Togo's decree of 26 May 2026 exempts nationals of all African states holding a valid passport for stays of up to 30 days; the seed, drawn from the platform's pre-decree static tables, still required an e-Visa.",
+  "source": "https://diplomatie.gouv.tg/actualites/libre-circulation-et-integration-africaine-exemption-de-visa-dentree-au-togo-pour-les-africains",
+  "date": "2026-10-30",
+  "days": 30
+ },
+ "SD:TG": {
+  "status": "visa free",
+  "reason": "Togo's decree of 26 May 2026 exempts nationals of all African states holding a valid passport for stays of up to 30 days; the seed, drawn from the platform's pre-decree static tables, still required an e-Visa.",
+  "source": "https://diplomatie.gouv.tg/actualites/libre-circulation-et-integration-africaine-exemption-de-visa-dentree-au-togo-pour-les-africains",
+  "date": "2026-10-30",
+  "days": 30
+ },
+ "SE:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "SG:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "SI:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "SK:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "SM:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "SO:TG": {
+  "status": "visa free",
+  "reason": "Togo's decree of 26 May 2026 exempts nationals of all African states holding a valid passport for stays of up to 30 days; the seed, drawn from the platform's pre-decree static tables, still required an e-Visa.",
+  "source": "https://diplomatie.gouv.tg/actualites/libre-circulation-et-integration-africaine-exemption-de-visa-dentree-au-togo-pour-les-africains",
+  "date": "2026-10-30",
+  "days": 30
+ },
+ "SR:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "SS:TG": {
+  "status": "visa free",
+  "reason": "Togo's decree of 26 May 2026 exempts nationals of all African states holding a valid passport for stays of up to 30 days; the seed, drawn from the platform's pre-decree static tables, still required an e-Visa.",
+  "source": "https://diplomatie.gouv.tg/actualites/libre-circulation-et-integration-africaine-exemption-de-visa-dentree-au-togo-pour-les-africains",
+  "date": "2026-10-30",
+  "days": 30
+ },
+ "ST:TG": {
+  "status": "visa free",
+  "reason": "Togo's decree of 26 May 2026 exempts nationals of all African states holding a valid passport for stays of up to 30 days; the seed, drawn from the platform's pre-decree static tables, still required an e-Visa.",
+  "source": "https://diplomatie.gouv.tg/actualites/libre-circulation-et-integration-africaine-exemption-de-visa-dentree-au-togo-pour-les-africains",
+  "date": "2026-10-30",
+  "days": 30
+ },
+ "SV:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "SY:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "SZ:TG": {
+  "status": "visa free",
+  "reason": "Togo's decree of 26 May 2026 exempts nationals of all African states holding a valid passport for stays of up to 30 days; the seed, drawn from the platform's pre-decree static tables, still required an e-Visa.",
+  "source": "https://diplomatie.gouv.tg/actualites/libre-circulation-et-integration-africaine-exemption-de-visa-dentree-au-togo-pour-les-africains",
+  "date": "2026-10-30",
+  "days": 30
+ },
+ "TD:TG": {
+  "status": "visa free",
+  "reason": "Togo's decree of 26 May 2026 exempts nationals of all African states holding a valid passport for stays of up to 30 days; the seed, drawn from the platform's pre-decree static tables, still required an e-Visa.",
+  "source": "https://diplomatie.gouv.tg/actualites/libre-circulation-et-integration-africaine-exemption-de-visa-dentree-au-togo-pour-les-africains",
+  "date": "2026-10-30",
+  "days": 30
+ },
+ "TH:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "TJ:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "TL:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "TM:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "TN:TG": {
+  "status": "visa free",
+  "reason": "Togo's decree of 26 May 2026 exempts nationals of all African states holding a valid passport for stays of up to 30 days; the seed, drawn from the platform's pre-decree static tables, still required an e-Visa.",
+  "source": "https://diplomatie.gouv.tg/actualites/libre-circulation-et-integration-africaine-exemption-de-visa-dentree-au-togo-pour-les-africains",
+  "date": "2026-10-30",
+  "days": 30
+ },
+ "TO:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "TR:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "TT:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "TV:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "TW:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "TZ:TG": {
+  "status": "visa free",
+  "reason": "Togo's decree of 26 May 2026 exempts nationals of all African states holding a valid passport for stays of up to 30 days; the seed, drawn from the platform's pre-decree static tables, still required an e-Visa.",
+  "source": "https://diplomatie.gouv.tg/actualites/libre-circulation-et-integration-africaine-exemption-de-visa-dentree-au-togo-pour-les-africains",
+  "date": "2026-10-30",
+  "days": 30
+ },
+ "UA:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "UG:TG": {
+  "status": "visa free",
+  "reason": "Togo's decree of 26 May 2026 exempts nationals of all African states holding a valid passport for stays of up to 30 days; the seed, drawn from the platform's pre-decree static tables, still required an e-Visa.",
+  "source": "https://diplomatie.gouv.tg/actualites/libre-circulation-et-integration-africaine-exemption-de-visa-dentree-au-togo-pour-les-africains",
+  "date": "2026-10-30",
+  "days": 30
+ },
+ "US:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "UY:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "UZ:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "VA:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "VC:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "VE:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "VN:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "VU:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "WS:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "XK:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "YE:TG": {
+  "status": "e-visa",
+  "reason": "The seed's 15 days is only the cheapest tourist tier on voyage.gouv.tg (1–15 days, 25,000 FCFA); tourist visas are sold up to a 31–90-day tier (65,000 FCFA). Maximum stay corrected to 90 days.",
+  "source": "https://voyage.gouv.tg/about",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "ZA:TG": {
+  "status": "visa free",
+  "reason": "Togo's decree of 26 May 2026 exempts nationals of all African states holding a valid passport for stays of up to 30 days; the seed, drawn from the platform's pre-decree static tables, still required an e-Visa.",
+  "source": "https://diplomatie.gouv.tg/actualites/libre-circulation-et-integration-africaine-exemption-de-visa-dentree-au-togo-pour-les-africains",
+  "date": "2026-10-30",
+  "days": 30
+ },
+ "ZM:TG": {
+  "status": "visa free",
+  "reason": "Togo's decree of 26 May 2026 exempts nationals of all African states holding a valid passport for stays of up to 30 days; the seed, drawn from the platform's pre-decree static tables, still required an e-Visa.",
+  "source": "https://diplomatie.gouv.tg/actualites/libre-circulation-et-integration-africaine-exemption-de-visa-dentree-au-togo-pour-les-africains",
+  "date": "2026-10-30",
+  "days": 30
+ },
+ "ZW:TG": {
+  "status": "visa free",
+  "reason": "Togo's decree of 26 May 2026 exempts nationals of all African states holding a valid passport for stays of up to 30 days; the seed, drawn from the platform's pre-decree static tables, still required an e-Visa.",
+  "source": "https://diplomatie.gouv.tg/actualites/libre-circulation-et-integration-africaine-exemption-de-visa-dentree-au-togo-pour-les-africains",
+  "date": "2026-10-30",
+  "days": 30
  }
 }
