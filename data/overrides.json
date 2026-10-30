@@ -26931,5 +26931,96 @@
   "source": "https://immigration.gov.ng/info-center/tourism-visa-f5a/",
   "date": "2026-10-30",
   "days": 30
+ },
+ "AL:MA": {
+  "status": "visa free",
+  "reason": "Albania's visa exemption entered into force 15 August 2026 (notified by Morocco's embassy in Rome to Albania's MFA); the dataset predates it.",
+  "source": "https://en.hespress.com/143849-albanians-can-now-travel-visa-free-to-morocco-for-short-stays.html",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "BF:MA": {
+  "status": "visa free",
+  "reason": "The dataset's 'eta' traces to the temporary 2025 Africa Cup AEVM period, which ended 25 January 2026; Burkina Faso is now directly visa-free per the consular exemption list.",
+  "source": "https://consulat.ma/fr/liste-des-pays-dont-les-ressortissants-sont-dispenses-du-visa-dentree-au-maroc",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "DZ:MA": {
+  "status": "visa free",
+  "reason": "The dataset's 'eta' traces to the temporary 2025 Africa Cup AEVM period, which ended 25 January 2026; Algeria is now directly visa-free per the consular exemption list.",
+  "source": "https://consulat.ma/fr/liste-des-pays-dont-les-ressortissants-sont-dispenses-du-visa-dentree-au-maroc",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "ML:MA": {
+  "status": "visa free",
+  "reason": "Mali's AEVM requirement was lifted 27 April 2026; Mali is now directly visa-free.",
+  "source": "https://consulat.ma/fr/liste-des-pays-dont-les-ressortissants-sont-dispenses-du-visa-dentree-au-maroc",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "NE:MA": {
+  "status": "visa free",
+  "reason": "The dataset's 'eta' traces to the temporary 2025 Africa Cup AEVM period, which ended 25 January 2026; Niger is now directly visa-free per the consular exemption list.",
+  "source": "https://consulat.ma/fr/liste-des-pays-dont-les-ressortissants-sont-dispenses-du-visa-dentree-au-maroc",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "SN:MA": {
+  "status": "visa free",
+  "reason": "The dataset's 'eta' traces to the temporary 2025 Africa Cup AEVM period, which ended 25 January 2026; Senegal is now directly visa-free per the consular exemption list.",
+  "source": "https://consulat.ma/fr/liste-des-pays-dont-les-ressortissants-sont-dispenses-du-visa-dentree-au-maroc",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "CG:MA": {
+  "status": "visa free",
+  "reason": "The dataset's 'eta' is the AEVM formality; Congo-Brazzaville is visa-free with a mandatory pre-travel AEVM, not an ETA visa class.",
+  "source": "https://consulat.ma/fr/liste-des-pays-dont-les-ressortissants-sont-dispenses-du-visa-dentree-au-maroc",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "EC:MA": {
+  "status": "visa free",
+  "reason": "Ecuador is visa-free with a mandatory pre-travel AEVM (introduced 1 August 2025); the dataset predates the AEVM-era classification.",
+  "source": "https://www.acces-maroc.ma/",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "GH:MA": {
+  "status": "visa free",
+  "reason": "Ghana is visa-free with a mandatory pre-travel AEVM (introduced 6 June 2025), not an ETA visa class.",
+  "source": "https://www.acces-maroc.ma/",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "GN:MA": {
+  "status": "visa free",
+  "reason": "The dataset's 'eta' is the AEVM formality; Guinea-Conakry is visa-free with a mandatory pre-travel AEVM, not an ETA visa class.",
+  "source": "https://consulat.ma/fr/liste-des-pays-dont-les-ressortissants-sont-dispenses-du-visa-dentree-au-maroc",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "BN:MA": {
+  "status": "e-visa",
+  "reason": "Brunei is a Category A e-Visa nationality under Morocco's official e-Visa terms; the dataset's 'visa required' omits the online route.",
+  "source": "https://www.acces-maroc.ma/assets/docs/Conditions%20utilisation%20eVisa%20-%20Fr.pdf",
+  "date": "2026-10-30",
+  "days": 30
+ },
+ "KH:MA": {
+  "status": "e-visa",
+  "reason": "Cambodia is a Category A e-Visa nationality under Morocco's official e-Visa terms; the dataset's 'visa required' omits the online route.",
+  "source": "https://www.acces-maroc.ma/assets/docs/Conditions%20utilisation%20eVisa%20-%20Fr.pdf",
+  "date": "2026-10-30",
+  "days": 30
+ },
+ "VN:MA": {
+  "status": "e-visa",
+  "reason": "Vietnam is a Category A e-Visa nationality under Morocco's official e-Visa terms; the dataset's 'visa required' omits the online route.",
+  "source": "https://www.acces-maroc.ma/assets/docs/Conditions%20utilisation%20eVisa%20-%20Fr.pdf",
+  "date": "2026-10-30",
+  "days": 30
  }
 }
