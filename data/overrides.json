@@ -27092,5 +27092,1364 @@
   "reason": "Timatic-based exemption table lists this country as visa-free for 90 days; the dataset marked it visa-required.",
   "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Tunisia",
   "date": "2026-10-31"
+ },
+ "DZ:LY": {
+  "status": "visa free",
+  "reason": "Timatic-based exemption table gives 3 months for Algerian ordinary passports, limited to Mitiga and Misurata airports; the dataset carried visa-free with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "MR:LY": {
+  "status": "visa free",
+  "reason": "Mauritania's visa-free access was restored on 30 August 2026 (reported 4 September 2026) at 3 months; the dataset still showed e-visa.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "TN:LY": {
+  "status": "visa free",
+  "reason": "Timatic-based exemption table gives 3 months for Tunisian ordinary passports; the dataset carried visa-free with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "MY:LY": {
+  "status": "visa free",
+  "reason": "Malaysia became visa-free for Libya for 30 days on 8 June 2026 (Libya Herald, 24 June 2026); the dataset still showed e-visa.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "AD:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "AE:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "AF:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "AG:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "AL:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "AM:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "AO:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "AR:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "AT:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "AU:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "AZ:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "BA:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "BB:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "BE:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "BF:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "BG:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "BH:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "BI:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "BJ:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "BN:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "BO:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "BR:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "BS:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "BT:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "BW:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "BY:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa allows a single stay of up to 30 days; the dataset carried e-visa with no stay. The eastern authorities' Benghazi-only Belarus claim is disclosed in the verification note, not counted as an exemption.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "BZ:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "CA:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "CD:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "CF:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "CG:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "CH:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "CI:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "CL:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "CM:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "CN:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "CO:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "CR:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "CU:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "CV:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "CY:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "CZ:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "DE:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "DJ:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "DK:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "DM:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "DO:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "EC:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "EE:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "ER:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "ES:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "ET:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "FI:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "FJ:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "FM:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "FR:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "GA:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "GB:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "GD:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "GE:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "GH:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "GM:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "GN:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "GQ:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "GR:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "GT:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "GW:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "GY:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "HK:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "HN:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "HR:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "HT:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "HU:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "ID:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "IE:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "IN:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "IQ:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "IS:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "IT:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "JM:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "JO:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa allows a single stay of up to 30 days; the dataset carried e-visa with no stay. Jordan's December 2024 visa-on-arrival arrangement is disclosed in the verification note; the e-Visa channel is the settled route while the June 2026 airport visa-on-arrival suspension's recovery remains unconfirmed.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "JP:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "KE:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "KG:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "KH:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "KI:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "KM:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "KN:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "KP:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "KR:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "KW:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "KZ:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "LA:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "LB:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "LC:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "LI:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "LK:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "LR:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "LS:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "LT:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "LU:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "LV:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "MA:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "MC:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "MD:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "ME:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "MG:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "MH:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "MK:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "ML:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "MM:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "MN:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "MO:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "MT:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "MU:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "MV:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "MW:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "MX:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "MZ:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "NA:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "NE:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "NG:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "NI:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "NL:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "NO:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "NP:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "NR:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "NZ:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "OM:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "PA:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "PE:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "PG:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "PH:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "PL:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "PS:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "PT:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "PW:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "PY:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "QA:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa allows a single stay of up to 30 days; the dataset carried e-visa with no stay. The five-designated-airports restriction for Qatari nationals is disclosed in the verification note.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "RO:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "RS:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "RU:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "RW:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "SA:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "SB:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "SC:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "SE:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "SG:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "SI:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "SK:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "SL:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "SM:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "SN:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "SO:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "SR:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "SS:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "ST:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "SV:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "SZ:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "TD:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "TG:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "TH:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "TJ:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "TL:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "TM:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "TO:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "TT:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "TV:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "TW:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "TZ:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "UA:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "UG:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "US:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "UY:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "UZ:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "VA:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "VC:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "VE:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "VN:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "VU:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "WS:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "XK:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "ZA:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "ZM:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "ZW:LY": {
+  "status": "e-visa",
+  "reason": "Libya's tourist e-Visa (launched 21 March 2024) allows a single stay of up to 30 days; the dataset carried e-visa with no stay.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "BD:LY": {
+  "status": "visa required",
+  "reason": "Libya restricts visa issuance for Bangladesh nationals (Timatic restricted-visa list); entry is not barred outright, so the dataset's 'no admission' is corrected to visa required with restricted processing.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31"
+ },
+ "IR:LY": {
+  "status": "visa required",
+  "reason": "Libya restricts visa issuance for Iran nationals (Timatic restricted-visa list); entry is not barred outright, so the dataset's 'no admission' is corrected to visa required with restricted processing.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31"
+ },
+ "PK:LY": {
+  "status": "visa required",
+  "reason": "Libya restricts visa issuance for Pakistan nationals (Timatic restricted-visa list); entry is not barred outright, so the dataset's 'no admission' is corrected to visa required with restricted processing.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31"
+ },
+ "SD:LY": {
+  "status": "visa required",
+  "reason": "Libya restricts visa issuance for Sudan nationals (Timatic restricted-visa list); entry is not barred outright, so the dataset's 'no admission' is corrected to visa required with restricted processing.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31"
+ },
+ "SY:LY": {
+  "status": "visa required",
+  "reason": "Libya restricts visa issuance for Syria nationals (Timatic restricted-visa list); entry is not barred outright, so the dataset's 'no admission' is corrected to visa required with restricted processing.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31"
+ },
+ "YE:LY": {
+  "status": "visa required",
+  "reason": "Libya restricts visa issuance for Yemen nationals (Timatic restricted-visa list); entry is not barred outright, so the dataset's 'no admission' is corrected to visa required with restricted processing.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31"
  }
 }
