@@ -25,25 +25,25 @@
   "days": 14
  },
  "SG:EG": {
-  "status": "e-visa",
-  "reason": "e-Visa eligibility is confirmed on Egypt’s official portal. A visa-on-arrival listing for this passport could not be confirmed from a primary Egyptian source, so apply online before travel to be safe.",
-  "source": "https://visa2egypt.gov.eg/eVisa/FAQ",
-  "date": "2026-10-25",
-  "days": 30
+  "status": "visa on arrival",
+  "days": 30,
+  "reason": "Supersedes the launch-era e-Visa classification: IATA Timatic lists this passport for a 30-day tourist visa on arrival, and the official e-Visa portal offers the e-Visa as an alternative. The launch classification rested on the consular visa-on-arrival list alone, which does not name this passport.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Egypt",
+  "date": "2026-10-31"
  },
  "CH:EG": {
-  "status": "e-visa",
-  "reason": "e-Visa eligibility is confirmed on Egypt’s official portal. A visa-on-arrival listing for this passport could not be confirmed from a primary Egyptian source, so apply online before travel to be safe.",
-  "source": "https://visa2egypt.gov.eg/eVisa/FAQ",
-  "date": "2026-10-25",
-  "days": 30
+  "status": "visa on arrival",
+  "days": 30,
+  "reason": "Supersedes the launch-era e-Visa classification: IATA Timatic lists this passport for a 30-day tourist visa on arrival, and the official e-Visa portal offers the e-Visa as an alternative. The launch classification rested on the consular visa-on-arrival list alone, which does not name this passport.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Egypt",
+  "date": "2026-10-31"
  },
  "CN:EG": {
-  "status": "e-visa",
-  "reason": "e-Visa eligibility is confirmed on Egypt’s official portal. A visa-on-arrival listing for this passport could not be confirmed from a primary Egyptian source, so apply online before travel to be safe.",
-  "source": "https://visa2egypt.gov.eg/eVisa/FAQ",
-  "date": "2026-10-25",
-  "days": 30
+  "status": "visa on arrival",
+  "days": 30,
+  "reason": "Supersedes the launch-era e-Visa classification: IATA Timatic lists this passport for a 30-day tourist visa on arrival, and the official e-Visa portal offers the e-Visa as an alternative. The launch classification rested on the consular visa-on-arrival list alone, which does not name this passport.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Egypt",
+  "date": "2026-10-31"
  },
  "HU:ZA": {
   "status": "visa free",
@@ -28450,6 +28450,83 @@
   "status": "visa required",
   "reason": "Libya restricts visa issuance for Yemen nationals (Timatic restricted-visa list); entry is not barred outright, so the dataset's 'no admission' is corrected to visa required with restricted processing.",
   "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
+  "date": "2026-10-31"
+ },
+ "BA:EG": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "The official e-Visa portal lists this passport for tourist e-Visas (single entry US$30, multiple entry US$65, each stay up to 30 days); the dataset left the stay blank.",
+  "source": "https://visa2egypt.gov.eg/eVisa/FAQ",
+  "date": "2026-10-31"
+ },
+ "BJ:EG": {
+  "status": "visa on arrival",
+  "days": 30,
+  "reason": "IATA Timatic lists this passport for a 30-day tourist visa on arrival; the dataset's advance-visa listing is corrected.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Egypt",
+  "date": "2026-10-31"
+ },
+ "GT:EG": {
+  "status": "visa on arrival",
+  "days": 30,
+  "reason": "IATA Timatic lists this passport for a 30-day tourist visa on arrival; the dataset's advance-visa listing is corrected.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Egypt",
+  "date": "2026-10-31"
+ },
+ "IN:EG": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "The official e-Visa portal lists this passport for tourist e-Visas (single entry US$30, multiple entry US$65, each stay up to 30 days); the dataset left the stay blank.",
+  "source": "https://visa2egypt.gov.eg/eVisa/FAQ",
+  "date": "2026-10-31"
+ },
+ "IQ:EG": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "The official e-Visa portal lists Iraq for tourist e-Visas for travellers aged 16 to 60 (single entry US$30, multiple entry US$65, each stay up to 30 days); the dataset left the stay blank.",
+  "source": "https://visa2egypt.gov.eg/eVisa/FAQ",
+  "date": "2026-10-31"
+ },
+ "KN:EG": {
+  "status": "visa required",
+  "days": null,
+  "reason": "Neither the IATA Timatic visa-on-arrival list, the official e-Visa portal list, nor the Egyptian consular visa-on-arrival list includes Saint Kitts and Nevis; the dataset's visa-on-arrival listing is corrected to advance visa, with the conditional visa-on-arrival route noted.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Egypt",
+  "date": "2026-10-31"
+ },
+ "KZ:EG": {
+  "status": "visa required",
+  "days": null,
+  "reason": "IATA Timatic requires Kazakhstan nationals to obtain a pre-entry visa with security approval; the dataset's visa-on-arrival listing is corrected.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Egypt",
+  "date": "2026-10-31"
+ },
+ "MD:EG": {
+  "status": "visa on arrival",
+  "days": 30,
+  "reason": "IATA Timatic lists Moldova for a 30-day tourist visa on arrival; the dataset's e-Visa-only listing is corrected (Moldova is also on the official e-Visa portal list).",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Egypt",
+  "date": "2026-10-31"
+ },
+ "MV:EG": {
+  "status": "visa on arrival",
+  "days": 30,
+  "reason": "IATA Timatic lists this passport for a 30-day tourist visa on arrival; the dataset's advance-visa listing is corrected.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Egypt",
+  "date": "2026-10-31"
+ },
+ "VN:EG": {
+  "status": "visa on arrival",
+  "days": 30,
+  "reason": "IATA Timatic lists this passport for a 30-day tourist visa on arrival; the dataset's advance-visa listing is corrected.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Egypt",
+  "date": "2026-10-31"
+ },
+ "XK:EG": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "The official e-Visa portal lists this passport for tourist e-Visas (single entry US$30, multiple entry US$65, each stay up to 30 days); the dataset left the stay blank.",
+  "source": "https://visa2egypt.gov.eg/eVisa/FAQ",
   "date": "2026-10-31"
  }
 }
