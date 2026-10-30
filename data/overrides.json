@@ -25745,5 +25745,66 @@
   "reason": "Interior Ministry Despacho n.º 244/GMAI/2026 (Boletim Oficial n.º 14, II Série, 23 January 2026) places Zimbabwe in the annex of nationalities who must hold a visa before arrival, in force since 1 January 2026; the seed predates the 2026 reform.",
   "source": "https://boe.incv.cv/Bulletins/View?id=89461",
   "date": "2026-10-30"
+ },
+ "BF:MR": {
+  "status": "visa free",
+  "reason": "Seed said e-Visa; Burkina Faso appears without a passport-type restriction on the Mauritanian Foreign Ministry's list of mutual visa-abolition agreements, so ordinary passports are visa-free. Mauritania publishes no maximum stay for this exemption, so the seed's 90 days is not carried over.",
+  "source": "https://www.diplomatie.gov.mr/ar/node/50",
+  "date": "2026-10-30"
+ },
+ "CI:MR": {
+  "status": "visa free",
+  "reason": "Côte d’Ivoire is visa-free under the Mauritanian Foreign Ministry's mutual-abolition list, but Mauritania publishes no maximum stay for this exemption; the seed's 90 days is withdrawn rather than shown as an official figure.",
+  "source": "https://www.diplomatie.gov.mr/ar/node/50",
+  "date": "2026-10-30"
+ },
+ "DZ:MR": {
+  "status": "visa free",
+  "reason": "Algeria is visa-free under the Mauritanian Foreign Ministry's mutual-abolition list, but Mauritania publishes no maximum stay for this exemption; the seed's 90 days is withdrawn rather than shown as an official figure.",
+  "source": "https://www.diplomatie.gov.mr/ar/node/50",
+  "date": "2026-10-30"
+ },
+ "GM:MR": {
+  "status": "visa free",
+  "reason": "Gambia is visa-free under the Mauritanian Foreign Ministry's mutual-abolition list, but Mauritania publishes no maximum stay for this exemption; the seed's 90 days is withdrawn rather than shown as an official figure.",
+  "source": "https://www.diplomatie.gov.mr/ar/node/50",
+  "date": "2026-10-30"
+ },
+ "GW:MR": {
+  "status": "visa free",
+  "reason": "Seed said e-Visa; Guinea-Bissau appears without a passport-type restriction on the Mauritanian Foreign Ministry's list of mutual visa-abolition agreements, so ordinary passports are visa-free. Mauritania publishes no maximum stay for this exemption, so the seed's 90 days is not carried over.",
+  "source": "https://www.diplomatie.gov.mr/ar/node/50",
+  "date": "2026-10-30"
+ },
+ "LY:MR": {
+  "status": "visa free",
+  "reason": "Libya is visa-free under the Mauritanian Foreign Ministry's mutual-abolition list, but Mauritania publishes no maximum stay for this exemption; the seed's 90 days is withdrawn rather than shown as an official figure.",
+  "source": "https://www.diplomatie.gov.mr/ar/node/50",
+  "date": "2026-10-30"
+ },
+ "ML:MR": {
+  "status": "visa free",
+  "reason": "Mali is visa-free under the Mauritanian Foreign Ministry's mutual-abolition list, but Mauritania publishes no maximum stay for this exemption; the seed's 90 days is withdrawn rather than shown as an official figure.",
+  "source": "https://www.diplomatie.gov.mr/ar/node/50",
+  "date": "2026-10-30"
+ },
+ "SY:MR": {
+  "status": "e-visa",
+  "reason": "Seed said a visa must be obtained in advance through a consulate; since 5 January 2025 Mauritanian embassies issue no visas at all and every non-exempt traveller uses the ANRPTS e-Visa, obtained before boarding. Syria's entry on the Foreign Ministry's list covers diplomatic and service passports only.",
+  "source": "https://www.diplomatie.gov.mr/ar/node/50",
+  "date": "2026-10-30",
+  "days": 90
+ },
+ "TD:MR": {
+  "status": "visa free",
+  "reason": "Chad is visa-free under the Mauritanian Foreign Ministry's mutual-abolition list, but Mauritania publishes no maximum stay for this exemption; the seed's 90 days is withdrawn rather than shown as an official figure.",
+  "source": "https://www.diplomatie.gov.mr/ar/node/50",
+  "date": "2026-10-30"
+ },
+ "TN:MR": {
+  "status": "visa free",
+  "reason": "Tunisia is visa-free under the Mauritanian Foreign Ministry's mutual-abolition list, but Mauritania publishes no maximum stay for this exemption; the seed's 90 days is withdrawn rather than shown as an official figure.",
+  "source": "https://www.diplomatie.gov.mr/ar/node/50",
+  "date": "2026-10-30"
  }
 }
