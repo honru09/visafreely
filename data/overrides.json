@@ -29196,5 +29196,51 @@
   "reason": "Lebanon settlement 2026-10-31: GDGS Notice 38 classification (visa on arrival 30 -> visa on arrival 90).",
   "source": "https://www.general-security.gov.lb/en/posts/38",
   "date": "2026-10-31"
+ },
+ "FM:JO": {
+  "status": "visa on arrival",
+  "days": 30,
+  "reason": "Jordan settlement 2026-10-31: MOI/Timatic classification (visa required -> visa on arrival 30).",
+  "source": "https://moi.gov.jo/En/Pages/Restricted_and_Non_Restricted_Countries_Nationalities",
+  "date": "2026-10-31"
+ },
+ "GH:JO": {
+  "status": "visa required",
+  "reason": "Jordan settlement 2026-10-31: MOI/Timatic classification (visa on arrival 30 -> visa required).",
+  "source": "https://moi.gov.jo/En/Pages/Restricted_and_Non_Restricted_Countries_Nationalities",
+  "date": "2026-10-31"
+ },
+ "HK:JO": {
+  "status": "visa free",
+  "days": 14,
+  "reason": "Jordan settlement 2026-10-31: MOI/Timatic classification (visa on arrival 30 -> visa free 14).",
+  "source": "https://www.rj.com/en/travel-requirements-and-restrictions",
+  "date": "2026-10-31"
+ },
+ "MM:JO": {
+  "status": "visa required",
+  "reason": "Jordan settlement 2026-10-31: MOI/Timatic classification (visa on arrival 30 -> visa required).",
+  "source": "https://moi.gov.jo/En/Pages/Restricted_and_Non_Restricted_Countries_Nationalities",
+  "date": "2026-10-31"
+ },
+ "TL:JO": {
+  "status": "visa required",
+  "reason": "Jordan settlement 2026-10-31: MOI/Timatic classification (visa on arrival 30 -> visa required).",
+  "source": "https://www.rj.com/en/travel-requirements-and-restrictions",
+  "date": "2026-10-31"
+ },
+ "TN:JO": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Jordan settlement 2026-10-31: MOI/Timatic classification (visa on arrival 30 -> visa free 90).",
+  "source": "https://www.rj.com/en/travel-requirements-and-restrictions",
+  "date": "2026-10-31"
+ },
+ "UZ:JO": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Jordan settlement 2026-10-31: MOI/Timatic classification (visa on arrival 30 -> visa free 30).",
+  "source": "https://www.gazeta.uz/en/2025/08/29/jordan/",
+  "date": "2026-10-31"
  }
 }

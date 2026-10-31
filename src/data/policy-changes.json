@@ -64,6 +64,14 @@
   "source_name": "GOV.UK — Egypt travel advice"
  },
  {
+  "date": "2026-07-22",
+  "destination": "JO",
+  "title": "Jordan extends prior-approval exemption to families of Syrian investors",
+  "summary": "The Ministry of Interior announced on 22 July 2026 that spouses and under-18 children of Syrian Chambers of Commerce Premium and First-Class card holders may enter Jordan without prior approval, extending the existing investor exemption to their immediate families.",
+  "source": "https://petra.gov.jo/en/news/jordan-eases-entry-rules-for-families-of-syrian-investors",
+  "source_name": "Petra — Jordan eases entry rules for families of Syrian investors"
+ },
+ {
   "date": "2026-07-01",
   "destination": "CV",
   "source": "https://www.gov.cv/en/paises-isentos-de-visto-para-cabo-verde",
@@ -152,6 +160,14 @@
   "title": "Niger bars US citizens indefinitely"
  },
  {
+  "date": "2025-12-13",
+  "destination": "JO",
+  "title": "Russia–Jordan mutual visa exemption in force",
+  "summary": "Russian ordinary-passport holders are visa-exempt for Jordan for up to 30 days per visit and 90 days per calendar year for tourism, private visits or short business under the mutual agreement that took effect on 13 December 2025.",
+  "source": "https://jordan.mid.ru/en/consular-services/vizovye_voprosy/",
+  "source_name": "Embassy of Russia in Jordan — mutual visa exemption agreement"
+ },
+ {
   "date": "2025-11-25",
   "destination": "DZ",
   "title": "Algeria grants 14-day visa-free access to Hong Kong SAR passport holders",
@@ -160,12 +176,28 @@
   "source_name": "Government of the Hong Kong SAR — visa-free access announcement (25 November 2025)"
  },
  {
+  "date": "2025-09-25",
+  "destination": "JO",
+  "title": "Uzbekistan–Jordan mutual visa exemption in force",
+  "summary": "Uzbek ordinary-passport holders are visa-exempt for Jordan for up to 30 days under the mutual agreement that took effect on 25 September 2025; previously they used visa on arrival.",
+  "source": "https://www.gazeta.uz/en/2025/08/29/jordan/",
+  "source_name": "Gazeta.uz — Uzbekistan, Jordan to introduce visa-free stay (MFA statement)"
+ },
+ {
   "date": "2025-09-11",
   "destination": "BF",
   "source": "https://www.visaburkina.bf/",
   "source_name": "eVisaburkina — official e-Visa portal",
   "summary": "A cabinet decision of 11 September 2025 waived visa fees for nationals of all African states. The application itself is still required — Burkinabè visas run through the eVisaburkina portal with central approval — but the fee line for African passports dropped to zero.",
   "title": "Burkina Faso waives visa fees for all African citizens"
+ },
+ {
+  "date": "2025-09-11",
+  "destination": "JO",
+  "title": "Jordan lifts prior-approval restrictions for Albania and Moldova",
+  "summary": "The Ministry of Interior page updated on 11 September 2025 records the minister’s decisions lifting prior-approval restrictions on Albanian and Moldovan passports; both now use visa on arrival. The original signing date of the decisions is not published.",
+  "source": "https://moi.gov.jo/En/Pages/Restricted_and_Non_Restricted_Countries_Nationalities",
+  "source_name": "Jordan Ministry of Interior — Restricted and Non-Restricted Countries"
  },
  {
   "date": "2025-09-01",
@@ -206,5 +238,13 @@
   "summary": "From 5 January 2025 every traveller who needs a visa for Mauritania must obtain an e-Visa from the ANRPTS portal (anrpts.gov.mr) before boarding; the walk-up visa on arrival was abolished and Mauritanian embassies have since stopped issuing visas altogether. The fee is paid in cash on arrival (from €40 / $45 for 30 days for Arab and African nationals, €55 / $60 for other nationalities). Eleven nationalities — including Senegal, Mali, Niger, Algeria, Tunisia and Libya — remain visa-free under mutual abolition agreements.",
   "source": "https://www.diplomatie.gov.mr/ar/node/50",
   "source_name": "Ministry of Foreign Affairs of Mauritania — visa page"
+ },
+ {
+  "date": "2024-10-29",
+  "destination": "JO",
+  "title": "Jordan lifts prior-approval restriction for Libyan nationals",
+  "summary": "Libya no longer appears on the Ministry of Interior restricted list; Libyan passports are visa on arrival (30 days, 40 JOD). The restriction was lifted on 29 October 2024, reported at the time as a medical-tourism measure alongside resumed Royal Jordanian service to Tripoli.",
+  "source": "https://moi.gov.jo/En/Pages/Restricted_and_Non_Restricted_Countries_Nationalities",
+  "source_name": "Jordan Ministry of Interior — Restricted and Non-Restricted Countries"
  }
 ]
