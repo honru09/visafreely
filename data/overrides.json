@@ -30549,5 +30549,1257 @@
   "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
   "date": "2026-10-31",
   "days": 30
+ },
+ "AD:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "AE:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "AG:PS": {
+  "status": "visa required",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (consular / prior-approval); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31"
+ },
+ "AL:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "AM:PS": {
+  "status": "visa required",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (consular / prior-approval); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31"
+ },
+ "AO:PS": {
+  "status": "e-visa",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (eVisa-B2); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "AR:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "AT:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "AU:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "AZ:PS": {
+  "status": "visa required",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (consular / prior-approval); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31"
+ },
+ "BA:PS": {
+  "status": "visa required",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (consular / prior-approval); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31"
+ },
+ "BB:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "BE:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "BF:PS": {
+  "status": "e-visa",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (eVisa-B2); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "BG:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "BH:PS": {
+  "status": "visa required",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (consular / prior-approval); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31"
+ },
+ "BI:PS": {
+  "status": "e-visa",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (eVisa-B2); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "BJ:PS": {
+  "status": "e-visa",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (eVisa-B2); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "BN:PS": {
+  "status": "e-visa",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (eVisa-B2); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "BO:PS": {
+  "status": "visa required",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (consular / prior-approval); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31"
+ },
+ "BR:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "BS:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "BT:PS": {
+  "status": "e-visa",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (eVisa-B2); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "BW:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "BY:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "BZ:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "CA:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "CD:PS": {
+  "status": "e-visa",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (eVisa-B2); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "CF:PS": {
+  "status": "e-visa",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (eVisa-B2); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "CG:PS": {
+  "status": "e-visa",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (eVisa-B2); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "CH:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "CI:PS": {
+  "status": "e-visa",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (eVisa-B2); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "CL:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "CM:PS": {
+  "status": "e-visa",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (eVisa-B2); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "CN:PS": {
+  "status": "visa required",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (consular / prior-approval); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31"
+ },
+ "CO:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "CR:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "CU:PS": {
+  "status": "e-visa",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (eVisa-B2); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "CV:PS": {
+  "status": "e-visa",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (eVisa-B2); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "CY:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "CZ:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "DE:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "DJ:PS": {
+  "status": "e-visa",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (eVisa-B2); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "DK:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "DM:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "DO:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "DZ:PS": {
+  "status": "visa required",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (consular / prior-approval); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31"
+ },
+ "EC:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "EE:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "EG:PS": {
+  "status": "visa required",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (consular / prior-approval); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31"
+ },
+ "ES:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "ET:PS": {
+  "status": "e-visa",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (eVisa-B2); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "FI:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "FJ:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "FM:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "FR:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "GA:PS": {
+  "status": "e-visa",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (eVisa-B2); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "GB:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "GD:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "GE:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "GH:PS": {
+  "status": "e-visa",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (eVisa-B2); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "GM:PS": {
+  "status": "e-visa",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (eVisa-B2); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "GN:PS": {
+  "status": "e-visa",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (eVisa-B2); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "GQ:PS": {
+  "status": "e-visa",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (eVisa-B2); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "GR:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "GT:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "GW:PS": {
+  "status": "e-visa",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (eVisa-B2); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "GY:PS": {
+  "status": "visa required",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (consular / prior-approval); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31"
+ },
+ "HK:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "HN:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "HR:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "HT:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "HU:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "ID:PS": {
+  "status": "visa required",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (consular / prior-approval); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31"
+ },
+ "IE:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "IN:PS": {
+  "status": "e-visa",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (eVisa-B2); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "IS:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "IT:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "JM:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "JP:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "KE:PS": {
+  "status": "e-visa",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (eVisa-B2); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "KG:PS": {
+  "status": "e-visa",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (eVisa-B2); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "KH:PS": {
+  "status": "e-visa",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (eVisa-B2); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "KI:PS": {
+  "status": "visa required",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (consular / prior-approval); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31"
+ },
+ "KN:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "KP:PS": {
+  "status": "visa required",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (consular / prior-approval); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31"
+ },
+ "KR:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "KW:PS": {
+  "status": "visa required",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (consular / prior-approval); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31"
+ },
+ "KZ:PS": {
+  "status": "e-visa",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (eVisa-B2); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "LA:PS": {
+  "status": "e-visa",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (eVisa-B2); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "LB:PS": {
+  "status": "visa required",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (consular / prior-approval); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31"
+ },
+ "LC:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "LI:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "LK:PS": {
+  "status": "e-visa",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (eVisa-B2); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "LR:PS": {
+  "status": "e-visa",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (eVisa-B2); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "LS:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "LT:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "LU:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "LV:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "LY:PS": {
+  "status": "visa required",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (consular / prior-approval); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31"
+ },
+ "MA:PS": {
+  "status": "visa required",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (consular / prior-approval); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31"
+ },
+ "MC:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "MD:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "ME:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "MG:PS": {
+  "status": "e-visa",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (eVisa-B2); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "MH:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "MK:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "ML:PS": {
+  "status": "e-visa",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (eVisa-B2); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "MN:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "MO:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "MT:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "MU:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "MV:PS": {
+  "status": "e-visa",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (eVisa-B2); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "MW:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "MX:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "MY:PS": {
+  "status": "visa required",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (consular / prior-approval); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31"
+ },
+ "MZ:PS": {
+  "status": "e-visa",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (eVisa-B2); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "NA:PS": {
+  "status": "e-visa",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (eVisa-B2); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "NI:PS": {
+  "status": "e-visa",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (eVisa-B2); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "NL:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "NO:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "NP:PS": {
+  "status": "visa required",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (consular / prior-approval); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31"
+ },
+ "NR:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "NZ:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "OM:PS": {
+  "status": "visa required",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (consular / prior-approval); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31"
+ },
+ "PA:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "PE:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "PG:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "PH:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "PL:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "PT:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "PW:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "PY:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "QA:PS": {
+  "status": "visa required",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (consular / prior-approval); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31"
+ },
+ "RO:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "RS:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "RU:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "RW:PS": {
+  "status": "e-visa",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (eVisa-B2); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "SA:PS": {
+  "status": "visa required",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (consular / prior-approval); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31"
+ },
+ "SB:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "SC:PS": {
+  "status": "e-visa",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (eVisa-B2); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "SE:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "SG:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "SI:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "SK:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "SL:PS": {
+  "status": "e-visa",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (eVisa-B2); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "SM:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "SN:PS": {
+  "status": "e-visa",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (eVisa-B2); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "SO:PS": {
+  "status": "visa required",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (consular / prior-approval); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31"
+ },
+ "SR:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "SS:PS": {
+  "status": "e-visa",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (eVisa-B2); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "ST:PS": {
+  "status": "e-visa",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (eVisa-B2); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "SV:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "SY:PS": {
+  "status": "visa required",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (consular / prior-approval); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31"
+ },
+ "SZ:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "TG:PS": {
+  "status": "e-visa",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (eVisa-B2); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "TH:PS": {
+  "status": "e-visa",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (eVisa-B2); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "TJ:PS": {
+  "status": "e-visa",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (eVisa-B2); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "TL:PS": {
+  "status": "e-visa",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (eVisa-B2); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "TM:PS": {
+  "status": "visa required",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (consular / prior-approval); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31"
+ },
+ "TN:PS": {
+  "status": "visa required",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (consular / prior-approval); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31"
+ },
+ "TO:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "TR:PS": {
+  "status": "visa required",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (consular / prior-approval); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31"
+ },
+ "TT:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "TV:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "TW:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "TZ:PS": {
+  "status": "e-visa",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (eVisa-B2); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "UA:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "UG:PS": {
+  "status": "e-visa",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (eVisa-B2); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "US:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "UY:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "UZ:PS": {
+  "status": "e-visa",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (eVisa-B2); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "VA:PS": {
+  "status": "visa required",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (consular / prior-approval); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31"
+ },
+ "VC:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "VE:PS": {
+  "status": "e-visa",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (eVisa-B2); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "VN:PS": {
+  "status": "e-visa",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (eVisa-B2); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "VU:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "WS:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "XK:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "YE:PS": {
+  "status": "visa required",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (consular / prior-approval); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31"
+ },
+ "ZA:PS": {
+  "status": "eta",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (ETA-IL); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "ZM:PS": {
+  "status": "e-visa",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (eVisa-B2); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
+ },
+ "ZW:PS": {
+  "status": "e-visa",
+  "reason": "Palestine imposes no visa beyond Israel's (Wikipedia); class mirrors the settled Israel column (eVisa-B2); seed value incorrect.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
+  "date": "2026-10-31",
+  "days": 90
  }
 }
