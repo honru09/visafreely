@@ -1,0 +1,136 @@
+---
+import Base from '../layouts/Base.astro';
+
+const snippet =
+  '<iframe src="https://visafreely.com/embed/" title="Visa requirements checker by VisaFreely" width="100%" height="430" style="border:0;width:100%;max-width:560px" loading="lazy"></iframe>';
+---
+
+<Base
+  title="Free Visa Checker Widget for Travel Blogs — visafreely"
+  description="Embed visafreely's visa-requirements checker on your blog or travel site for free: one iframe, no signup, always-current data with verified dates."
+>
+  <h1>Put the visa checker on your site</h1>
+  <p class="lede">
+    Writing about a route your readers keep asking visa questions about? Drop this checker into the
+    post and they can look the answer up without leaving your page. It is free, needs no signup or
+    API key, and it runs on the same data as this site — including the “last verified” dates, so it
+    never goes stale when a rule changes.
+  </p>
+
+  <h2>Try it</h2>
+  <p>This is the widget itself, live:</p>
+  <iframe
+    class="widget-demo"
+    src="/embed/?p=JP&d=TH"
+    title="Visa requirements checker by VisaFreely — live demo"
+    loading="lazy"></iframe>
+
+  <h2>Add it to your site</h2>
+  <p>
+    Copy this snippet and paste it into any HTML page or blog post where you want the checker to
+    appear:
+  </p>
+  <div class="snippet-box">
+    <textarea id="widget-snippet" readonly rows="4" spellcheck="false">{snippet}</textarea>
+    <button type="button" class="copy-btn" id="widget-copy">Copy snippet</button>
+  </div>
+  <p class="small muted">
+    The frame is 560px wide at most and 430px tall; it shrinks to fit narrow screens. On WordPress
+    it goes in a “Custom HTML” block, on other platforms in any HTML/embed field.
+  </p>
+
+  <h2>Good to know</h2>
+  <div class="card">
+    <ul style="margin:0; padding-left:20px;">
+      <li>
+        <strong>Always current.</strong> The widget reads the live visafreely index — the same one
+        behind the checker on our home page. Corrections and new verifications show up automatically;
+        there is nothing to update on your side.
+      </li>
+      <li>
+        <strong>Honest answers.</strong> Each result shows the requirement, the maximum stay, and
+        either the date the pair was last verified against an official source or a plain note that
+        the value comes from the dataset and is not yet individually verified.
+      </li>
+      <li>
+        <strong>Pre-select a route.</strong> Writing about one specific trip? Add
+        <code>?p=JP&amp;d=TH</code> to the embed address (two-letter country codes) and the widget
+        opens with that route already answered — the demo above does exactly this.
+      </li>
+      <li>
+        <strong>The full page is one tap away.</strong> Every result links to the pair's full
+        requirement page here, with the requirement details, official source and related routes.
+      </li>
+    </ul>
+  </div>
+  <p>
+    Questions about the data behind it? See <a href="/about/">how verification works</a>.
+  </p>
+
+  <style>
+    .widget-demo {
+      border: 0;
+      width: 100%;
+      max-width: 560px;
+      height: 430px;
+      display: block;
+      background: transparent;
+    }
+    .snippet-box {
+      display: flex;
+      gap: 10px;
+      align-items: flex-start;
+      flex-wrap: wrap;
+      margin: 12px 0 6px;
+    }
+    .snippet-box textarea {
+      flex: 1 1 420px;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-size: 13px;
+      line-height: 1.55;
+      color: var(--ink);
+      background: var(--soft);
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      padding: 12px 14px;
+      resize: vertical;
+    }
+    .copy-btn {
+      background: var(--brand);
+      color: #fff;
+      font: inherit;
+      font-weight: 700;
+      font-size: 14.5px;
+      padding: 10px 18px;
+      border: 0;
+      border-radius: 999px;
+      cursor: pointer;
+      white-space: nowrap;
+    }
+    .copy-btn:hover { background: var(--brand-deep); }
+  </style>
+  <script is:inline>
+    (function () {
+      var btn = document.getElementById('widget-copy');
+      var box = document.getElementById('widget-snippet');
+      if (!btn || !box) return;
+      btn.addEventListener('click', function () {
+        function done() {
+          btn.textContent = 'Copied ✓';
+          setTimeout(function () { btn.textContent = 'Copy snippet'; }, 2000);
+        }
+        if (navigator.clipboard && navigator.clipboard.writeText) {
+          navigator.clipboard.writeText(box.value).then(done, function () {
+            box.select();
+            document.execCommand('copy');
+            done();
+          });
+        } else {
+          box.select();
+          document.execCommand('copy');
+          done();
+        }
+      });
+    })();
+  </script>
+</Base>

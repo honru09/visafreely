@@ -1,0 +1,281 @@
+---
+// Embeddable visa-requirements checker — designed to be iframed by third-party
+// blogs and travel sites (see /widget/ for the copy-paste snippet). Chrome-light
+// on purpose: no site header/footer, just the checker card on a transparent
+// background so it sits cleanly inside other people's pages.
+// Data layer is the site's own: country options are rendered from lib/data at
+// build time, verified dates ship via the same __VF_VERIFIED map the homepage
+// Checker uses, and lookups run against the same /check.json index.
+import Stamp from '../components/Stamp.astro';
+import { countries, verifiedPairDates, flagEmoji } from '../lib/data';
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Visa requirements checker — VisaFreely</title>
+    <meta
+      name="description"
+      content="Check whether a passport needs a visa for a destination — visa free, visa on arrival, e-Visa, ETA or visa required, with verified dates."
+    />
+    <meta name="robots" content="noindex, nofollow" />
+    <link rel="icon" href="/favicon.ico" sizes="any" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <style>
+      @font-face { font-family: "Inter"; src: url("/fonts/inter-400.woff2") format("woff2"); font-weight: 400; font-style: normal; font-display: swap; }
+      @font-face { font-family: "Inter"; src: url("/fonts/inter-600.woff2") format("woff2"); font-weight: 600; font-style: normal; font-display: swap; }
+      @font-face { font-family: "Inter"; src: url("/fonts/inter-700.woff2") format("woff2"); font-weight: 700; font-style: normal; font-display: swap; }
+      @font-face { font-family: "Inter"; src: url("/fonts/inter-800.woff2") format("woff2"); font-weight: 800; font-style: normal; font-display: swap; }
+      :root {
+        --font: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        --ink: #0a2540;
+        --ink-2: #3d556e;
+        --muted: #64748b;
+        --card: #ffffff;
+        --line: #e6e1d4;
+        --line-strong: #d5cfbc;
+        --brand: #0b6e4f;
+        --brand-deep: #083f2e;
+        --f: #0b6e4f; --a: #0e7490; --e: #b45309; --t: #6d28d9; --r: #b3261e; --n: #57534e;
+        --f-bg: #e9f6ef; --a-bg: #e6f4f8; --e-bg: #fdf3e3; --t-bg: #f1eafd; --r-bg: #fdeceb; --n-bg: #f0efed;
+      }
+      * { box-sizing: border-box; }
+      html, body { margin: 0; padding: 0; }
+      body {
+        font-family: var(--font);
+        color: var(--ink);
+        background: transparent;
+        line-height: 1.5;
+        font-size: 15px;
+        -webkit-font-smoothing: antialiased;
+      }
+      a { color: var(--brand); }
+      :focus-visible { outline: 2px solid var(--brand); outline-offset: 2px; border-radius: 4px; }
+      .vf-card {
+        background: var(--card);
+        border: 1px solid var(--line);
+        border-radius: 14px;
+        padding: 16px 18px 12px;
+        max-width: 560px;
+        margin: 0 auto;
+      }
+      .vf-head {
+        display: flex; align-items: center; gap: 8px;
+        color: var(--ink);
+        margin-bottom: 12px;
+      }
+      .vf-head .vf-mark { color: var(--brand-deep); display: flex; }
+      .vf-head strong { font-size: 15.5px; font-weight: 800; letter-spacing: -0.01em; }
+      .vf-head span { color: var(--muted); font-size: 13px; margin-left: auto; white-space: nowrap; }
+      .vf-fields { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+      @media (max-width: 430px) { .vf-fields { grid-template-columns: 1fr; } }
+      .vf-field label {
+        display: block; font-size: 12.5px; font-weight: 600; color: var(--ink-2);
+        margin-bottom: 4px;
+      }
+      .vf-field select {
+        width: 100%;
+        font: inherit; font-size: 15px; color: var(--ink);
+        background: #fff;
+        border: 1px solid var(--line-strong);
+        border-radius: 9px;
+        padding: 9px 10px;
+        appearance: auto;
+      }
+      .vf-result { margin-top: 14px; min-height: 118px; }
+      .vf-hint { color: var(--muted); font-size: 14px; padding: 14px 2px; }
+      .vf-verdict {
+        border: 1px solid var(--line);
+        border-left: 5px solid var(--muted);
+        border-radius: 10px;
+        padding: 12px 14px;
+      }
+      .vf-verdict.s-F { border-left-color: var(--f); background: var(--f-bg); }
+      .vf-verdict.s-A { border-left-color: var(--a); background: var(--a-bg); }
+      .vf-verdict.s-E { border-left-color: var(--e); background: var(--e-bg); }
+      .vf-verdict.s-T { border-left-color: var(--t); background: var(--t-bg); }
+      .vf-verdict.s-R { border-left-color: var(--r); background: var(--r-bg); }
+      .vf-verdict.s-N { border-left-color: var(--n); background: var(--n-bg); }
+      .vf-route { margin: 0 0 2px; font-size: 13px; color: var(--ink-2); font-weight: 600; }
+      .vf-big { font-size: 20px; font-weight: 800; letter-spacing: -0.01em; line-height: 1.25; }
+      .vf-sub { font-size: 13.5px; color: var(--ink-2); margin-top: 2px; }
+      .vf-stamp { font-size: 12.5px; color: var(--muted); margin-top: 8px; }
+      .vf-stamp.ok { color: var(--brand); font-weight: 600; }
+      .vf-cta { margin-top: 10px; }
+      .vf-cta a {
+        display: inline-block;
+        background: var(--brand); color: #fff; font-weight: 700; font-size: 13.5px;
+        padding: 7px 14px; border-radius: 999px; text-decoration: none;
+      }
+      .vf-cta a:hover { background: var(--brand-deep); }
+      .vf-foot {
+        margin-top: 12px; padding-top: 9px;
+        border-top: 1px solid var(--line);
+        font-size: 12.5px; color: var(--muted);
+        display: flex; justify-content: space-between; gap: 10px; flex-wrap: wrap;
+      }
+      .vf-foot a { font-weight: 600; text-decoration: none; }
+      .vf-foot a:hover { text-decoration: underline; }
+    </style>
+    <script is:inline define:vars={{ verifiedPairDates }}>window.__VF_VERIFIED = verifiedPairDates;</script>
+  </head>
+  <body>
+    <div class="vf-card">
+      <div class="vf-head">
+        <span class="vf-mark"><Stamp size={22} /></span>
+        <strong>Visa requirement checker</strong>
+        <span>199 passports</span>
+      </div>
+      <form id="vf-form" aria-label="Visa requirement checker">
+        <div class="vf-fields">
+          <div class="vf-field">
+            <label for="vf-passport">I hold a passport from</label>
+            <select id="vf-passport">
+              <option value="">Choose a passport…</option>
+              {
+                countries.map((c) => (
+                  <option value={c.code} data-slug={c.slug} data-name={c.name}>
+                    {flagEmoji(c.code)} {c.name}
+                  </option>
+                ))
+              }
+            </select>
+          </div>
+          <div class="vf-field">
+            <label for="vf-destination">I want to visit</label>
+            <select id="vf-destination">
+              <option value="">Choose a destination…</option>
+              {
+                countries.map((c) => (
+                  <option value={c.code} data-slug={c.slug} data-name={c.name}>
+                    {flagEmoji(c.code)} {c.name}
+                  </option>
+                ))
+              }
+            </select>
+          </div>
+        </div>
+      </form>
+      <div class="vf-result" id="vf-result" aria-live="polite">
+        <p class="vf-hint">Pick a passport and a destination to see the requirement.</p>
+      </div>
+      <div class="vf-foot">
+        <span>
+          Powered by{' '}
+          <a href="https://visafreely.com/" target="_blank" rel="noopener">VisaFreely</a>{' '}
+          — visa data checked against official sources
+        </span>
+        <a href="https://visafreely.com/widget/" target="_blank" rel="noopener">Get this widget</a>
+      </div>
+    </div>
+
+    <script is:inline>
+      (function () {
+        var selP = document.getElementById('vf-passport');
+        var selD = document.getElementById('vf-destination');
+        var out = document.getElementById('vf-result');
+        var VERIFIED = window.__VF_VERIFIED || {};
+        var SITE = 'https://visafreely.com';
+        var MONTHS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+        var idx = null;
+        function esc(s) {
+          return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+        }
+        function fmtDate(iso) {
+          var m = /^(\d{4})-(\d{2})-(\d{2})$/.exec(iso || '');
+          if (!m) return iso;
+          return parseInt(m[3], 10) + ' ' + MONTHS[parseInt(m[2], 10) - 1] + ' ' + m[1];
+        }
+        function chosen(sel) {
+          var o = sel.options[sel.selectedIndex];
+          if (!o || !o.value) return null;
+          return { code: o.value, slug: o.getAttribute('data-slug'), name: o.getAttribute('data-name') };
+        }
+        function hint(msg) {
+          out.innerHTML = '<p class="vf-hint">' + esc(msg) + '</p>';
+        }
+        function check() {
+          var p = chosen(selP), d = chosen(selD);
+          if (!p || !d) {
+            hint('Pick a passport and a destination to see the requirement.');
+            return;
+          }
+          if (p.code === d.code) {
+            out.innerHTML =
+              '<div class="vf-verdict"><p class="vf-route">' + esc(p.name) + ' passport → ' + esc(d.name) + '</p>' +
+              '<div class="vf-big">That is your own country</div>' +
+              '<div class="vf-sub">No visa is involved — you already live there.</div></div>';
+            return;
+          }
+          if (!idx) {
+            hint('Loading the visa index…');
+            return;
+          }
+          var row = (idx.rows[p.code] || []).find(function (r) {
+            return idx.countries[r[0]].code === d.code;
+          });
+          if (!row) {
+            hint('No data for this pair.');
+            return;
+          }
+          var code = row[1], days = row[2];
+          var verdict = idx.status[code];
+          if (code === 'F' && days) verdict = 'Visa free for ' + days + ' days';
+          else if (code === 'A' && days) verdict = 'Visa on arrival (up to ' + days + ' days)';
+          else if (code === 'E') verdict = 'e-Visa required before travel';
+          else if (code === 'T') verdict = 'Electronic travel authorisation required';
+          var vDate = VERIFIED[p.code + ':' + d.code];
+          var stamp = vDate
+            ? '<div class="vf-stamp ok">✓ Verified ' + esc(fmtDate(vDate)) + ' against an official source</div>'
+            : '<div class="vf-stamp">Dataset value — not yet individually verified</div>';
+          out.innerHTML =
+            '<div class="vf-verdict s-' + code + '">' +
+            '<p class="vf-route">' + esc(p.name) + ' passport → ' + esc(d.name) + '</p>' +
+            '<div class="vf-big">' + esc(verdict) + '</div>' +
+            '<div class="vf-sub">' +
+            (days ? 'Maximum stay ' + days + ' days' : 'See the full page for stay details') +
+            '</div>' +
+            stamp +
+            '<div class="vf-cta"><a href="' + SITE + '/visa/' + p.slug + '/' + d.slug + '/" target="_blank" rel="noopener">Full requirement page →</a></div>' +
+            '</div>';
+        }
+        // Optional preselect: /embed/?p=JP&d=TH (2-letter codes or slugs).
+        (function preselect() {
+          var q = new URLSearchParams(location.search);
+          function set(sel, want) {
+            if (!want) return;
+            want = want.toLowerCase();
+            for (var i = 0; i < sel.options.length; i++) {
+              var o = sel.options[i];
+              if (o.value.toLowerCase() === want || (o.getAttribute('data-slug') || '') === want) {
+                sel.selectedIndex = i;
+                return;
+              }
+            }
+          }
+          set(selP, q.get('p'));
+          set(selD, q.get('d'));
+        })();
+        selP.addEventListener('change', check);
+        selD.addEventListener('change', check);
+        document.getElementById('vf-form').addEventListener('submit', function (ev) {
+          ev.preventDefault();
+          check();
+        });
+        fetch('/check.json')
+          .then(function (r) {
+            return r.json();
+          })
+          .then(function (data) {
+            idx = data;
+            check();
+          })
+          .catch(function () {
+            hint('The checker could not load its index — please use the checker on visafreely.com.');
+          });
+      })();
+    </script>
+  </body>
+</html>
