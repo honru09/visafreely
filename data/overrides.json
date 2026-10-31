@@ -29242,5 +29242,1312 @@
   "reason": "Jordan settlement 2026-10-31: MOI/Timatic classification (visa on arrival 30 -> visa free 30).",
   "source": "https://www.gazeta.uz/en/2025/08/29/jordan/",
   "date": "2026-10-31"
+ },
+ "AD:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 11; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "AE:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 6; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "AF:SY": {
+  "status": "visa required",
+  "reason": "Restricted nationality: prior security clearance required (Decision No. 128 Group 7 fee paid at port after approval); seed e-visa incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31"
+ },
+ "AG:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 11; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "AL:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 4; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "AM:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 4; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "AO:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 3; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "AR:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 7; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "AT:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 5; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "AU:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 7; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "AZ:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 3; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "BA:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 4; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "BB:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 11; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "BD:SY": {
+  "status": "visa required",
+  "reason": "Restricted nationality: prior security clearance required (Decision No. 128 Group 11 fee paid at port after approval); seed e-visa incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31"
+ },
+ "BE:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 5; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "BF:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 4; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "BG:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 5; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "BH:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 5; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "BI:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 7; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "BJ:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 4; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "BN:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 11; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "BO:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 11; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "BR:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 4; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "BS:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 5; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "BT:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 11; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "BW:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 3; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "BY:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 5; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "BZ:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 11; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "CA:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 6; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "CD:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 11; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "CF:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 4; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "CG:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 9; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "CH:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 5; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "CI:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 4; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "CL:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 4; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "CM:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 7; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "CN:SY": {
+  "status": "visa required",
+  "reason": "Restricted nationality: prior security clearance required (Decision No. 128 Group 3 fee paid at port after approval); seed e-visa incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31"
+ },
+ "CO:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 4; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "CR:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 11; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "CU:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 3; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "CV:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 4; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "CY:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 4; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "CZ:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 5; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "DE:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 5; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "DJ:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 6; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "DK:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 5; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "DM:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 11; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "DO:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 7; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "DZ:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 3; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "EC:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 3; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "EE:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 11; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "EG:SY": {
+  "status": "visa required",
+  "reason": "Restricted nationality: prior security clearance required (Decision No. 128 Group 3 fee paid at port after approval); seed e-visa incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31"
+ },
+ "ER:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 11; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "ES:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 5; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "ET:SY": {
+  "status": "visa required",
+  "reason": "Restricted nationality: prior security clearance required (Decision No. 128 Group 4 fee paid at port after approval); seed e-visa incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31"
+ },
+ "FI:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 5; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "FJ:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 7; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "FM:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 11; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "FR:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 5; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "GA:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 8; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "GB:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 7; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "GD:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 4; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "GE:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 4; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "GH:SY": {
+  "status": "visa required",
+  "reason": "Restricted nationality: prior security clearance required (Decision No. 128 Group 7 fee paid at port after approval); seed e-visa incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31"
+ },
+ "GM:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 4; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "GN:SY": {
+  "status": "visa required",
+  "reason": "Restricted nationality: prior security clearance required (Decision No. 128 Group 4 fee paid at port after approval); seed e-visa incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31"
+ },
+ "GQ:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 7; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "GR:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 5; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "GT:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 11; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "GW:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 5; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "GY:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 4; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "HN:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 11; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "HR:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 11; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "HT:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 11; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "HU:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 5; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "ID:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 4; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "IE:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 11; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "IN:SY": {
+  "status": "visa required",
+  "reason": "Restricted nationality: prior security clearance required (Decision No. 128 Group 4 fee paid at port after approval); seed e-visa incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31"
+ },
+ "IQ:SY": {
+  "status": "visa required",
+  "reason": "Restricted nationality: prior security clearance required (Decision No. 128 Group 4 fee paid at port after approval); seed e-visa incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31"
+ },
+ "IR:SY": {
+  "status": "visa required",
+  "reason": "Restricted nationality: prior security clearance required (Decision No. 128 Group 10 fee paid at port after approval); seed e-visa incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31"
+ },
+ "IS:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 5; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "IT:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 5; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "JM:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 4; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "JP:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 4; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "KE:SY": {
+  "status": "visa required",
+  "reason": "Restricted nationality: prior security clearance required (Decision No. 128 Group 7 fee paid at port after approval); seed e-visa incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31"
+ },
+ "KG:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 8; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "KH:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 3; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "KI:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 11; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "KM:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 4; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "KN:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 11; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "KP:SY": {
+  "status": "visa required",
+  "reason": "Restricted nationality: prior security clearance required (Decision No. 128 Group 9 fee paid at port after approval); seed e-visa incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31"
+ },
+ "KR:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 4; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "KW:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 11; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "KZ:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 5; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "LA:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 4; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "LC:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 11; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "LI:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 11; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "LK:SY": {
+  "status": "visa required",
+  "reason": "Restricted nationality: prior security clearance required (Decision No. 128 Group 3 fee paid at port after approval); seed e-visa incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31"
+ },
+ "LR:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 4; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "LS:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 5; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "LT:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 5; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "LU:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 4; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "LV:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 5; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "LY:SY": {
+  "status": "visa required",
+  "reason": "Restricted nationality: prior security clearance required (Decision No. 128 Group 4 fee paid at port after approval); seed e-visa incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31"
+ },
+ "MA:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 3; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "MC:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 11; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "MD:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 5; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "ME:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 3; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "MG:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 11; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "MH:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 9; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "MK:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 5; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "ML:SY": {
+  "status": "visa required",
+  "reason": "Restricted nationality: prior security clearance required (Decision No. 128 Group 4 fee paid at port after approval); seed e-visa incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31"
+ },
+ "MM:SY": {
+  "status": "visa required",
+  "reason": "Restricted nationality: prior security clearance required (Decision No. 128 Group 4 fee paid at port after approval); seed e-visa incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31"
+ },
+ "MN:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 3; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "MT:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 5; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "MU:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 3; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "MV:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 11; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "MW:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 4; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "MX:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 4; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "MY:SY": {
+  "status": "visa free",
+  "reason": "Decision No. 128 Group 1 (no visa needed); seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31"
+ },
+ "MZ:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 4; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "NA:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 3; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "NE:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 4; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "NG:SY": {
+  "status": "visa required",
+  "reason": "Restricted nationality: prior security clearance required (Decision No. 128 Group 7 fee paid at port after approval); seed e-visa incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31"
+ },
+ "NI:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 11; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "NL:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 5; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "NO:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 5; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "NP:SY": {
+  "status": "visa required",
+  "reason": "Restricted nationality: prior security clearance required (Decision No. 128 Group 4 fee paid at port after approval); seed e-visa incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31"
+ },
+ "NR:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 11; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "NZ:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 7; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "OM:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 5; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "PA:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 11; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "PE:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 3; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "PG:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 11; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "PH:SY": {
+  "status": "visa required",
+  "reason": "Restricted nationality: prior security clearance required (Decision No. 128 Group 5 fee paid at port after approval); seed e-visa incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31"
+ },
+ "PK:SY": {
+  "status": "visa required",
+  "reason": "Restricted nationality: prior security clearance required (Decision No. 128 Group 3 fee paid at port after approval); seed e-visa incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31"
+ },
+ "PL:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 5; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "PS:SY": {
+  "status": "visa required",
+  "reason": "Ordinary Palestinian documents need advance Immigration Department approval; seed e-visa incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31"
+ },
+ "PT:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 5; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "PW:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 11; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "PY:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 5; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "QA:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 4; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "RO:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 5; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "RS:SY": {
+  "status": "visa free",
+  "reason": "Decision No. 128 Group 2 (free visa at port); seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31"
+ },
+ "RU:SY": {
+  "status": "visa required",
+  "reason": "Restricted nationality: prior security clearance required (Decision No. 128 Group 4 fee paid at port after approval); seed e-visa incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31"
+ },
+ "RW:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 4; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "SA:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 4; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "SB:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 11; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "SC:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 3; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "SD:SY": {
+  "status": "visa required",
+  "reason": "Restricted nationality: prior security clearance required (Decision No. 128 Group 3 fee paid at port after approval); seed e-visa incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31"
+ },
+ "SE:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 5; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "SG:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 4; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "SI:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 5; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "SK:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 5; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "SL:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 6; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "SM:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 11; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "SN:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 4; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "SO:SY": {
+  "status": "visa required",
+  "reason": "Restricted nationality: prior security clearance required (Decision No. 128 Group 5 fee paid at port after approval); seed e-visa incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31"
+ },
+ "SR:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 4; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "SS:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 11; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "ST:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 7; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "SV:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 11; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "SZ:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 4; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "TD:SY": {
+  "status": "visa required",
+  "reason": "Restricted nationality: prior security clearance required (Decision No. 128 Group 3 fee paid at port after approval); seed e-visa incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31"
+ },
+ "TG:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 11; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "TH:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 4; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "TJ:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 3; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "TL:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 4; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "TM:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 4; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "TN:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 5; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "TO:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 11; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "TR:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 4; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "TT:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 3; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "TV:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 3; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "TZ:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 3; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "UA:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 11; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "UG:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 6; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "US:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 8; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "UY:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 4; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "UZ:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 7; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "VA:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 11; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "VC:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 11; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "VE:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 4; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "VN:SY": {
+  "status": "visa required",
+  "reason": "Restricted nationality: prior security clearance required (Decision No. 128 Group 11 fee paid at port after approval); seed e-visa incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31"
+ },
+ "VU:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 4; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "WS:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 11; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "XK:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 11; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "YE:SY": {
+  "status": "visa required",
+  "reason": "Restricted nationality: prior security clearance required (Decision No. 128 Group 3 fee paid at port after approval); seed e-visa incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31"
+ },
+ "ZA:SY": {
+  "status": "visa required",
+  "reason": "Restricted nationality: prior security clearance required (Decision No. 128 Group 5 fee paid at port after approval); seed e-visa incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31"
+ },
+ "ZM:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 4; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
+ },
+ "ZW:SY": {
+  "status": "visa on arrival",
+  "reason": "Decision No. 128 Group 4; seed value incorrect.",
+  "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
+  "date": "2026-10-31",
+  "days": 30
  }
 }
