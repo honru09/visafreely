@@ -1,11 +1,27 @@
 [
  {
+  "date": "2026-10-28",
+  "destination": "IL",
+  "title": "Israel expands eVisa-B2 to 50 more nationalities",
+  "summary": "The Embassy of Israel in Singapore's notice of 28 October 2026 lists 50 additional nationalities for online B/2 e-Visas (plus India and Sri Lanka from the pilot), and the PIBA portal's public pages as of 31 October 2026 present the e-Visa as open to visa-required countries with no pilot restriction shown; the email-verified form itself was not tested, so the pair notes carry that caveat. The 10 exempt nationalities the notice also names keep their exemption plus ETA-IL.",
+  "source": "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
+  "source_name": "PIBA - eVisa-B2 information page"
+ },
+ {
   "date": "2026-10-01",
   "destination": "TM",
   "source": "https://migration.gov.tm/services/wiza-we-is-rugsatnamasy-16847397661914537",
   "source_name": "State Migration Service of Turkmenistan",
   "summary": "Turkmenistan's State Migration Service opened an online e-Visa system on 1 October 2026. The portal's document lists no longer include the invitation letter (LOI) that consular tourist visas have always required — but the list of eligible nationalities has not been published, so for now the advance-visa rule still stands and the portal is a channel to watch, not yet a settled route.",
   "title": "Turkmenistan launches an e-Visa portal"
+ },
+ {
+  "date": "2026-09-01",
+  "destination": "IL",
+  "title": "Colombia's visa exemption for Israel restored",
+  "summary": "After the 2024-2026 diplomatic break, Colombia's ordinary-passport exemption was restored 1 September 2026 (embassy confirmation reported 3 September); Colombians again travel on ETA-IL for up to 90 days.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Israel",
+  "source_name": "Wikipedia - Visa policy of Israel (current exemption table)"
  },
  {
   "date": "2026-08-30",

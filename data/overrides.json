@@ -28528,5 +28528,647 @@
   "reason": "The official e-Visa portal lists this passport for tourist e-Visas (single entry US$30, multiple entry US$65, each stay up to 30 days); the dataset left the stay blank.",
   "source": "https://visa2egypt.gov.eg/eVisa/FAQ",
   "date": "2026-10-31"
+ },
+ "AF:IL": {
+  "status": "visa required",
+  "reason": "MFA Tourist Visa Table marks this nationality 'Requires MFA confirmation': the mission cannot issue alone; MFA Jerusalem pre-approval and security clearance are required.",
+  "source": "https://www.gov.il/BlobFolder/reports/tourist-visa-table/en/2022_Foreign_Visa_to_Israel.pdf",
+  "date": "2026-10-31"
+ },
+ "AG:IL": {
+  "status": "visa required",
+  "reason": "Not on the exemption table and not on the October 2026 eVisa-B2 list; an advance consular B/2 visa is required.",
+  "source": "https://www.gov.il/BlobFolder/reports/tourist-visa-table/en/2022_Foreign_Visa_to_Israel.pdf",
+  "date": "2026-10-31"
+ },
+ "AM:IL": {
+  "status": "visa required",
+  "reason": "Not on the exemption table and not on the October 2026 eVisa-B2 list; an advance consular B/2 visa is required.",
+  "source": "https://www.gov.il/BlobFolder/reports/tourist-visa-table/en/2022_Foreign_Visa_to_Israel.pdf",
+  "date": "2026-10-31"
+ },
+ "AO:IL": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "eVisa-B2 online route: Embassy of Israel in Singapore notice (October 2026) lists this nationality, and the PIBA portal's public pages (checked 31 October 2026) present the e-Visa as open to visa-required countries with no pilot restriction; stay up to 90 days.",
+  "source": "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
+  "date": "2026-10-31"
+ },
+ "AZ:IL": {
+  "status": "visa required",
+  "reason": "Not on the exemption table and not on the October 2026 eVisa-B2 list; an advance consular B/2 visa is required.",
+  "source": "https://www.gov.il/BlobFolder/reports/tourist-visa-table/en/2022_Foreign_Visa_to_Israel.pdf",
+  "date": "2026-10-31"
+ },
+ "BA:IL": {
+  "status": "visa required",
+  "reason": "Not on the exemption table and not on the October 2026 eVisa-B2 list; an advance consular B/2 visa is required.",
+  "source": "https://www.gov.il/BlobFolder/reports/tourist-visa-table/en/2022_Foreign_Visa_to_Israel.pdf",
+  "date": "2026-10-31"
+ },
+ "BD:IL": {
+  "status": "visa required",
+  "reason": "Not on the exemption table and not on the October 2026 eVisa-B2 list; an advance consular B/2 visa is required.",
+  "source": "https://www.gov.il/BlobFolder/reports/tourist-visa-table/en/2022_Foreign_Visa_to_Israel.pdf",
+  "date": "2026-10-31"
+ },
+ "BF:IL": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "eVisa-B2 online route: Embassy of Israel in Singapore notice (October 2026) lists this nationality, and the PIBA portal's public pages (checked 31 October 2026) present the e-Visa as open to visa-required countries with no pilot restriction; stay up to 90 days.",
+  "source": "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
+  "date": "2026-10-31"
+ },
+ "BH:IL": {
+  "status": "visa required",
+  "reason": "Not on the exemption table and not on the October 2026 eVisa-B2 list; an advance consular B/2 visa is required.",
+  "source": "https://www.gov.il/BlobFolder/reports/tourist-visa-table/en/2022_Foreign_Visa_to_Israel.pdf",
+  "date": "2026-10-31"
+ },
+ "BI:IL": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "eVisa-B2 online route: Embassy of Israel in Singapore notice (October 2026) lists this nationality, and the PIBA portal's public pages (checked 31 October 2026) present the e-Visa as open to visa-required countries with no pilot restriction; stay up to 90 days.",
+  "source": "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
+  "date": "2026-10-31"
+ },
+ "BJ:IL": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "eVisa-B2 online route: Embassy of Israel in Singapore notice (October 2026) lists this nationality, and the PIBA portal's public pages (checked 31 October 2026) present the e-Visa as open to visa-required countries with no pilot restriction; stay up to 90 days.",
+  "source": "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
+  "date": "2026-10-31"
+ },
+ "BN:IL": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "eVisa-B2 online route: Embassy of Israel in Singapore notice (October 2026) lists this nationality, and the PIBA portal's public pages (checked 31 October 2026) present the e-Visa as open to visa-required countries with no pilot restriction; stay up to 90 days.",
+  "source": "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
+  "date": "2026-10-31"
+ },
+ "BO:IL": {
+  "status": "visa required",
+  "reason": "Not on the exemption table and not on the October 2026 eVisa-B2 list; an advance consular B/2 visa is required.",
+  "source": "https://www.gov.il/BlobFolder/reports/tourist-visa-table/en/2022_Foreign_Visa_to_Israel.pdf",
+  "date": "2026-10-31"
+ },
+ "BT:IL": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "eVisa-B2 online route: Embassy of Israel in Singapore notice (October 2026) lists this nationality, and the PIBA portal's public pages (checked 31 October 2026) present the e-Visa as open to visa-required countries with no pilot restriction; stay up to 90 days.",
+  "source": "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
+  "date": "2026-10-31"
+ },
+ "CD:IL": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "eVisa-B2 online route: Embassy of Israel in Singapore notice (October 2026) lists this nationality, and the PIBA portal's public pages (checked 31 October 2026) present the e-Visa as open to visa-required countries with no pilot restriction; stay up to 90 days.",
+  "source": "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
+  "date": "2026-10-31"
+ },
+ "CF:IL": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "eVisa-B2 online route: Embassy of Israel in Singapore notice (October 2026) lists this nationality, and the PIBA portal's public pages (checked 31 October 2026) present the e-Visa as open to visa-required countries with no pilot restriction; stay up to 90 days.",
+  "source": "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
+  "date": "2026-10-31"
+ },
+ "CG:IL": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "eVisa-B2 online route: Embassy of Israel in Singapore notice (October 2026) lists this nationality, and the PIBA portal's public pages (checked 31 October 2026) present the e-Visa as open to visa-required countries with no pilot restriction; stay up to 90 days.",
+  "source": "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
+  "date": "2026-10-31"
+ },
+ "CI:IL": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "eVisa-B2 online route: Embassy of Israel in Singapore notice (October 2026) lists this nationality, and the PIBA portal's public pages (checked 31 October 2026) present the e-Visa as open to visa-required countries with no pilot restriction; stay up to 90 days.",
+  "source": "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
+  "date": "2026-10-31"
+ },
+ "CM:IL": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "eVisa-B2 online route: Embassy of Israel in Singapore notice (October 2026) lists this nationality, and the PIBA portal's public pages (checked 31 October 2026) present the e-Visa as open to visa-required countries with no pilot restriction; stay up to 90 days.",
+  "source": "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
+  "date": "2026-10-31"
+ },
+ "CN:IL": {
+  "status": "visa required",
+  "reason": "Not on the exemption table and not on the October 2026 eVisa-B2 list; an advance consular B/2 visa is required for ordinary passports (diplomatic/service passports are exempt).",
+  "source": "https://www.gov.il/BlobFolder/reports/tourist-visa-table/en/2022_Foreign_Visa_to_Israel.pdf",
+  "date": "2026-10-31"
+ },
+ "CO:IL": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Colombia's visa exemption was restored 1 September 2026 after the 2024-2026 diplomatic break; seed still showed the suspension-era e-Visa route.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Israel",
+  "date": "2026-10-31"
+ },
+ "CU:IL": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "eVisa-B2 online route: Embassy of Israel in Singapore notice (October 2026) lists this nationality, and the PIBA portal's public pages (checked 31 October 2026) present the e-Visa as open to visa-required countries with no pilot restriction; stay up to 90 days.",
+  "source": "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
+  "date": "2026-10-31"
+ },
+ "CV:IL": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "eVisa-B2 online route: Embassy of Israel in Singapore notice (October 2026) lists this nationality, and the PIBA portal's public pages (checked 31 October 2026) present the e-Visa as open to visa-required countries with no pilot restriction; stay up to 90 days.",
+  "source": "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
+  "date": "2026-10-31"
+ },
+ "DJ:IL": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "eVisa-B2 online route: Embassy of Israel in Singapore notice (October 2026) lists this nationality, and the PIBA portal's public pages (checked 31 October 2026) present the e-Visa as open to visa-required countries with no pilot restriction; stay up to 90 days.",
+  "source": "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
+  "date": "2026-10-31"
+ },
+ "DZ:IL": {
+  "status": "visa required",
+  "reason": "MFA Tourist Visa Table marks this nationality 'Requires MFA confirmation': the mission cannot issue alone; MFA Jerusalem pre-approval and security clearance are required.",
+  "source": "https://www.gov.il/BlobFolder/reports/tourist-visa-table/en/2022_Foreign_Visa_to_Israel.pdf",
+  "date": "2026-10-31"
+ },
+ "EG:IL": {
+  "status": "visa required",
+  "reason": "MFA Tourist Visa Table marks this nationality 'Requires MFA confirmation': the mission cannot issue alone; MFA Jerusalem pre-approval and security clearance are required. Taba-to-Beersheba 14-day exemption is carried in the pair note.",
+  "source": "https://www.gov.il/BlobFolder/reports/tourist-visa-table/en/2022_Foreign_Visa_to_Israel.pdf",
+  "date": "2026-10-31"
+ },
+ "ER:IL": {
+  "status": "visa required",
+  "reason": "Not on the exemption table and not on the October 2026 eVisa-B2 list; an advance consular B/2 visa is required.",
+  "source": "https://www.gov.il/BlobFolder/reports/tourist-visa-table/en/2022_Foreign_Visa_to_Israel.pdf",
+  "date": "2026-10-31"
+ },
+ "ET:IL": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "eVisa-B2 online route: Embassy of Israel in Singapore notice (October 2026) lists this nationality, and the PIBA portal's public pages (checked 31 October 2026) present the e-Visa as open to visa-required countries with no pilot restriction; stay up to 90 days.",
+  "source": "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
+  "date": "2026-10-31"
+ },
+ "GA:IL": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "eVisa-B2 online route: Embassy of Israel in Singapore notice (October 2026) lists this nationality, and the PIBA portal's public pages (checked 31 October 2026) present the e-Visa as open to visa-required countries with no pilot restriction; stay up to 90 days.",
+  "source": "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
+  "date": "2026-10-31"
+ },
+ "GH:IL": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "eVisa-B2 online route: Embassy of Israel in Singapore notice (October 2026) lists this nationality, and the PIBA portal's public pages (checked 31 October 2026) present the e-Visa as open to visa-required countries with no pilot restriction; stay up to 90 days.",
+  "source": "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
+  "date": "2026-10-31"
+ },
+ "GM:IL": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "eVisa-B2 online route: Embassy of Israel in Singapore notice (October 2026) lists this nationality, and the PIBA portal's public pages (checked 31 October 2026) present the e-Visa as open to visa-required countries with no pilot restriction; stay up to 90 days.",
+  "source": "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
+  "date": "2026-10-31"
+ },
+ "GN:IL": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "eVisa-B2 online route: Embassy of Israel in Singapore notice (October 2026) lists this nationality, and the PIBA portal's public pages (checked 31 October 2026) present the e-Visa as open to visa-required countries with no pilot restriction; stay up to 90 days.",
+  "source": "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
+  "date": "2026-10-31"
+ },
+ "GQ:IL": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "eVisa-B2 online route: Embassy of Israel in Singapore notice (October 2026) lists this nationality, and the PIBA portal's public pages (checked 31 October 2026) present the e-Visa as open to visa-required countries with no pilot restriction; stay up to 90 days.",
+  "source": "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
+  "date": "2026-10-31"
+ },
+ "GW:IL": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "eVisa-B2 online route: Embassy of Israel in Singapore notice (October 2026) lists this nationality, and the PIBA portal's public pages (checked 31 October 2026) present the e-Visa as open to visa-required countries with no pilot restriction; stay up to 90 days.",
+  "source": "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
+  "date": "2026-10-31"
+ },
+ "GY:IL": {
+  "status": "visa required",
+  "reason": "Not on the exemption table and not on the October 2026 eVisa-B2 list; an advance consular B/2 visa is required.",
+  "source": "https://www.gov.il/BlobFolder/reports/tourist-visa-table/en/2022_Foreign_Visa_to_Israel.pdf",
+  "date": "2026-10-31"
+ },
+ "ID:IL": {
+  "status": "visa required",
+  "reason": "MFA Tourist Visa Table marks this nationality 'Requires MFA confirmation': the mission cannot issue alone; MFA Jerusalem pre-approval and security clearance are required.",
+  "source": "https://www.gov.il/BlobFolder/reports/tourist-visa-table/en/2022_Foreign_Visa_to_Israel.pdf",
+  "date": "2026-10-31"
+ },
+ "IN:IL": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "eVisa-B2 pilot since January 2025; stay up to 90 days.",
+  "source": "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
+  "date": "2026-10-31"
+ },
+ "IQ:IL": {
+  "status": "visa required",
+  "reason": "MFA Tourist Visa Table marks this nationality 'Requires MFA confirmation': the mission cannot issue alone; MFA Jerusalem pre-approval and security clearance are required.",
+  "source": "https://www.gov.il/BlobFolder/reports/tourist-visa-table/en/2022_Foreign_Visa_to_Israel.pdf",
+  "date": "2026-10-31"
+ },
+ "IR:IL": {
+  "status": "visa required",
+  "reason": "MFA Tourist Visa Table marks this nationality 'Requires MFA confirmation': the mission cannot issue alone; MFA Jerusalem pre-approval and security clearance are required.",
+  "source": "https://www.gov.il/BlobFolder/reports/tourist-visa-table/en/2022_Foreign_Visa_to_Israel.pdf",
+  "date": "2026-10-31"
+ },
+ "JO:IL": {
+  "status": "visa required",
+  "reason": "MFA Tourist Visa Table marks this nationality 'Requires MFA confirmation': the mission cannot issue alone; MFA Jerusalem pre-approval and security clearance are required.",
+  "source": "https://www.gov.il/BlobFolder/reports/tourist-visa-table/en/2022_Foreign_Visa_to_Israel.pdf",
+  "date": "2026-10-31"
+ },
+ "KE:IL": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "eVisa-B2 online route: Embassy of Israel in Singapore notice (October 2026) lists this nationality, and the PIBA portal's public pages (checked 31 October 2026) present the e-Visa as open to visa-required countries with no pilot restriction; stay up to 90 days.",
+  "source": "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
+  "date": "2026-10-31"
+ },
+ "KG:IL": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "eVisa-B2 online route: Embassy of Israel in Singapore notice (October 2026) lists this nationality, and the PIBA portal's public pages (checked 31 October 2026) present the e-Visa as open to visa-required countries with no pilot restriction; stay up to 90 days.",
+  "source": "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
+  "date": "2026-10-31"
+ },
+ "KH:IL": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "eVisa-B2 online route: Embassy of Israel in Singapore notice (October 2026) lists this nationality, and the PIBA portal's public pages (checked 31 October 2026) present the e-Visa as open to visa-required countries with no pilot restriction; stay up to 90 days.",
+  "source": "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
+  "date": "2026-10-31"
+ },
+ "KI:IL": {
+  "status": "visa required",
+  "reason": "Not on the exemption table and not on the October 2026 eVisa-B2 list; an advance consular B/2 visa is required.",
+  "source": "https://www.gov.il/BlobFolder/reports/tourist-visa-table/en/2022_Foreign_Visa_to_Israel.pdf",
+  "date": "2026-10-31"
+ },
+ "KM:IL": {
+  "status": "visa required",
+  "reason": "Not on the exemption table and not on the October 2026 eVisa-B2 list; an advance consular B/2 visa is required.",
+  "source": "https://www.gov.il/BlobFolder/reports/tourist-visa-table/en/2022_Foreign_Visa_to_Israel.pdf",
+  "date": "2026-10-31"
+ },
+ "KP:IL": {
+  "status": "visa required",
+  "reason": "MFA Tourist Visa Table marks this nationality 'Requires MFA confirmation': the mission cannot issue alone; MFA Jerusalem pre-approval and security clearance are required.",
+  "source": "https://www.gov.il/BlobFolder/reports/tourist-visa-table/en/2022_Foreign_Visa_to_Israel.pdf",
+  "date": "2026-10-31"
+ },
+ "KW:IL": {
+  "status": "visa required",
+  "reason": "MFA Tourist Visa Table marks this nationality 'Requires MFA confirmation': the mission cannot issue alone; MFA Jerusalem pre-approval and security clearance are required.",
+  "source": "https://www.gov.il/BlobFolder/reports/tourist-visa-table/en/2022_Foreign_Visa_to_Israel.pdf",
+  "date": "2026-10-31"
+ },
+ "KZ:IL": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "eVisa-B2 online route: Embassy of Israel in Singapore notice (October 2026) lists this nationality, and the PIBA portal's public pages (checked 31 October 2026) present the e-Visa as open to visa-required countries with no pilot restriction; stay up to 90 days.",
+  "source": "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
+  "date": "2026-10-31"
+ },
+ "LA:IL": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "eVisa-B2 online route: Embassy of Israel in Singapore notice (October 2026) lists this nationality, and the PIBA portal's public pages (checked 31 October 2026) present the e-Visa as open to visa-required countries with no pilot restriction; stay up to 90 days.",
+  "source": "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
+  "date": "2026-10-31"
+ },
+ "LB:IL": {
+  "status": "visa required",
+  "reason": "MFA Tourist Visa Table marks this nationality 'Requires MFA confirmation': the mission cannot issue alone; MFA Jerusalem pre-approval and security clearance are required.",
+  "source": "https://www.gov.il/BlobFolder/reports/tourist-visa-table/en/2022_Foreign_Visa_to_Israel.pdf",
+  "date": "2026-10-31"
+ },
+ "LK:IL": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "eVisa-B2 pilot since February 2025; stay up to 90 days.",
+  "source": "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
+  "date": "2026-10-31"
+ },
+ "LR:IL": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "eVisa-B2 online route: Embassy of Israel in Singapore notice (October 2026) lists this nationality, and the PIBA portal's public pages (checked 31 October 2026) present the e-Visa as open to visa-required countries with no pilot restriction; stay up to 90 days.",
+  "source": "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
+  "date": "2026-10-31"
+ },
+ "LY:IL": {
+  "status": "visa required",
+  "reason": "MFA Tourist Visa Table marks this nationality 'Requires MFA confirmation': the mission cannot issue alone; MFA Jerusalem pre-approval and security clearance are required.",
+  "source": "https://www.gov.il/BlobFolder/reports/tourist-visa-table/en/2022_Foreign_Visa_to_Israel.pdf",
+  "date": "2026-10-31"
+ },
+ "MA:IL": {
+  "status": "visa required",
+  "reason": "Not on the exemption table and not on the October 2026 eVisa-B2 list; an advance consular B/2 visa is required.",
+  "source": "https://www.gov.il/BlobFolder/reports/tourist-visa-table/en/2022_Foreign_Visa_to_Israel.pdf",
+  "date": "2026-10-31"
+ },
+ "MG:IL": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "eVisa-B2 online route: Embassy of Israel in Singapore notice (October 2026) lists this nationality, and the PIBA portal's public pages (checked 31 October 2026) present the e-Visa as open to visa-required countries with no pilot restriction; stay up to 90 days.",
+  "source": "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
+  "date": "2026-10-31"
+ },
+ "ML:IL": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "eVisa-B2 online route: Embassy of Israel in Singapore notice (October 2026) lists this nationality, and the PIBA portal's public pages (checked 31 October 2026) present the e-Visa as open to visa-required countries with no pilot restriction; stay up to 90 days.",
+  "source": "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
+  "date": "2026-10-31"
+ },
+ "MM:IL": {
+  "status": "visa required",
+  "reason": "Not on the exemption table and not on the October 2026 eVisa-B2 list; an advance consular B/2 visa is required.",
+  "source": "https://www.gov.il/BlobFolder/reports/tourist-visa-table/en/2022_Foreign_Visa_to_Israel.pdf",
+  "date": "2026-10-31"
+ },
+ "MR:IL": {
+  "status": "visa required",
+  "reason": "MFA Tourist Visa Table marks this nationality 'Requires MFA confirmation': the mission cannot issue alone; MFA Jerusalem pre-approval and security clearance are required.",
+  "source": "https://www.gov.il/BlobFolder/reports/tourist-visa-table/en/2022_Foreign_Visa_to_Israel.pdf",
+  "date": "2026-10-31"
+ },
+ "MV:IL": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "eVisa-B2 online route: Embassy of Israel in Singapore notice (October 2026) lists this nationality, and the PIBA portal's public pages (checked 31 October 2026) present the e-Visa as open to visa-required countries with no pilot restriction; stay up to 90 days.",
+  "source": "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
+  "date": "2026-10-31"
+ },
+ "MY:IL": {
+  "status": "visa required",
+  "reason": "MFA Tourist Visa Table marks this nationality 'Requires MFA confirmation': the mission cannot issue alone; MFA Jerusalem pre-approval and security clearance are required.",
+  "source": "https://www.gov.il/BlobFolder/reports/tourist-visa-table/en/2022_Foreign_Visa_to_Israel.pdf",
+  "date": "2026-10-31"
+ },
+ "MZ:IL": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "eVisa-B2 online route: Embassy of Israel in Singapore notice (October 2026) lists this nationality, and the PIBA portal's public pages (checked 31 October 2026) present the e-Visa as open to visa-required countries with no pilot restriction; stay up to 90 days.",
+  "source": "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
+  "date": "2026-10-31"
+ },
+ "NA:IL": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "eVisa-B2 online route: Embassy of Israel in Singapore notice (October 2026) lists this nationality, and the PIBA portal's public pages (checked 31 October 2026) present the e-Visa as open to visa-required countries with no pilot restriction; stay up to 90 days.",
+  "source": "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
+  "date": "2026-10-31"
+ },
+ "NE:IL": {
+  "status": "visa required",
+  "reason": "Not on the exemption table and not on the October 2026 eVisa-B2 list; an advance consular B/2 visa is required.",
+  "source": "https://www.gov.il/BlobFolder/reports/tourist-visa-table/en/2022_Foreign_Visa_to_Israel.pdf",
+  "date": "2026-10-31"
+ },
+ "NG:IL": {
+  "status": "visa required",
+  "reason": "Not on the exemption table and not on the October 2026 eVisa-B2 list; an advance consular B/2 visa is required.",
+  "source": "https://www.gov.il/BlobFolder/reports/tourist-visa-table/en/2022_Foreign_Visa_to_Israel.pdf",
+  "date": "2026-10-31"
+ },
+ "NI:IL": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "eVisa-B2 online route: Embassy of Israel in Singapore notice (October 2026) lists this nationality, and the PIBA portal's public pages (checked 31 October 2026) present the e-Visa as open to visa-required countries with no pilot restriction; stay up to 90 days.",
+  "source": "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
+  "date": "2026-10-31"
+ },
+ "NP:IL": {
+  "status": "visa required",
+  "reason": "Not on the exemption table and not on the October 2026 eVisa-B2 list; an advance consular B/2 visa is required.",
+  "source": "https://www.gov.il/BlobFolder/reports/tourist-visa-table/en/2022_Foreign_Visa_to_Israel.pdf",
+  "date": "2026-10-31"
+ },
+ "OM:IL": {
+  "status": "visa required",
+  "reason": "MFA Tourist Visa Table marks this nationality 'Requires MFA confirmation': the mission cannot issue alone; MFA Jerusalem pre-approval and security clearance are required.",
+  "source": "https://www.gov.il/BlobFolder/reports/tourist-visa-table/en/2022_Foreign_Visa_to_Israel.pdf",
+  "date": "2026-10-31"
+ },
+ "PK:IL": {
+  "status": "visa required",
+  "reason": "MFA Tourist Visa Table marks this nationality 'Requires MFA confirmation': the mission cannot issue alone; MFA Jerusalem pre-approval and security clearance are required.",
+  "source": "https://www.gov.il/BlobFolder/reports/tourist-visa-table/en/2022_Foreign_Visa_to_Israel.pdf",
+  "date": "2026-10-31"
+ },
+ "PS:IL": {
+  "status": "visa required",
+  "reason": "Palestinian passports have no ordinary tourist-visa route to Israel; entry is via COGAT permits tied to the population register (see pair note).",
+  "source": "https://www.gov.uk/foreign-travel-advice/palestine/entry-requirements",
+  "date": "2026-10-31"
+ },
+ "QA:IL": {
+  "status": "visa required",
+  "reason": "MFA Tourist Visa Table marks this nationality 'Requires MFA confirmation': the mission cannot issue alone; MFA Jerusalem pre-approval and security clearance are required.",
+  "source": "https://www.gov.il/BlobFolder/reports/tourist-visa-table/en/2022_Foreign_Visa_to_Israel.pdf",
+  "date": "2026-10-31"
+ },
+ "RW:IL": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "eVisa-B2 online route: Embassy of Israel in Singapore notice (October 2026) lists this nationality, and the PIBA portal's public pages (checked 31 October 2026) present the e-Visa as open to visa-required countries with no pilot restriction; stay up to 90 days.",
+  "source": "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
+  "date": "2026-10-31"
+ },
+ "SA:IL": {
+  "status": "visa required",
+  "reason": "MFA Tourist Visa Table marks this nationality 'Requires MFA confirmation': the mission cannot issue alone; MFA Jerusalem pre-approval and security clearance are required.",
+  "source": "https://www.gov.il/BlobFolder/reports/tourist-visa-table/en/2022_Foreign_Visa_to_Israel.pdf",
+  "date": "2026-10-31"
+ },
+ "SC:IL": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "eVisa-B2 online route: Embassy of Israel in Singapore notice (October 2026) lists this nationality, and the PIBA portal's public pages (checked 31 October 2026) present the e-Visa as open to visa-required countries with no pilot restriction; stay up to 90 days.",
+  "source": "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
+  "date": "2026-10-31"
+ },
+ "SD:IL": {
+  "status": "visa required",
+  "reason": "MFA Tourist Visa Table marks this nationality 'Requires MFA confirmation': the mission cannot issue alone; MFA Jerusalem pre-approval and security clearance are required.",
+  "source": "https://www.gov.il/BlobFolder/reports/tourist-visa-table/en/2022_Foreign_Visa_to_Israel.pdf",
+  "date": "2026-10-31"
+ },
+ "SL:IL": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "eVisa-B2 online route: Embassy of Israel in Singapore notice (October 2026) lists this nationality, and the PIBA portal's public pages (checked 31 October 2026) present the e-Visa as open to visa-required countries with no pilot restriction; stay up to 90 days.",
+  "source": "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
+  "date": "2026-10-31"
+ },
+ "SN:IL": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "eVisa-B2 online route: Embassy of Israel in Singapore notice (October 2026) lists this nationality, and the PIBA portal's public pages (checked 31 October 2026) present the e-Visa as open to visa-required countries with no pilot restriction; stay up to 90 days.",
+  "source": "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
+  "date": "2026-10-31"
+ },
+ "SO:IL": {
+  "status": "visa required",
+  "reason": "MFA Tourist Visa Table marks this nationality 'Requires MFA confirmation': the mission cannot issue alone; MFA Jerusalem pre-approval and security clearance are required.",
+  "source": "https://www.gov.il/BlobFolder/reports/tourist-visa-table/en/2022_Foreign_Visa_to_Israel.pdf",
+  "date": "2026-10-31"
+ },
+ "SS:IL": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "eVisa-B2 online route: Embassy of Israel in Singapore notice (October 2026) lists this nationality, and the PIBA portal's public pages (checked 31 October 2026) present the e-Visa as open to visa-required countries with no pilot restriction; stay up to 90 days.",
+  "source": "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
+  "date": "2026-10-31"
+ },
+ "ST:IL": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "eVisa-B2 online route: Embassy of Israel in Singapore notice (October 2026) lists this nationality, and the PIBA portal's public pages (checked 31 October 2026) present the e-Visa as open to visa-required countries with no pilot restriction; stay up to 90 days.",
+  "source": "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
+  "date": "2026-10-31"
+ },
+ "SY:IL": {
+  "status": "visa required",
+  "reason": "MFA Tourist Visa Table marks this nationality 'Requires MFA confirmation': the mission cannot issue alone; MFA Jerusalem pre-approval and security clearance are required.",
+  "source": "https://www.gov.il/BlobFolder/reports/tourist-visa-table/en/2022_Foreign_Visa_to_Israel.pdf",
+  "date": "2026-10-31"
+ },
+ "TD:IL": {
+  "status": "visa required",
+  "reason": "Not on the exemption table and not on the October 2026 eVisa-B2 list; an advance consular B/2 visa is required.",
+  "source": "https://www.gov.il/BlobFolder/reports/tourist-visa-table/en/2022_Foreign_Visa_to_Israel.pdf",
+  "date": "2026-10-31"
+ },
+ "TG:IL": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "eVisa-B2 online route: Embassy of Israel in Singapore notice (October 2026) lists this nationality, and the PIBA portal's public pages (checked 31 October 2026) present the e-Visa as open to visa-required countries with no pilot restriction; stay up to 90 days.",
+  "source": "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
+  "date": "2026-10-31"
+ },
+ "TH:IL": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "eVisa-B2 online route: Embassy of Israel in Singapore notice (October 2026) lists this nationality, and the PIBA portal's public pages (checked 31 October 2026) present the e-Visa as open to visa-required countries with no pilot restriction; stay up to 90 days.",
+  "source": "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
+  "date": "2026-10-31"
+ },
+ "TJ:IL": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "eVisa-B2 online route: Embassy of Israel in Singapore notice (October 2026) lists this nationality, and the PIBA portal's public pages (checked 31 October 2026) present the e-Visa as open to visa-required countries with no pilot restriction; stay up to 90 days.",
+  "source": "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
+  "date": "2026-10-31"
+ },
+ "TL:IL": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "eVisa-B2 online route: Embassy of Israel in Singapore notice (October 2026) lists this nationality, and the PIBA portal's public pages (checked 31 October 2026) present the e-Visa as open to visa-required countries with no pilot restriction; stay up to 90 days.",
+  "source": "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
+  "date": "2026-10-31"
+ },
+ "TM:IL": {
+  "status": "visa required",
+  "reason": "Not on the exemption table and not on the October 2026 eVisa-B2 list; an advance consular B/2 visa is required.",
+  "source": "https://www.gov.il/BlobFolder/reports/tourist-visa-table/en/2022_Foreign_Visa_to_Israel.pdf",
+  "date": "2026-10-31"
+ },
+ "TN:IL": {
+  "status": "visa required",
+  "reason": "MFA Tourist Visa Table marks this nationality 'Requires MFA confirmation': the mission cannot issue alone; MFA Jerusalem pre-approval and security clearance are required.",
+  "source": "https://www.gov.il/BlobFolder/reports/tourist-visa-table/en/2022_Foreign_Visa_to_Israel.pdf",
+  "date": "2026-10-31"
+ },
+ "TR:IL": {
+  "status": "visa required",
+  "reason": "Not on the exemption table and not on the October 2026 eVisa-B2 list; an advance consular B/2 visa is required, applied for free of charge at any mission.",
+  "source": "https://www.gov.il/BlobFolder/reports/tourist-visa-table/en/2022_Foreign_Visa_to_Israel.pdf",
+  "date": "2026-10-31"
+ },
+ "TV:IL": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Current exemption table lists Tuvalu as exempt for 90 days; seed showed the e-Visa route. Dissent (2022 MFA table and the Tuvaluan-citizens summary list it as required) is disclosed in the pair note.",
+  "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Israel",
+  "date": "2026-10-31"
+ },
+ "TZ:IL": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "eVisa-B2 online route: Embassy of Israel in Singapore notice (October 2026) lists this nationality, and the PIBA portal's public pages (checked 31 October 2026) present the e-Visa as open to visa-required countries with no pilot restriction; stay up to 90 days.",
+  "source": "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
+  "date": "2026-10-31"
+ },
+ "UG:IL": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "eVisa-B2 online route: Embassy of Israel in Singapore notice (October 2026) lists this nationality, and the PIBA portal's public pages (checked 31 October 2026) present the e-Visa as open to visa-required countries with no pilot restriction; stay up to 90 days.",
+  "source": "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
+  "date": "2026-10-31"
+ },
+ "UZ:IL": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "eVisa-B2 online route: Embassy of Israel in Singapore notice (October 2026) lists this nationality, and the PIBA portal's public pages (checked 31 October 2026) present the e-Visa as open to visa-required countries with no pilot restriction; stay up to 90 days.",
+  "source": "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
+  "date": "2026-10-31"
+ },
+ "VA:IL": {
+  "status": "visa required",
+  "reason": "MFA Tourist Visa Table lists ordinary Vatican passports as visa-required; seed's ETA value was incorrect.",
+  "source": "https://www.gov.il/BlobFolder/reports/tourist-visa-table/en/2022_Foreign_Visa_to_Israel.pdf",
+  "date": "2026-10-31"
+ },
+ "VE:IL": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "eVisa-B2 online route: Embassy of Israel in Singapore notice (October 2026) lists this nationality, and the PIBA portal's public pages (checked 31 October 2026) present the e-Visa as open to visa-required countries with no pilot restriction; stay up to 90 days.",
+  "source": "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
+  "date": "2026-10-31"
+ },
+ "VN:IL": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "eVisa-B2 online route: Embassy of Israel in Singapore notice (October 2026) lists this nationality, and the PIBA portal's public pages (checked 31 October 2026) present the e-Visa as open to visa-required countries with no pilot restriction; stay up to 90 days.",
+  "source": "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
+  "date": "2026-10-31"
+ },
+ "YE:IL": {
+  "status": "visa required",
+  "reason": "MFA Tourist Visa Table marks this nationality 'Requires MFA confirmation': the mission cannot issue alone; MFA Jerusalem pre-approval and security clearance are required.",
+  "source": "https://www.gov.il/BlobFolder/reports/tourist-visa-table/en/2022_Foreign_Visa_to_Israel.pdf",
+  "date": "2026-10-31"
+ },
+ "ZM:IL": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "eVisa-B2 online route: Embassy of Israel in Singapore notice (October 2026) lists this nationality, and the PIBA portal's public pages (checked 31 October 2026) present the e-Visa as open to visa-required countries with no pilot restriction; stay up to 90 days.",
+  "source": "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
+  "date": "2026-10-31"
+ },
+ "ZW:IL": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "eVisa-B2 online route: Embassy of Israel in Singapore notice (October 2026) lists this nationality, and the PIBA portal's public pages (checked 31 October 2026) present the e-Visa as open to visa-required countries with no pilot restriction; stay up to 90 days.",
+  "source": "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
+  "date": "2026-10-31"
  }
 }
