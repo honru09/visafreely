@@ -29170,5 +29170,31 @@
   "reason": "eVisa-B2 online route: Embassy of Israel in Singapore notice (October 2026) lists this nationality, and the PIBA portal's public pages (checked 31 October 2026) present the e-Visa as open to visa-required countries with no pilot restriction; stay up to 90 days.",
   "source": "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
   "date": "2026-10-31"
+ },
+ "IR:LB": {
+  "status": "visa required",
+  "reason": "Lebanon settlement 2026-10-31: GDGS Notice 38 classification (visa on arrival 30 -> visa required).",
+  "source": "https://www.general-security.gov.lb/en/posts/38",
+  "date": "2026-10-31"
+ },
+ "JO:LB": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Lebanon settlement 2026-10-31: GDGS Notice 38 classification (visa free 180 -> visa free 90).",
+  "source": "https://www.general-security.gov.lb/en/posts/38",
+  "date": "2026-10-31"
+ },
+ "SY:LB": {
+  "status": "visa required",
+  "reason": "Lebanon settlement 2026-10-31: GDGS Notice 38 classification (visa on arrival -> visa required).",
+  "source": "https://www.general-security.gov.lb/ar/posts/572",
+  "date": "2026-10-31"
+ },
+ "TR:LB": {
+  "status": "visa on arrival",
+  "days": 90,
+  "reason": "Lebanon settlement 2026-10-31: GDGS Notice 38 classification (visa on arrival 30 -> visa on arrival 90).",
+  "source": "https://www.general-security.gov.lb/en/posts/38",
+  "date": "2026-10-31"
  }
 }

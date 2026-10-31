@@ -8,6 +8,14 @@
   "source_name": "PIBA - eVisa-B2 information page"
  },
  {
+  "date": "2026-10-27",
+  "destination": "LB",
+  "title": "Lebanon adopts a new entry standard for Syrian nationals",
+  "summary": "General Security Notice 572 replaces a single tourist route for Syrian passports with a purpose-by-purpose regime at all air, land and sea ports: pre-booked hotel stay, business visit, property ownership, medical treatment, study and family cases each carry their own stay and papers, and work still requires a Labour Ministry permit plus pre-approval. The announcement was confirmed live by 27 October 2026 (GDGS page crawled that day); the text states no separate gazette day.",
+  "source": "https://www.general-security.gov.lb/ar/posts/572",
+  "source_name": "Lebanese General Security, Notice 572 (AR)"
+ },
+ {
   "date": "2026-10-01",
   "destination": "TM",
   "source": "https://migration.gov.tm/services/wiza-we-is-rugsatnamasy-16847397661914537",
@@ -118,6 +126,14 @@
   "source_name": "Ministry of Foreign Affairs of Mali",
   "summary": "By Foreign Ministry communiqués of 30 December 2025 and 2 January 2026, Mali suspended the entry of US ordinary-passport holders entirely from 1 January 2026, citing reciprocity. The measure is framed as reciprocal and not necessarily permanent; the US embassy's older fee and validity pages predate it and no longer apply.",
   "title": "Mali suspends entry for US citizens"
+ },
+ {
+  "date": "2026-02-18",
+  "destination": "LB",
+  "title": "Lebanon quadruples visit-visa fees",
+  "summary": "Under the 2026 Budget Law, General Security raised the visit/tourist entry-visa fee from 500,000 LBP to 2,000,000 LBP on 18 February 2026; work-entry, conversion and sponsor-transfer fees were set to the same 2,000,000 LBP. Port-issued tourist visas themselves stay free — the fee bites on pre-approved/consular visas and on in-country extensions. Old dollar prices still shown on some embassy pages (USD 17/35) are pre-reform leftovers.",
+  "source": "https://www.general-security.gov.lb/en/posts/37",
+  "source_name": "Lebanese General Security, visa types and fees"
  },
  {
   "date": "2025-12-31",
