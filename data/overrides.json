@@ -31801,5 +31801,23 @@
   "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Palestine",
   "date": "2026-10-31",
   "days": 90
+ },
+ "KN:IE": {
+  "status": "visa required",
+  "reason": "Ireland removed this nationality from the visa-exempt list effective 15 June 2026 (gov.ie announcement, 11 June 2026); seed still showed visa free.",
+  "source": "https://www.citizensinformation.ie/en/moving-country/visas-for-ireland/visa-requirements-for-entering-ireland/",
+  "date": "2026-11-02"
+ },
+ "LC:IE": {
+  "status": "visa required",
+  "reason": "Ireland removed this nationality from the visa-exempt list effective 15 June 2026 (gov.ie announcement, 11 June 2026); seed still showed visa free.",
+  "source": "https://www.citizensinformation.ie/en/moving-country/visas-for-ireland/visa-requirements-for-entering-ireland/",
+  "date": "2026-11-02"
+ },
+ "NI:IE": {
+  "status": "visa required",
+  "reason": "Ireland removed this nationality from the visa-exempt list effective 15 June 2026 (gov.ie announcement, 11 June 2026); seed still showed visa free.",
+  "source": "https://www.citizensinformation.ie/en/moving-country/visas-for-ireland/visa-requirements-for-entering-ireland/",
+  "date": "2026-11-02"
  }
 }
