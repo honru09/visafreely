@@ -126,7 +126,7 @@ const correctionsFmt = changelogCount.toLocaleString('en-US');
   </div>
 
   <h2>Most powerful passports right now</h2>
-  <p class="muted small">Ranked by the number of destinations reachable without applying for a visa in advance (visa free + on arrival + e-Visa + ETA).</p>
+  <p class="muted small">Ranked by the number of destinations reachable without applying for a visa in advance (visa free + visa on arrival + ETA; an e-Visa is applied for ahead, so it is not counted here).</p>
   <div class="rank-rows" data-reveal>
     {ranked.map((r, i) => (
       <div class="rank-row">
@@ -175,6 +175,21 @@ const correctionsFmt = changelogCount.toLocaleString('en-US');
     in the <a href="/changelog/">data changelog</a>, and everything else is honestly labelled with the
     dataset's own date. <a href="/about/">How verification works →</a>
   </p>
+
+  <h2>Run a travel site, blog or newsletter?</h2>
+  <p class="muted small">The checker and the data behind it are free to reuse — that is deliberate. Every embed and reuse carries the verification dates with it.</p>
+  <div class="route-grid">
+    <a class="route-card" href="/widget/">
+      <span class="rc-top"><span class="rc-name">Embed the checker</span></span>
+      <span class="rc-meta">A free visa-requirements widget for your own pages — one iframe, kept current by us.</span>
+      <svg class="rc-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4 12h15M13 5.5L19.5 12 13 18.5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    </a>
+    <a class="route-card" href="https://github.com/honru09/visa-requirements-dataset" rel="noopener" target="_blank">
+      <span class="rc-top"><span class="rc-name">Use the open dataset</span></span>
+      <span class="rc-meta">All 39,402 routes as CSV/JSON on GitHub, with the verified layer under CC BY 4.0.</span>
+      <svg class="rc-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4 12h15M13 5.5L19.5 12 13 18.5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    </a>
+  </div>
 
   <div class="closing-band">
     <h2>Spot an error?</h2>

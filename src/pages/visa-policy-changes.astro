@@ -1,5 +1,6 @@
 ---
 import Base from '../layouts/Base.astro';
+import ShareRow from '../components/ShareRow.astro';
 import policyChanges from '../data/policy-changes.json';
 import { countryByCode, formatDateLong } from '../lib/data';
 
@@ -49,6 +50,17 @@ const entries = (policyChanges as Change[])
     pair. Announced-but-not-in-force measures are not listed as changes; where a change is temporary or
     residence-based, the entry says so. For the pair-level record of what we corrected in our own data,
     see the <a href="/changelog/">data changelog</a>.
+  </p>
+
+  <ShareRow
+    url="https://visafreely.com/visa-policy-changes/"
+    text="Visa policy changes, tracked from the official source on the date each one takes effect:"
+    label="Share this tracker"
+  />
+  <p class="muted small">
+    Run a travel site or newsletter? This tracker and the route checker are free to reuse:
+    <a href="/widget/">embed the checker</a> or build on the
+    <a href="https://github.com/honru09/visa-requirements-dataset" rel="noopener" target="_blank">open dataset</a>.
   </p>
 
   <div class="timeline">

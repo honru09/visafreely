@@ -1,0 +1,94 @@
+---
+// Share row — one-tap sharing for pair pages and the policy-changes tracker.
+// Plain share-intent links (no trackers, no SDKs); the copy button uses one
+// delegated listener, bound once per page via a window flag.
+interface Props {
+  /** Absolute URL of the page being shared. */
+  url: string;
+  /** Pre-filled share text. */
+  text: string;
+  /** Row label, e.g. "Share this route". */
+  label?: string;
+}
+const { url, text, label = 'Share this page' } = Astro.props;
+const enc = encodeURIComponent;
+const xHref = `https://twitter.com/intent/tweet?text=${enc(text)}&url=${enc(url)}`;
+const waHref = `https://wa.me/?text=${enc(`${text} ${url}`)}`;
+const tgHref = `https://t.me/share/url?url=${enc(url)}&text=${enc(text)}`;
+---
+
+<div class="share-row">
+  <span class="share-label">{label}</span>
+  <a class="share-btn" href={xHref} rel="noopener" target="_blank" aria-label="Share on X">
+    <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M17.9 3H21l-6.8 7.8L22.2 21h-6.3l-4.9-6.4L5.4 21H2.2l7.3-8.3L2 3h6.4l4.4 5.9L17.9 3Zm-1.1 16.1h1.7L7.6 4.8H5.8l11 14.3Z"/></svg>
+    <span>X</span>
+  </a>
+  <a class="share-btn" href={waHref} rel="noopener" target="_blank" aria-label="Share on WhatsApp">
+    <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12.04 2C6.58 2 2.13 6.45 2.13 11.91c0 1.75.46 3.45 1.32 4.95L2 22l5.25-1.38a9.9 9.9 0 0 0 4.79 1.22c5.46 0 9.9-4.45 9.9-9.91C21.95 6.45 17.5 2 12.04 2Zm0 18.13a8.2 8.2 0 0 1-4.19-1.15l-.3-.18-3.12.82.83-3.04-.2-.31a8.2 8.2 0 0 1-1.26-4.38c0-4.54 3.7-8.24 8.24-8.24 4.54 0 8.24 3.7 8.24 8.24 0 4.54-3.7 8.24-8.24 8.24Zm4.52-6.16c-.25-.13-1.47-.72-1.69-.81-.22-.08-.37-.12-.53.13-.16.24-.62.8-.76.97-.14.16-.29.18-.53.06-.25-.13-1.05-.38-1.99-1.23-.74-.66-1.23-1.47-1.38-1.72-.14-.24-.01-.38.11-.5.11-.11.25-.29.37-.43.12-.15.16-.25.25-.41.08-.17.04-.31-.02-.43-.06-.13-.53-1.29-.74-1.78-.2-.48-.4-.41-.56-.42h-.48c-.17 0-.43.06-.68.31-.25.25-.93.92-.93 2.27 0 1.35.98 2.65 1.12 2.83.14.18 1.93 2.95 4.68 4.14.65.28 1.17.45 1.56.57.66.21 1.25.18 1.73.11.53-.08 1.58-.48 1.84-.95.25-.46.25-.86.18-.95-.06-.08-.23-.14-.48-.27Z"/></svg>
+    <span>WhatsApp</span>
+  </a>
+  <a class="share-btn" href={tgHref} rel="noopener" target="_blank" aria-label="Share on Telegram">
+    <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M21.9 4.6 19 19.3c-.2 1-.8 1.2-1.6.8l-4.5-3.3-2.2 2.1c-.24.24-.45.45-.9.45l.32-4.6 8.4-7.6c.36-.32-.08-.5-.57-.18L7.6 13.5 3.1 12.1c-.97-.3-1-1 .2-1.4l17.6-6.8c.8-.3 1.5.2 1 1Z"/></svg>
+    <span>Telegram</span>
+  </a>
+  <button type="button" class="share-btn share-copy" data-copy={url} aria-label="Copy link to this page">
+    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M10.5 13.5a4.5 4.5 0 0 0 6.4 0l3-3a4.5 4.5 0 1 0-6.4-6.4l-1.5 1.5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><path d="M13.5 10.5a4.5 4.5 0 0 0-6.4 0l-3 3a4.5 4.5 0 1 0 6.4 6.4l1.5-1.5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+    <span class="copy-label">Copy link</span>
+  </button>
+</div>
+
+<script is:inline>
+  if (!window.__vfShareBound) {
+    window.__vfShareBound = true;
+    document.addEventListener('click', function (e) {
+      var btn = e.target && e.target.closest ? e.target.closest('.share-copy') : null;
+      if (!btn) return;
+      var url = btn.getAttribute('data-copy');
+      var label = btn.querySelector('.copy-label');
+      var done = function () {
+        if (!label) return;
+        var old = label.textContent;
+        label.textContent = 'Copied';
+        setTimeout(function () { label.textContent = old; }, 1600);
+      };
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(url).then(done, done);
+      } else { done(); }
+    });
+  }
+</script>
+
+<style>
+  .share-row {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: 14px 0 4px;
+  }
+  .share-label {
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    opacity: 0.65;
+    margin-right: 2px;
+  }
+  .share-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 6px 12px;
+    border: 1.5px solid currentColor;
+    border-radius: 999px;
+    font-size: 13.5px;
+    font-weight: 600;
+    line-height: 1;
+    color: inherit;
+    background: transparent;
+    cursor: pointer;
+    text-decoration: none;
+    opacity: 0.82;
+  }
+  .share-btn:hover { opacity: 1; }
+</style>

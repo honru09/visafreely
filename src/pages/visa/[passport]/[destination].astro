@@ -2,6 +2,7 @@
 import Base from '../../../layouts/Base.astro';
 import Shelf from '../../../components/Shelf.astro';
 import Stamp from '../../../components/Stamp.astro';
+import ShareRow from '../../../components/ShareRow.astro';
 import {
   countries,
   countryByCode,
@@ -122,6 +123,12 @@ const freePassports = countries
       </div>
     </div>
   </div>
+
+  <ShareRow
+    url={urlFor(pairPath(p, d))}
+    text={`${p.name} passport → ${d.name}: ${verdict} — visa requirements with the verification status shown`}
+    label="Share this route"
+  />
 
   {
     extra.verified ? (
@@ -297,4 +304,17 @@ const freePassports = countries
       </>
     )
   }
+
+  <div class="closing-band">
+    <h2>Visa rules change often</h2>
+    <p style="max-width:560px;margin:0 auto;">
+      New exemptions, e-Visa mandates and suspensions take effect every month — and most
+      datasets notice late. We track the changes themselves, from the official text, on the
+      date each one takes effect.
+    </p>
+    <div class="cb-actions">
+      <a class="btn on-dark" href="/visa-policy-changes/">Latest visa policy changes</a>
+      <a class="btn ghost-on-dark" href="/widget/">Put this checker on your site</a>
+    </div>
+  </div>
 </Base>
