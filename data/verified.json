@@ -3505,10 +3505,10 @@
   "valid_until": "2027-12-31"
  },
  "RO:US": {
-  "date": "2026-10-25",
-  "source": "https://iptp-production.s3.amazonaws.com/media/documents/2025.05.02_DHS_Announces_Rescission_of_Romanias_Designation_into_the_Visa_Waiv_foCrqvQ.pdf",
-  "source_name": "U.S. Department of Homeland Security — rescission of Romania’s VWP designation, 2 May 2025",
-  "note": "Romania’s Visa Waiver Program designation was rescinded on 2 May 2025 before ESTA ever opened; a B visa is required."
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Romania; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
  },
  "SG:JP": {
   "date": "2026-10-25",
@@ -5874,150 +5874,178 @@
   "source_name": "Hong Kong Immigration Department — visit visa / entry permit requirements"
  },
  "SG:US": {
-  "date": "2026-10-25",
+  "date": "2026-11-07",
   "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
-  "source_name": "U.S. Department of State — Visa Waiver Program"
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "Travel under the Visa Waiver Program (VWP): get an ESTA authorisation from CBP online before boarding — fee USD 40.62 since 16 October 2026 (USD 40 from 30 September 2025, USD 21 before that); an approved ESTA is normally valid for two years or until the passport expires. Stays of up to 90 days for tourism or business; the stay cannot be extended and status cannot be changed, and an approved ESTA does not guarantee admission — the CBP officer at the port of entry decides. An e-passport is required. Travellers who have been in North Korea, Iran, Iraq, Libya, Somalia, Sudan, Syria or Yemen on or after 1 March 2011, or in Cuba on or after 12 January 2021, and dual nationals of Cuba, North Korea, Iran, Iraq, Sudan or Syria, cannot use the VWP and need a visitor visa instead."
  },
  "KR:US": {
-  "date": "2026-10-25",
+  "date": "2026-11-07",
   "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
-  "source_name": "U.S. Department of State — Visa Waiver Program"
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "Travel under the Visa Waiver Program (VWP): get an ESTA authorisation from CBP online before boarding — fee USD 40.62 since 16 October 2026 (USD 40 from 30 September 2025, USD 21 before that); an approved ESTA is normally valid for two years or until the passport expires. Stays of up to 90 days for tourism or business; the stay cannot be extended and status cannot be changed, and an approved ESTA does not guarantee admission — the CBP officer at the port of entry decides. An e-passport is required. Travellers who have been in North Korea, Iran, Iraq, Libya, Somalia, Sudan, Syria or Yemen on or after 1 March 2011, or in Cuba on or after 12 January 2021, and dual nationals of Cuba, North Korea, Iran, Iraq, Sudan or Syria, cannot use the VWP and need a visitor visa instead."
  },
  "JP:US": {
-  "date": "2026-10-25",
+  "date": "2026-11-07",
   "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
-  "source_name": "U.S. Department of State — Visa Waiver Program"
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "Travel under the Visa Waiver Program (VWP): get an ESTA authorisation from CBP online before boarding — fee USD 40.62 since 16 October 2026 (USD 40 from 30 September 2025, USD 21 before that); an approved ESTA is normally valid for two years or until the passport expires. Stays of up to 90 days for tourism or business; the stay cannot be extended and status cannot be changed, and an approved ESTA does not guarantee admission — the CBP officer at the port of entry decides. An e-passport is required. Travellers who have been in North Korea, Iran, Iraq, Libya, Somalia, Sudan, Syria or Yemen on or after 1 March 2011, or in Cuba on or after 12 January 2021, and dual nationals of Cuba, North Korea, Iran, Iraq, Sudan or Syria, cannot use the VWP and need a visitor visa instead."
  },
  "FR:US": {
-  "date": "2026-10-25",
+  "date": "2026-11-07",
   "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
-  "source_name": "U.S. Department of State — Visa Waiver Program"
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "Travel under the Visa Waiver Program (VWP): get an ESTA authorisation from CBP online before boarding — fee USD 40.62 since 16 October 2026 (USD 40 from 30 September 2025, USD 21 before that); an approved ESTA is normally valid for two years or until the passport expires. Stays of up to 90 days for tourism or business; the stay cannot be extended and status cannot be changed, and an approved ESTA does not guarantee admission — the CBP officer at the port of entry decides. An e-passport is required. Travellers who have been in North Korea, Iran, Iraq, Libya, Somalia, Sudan, Syria or Yemen on or after 1 March 2011, or in Cuba on or after 12 January 2021, and dual nationals of Cuba, North Korea, Iran, Iraq, Sudan or Syria, cannot use the VWP and need a visitor visa instead."
  },
  "DE:US": {
-  "date": "2026-10-25",
+  "date": "2026-11-07",
   "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
-  "source_name": "U.S. Department of State — Visa Waiver Program"
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "Travel under the Visa Waiver Program (VWP): get an ESTA authorisation from CBP online before boarding — fee USD 40.62 since 16 October 2026 (USD 40 from 30 September 2025, USD 21 before that); an approved ESTA is normally valid for two years or until the passport expires. Stays of up to 90 days for tourism or business; the stay cannot be extended and status cannot be changed, and an approved ESTA does not guarantee admission — the CBP officer at the port of entry decides. An e-passport is required. Travellers who have been in North Korea, Iran, Iraq, Libya, Somalia, Sudan, Syria or Yemen on or after 1 March 2011, or in Cuba on or after 12 January 2021, and dual nationals of Cuba, North Korea, Iran, Iraq, Sudan or Syria, cannot use the VWP and need a visitor visa instead."
  },
  "IT:US": {
-  "date": "2026-10-25",
+  "date": "2026-11-07",
   "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
-  "source_name": "U.S. Department of State — Visa Waiver Program"
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "Travel under the Visa Waiver Program (VWP): get an ESTA authorisation from CBP online before boarding — fee USD 40.62 since 16 October 2026 (USD 40 from 30 September 2025, USD 21 before that); an approved ESTA is normally valid for two years or until the passport expires. Stays of up to 90 days for tourism or business; the stay cannot be extended and status cannot be changed, and an approved ESTA does not guarantee admission — the CBP officer at the port of entry decides. An e-passport is required. Travellers who have been in North Korea, Iran, Iraq, Libya, Somalia, Sudan, Syria or Yemen on or after 1 March 2011, or in Cuba on or after 12 January 2021, and dual nationals of Cuba, North Korea, Iran, Iraq, Sudan or Syria, cannot use the VWP and need a visitor visa instead."
  },
  "ES:US": {
-  "date": "2026-10-25",
+  "date": "2026-11-07",
   "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
-  "source_name": "U.S. Department of State — Visa Waiver Program"
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "Travel under the Visa Waiver Program (VWP): get an ESTA authorisation from CBP online before boarding — fee USD 40.62 since 16 October 2026 (USD 40 from 30 September 2025, USD 21 before that); an approved ESTA is normally valid for two years or until the passport expires. Stays of up to 90 days for tourism or business; the stay cannot be extended and status cannot be changed, and an approved ESTA does not guarantee admission — the CBP officer at the port of entry decides. An e-passport is required. Travellers who have been in North Korea, Iran, Iraq, Libya, Somalia, Sudan, Syria or Yemen on or after 1 March 2011, or in Cuba on or after 12 January 2021, and dual nationals of Cuba, North Korea, Iran, Iraq, Sudan or Syria, cannot use the VWP and need a visitor visa instead."
  },
  "FI:US": {
-  "date": "2026-10-25",
+  "date": "2026-11-07",
   "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
-  "source_name": "U.S. Department of State — Visa Waiver Program"
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "Travel under the Visa Waiver Program (VWP): get an ESTA authorisation from CBP online before boarding — fee USD 40.62 since 16 October 2026 (USD 40 from 30 September 2025, USD 21 before that); an approved ESTA is normally valid for two years or until the passport expires. Stays of up to 90 days for tourism or business; the stay cannot be extended and status cannot be changed, and an approved ESTA does not guarantee admission — the CBP officer at the port of entry decides. An e-passport is required. Travellers who have been in North Korea, Iran, Iraq, Libya, Somalia, Sudan, Syria or Yemen on or after 1 March 2011, or in Cuba on or after 12 January 2021, and dual nationals of Cuba, North Korea, Iran, Iraq, Sudan or Syria, cannot use the VWP and need a visitor visa instead."
  },
  "NL:US": {
-  "date": "2026-10-25",
+  "date": "2026-11-07",
   "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
-  "source_name": "U.S. Department of State — Visa Waiver Program"
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "Travel under the Visa Waiver Program (VWP): get an ESTA authorisation from CBP online before boarding — fee USD 40.62 since 16 October 2026 (USD 40 from 30 September 2025, USD 21 before that); an approved ESTA is normally valid for two years or until the passport expires. Stays of up to 90 days for tourism or business; the stay cannot be extended and status cannot be changed, and an approved ESTA does not guarantee admission — the CBP officer at the port of entry decides. An e-passport is required. Travellers who have been in North Korea, Iran, Iraq, Libya, Somalia, Sudan, Syria or Yemen on or after 1 March 2011, or in Cuba on or after 12 January 2021, and dual nationals of Cuba, North Korea, Iran, Iraq, Sudan or Syria, cannot use the VWP and need a visitor visa instead."
  },
  "BE:US": {
-  "date": "2026-10-25",
+  "date": "2026-11-07",
   "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
-  "source_name": "U.S. Department of State — Visa Waiver Program"
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "Travel under the Visa Waiver Program (VWP): get an ESTA authorisation from CBP online before boarding — fee USD 40.62 since 16 October 2026 (USD 40 from 30 September 2025, USD 21 before that); an approved ESTA is normally valid for two years or until the passport expires. Stays of up to 90 days for tourism or business; the stay cannot be extended and status cannot be changed, and an approved ESTA does not guarantee admission — the CBP officer at the port of entry decides. An e-passport is required. Travellers who have been in North Korea, Iran, Iraq, Libya, Somalia, Sudan, Syria or Yemen on or after 1 March 2011, or in Cuba on or after 12 January 2021, and dual nationals of Cuba, North Korea, Iran, Iraq, Sudan or Syria, cannot use the VWP and need a visitor visa instead."
  },
  "DK:US": {
-  "date": "2026-10-25",
+  "date": "2026-11-07",
   "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
-  "source_name": "U.S. Department of State — Visa Waiver Program"
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "Travel under the Visa Waiver Program (VWP): get an ESTA authorisation from CBP online before boarding — fee USD 40.62 since 16 October 2026 (USD 40 from 30 September 2025, USD 21 before that); an approved ESTA is normally valid for two years or until the passport expires. Stays of up to 90 days for tourism or business; the stay cannot be extended and status cannot be changed, and an approved ESTA does not guarantee admission — the CBP officer at the port of entry decides. An e-passport is required. Travellers who have been in North Korea, Iran, Iraq, Libya, Somalia, Sudan, Syria or Yemen on or after 1 March 2011, or in Cuba on or after 12 January 2021, and dual nationals of Cuba, North Korea, Iran, Iraq, Sudan or Syria, cannot use the VWP and need a visitor visa instead."
  },
  "SE:US": {
-  "date": "2026-10-25",
+  "date": "2026-11-07",
   "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
-  "source_name": "U.S. Department of State — Visa Waiver Program"
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "Travel under the Visa Waiver Program (VWP): get an ESTA authorisation from CBP online before boarding — fee USD 40.62 since 16 October 2026 (USD 40 from 30 September 2025, USD 21 before that); an approved ESTA is normally valid for two years or until the passport expires. Stays of up to 90 days for tourism or business; the stay cannot be extended and status cannot be changed, and an approved ESTA does not guarantee admission — the CBP officer at the port of entry decides. An e-passport is required. Travellers who have been in North Korea, Iran, Iraq, Libya, Somalia, Sudan, Syria or Yemen on or after 1 March 2011, or in Cuba on or after 12 January 2021, and dual nationals of Cuba, North Korea, Iran, Iraq, Sudan or Syria, cannot use the VWP and need a visitor visa instead."
  },
  "NO:US": {
-  "date": "2026-10-25",
+  "date": "2026-11-07",
   "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
-  "source_name": "U.S. Department of State — Visa Waiver Program"
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "Travel under the Visa Waiver Program (VWP): get an ESTA authorisation from CBP online before boarding — fee USD 40.62 since 16 October 2026 (USD 40 from 30 September 2025, USD 21 before that); an approved ESTA is normally valid for two years or until the passport expires. Stays of up to 90 days for tourism or business; the stay cannot be extended and status cannot be changed, and an approved ESTA does not guarantee admission — the CBP officer at the port of entry decides. An e-passport is required. Travellers who have been in North Korea, Iran, Iraq, Libya, Somalia, Sudan, Syria or Yemen on or after 1 March 2011, or in Cuba on or after 12 January 2021, and dual nationals of Cuba, North Korea, Iran, Iraq, Sudan or Syria, cannot use the VWP and need a visitor visa instead."
  },
  "CH:US": {
-  "date": "2026-10-25",
+  "date": "2026-11-07",
   "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
-  "source_name": "U.S. Department of State — Visa Waiver Program"
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "Travel under the Visa Waiver Program (VWP): get an ESTA authorisation from CBP online before boarding — fee USD 40.62 since 16 October 2026 (USD 40 from 30 September 2025, USD 21 before that); an approved ESTA is normally valid for two years or until the passport expires. Stays of up to 90 days for tourism or business; the stay cannot be extended and status cannot be changed, and an approved ESTA does not guarantee admission — the CBP officer at the port of entry decides. An e-passport is required. Travellers who have been in North Korea, Iran, Iraq, Libya, Somalia, Sudan, Syria or Yemen on or after 1 March 2011, or in Cuba on or after 12 January 2021, and dual nationals of Cuba, North Korea, Iran, Iraq, Sudan or Syria, cannot use the VWP and need a visitor visa instead."
  },
  "AT:US": {
-  "date": "2026-10-25",
+  "date": "2026-11-07",
   "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
-  "source_name": "U.S. Department of State — Visa Waiver Program"
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "Travel under the Visa Waiver Program (VWP): get an ESTA authorisation from CBP online before boarding — fee USD 40.62 since 16 October 2026 (USD 40 from 30 September 2025, USD 21 before that); an approved ESTA is normally valid for two years or until the passport expires. Stays of up to 90 days for tourism or business; the stay cannot be extended and status cannot be changed, and an approved ESTA does not guarantee admission — the CBP officer at the port of entry decides. An e-passport is required. Travellers who have been in North Korea, Iran, Iraq, Libya, Somalia, Sudan, Syria or Yemen on or after 1 March 2011, or in Cuba on or after 12 January 2021, and dual nationals of Cuba, North Korea, Iran, Iraq, Sudan or Syria, cannot use the VWP and need a visitor visa instead."
  },
  "IE:US": {
-  "date": "2026-10-25",
+  "date": "2026-11-07",
   "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
-  "source_name": "U.S. Department of State — Visa Waiver Program"
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "Travel under the Visa Waiver Program (VWP): get an ESTA authorisation from CBP online before boarding — fee USD 40.62 since 16 October 2026 (USD 40 from 30 September 2025, USD 21 before that); an approved ESTA is normally valid for two years or until the passport expires. Stays of up to 90 days for tourism or business; the stay cannot be extended and status cannot be changed, and an approved ESTA does not guarantee admission — the CBP officer at the port of entry decides. An e-passport is required. Travellers who have been in North Korea, Iran, Iraq, Libya, Somalia, Sudan, Syria or Yemen on or after 1 March 2011, or in Cuba on or after 12 January 2021, and dual nationals of Cuba, North Korea, Iran, Iraq, Sudan or Syria, cannot use the VWP and need a visitor visa instead."
  },
  "GB:US": {
-  "date": "2026-10-25",
+  "date": "2026-11-07",
   "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
-  "source_name": "U.S. Department of State — Visa Waiver Program"
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "Travel under the Visa Waiver Program (VWP): get an ESTA authorisation from CBP online before boarding — fee USD 40.62 since 16 October 2026 (USD 40 from 30 September 2025, USD 21 before that); an approved ESTA is normally valid for two years or until the passport expires. Stays of up to 90 days for tourism or business; the stay cannot be extended and status cannot be changed, and an approved ESTA does not guarantee admission — the CBP officer at the port of entry decides. An e-passport is required. Travellers who have been in North Korea, Iran, Iraq, Libya, Somalia, Sudan, Syria or Yemen on or after 1 March 2011, or in Cuba on or after 12 January 2021, and dual nationals of Cuba, North Korea, Iran, Iraq, Sudan or Syria, cannot use the VWP and need a visitor visa instead. British citizens qualify only if they have the unrestricted right of permanent abode in England, Scotland, Wales, Northern Ireland, the Channel Islands or the Isle of Man."
  },
  "AU:US": {
-  "date": "2026-10-25",
+  "date": "2026-11-07",
   "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
-  "source_name": "U.S. Department of State — Visa Waiver Program"
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "Travel under the Visa Waiver Program (VWP): get an ESTA authorisation from CBP online before boarding — fee USD 40.62 since 16 October 2026 (USD 40 from 30 September 2025, USD 21 before that); an approved ESTA is normally valid for two years or until the passport expires. Stays of up to 90 days for tourism or business; the stay cannot be extended and status cannot be changed, and an approved ESTA does not guarantee admission — the CBP officer at the port of entry decides. An e-passport is required. Travellers who have been in North Korea, Iran, Iraq, Libya, Somalia, Sudan, Syria or Yemen on or after 1 March 2011, or in Cuba on or after 12 January 2021, and dual nationals of Cuba, North Korea, Iran, Iraq, Sudan or Syria, cannot use the VWP and need a visitor visa instead."
  },
  "NZ:US": {
-  "date": "2026-10-25",
+  "date": "2026-11-07",
   "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
-  "source_name": "U.S. Department of State — Visa Waiver Program"
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "Travel under the Visa Waiver Program (VWP): get an ESTA authorisation from CBP online before boarding — fee USD 40.62 since 16 October 2026 (USD 40 from 30 September 2025, USD 21 before that); an approved ESTA is normally valid for two years or until the passport expires. Stays of up to 90 days for tourism or business; the stay cannot be extended and status cannot be changed, and an approved ESTA does not guarantee admission — the CBP officer at the port of entry decides. An e-passport is required. Travellers who have been in North Korea, Iran, Iraq, Libya, Somalia, Sudan, Syria or Yemen on or after 1 March 2011, or in Cuba on or after 12 January 2021, and dual nationals of Cuba, North Korea, Iran, Iraq, Sudan or Syria, cannot use the VWP and need a visitor visa instead."
  },
  "PT:US": {
-  "date": "2026-10-25",
+  "date": "2026-11-07",
   "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
-  "source_name": "U.S. Department of State — Visa Waiver Program"
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "Travel under the Visa Waiver Program (VWP): get an ESTA authorisation from CBP online before boarding — fee USD 40.62 since 16 October 2026 (USD 40 from 30 September 2025, USD 21 before that); an approved ESTA is normally valid for two years or until the passport expires. Stays of up to 90 days for tourism or business; the stay cannot be extended and status cannot be changed, and an approved ESTA does not guarantee admission — the CBP officer at the port of entry decides. An e-passport is required. Travellers who have been in North Korea, Iran, Iraq, Libya, Somalia, Sudan, Syria or Yemen on or after 1 March 2011, or in Cuba on or after 12 January 2021, and dual nationals of Cuba, North Korea, Iran, Iraq, Sudan or Syria, cannot use the VWP and need a visitor visa instead."
  },
  "GR:US": {
-  "date": "2026-10-25",
+  "date": "2026-11-07",
   "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
-  "source_name": "U.S. Department of State — Visa Waiver Program"
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "Travel under the Visa Waiver Program (VWP): get an ESTA authorisation from CBP online before boarding — fee USD 40.62 since 16 October 2026 (USD 40 from 30 September 2025, USD 21 before that); an approved ESTA is normally valid for two years or until the passport expires. Stays of up to 90 days for tourism or business; the stay cannot be extended and status cannot be changed, and an approved ESTA does not guarantee admission — the CBP officer at the port of entry decides. An e-passport is required. Travellers who have been in North Korea, Iran, Iraq, Libya, Somalia, Sudan, Syria or Yemen on or after 1 March 2011, or in Cuba on or after 12 January 2021, and dual nationals of Cuba, North Korea, Iran, Iraq, Sudan or Syria, cannot use the VWP and need a visitor visa instead."
  },
  "PL:US": {
-  "date": "2026-10-25",
+  "date": "2026-11-07",
   "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
-  "source_name": "U.S. Department of State — Visa Waiver Program"
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "Travel under the Visa Waiver Program (VWP): get an ESTA authorisation from CBP online before boarding — fee USD 40.62 since 16 October 2026 (USD 40 from 30 September 2025, USD 21 before that); an approved ESTA is normally valid for two years or until the passport expires. Stays of up to 90 days for tourism or business; the stay cannot be extended and status cannot be changed, and an approved ESTA does not guarantee admission — the CBP officer at the port of entry decides. An e-passport is required. Travellers who have been in North Korea, Iran, Iraq, Libya, Somalia, Sudan, Syria or Yemen on or after 1 March 2011, or in Cuba on or after 12 January 2021, and dual nationals of Cuba, North Korea, Iran, Iraq, Sudan or Syria, cannot use the VWP and need a visitor visa instead."
  },
  "CZ:US": {
-  "date": "2026-10-25",
+  "date": "2026-11-07",
   "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
-  "source_name": "U.S. Department of State — Visa Waiver Program"
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "Travel under the Visa Waiver Program (VWP): get an ESTA authorisation from CBP online before boarding — fee USD 40.62 since 16 October 2026 (USD 40 from 30 September 2025, USD 21 before that); an approved ESTA is normally valid for two years or until the passport expires. Stays of up to 90 days for tourism or business; the stay cannot be extended and status cannot be changed, and an approved ESTA does not guarantee admission — the CBP officer at the port of entry decides. An e-passport is required. Travellers who have been in North Korea, Iran, Iraq, Libya, Somalia, Sudan, Syria or Yemen on or after 1 March 2011, or in Cuba on or after 12 January 2021, and dual nationals of Cuba, North Korea, Iran, Iraq, Sudan or Syria, cannot use the VWP and need a visitor visa instead."
  },
  "HU:US": {
-  "date": "2026-10-25",
+  "date": "2026-11-07",
   "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
-  "source_name": "U.S. Department of State — Visa Waiver Program"
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "Travel under the Visa Waiver Program (VWP): get an ESTA authorisation from CBP online before boarding — fee USD 40.62 since 16 October 2026 (USD 40 from 30 September 2025, USD 21 before that); an approved ESTA is normally valid for two years or until the passport expires. Stays of up to 90 days for tourism or business; the stay cannot be extended and status cannot be changed, and an approved ESTA does not guarantee admission — the CBP officer at the port of entry decides. An e-passport is required. Travellers who have been in North Korea, Iran, Iraq, Libya, Somalia, Sudan, Syria or Yemen on or after 1 March 2011, or in Cuba on or after 12 January 2021, and dual nationals of Cuba, North Korea, Iran, Iraq, Sudan or Syria, cannot use the VWP and need a visitor visa instead."
  },
  "IL:US": {
-  "date": "2026-10-25",
+  "date": "2026-11-07",
   "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
-  "source_name": "U.S. Department of State — Visa Waiver Program"
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "Travel under the Visa Waiver Program (VWP): get an ESTA authorisation from CBP online before boarding — fee USD 40.62 since 16 October 2026 (USD 40 from 30 September 2025, USD 21 before that); an approved ESTA is normally valid for two years or until the passport expires. Stays of up to 90 days for tourism or business; the stay cannot be extended and status cannot be changed, and an approved ESTA does not guarantee admission — the CBP officer at the port of entry decides. An e-passport is required. Travellers who have been in North Korea, Iran, Iraq, Libya, Somalia, Sudan, Syria or Yemen on or after 1 March 2011, or in Cuba on or after 12 January 2021, and dual nationals of Cuba, North Korea, Iran, Iraq, Sudan or Syria, cannot use the VWP and need a visitor visa instead."
  },
  "AE:US": {
-  "date": "2026-10-25",
+  "date": "2026-11-07",
   "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
-  "source_name": "U.S. Department of State — Visa Waiver Program"
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for United Arab Emirates; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
  },
  "MY:US": {
-  "date": "2026-10-25",
+  "date": "2026-11-07",
   "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
-  "source_name": "U.S. Department of State — Visa Waiver Program"
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Malaysia; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
  },
  "CN:US": {
-  "date": "2026-10-25",
+  "date": "2026-11-07",
   "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
-  "source_name": "U.S. Department of State — Visa Waiver Program"
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for China; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
  },
  "CA:US": {
-  "date": "2026-10-25",
-  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/citizens-of-canada-and-bermuda.html?pubDate=20250720",
-  "source_name": "U.S. Department of State — citizens of Canada and Bermuda",
-  "note": "Canadian citizens are visa-exempt under separate rules (not the VWP); admission is set by CBP, conventionally up to 6 months."
+  "date": "2026-11-07",
+  "source": "https://www.cbp.gov/travel/us-citizens/western-hemisphere-travel-initiative",
+  "source_name": "U.S. Customs and Border Protection — Western Hemisphere Travel Initiative (Canadian citizens are visa-exempt under 8 CFR 212.1 and typically admitted for up to six months)",
+  "note": "Canadian citizens are visa-exempt: no visa and no ESTA is needed for tourism or business visits. Present a Canadian passport when arriving by air, or another WHTI-compliant document (such as a NEXUS card or an enhanced driver's licence) by land or sea. Visitors are typically admitted for up to six months; the CBP officer sets the exact period on the I-94 record."
  },
  "SG:CA": {
   "date": "2026-10-25",
@@ -86743,5 +86771,1013 @@
   "source": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
   "source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association",
   "note": "A short-stay Schengen (uniform) visa is required in advance. Liechtenstein does not issue visas itself: apply at the Swiss embassy or consulate for your place of residence — in a few locations another Schengen state represents Liechtenstein, and the Migration and Passport Office (Auslaender- und Passamt) publishes the list; the decision lies partly with the Swiss authorities and partly with that Office. Fee EUR 90, apply between 6 months and at least 15 days before travel, decisions within 15 calendar days (up to 45). A uniform visa issued by any Schengen state is valid for Liechtenstein, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period. Passport must be valid at least 3 months after the intended departure, issued within the previous 10 years. Liechtenstein has no airport of its own — entry is overland from Switzerland or Austria, with no border checks on those routes."
+ },
+ "AD:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "Travel under the Visa Waiver Program (VWP): get an ESTA authorisation from CBP online before boarding — fee USD 40.62 since 16 October 2026 (USD 40 from 30 September 2025, USD 21 before that); an approved ESTA is normally valid for two years or until the passport expires. Stays of up to 90 days for tourism or business; the stay cannot be extended and status cannot be changed, and an approved ESTA does not guarantee admission — the CBP officer at the port of entry decides. An e-passport is required. Travellers who have been in North Korea, Iran, Iraq, Libya, Somalia, Sudan, Syria or Yemen on or after 1 March 2011, or in Cuba on or after 12 January 2021, and dual nationals of Cuba, North Korea, Iran, Iraq, Sudan or Syria, cannot use the VWP and need a visitor visa instead."
+ },
+ "AF:US": {
+  "date": "2026-11-07",
+  "source": "https://www.govinfo.gov/content/pkg/FR-2025-12-19/html/2025-23570.htm",
+  "source_name": "Presidential Proclamation 10998 of 16 December 2025 (Federal Register, 19 December 2025)",
+  "note": "Entry is fully suspended. Under Presidential Proclamation 10949 (in force since 9 June 2025), continued in force by Proclamation 10998 from 1 January 2026, the entry of nationals of Afghanistan as immigrants and as nonimmigrants is suspended and U.S. consulates are not issuing them visas, subject only to narrow exceptions (such as diplomatic visas, lawful permanent residents, and dual nationals travelling on a passport of an unaffected country). Visas validly issued before the suspension took effect were not revoked by the proclamations."
+ },
+ "AG:US": {
+  "date": "2026-11-07",
+  "source": "https://www.govinfo.gov/content/pkg/FR-2025-12-19/html/2025-23570.htm",
+  "source_name": "Presidential Proclamation 10998 of 16 December 2025 (Federal Register, 19 December 2025)",
+  "note": "Entry is partially suspended. Under Presidential Proclamation 10998 (in force since 1 January 2026), the United States is not issuing immigrant visas or B-1/B-2 visitor, F, M or J visas to nationals of Antigua & Barbuda; other nonimmigrant categories remain possible, with their validity liable to be shortened by the consular officer. The restriction was added by that proclamation. Antigua & Barbuda is also on the Department of State's visa bond list: an applicant found otherwise eligible for a B-1/B-2 visa must post a refundable bond of USD 10,000, 15,000 or 20,000, set by the consular officer at the interview (programme made permanent by the Final Rule of 3 August 2026; Form I-352, paid via Pay.gov)."
+ },
+ "AL:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Albania; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "AM:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Armenia; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "AO:US": {
+  "date": "2026-11-07",
+  "source": "https://www.govinfo.gov/content/pkg/FR-2025-12-19/html/2025-23570.htm",
+  "source_name": "Presidential Proclamation 10998 of 16 December 2025 (Federal Register, 19 December 2025)",
+  "note": "Entry is partially suspended. Under Presidential Proclamation 10998 (in force since 1 January 2026), the United States is not issuing immigrant visas or B-1/B-2 visitor, F, M or J visas to nationals of Angola; other nonimmigrant categories remain possible, with their validity liable to be shortened by the consular officer. The restriction was added by that proclamation. Angola is also on the Department of State's visa bond list: an applicant found otherwise eligible for a B-1/B-2 visa must post a refundable bond of USD 10,000, 15,000 or 20,000, set by the consular officer at the interview (programme made permanent by the Final Rule of 3 August 2026; Form I-352, paid via Pay.gov)."
+ },
+ "AR:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Argentina; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "AZ:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Azerbaijan; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "BA:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Bosnia & Herzegovina; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "BB:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Barbados; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "BD:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/en/newsroom/visas/2026/countries-subject-to-visa-bonds.html",
+  "source_name": "U.S. Department of State — Countries Subject to Visa Bonds",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Bangladesh; at each entry the CBP officer sets the authorised stay (up to six months for visitors). Bangladesh is also on the Department of State's visa bond list: an applicant found otherwise eligible for a B-1/B-2 visa must post a refundable bond of USD 10,000, 15,000 or 20,000, set by the consular officer at the interview (programme made permanent by the Final Rule of 3 August 2026; Form I-352, paid via Pay.gov)."
+ },
+ "BF:US": {
+  "date": "2026-11-07",
+  "source": "https://www.govinfo.gov/content/pkg/FR-2025-12-19/html/2025-23570.htm",
+  "source_name": "Presidential Proclamation 10998 of 16 December 2025 (Federal Register, 19 December 2025)",
+  "note": "Entry is fully suspended. Under Presidential Proclamation 10998 (in force since 1 January 2026), the entry of nationals of Burkina Faso as immigrants and as nonimmigrants is suspended and U.S. consulates are not issuing them visas, subject only to narrow exceptions (such as diplomatic visas, lawful permanent residents, and dual nationals travelling on a passport of an unaffected country)."
+ },
+ "BG:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Bulgaria; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "BH:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Bahrain; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "BI:US": {
+  "date": "2026-11-07",
+  "source": "https://www.govinfo.gov/content/pkg/FR-2025-12-19/html/2025-23570.htm",
+  "source_name": "Presidential Proclamation 10998 of 16 December 2025 (Federal Register, 19 December 2025)",
+  "note": "Entry is partially suspended. Under Presidential Proclamation 10998 (in force since 1 January 2026), the United States is not issuing immigrant visas or B-1/B-2 visitor, F, M or J visas to nationals of Burundi; other nonimmigrant categories remain possible, with their validity liable to be shortened by the consular officer. The suspension continues the partial restriction first imposed on 9 June 2025 by Proclamation 10949. Burundi is also on the Department of State's visa bond list: an applicant found otherwise eligible for a B-1/B-2 visa must post a refundable bond of USD 10,000, 15,000 or 20,000, set by the consular officer at the interview (programme made permanent by the Final Rule of 3 August 2026; Form I-352, paid via Pay.gov)."
+ },
+ "BJ:US": {
+  "date": "2026-11-07",
+  "source": "https://www.govinfo.gov/content/pkg/FR-2025-12-19/html/2025-23570.htm",
+  "source_name": "Presidential Proclamation 10998 of 16 December 2025 (Federal Register, 19 December 2025)",
+  "note": "Entry is partially suspended. Under Presidential Proclamation 10998 (in force since 1 January 2026), the United States is not issuing immigrant visas or B-1/B-2 visitor, F, M or J visas to nationals of Benin; other nonimmigrant categories remain possible, with their validity liable to be shortened by the consular officer. The restriction was added by that proclamation. Benin is also on the Department of State's visa bond list: an applicant found otherwise eligible for a B-1/B-2 visa must post a refundable bond of USD 10,000, 15,000 or 20,000, set by the consular officer at the interview (programme made permanent by the Final Rule of 3 August 2026; Form I-352, paid via Pay.gov)."
+ },
+ "BN:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "Travel under the Visa Waiver Program (VWP): get an ESTA authorisation from CBP online before boarding — fee USD 40.62 since 16 October 2026 (USD 40 from 30 September 2025, USD 21 before that); an approved ESTA is normally valid for two years or until the passport expires. Stays of up to 90 days for tourism or business; the stay cannot be extended and status cannot be changed, and an approved ESTA does not guarantee admission — the CBP officer at the port of entry decides. An e-passport is required. Travellers who have been in North Korea, Iran, Iraq, Libya, Somalia, Sudan, Syria or Yemen on or after 1 March 2011, or in Cuba on or after 12 January 2021, and dual nationals of Cuba, North Korea, Iran, Iraq, Sudan or Syria, cannot use the VWP and need a visitor visa instead."
+ },
+ "BO:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Bolivia; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "BR:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Brazil; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "BS:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Bahamas; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "BT:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/en/newsroom/visas/2026/countries-subject-to-visa-bonds.html",
+  "source_name": "U.S. Department of State — Countries Subject to Visa Bonds",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Bhutan; at each entry the CBP officer sets the authorised stay (up to six months for visitors). Bhutan is also on the Department of State's visa bond list: an applicant found otherwise eligible for a B-1/B-2 visa must post a refundable bond of USD 10,000, 15,000 or 20,000, set by the consular officer at the interview (programme made permanent by the Final Rule of 3 August 2026; Form I-352, paid via Pay.gov)."
+ },
+ "BW:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/en/newsroom/visas/2026/countries-subject-to-visa-bonds.html",
+  "source_name": "U.S. Department of State — Countries Subject to Visa Bonds",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Botswana; at each entry the CBP officer sets the authorised stay (up to six months for visitors). Botswana is also on the Department of State's visa bond list: an applicant found otherwise eligible for a B-1/B-2 visa must post a refundable bond of USD 10,000, 15,000 or 20,000, set by the consular officer at the interview (programme made permanent by the Final Rule of 3 August 2026; Form I-352, paid via Pay.gov)."
+ },
+ "BY:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Belarus; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "BZ:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Belize; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "CD:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Congo - Kinshasa; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "CF:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/en/newsroom/visas/2026/countries-subject-to-visa-bonds.html",
+  "source_name": "U.S. Department of State — Countries Subject to Visa Bonds",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Central African Republic; at each entry the CBP officer sets the authorised stay (up to six months for visitors). Central African Republic is also on the Department of State's visa bond list: an applicant found otherwise eligible for a B-1/B-2 visa must post a refundable bond of USD 10,000, 15,000 or 20,000, set by the consular officer at the interview (programme made permanent by the Final Rule of 3 August 2026; Form I-352, paid via Pay.gov)."
+ },
+ "CG:US": {
+  "date": "2026-11-07",
+  "source": "https://www.govinfo.gov/content/pkg/FR-2025-12-19/html/2025-23570.htm",
+  "source_name": "Presidential Proclamation 10998 of 16 December 2025 (Federal Register, 19 December 2025)",
+  "note": "Entry is fully suspended. Under Presidential Proclamation 10949 (in force since 9 June 2025), continued in force by Proclamation 10998 from 1 January 2026, the entry of nationals of Congo - Brazzaville as immigrants and as nonimmigrants is suspended and U.S. consulates are not issuing them visas, subject only to narrow exceptions (such as diplomatic visas, lawful permanent residents, and dual nationals travelling on a passport of an unaffected country). Visas validly issued before the suspension took effect were not revoked by the proclamations."
+ },
+ "CI:US": {
+  "date": "2026-11-07",
+  "source": "https://www.govinfo.gov/content/pkg/FR-2025-12-19/html/2025-23570.htm",
+  "source_name": "Presidential Proclamation 10998 of 16 December 2025 (Federal Register, 19 December 2025)",
+  "note": "Entry is partially suspended. Under Presidential Proclamation 10998 (in force since 1 January 2026), the United States is not issuing immigrant visas or B-1/B-2 visitor, F, M or J visas to nationals of Côte d’Ivoire; other nonimmigrant categories remain possible, with their validity liable to be shortened by the consular officer. The restriction was added by that proclamation. Côte d’Ivoire is also on the Department of State's visa bond list: an applicant found otherwise eligible for a B-1/B-2 visa must post a refundable bond of USD 10,000, 15,000 or 20,000, set by the consular officer at the interview (programme made permanent by the Final Rule of 3 August 2026; Form I-352, paid via Pay.gov)."
+ },
+ "CL:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "Travel under the Visa Waiver Program (VWP): get an ESTA authorisation from CBP online before boarding — fee USD 40.62 since 16 October 2026 (USD 40 from 30 September 2025, USD 21 before that); an approved ESTA is normally valid for two years or until the passport expires. Stays of up to 90 days for tourism or business; the stay cannot be extended and status cannot be changed, and an approved ESTA does not guarantee admission — the CBP officer at the port of entry decides. An e-passport is required. Travellers who have been in North Korea, Iran, Iraq, Libya, Somalia, Sudan, Syria or Yemen on or after 1 March 2011, or in Cuba on or after 12 January 2021, and dual nationals of Cuba, North Korea, Iran, Iraq, Sudan or Syria, cannot use the VWP and need a visitor visa instead."
+ },
+ "CM:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Cameroon; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "CO:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Colombia; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "CR:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Costa Rica; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "CU:US": {
+  "date": "2026-11-07",
+  "source": "https://www.govinfo.gov/content/pkg/FR-2025-12-19/html/2025-23570.htm",
+  "source_name": "Presidential Proclamation 10998 of 16 December 2025 (Federal Register, 19 December 2025)",
+  "note": "Entry is partially suspended. Under Presidential Proclamation 10998 (in force since 1 January 2026), the United States is not issuing immigrant visas or B-1/B-2 visitor, F, M or J visas to nationals of Cuba; other nonimmigrant categories remain possible, with their validity liable to be shortened by the consular officer. The suspension continues the partial restriction first imposed on 9 June 2025 by Proclamation 10949. Cuba is also on the Department of State's visa bond list: an applicant found otherwise eligible for a B-1/B-2 visa must post a refundable bond of USD 10,000, 15,000 or 20,000, set by the consular officer at the interview (programme made permanent by the Final Rule of 3 August 2026; Form I-352, paid via Pay.gov)."
+ },
+ "CV:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/en/newsroom/visas/2026/countries-subject-to-visa-bonds.html",
+  "source_name": "U.S. Department of State — Countries Subject to Visa Bonds",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Cape Verde; at each entry the CBP officer sets the authorised stay (up to six months for visitors). Cape Verde is also on the Department of State's visa bond list: an applicant found otherwise eligible for a B-1/B-2 visa must post a refundable bond of USD 10,000, 15,000 or 20,000, set by the consular officer at the interview (programme made permanent by the Final Rule of 3 August 2026; Form I-352, paid via Pay.gov)."
+ },
+ "CY:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Cyprus; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "DJ:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/en/newsroom/visas/2026/countries-subject-to-visa-bonds.html",
+  "source_name": "U.S. Department of State — Countries Subject to Visa Bonds",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Djibouti; at each entry the CBP officer sets the authorised stay (up to six months for visitors). Djibouti is also on the Department of State's visa bond list: an applicant found otherwise eligible for a B-1/B-2 visa must post a refundable bond of USD 10,000, 15,000 or 20,000, set by the consular officer at the interview (programme made permanent by the Final Rule of 3 August 2026; Form I-352, paid via Pay.gov)."
+ },
+ "DM:US": {
+  "date": "2026-11-07",
+  "source": "https://www.govinfo.gov/content/pkg/FR-2025-12-19/html/2025-23570.htm",
+  "source_name": "Presidential Proclamation 10998 of 16 December 2025 (Federal Register, 19 December 2025)",
+  "note": "Entry is partially suspended. Under Presidential Proclamation 10998 (in force since 1 January 2026), the United States is not issuing immigrant visas or B-1/B-2 visitor, F, M or J visas to nationals of Dominica; other nonimmigrant categories remain possible, with their validity liable to be shortened by the consular officer. The restriction was added by that proclamation. Dominica is also on the Department of State's visa bond list: an applicant found otherwise eligible for a B-1/B-2 visa must post a refundable bond of USD 10,000, 15,000 or 20,000, set by the consular officer at the interview (programme made permanent by the Final Rule of 3 August 2026; Form I-352, paid via Pay.gov)."
+ },
+ "DO:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Dominican Republic; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "DZ:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/en/newsroom/visas/2026/countries-subject-to-visa-bonds.html",
+  "source_name": "U.S. Department of State — Countries Subject to Visa Bonds",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Algeria; at each entry the CBP officer sets the authorised stay (up to six months for visitors). Algeria is also on the Department of State's visa bond list: an applicant found otherwise eligible for a B-1/B-2 visa must post a refundable bond of USD 10,000, 15,000 or 20,000, set by the consular officer at the interview (programme made permanent by the Final Rule of 3 August 2026; Form I-352, paid via Pay.gov)."
+ },
+ "EC:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Ecuador; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "EE:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "Travel under the Visa Waiver Program (VWP): get an ESTA authorisation from CBP online before boarding — fee USD 40.62 since 16 October 2026 (USD 40 from 30 September 2025, USD 21 before that); an approved ESTA is normally valid for two years or until the passport expires. Stays of up to 90 days for tourism or business; the stay cannot be extended and status cannot be changed, and an approved ESTA does not guarantee admission — the CBP officer at the port of entry decides. An e-passport is required. Travellers who have been in North Korea, Iran, Iraq, Libya, Somalia, Sudan, Syria or Yemen on or after 1 March 2011, or in Cuba on or after 12 January 2021, and dual nationals of Cuba, North Korea, Iran, Iraq, Sudan or Syria, cannot use the VWP and need a visitor visa instead."
+ },
+ "EG:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Egypt; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "ER:US": {
+  "date": "2026-11-07",
+  "source": "https://www.govinfo.gov/content/pkg/FR-2025-12-19/html/2025-23570.htm",
+  "source_name": "Presidential Proclamation 10998 of 16 December 2025 (Federal Register, 19 December 2025)",
+  "note": "Entry is fully suspended. Under Presidential Proclamation 10949 (in force since 9 June 2025), continued in force by Proclamation 10998 from 1 January 2026, the entry of nationals of Eritrea as immigrants and as nonimmigrants is suspended and U.S. consulates are not issuing them visas, subject only to narrow exceptions (such as diplomatic visas, lawful permanent residents, and dual nationals travelling on a passport of an unaffected country). Visas validly issued before the suspension took effect were not revoked by the proclamations."
+ },
+ "ET:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/en/newsroom/visas/2026/countries-subject-to-visa-bonds.html",
+  "source_name": "U.S. Department of State — Countries Subject to Visa Bonds",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Ethiopia; at each entry the CBP officer sets the authorised stay (up to six months for visitors). Ethiopia is also on the Department of State's visa bond list: an applicant found otherwise eligible for a B-1/B-2 visa must post a refundable bond of USD 10,000, 15,000 or 20,000, set by the consular officer at the interview (programme made permanent by the Final Rule of 3 August 2026; Form I-352, paid via Pay.gov)."
+ },
+ "FJ:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/en/newsroom/visas/2026/countries-subject-to-visa-bonds.html",
+  "source_name": "U.S. Department of State — Countries Subject to Visa Bonds",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Fiji; at each entry the CBP officer sets the authorised stay (up to six months for visitors). Fiji is also on the Department of State's visa bond list: an applicant found otherwise eligible for a B-1/B-2 visa must post a refundable bond of USD 10,000, 15,000 or 20,000, set by the consular officer at the interview (programme made permanent by the Final Rule of 3 August 2026; Form I-352, paid via Pay.gov)."
+ },
+ "FM:US": {
+  "date": "2026-11-07",
+  "source": "https://secure.ssa.gov/apps10/poms.Nsf/lnx/0200303400",
+  "source_name": "U.S. Social Security Administration, POMS GN 00303.400 — Compact of Free Association status",
+  "note": "Under the Compact of Free Association, citizens of Micronesia may enter the United States without a visa and, once admitted, live, work and study there indefinitely — admission is recorded as duration of status (D/S). A valid passport is the travel document. Compact admission is not permanent residence and remains subject to inspection at the port of entry."
+ },
+ "GA:US": {
+  "date": "2026-11-07",
+  "source": "https://www.govinfo.gov/content/pkg/FR-2025-12-19/html/2025-23570.htm",
+  "source_name": "Presidential Proclamation 10998 of 16 December 2025 (Federal Register, 19 December 2025)",
+  "note": "Entry is partially suspended. Under Presidential Proclamation 10998 (in force since 1 January 2026), the United States is not issuing immigrant visas or B-1/B-2 visitor, F, M or J visas to nationals of Gabon; other nonimmigrant categories remain possible, with their validity liable to be shortened by the consular officer. The restriction was added by that proclamation. Gabon is also on the Department of State's visa bond list: an applicant found otherwise eligible for a B-1/B-2 visa must post a refundable bond of USD 10,000, 15,000 or 20,000, set by the consular officer at the interview (programme made permanent by the Final Rule of 3 August 2026; Form I-352, paid via Pay.gov)."
+ },
+ "GD:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/en/newsroom/visas/2026/countries-subject-to-visa-bonds.html",
+  "source_name": "U.S. Department of State — Countries Subject to Visa Bonds",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Grenada; at each entry the CBP officer sets the authorised stay (up to six months for visitors). Grenada is also on the Department of State's visa bond list: an applicant found otherwise eligible for a B-1/B-2 visa must post a refundable bond of USD 10,000, 15,000 or 20,000, set by the consular officer at the interview (programme made permanent by the Final Rule of 3 August 2026; Form I-352, paid via Pay.gov)."
+ },
+ "GE:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/en/newsroom/visas/2026/countries-subject-to-visa-bonds.html",
+  "source_name": "U.S. Department of State — Countries Subject to Visa Bonds",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Georgia; at each entry the CBP officer sets the authorised stay (up to six months for visitors). Georgia is also on the Department of State's visa bond list: an applicant found otherwise eligible for a B-1/B-2 visa must post a refundable bond of USD 10,000, 15,000 or 20,000, set by the consular officer at the interview (programme made permanent by the Final Rule of 3 August 2026; Form I-352, paid via Pay.gov)."
+ },
+ "GH:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Ghana; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "GM:US": {
+  "date": "2026-11-07",
+  "source": "https://www.govinfo.gov/content/pkg/FR-2025-12-19/html/2025-23570.htm",
+  "source_name": "Presidential Proclamation 10998 of 16 December 2025 (Federal Register, 19 December 2025)",
+  "note": "Entry is partially suspended. Under Presidential Proclamation 10998 (in force since 1 January 2026), the United States is not issuing immigrant visas or B-1/B-2 visitor, F, M or J visas to nationals of Gambia; other nonimmigrant categories remain possible, with their validity liable to be shortened by the consular officer. The restriction was added by that proclamation. Gambia is also on the Department of State's visa bond list: an applicant found otherwise eligible for a B-1/B-2 visa must post a refundable bond of USD 10,000, 15,000 or 20,000, set by the consular officer at the interview (programme made permanent by the Final Rule of 3 August 2026; Form I-352, paid via Pay.gov)."
+ },
+ "GN:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/en/newsroom/visas/2026/countries-subject-to-visa-bonds.html",
+  "source_name": "U.S. Department of State — Countries Subject to Visa Bonds",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Guinea; at each entry the CBP officer sets the authorised stay (up to six months for visitors). Guinea is also on the Department of State's visa bond list: an applicant found otherwise eligible for a B-1/B-2 visa must post a refundable bond of USD 10,000, 15,000 or 20,000, set by the consular officer at the interview (programme made permanent by the Final Rule of 3 August 2026; Form I-352, paid via Pay.gov)."
+ },
+ "GQ:US": {
+  "date": "2026-11-07",
+  "source": "https://www.govinfo.gov/content/pkg/FR-2025-12-19/html/2025-23570.htm",
+  "source_name": "Presidential Proclamation 10998 of 16 December 2025 (Federal Register, 19 December 2025)",
+  "note": "Entry is fully suspended. Under Presidential Proclamation 10949 (in force since 9 June 2025), continued in force by Proclamation 10998 from 1 January 2026, the entry of nationals of Equatorial Guinea as immigrants and as nonimmigrants is suspended and U.S. consulates are not issuing them visas, subject only to narrow exceptions (such as diplomatic visas, lawful permanent residents, and dual nationals travelling on a passport of an unaffected country). Visas validly issued before the suspension took effect were not revoked by the proclamations."
+ },
+ "GT:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Guatemala; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "GW:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/en/newsroom/visas/2026/countries-subject-to-visa-bonds.html",
+  "source_name": "U.S. Department of State — Countries Subject to Visa Bonds",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Guinea-Bissau; at each entry the CBP officer sets the authorised stay (up to six months for visitors). Guinea-Bissau is also on the Department of State's visa bond list: an applicant found otherwise eligible for a B-1/B-2 visa must post a refundable bond of USD 10,000, 15,000 or 20,000, set by the consular officer at the interview (programme made permanent by the Final Rule of 3 August 2026; Form I-352, paid via Pay.gov)."
+ },
+ "GY:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Guyana; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "HK:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Hong Kong SAR China; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "HN:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Honduras; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "HR:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "Travel under the Visa Waiver Program (VWP): get an ESTA authorisation from CBP online before boarding — fee USD 40.62 since 16 October 2026 (USD 40 from 30 September 2025, USD 21 before that); an approved ESTA is normally valid for two years or until the passport expires. Stays of up to 90 days for tourism or business; the stay cannot be extended and status cannot be changed, and an approved ESTA does not guarantee admission — the CBP officer at the port of entry decides. An e-passport is required. Travellers who have been in North Korea, Iran, Iraq, Libya, Somalia, Sudan, Syria or Yemen on or after 1 March 2011, or in Cuba on or after 12 January 2021, and dual nationals of Cuba, North Korea, Iran, Iraq, Sudan or Syria, cannot use the VWP and need a visitor visa instead."
+ },
+ "HT:US": {
+  "date": "2026-11-07",
+  "source": "https://www.govinfo.gov/content/pkg/FR-2025-12-19/html/2025-23570.htm",
+  "source_name": "Presidential Proclamation 10998 of 16 December 2025 (Federal Register, 19 December 2025)",
+  "note": "Entry is fully suspended. Under Presidential Proclamation 10949 (in force since 9 June 2025), continued in force by Proclamation 10998 from 1 January 2026, the entry of nationals of Haiti as immigrants and as nonimmigrants is suspended and U.S. consulates are not issuing them visas, subject only to narrow exceptions (such as diplomatic visas, lawful permanent residents, and dual nationals travelling on a passport of an unaffected country). Visas validly issued before the suspension took effect were not revoked by the proclamations."
+ },
+ "ID:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Indonesia; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "IN:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for India; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "IQ:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Iraq; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "IR:US": {
+  "date": "2026-11-07",
+  "source": "https://www.govinfo.gov/content/pkg/FR-2025-12-19/html/2025-23570.htm",
+  "source_name": "Presidential Proclamation 10998 of 16 December 2025 (Federal Register, 19 December 2025)",
+  "note": "Entry is fully suspended. Under Presidential Proclamation 10949 (in force since 9 June 2025), continued in force by Proclamation 10998 from 1 January 2026, the entry of nationals of Iran as immigrants and as nonimmigrants is suspended and U.S. consulates are not issuing them visas, subject only to narrow exceptions (such as diplomatic visas, lawful permanent residents, and dual nationals travelling on a passport of an unaffected country). Visas validly issued before the suspension took effect were not revoked by the proclamations."
+ },
+ "IS:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "Travel under the Visa Waiver Program (VWP): get an ESTA authorisation from CBP online before boarding — fee USD 40.62 since 16 October 2026 (USD 40 from 30 September 2025, USD 21 before that); an approved ESTA is normally valid for two years or until the passport expires. Stays of up to 90 days for tourism or business; the stay cannot be extended and status cannot be changed, and an approved ESTA does not guarantee admission — the CBP officer at the port of entry decides. An e-passport is required. Travellers who have been in North Korea, Iran, Iraq, Libya, Somalia, Sudan, Syria or Yemen on or after 1 March 2011, or in Cuba on or after 12 January 2021, and dual nationals of Cuba, North Korea, Iran, Iraq, Sudan or Syria, cannot use the VWP and need a visitor visa instead."
+ },
+ "JM:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Jamaica; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "JO:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Jordan; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "KE:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Kenya; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "KG:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/en/newsroom/visas/2026/countries-subject-to-visa-bonds.html",
+  "source_name": "U.S. Department of State — Countries Subject to Visa Bonds",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Kyrgyzstan; at each entry the CBP officer sets the authorised stay (up to six months for visitors). Kyrgyzstan is also on the Department of State's visa bond list: an applicant found otherwise eligible for a B-1/B-2 visa must post a refundable bond of USD 10,000, 15,000 or 20,000, set by the consular officer at the interview (programme made permanent by the Final Rule of 3 August 2026; Form I-352, paid via Pay.gov)."
+ },
+ "KH:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/en/newsroom/visas/2026/countries-subject-to-visa-bonds.html",
+  "source_name": "U.S. Department of State — Countries Subject to Visa Bonds",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Cambodia; at each entry the CBP officer sets the authorised stay (up to six months for visitors). Cambodia is also on the Department of State's visa bond list: an applicant found otherwise eligible for a B-1/B-2 visa must post a refundable bond of USD 10,000, 15,000 or 20,000, set by the consular officer at the interview (programme made permanent by the Final Rule of 3 August 2026; Form I-352, paid via Pay.gov)."
+ },
+ "KI:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Kiribati; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "KM:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Comoros; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "KN:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for St. Kitts & Nevis; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "KP:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for North Korea; at each entry the CBP officer sets the authorised stay (up to six months for visitors). There is no U.S. embassy or consulate in North Korea, so applications are lodged at a U.S. mission in a third country."
+ },
+ "KW:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Kuwait; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "KZ:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Kazakhstan; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "LA:US": {
+  "date": "2026-11-07",
+  "source": "https://www.govinfo.gov/content/pkg/FR-2025-12-19/html/2025-23570.htm",
+  "source_name": "Presidential Proclamation 10998 of 16 December 2025 (Federal Register, 19 December 2025)",
+  "note": "Entry is fully suspended. Under Presidential Proclamation 10998 (in force since 1 January 2026), the entry of nationals of Laos as immigrants and as nonimmigrants is suspended and U.S. consulates are not issuing them visas, subject only to narrow exceptions (such as diplomatic visas, lawful permanent residents, and dual nationals travelling on a passport of an unaffected country)."
+ },
+ "LB:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Lebanon; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "LC:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for St. Lucia; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "LI:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "Travel under the Visa Waiver Program (VWP): get an ESTA authorisation from CBP online before boarding — fee USD 40.62 since 16 October 2026 (USD 40 from 30 September 2025, USD 21 before that); an approved ESTA is normally valid for two years or until the passport expires. Stays of up to 90 days for tourism or business; the stay cannot be extended and status cannot be changed, and an approved ESTA does not guarantee admission — the CBP officer at the port of entry decides. An e-passport is required. Travellers who have been in North Korea, Iran, Iraq, Libya, Somalia, Sudan, Syria or Yemen on or after 1 March 2011, or in Cuba on or after 12 January 2021, and dual nationals of Cuba, North Korea, Iran, Iraq, Sudan or Syria, cannot use the VWP and need a visitor visa instead."
+ },
+ "LK:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Sri Lanka; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "LR:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Liberia; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "LS:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/en/newsroom/visas/2026/countries-subject-to-visa-bonds.html",
+  "source_name": "U.S. Department of State — Countries Subject to Visa Bonds",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Lesotho; at each entry the CBP officer sets the authorised stay (up to six months for visitors). Lesotho is also on the Department of State's visa bond list: an applicant found otherwise eligible for a B-1/B-2 visa must post a refundable bond of USD 10,000, 15,000 or 20,000, set by the consular officer at the interview (programme made permanent by the Final Rule of 3 August 2026; Form I-352, paid via Pay.gov)."
+ },
+ "LT:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "Travel under the Visa Waiver Program (VWP): get an ESTA authorisation from CBP online before boarding — fee USD 40.62 since 16 October 2026 (USD 40 from 30 September 2025, USD 21 before that); an approved ESTA is normally valid for two years or until the passport expires. Stays of up to 90 days for tourism or business; the stay cannot be extended and status cannot be changed, and an approved ESTA does not guarantee admission — the CBP officer at the port of entry decides. An e-passport is required. Travellers who have been in North Korea, Iran, Iraq, Libya, Somalia, Sudan, Syria or Yemen on or after 1 March 2011, or in Cuba on or after 12 January 2021, and dual nationals of Cuba, North Korea, Iran, Iraq, Sudan or Syria, cannot use the VWP and need a visitor visa instead."
+ },
+ "LU:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "Travel under the Visa Waiver Program (VWP): get an ESTA authorisation from CBP online before boarding — fee USD 40.62 since 16 October 2026 (USD 40 from 30 September 2025, USD 21 before that); an approved ESTA is normally valid for two years or until the passport expires. Stays of up to 90 days for tourism or business; the stay cannot be extended and status cannot be changed, and an approved ESTA does not guarantee admission — the CBP officer at the port of entry decides. An e-passport is required. Travellers who have been in North Korea, Iran, Iraq, Libya, Somalia, Sudan, Syria or Yemen on or after 1 March 2011, or in Cuba on or after 12 January 2021, and dual nationals of Cuba, North Korea, Iran, Iraq, Sudan or Syria, cannot use the VWP and need a visitor visa instead."
+ },
+ "LV:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "Travel under the Visa Waiver Program (VWP): get an ESTA authorisation from CBP online before boarding — fee USD 40.62 since 16 October 2026 (USD 40 from 30 September 2025, USD 21 before that); an approved ESTA is normally valid for two years or until the passport expires. Stays of up to 90 days for tourism or business; the stay cannot be extended and status cannot be changed, and an approved ESTA does not guarantee admission — the CBP officer at the port of entry decides. An e-passport is required. Travellers who have been in North Korea, Iran, Iraq, Libya, Somalia, Sudan, Syria or Yemen on or after 1 March 2011, or in Cuba on or after 12 January 2021, and dual nationals of Cuba, North Korea, Iran, Iraq, Sudan or Syria, cannot use the VWP and need a visitor visa instead."
+ },
+ "LY:US": {
+  "date": "2026-11-07",
+  "source": "https://www.govinfo.gov/content/pkg/FR-2025-12-19/html/2025-23570.htm",
+  "source_name": "Presidential Proclamation 10998 of 16 December 2025 (Federal Register, 19 December 2025)",
+  "note": "Entry is fully suspended. Under Presidential Proclamation 10949 (in force since 9 June 2025), continued in force by Proclamation 10998 from 1 January 2026, the entry of nationals of Libya as immigrants and as nonimmigrants is suspended and U.S. consulates are not issuing them visas, subject only to narrow exceptions (such as diplomatic visas, lawful permanent residents, and dual nationals travelling on a passport of an unaffected country). Visas validly issued before the suspension took effect were not revoked by the proclamations."
+ },
+ "MA:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Morocco; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "MC:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "Travel under the Visa Waiver Program (VWP): get an ESTA authorisation from CBP online before boarding — fee USD 40.62 since 16 October 2026 (USD 40 from 30 September 2025, USD 21 before that); an approved ESTA is normally valid for two years or until the passport expires. Stays of up to 90 days for tourism or business; the stay cannot be extended and status cannot be changed, and an approved ESTA does not guarantee admission — the CBP officer at the port of entry decides. An e-passport is required. Travellers who have been in North Korea, Iran, Iraq, Libya, Somalia, Sudan, Syria or Yemen on or after 1 March 2011, or in Cuba on or after 12 January 2021, and dual nationals of Cuba, North Korea, Iran, Iraq, Sudan or Syria, cannot use the VWP and need a visitor visa instead."
+ },
+ "MD:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Moldova; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "ME:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Montenegro; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "MG:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Madagascar; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "MH:US": {
+  "date": "2026-11-07",
+  "source": "https://secure.ssa.gov/apps10/poms.Nsf/lnx/0200303400",
+  "source_name": "U.S. Social Security Administration, POMS GN 00303.400 — Compact of Free Association status",
+  "note": "Under the Compact of Free Association, citizens of Marshall Islands may enter the United States without a visa and, once admitted, live, work and study there indefinitely — admission is recorded as duration of status (D/S). A valid passport is the travel document. Compact admission is not permanent residence and remains subject to inspection at the port of entry."
+ },
+ "MK:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for North Macedonia; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "ML:US": {
+  "date": "2026-11-07",
+  "source": "https://www.govinfo.gov/content/pkg/FR-2025-12-19/html/2025-23570.htm",
+  "source_name": "Presidential Proclamation 10998 of 16 December 2025 (Federal Register, 19 December 2025)",
+  "note": "Entry is fully suspended. Under Presidential Proclamation 10998 (in force since 1 January 2026), the entry of nationals of Mali as immigrants and as nonimmigrants is suspended and U.S. consulates are not issuing them visas, subject only to narrow exceptions (such as diplomatic visas, lawful permanent residents, and dual nationals travelling on a passport of an unaffected country)."
+ },
+ "MM:US": {
+  "date": "2026-11-07",
+  "source": "https://www.govinfo.gov/content/pkg/FR-2025-12-19/html/2025-23570.htm",
+  "source_name": "Presidential Proclamation 10998 of 16 December 2025 (Federal Register, 19 December 2025)",
+  "note": "Entry is fully suspended. Under Presidential Proclamation 10949 (in force since 9 June 2025), continued in force by Proclamation 10998 from 1 January 2026, the entry of nationals of Myanmar (Burma) as immigrants and as nonimmigrants is suspended and U.S. consulates are not issuing them visas, subject only to narrow exceptions (such as diplomatic visas, lawful permanent residents, and dual nationals travelling on a passport of an unaffected country). Visas validly issued before the suspension took effect were not revoked by the proclamations."
+ },
+ "MN:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/en/newsroom/visas/2026/countries-subject-to-visa-bonds.html",
+  "source_name": "U.S. Department of State — Countries Subject to Visa Bonds",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Mongolia; at each entry the CBP officer sets the authorised stay (up to six months for visitors). Mongolia is also on the Department of State's visa bond list: an applicant found otherwise eligible for a B-1/B-2 visa must post a refundable bond of USD 10,000, 15,000 or 20,000, set by the consular officer at the interview (programme made permanent by the Final Rule of 3 August 2026; Form I-352, paid via Pay.gov)."
+ },
+ "MO:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Macao SAR China; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "MR:US": {
+  "date": "2026-11-07",
+  "source": "https://www.govinfo.gov/content/pkg/FR-2025-12-19/html/2025-23570.htm",
+  "source_name": "Presidential Proclamation 10998 of 16 December 2025 (Federal Register, 19 December 2025)",
+  "note": "Entry is partially suspended. Under Presidential Proclamation 10998 (in force since 1 January 2026), the United States is not issuing immigrant visas or B-1/B-2 visitor, F, M or J visas to nationals of Mauritania; other nonimmigrant categories remain possible, with their validity liable to be shortened by the consular officer. The restriction was added by that proclamation. Mauritania is also on the Department of State's visa bond list: an applicant found otherwise eligible for a B-1/B-2 visa must post a refundable bond of USD 10,000, 15,000 or 20,000, set by the consular officer at the interview (programme made permanent by the Final Rule of 3 August 2026; Form I-352, paid via Pay.gov)."
+ },
+ "MT:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "Travel under the Visa Waiver Program (VWP): get an ESTA authorisation from CBP online before boarding — fee USD 40.62 since 16 October 2026 (USD 40 from 30 September 2025, USD 21 before that); an approved ESTA is normally valid for two years or until the passport expires. Stays of up to 90 days for tourism or business; the stay cannot be extended and status cannot be changed, and an approved ESTA does not guarantee admission — the CBP officer at the port of entry decides. An e-passport is required. Travellers who have been in North Korea, Iran, Iraq, Libya, Somalia, Sudan, Syria or Yemen on or after 1 March 2011, or in Cuba on or after 12 January 2021, and dual nationals of Cuba, North Korea, Iran, Iraq, Sudan or Syria, cannot use the VWP and need a visitor visa instead."
+ },
+ "MU:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/en/newsroom/visas/2026/countries-subject-to-visa-bonds.html",
+  "source_name": "U.S. Department of State — Countries Subject to Visa Bonds",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Mauritius; at each entry the CBP officer sets the authorised stay (up to six months for visitors). Mauritius is also on the Department of State's visa bond list: an applicant found otherwise eligible for a B-1/B-2 visa must post a refundable bond of USD 10,000, 15,000 or 20,000, set by the consular officer at the interview (programme made permanent by the Final Rule of 3 August 2026; Form I-352, paid via Pay.gov)."
+ },
+ "MV:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Maldives; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "MW:US": {
+  "date": "2026-11-07",
+  "source": "https://www.govinfo.gov/content/pkg/FR-2025-12-19/html/2025-23570.htm",
+  "source_name": "Presidential Proclamation 10998 of 16 December 2025 (Federal Register, 19 December 2025)",
+  "note": "Entry is partially suspended. Under Presidential Proclamation 10998 (in force since 1 January 2026), the United States is not issuing immigrant visas or B-1/B-2 visitor, F, M or J visas to nationals of Malawi; other nonimmigrant categories remain possible, with their validity liable to be shortened by the consular officer. The restriction was added by that proclamation. Malawi is also on the Department of State's visa bond list: an applicant found otherwise eligible for a B-1/B-2 visa must post a refundable bond of USD 10,000, 15,000 or 20,000, set by the consular officer at the interview (programme made permanent by the Final Rule of 3 August 2026; Form I-352, paid via Pay.gov)."
+ },
+ "MX:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Mexico; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "MZ:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/en/newsroom/visas/2026/countries-subject-to-visa-bonds.html",
+  "source_name": "U.S. Department of State — Countries Subject to Visa Bonds",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Mozambique; at each entry the CBP officer sets the authorised stay (up to six months for visitors). Mozambique is also on the Department of State's visa bond list: an applicant found otherwise eligible for a B-1/B-2 visa must post a refundable bond of USD 10,000, 15,000 or 20,000, set by the consular officer at the interview (programme made permanent by the Final Rule of 3 August 2026; Form I-352, paid via Pay.gov)."
+ },
+ "NA:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/en/newsroom/visas/2026/countries-subject-to-visa-bonds.html",
+  "source_name": "U.S. Department of State — Countries Subject to Visa Bonds",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Namibia; at each entry the CBP officer sets the authorised stay (up to six months for visitors). Namibia is also on the Department of State's visa bond list: an applicant found otherwise eligible for a B-1/B-2 visa must post a refundable bond of USD 10,000, 15,000 or 20,000, set by the consular officer at the interview (programme made permanent by the Final Rule of 3 August 2026; Form I-352, paid via Pay.gov)."
+ },
+ "NE:US": {
+  "date": "2026-11-07",
+  "source": "https://www.govinfo.gov/content/pkg/FR-2025-12-19/html/2025-23570.htm",
+  "source_name": "Presidential Proclamation 10998 of 16 December 2025 (Federal Register, 19 December 2025)",
+  "note": "Entry is fully suspended. Under Presidential Proclamation 10998 (in force since 1 January 2026), the entry of nationals of Niger as immigrants and as nonimmigrants is suspended and U.S. consulates are not issuing them visas, subject only to narrow exceptions (such as diplomatic visas, lawful permanent residents, and dual nationals travelling on a passport of an unaffected country)."
+ },
+ "NG:US": {
+  "date": "2026-11-07",
+  "source": "https://www.govinfo.gov/content/pkg/FR-2025-12-19/html/2025-23570.htm",
+  "source_name": "Presidential Proclamation 10998 of 16 December 2025 (Federal Register, 19 December 2025)",
+  "note": "Entry is partially suspended. Under Presidential Proclamation 10998 (in force since 1 January 2026), the United States is not issuing immigrant visas or B-1/B-2 visitor, F, M or J visas to nationals of Nigeria; other nonimmigrant categories remain possible, with their validity liable to be shortened by the consular officer. The restriction was added by that proclamation. Nigeria is also on the Department of State's visa bond list: an applicant found otherwise eligible for a B-1/B-2 visa must post a refundable bond of USD 10,000, 15,000 or 20,000, set by the consular officer at the interview (programme made permanent by the Final Rule of 3 August 2026; Form I-352, paid via Pay.gov)."
+ },
+ "NI:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/en/newsroom/visas/2026/countries-subject-to-visa-bonds.html",
+  "source_name": "U.S. Department of State — Countries Subject to Visa Bonds",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Nicaragua; at each entry the CBP officer sets the authorised stay (up to six months for visitors). Nicaragua is also on the Department of State's visa bond list: an applicant found otherwise eligible for a B-1/B-2 visa must post a refundable bond of USD 10,000, 15,000 or 20,000, set by the consular officer at the interview (programme made permanent by the Final Rule of 3 August 2026; Form I-352, paid via Pay.gov)."
+ },
+ "NP:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/en/newsroom/visas/2026/countries-subject-to-visa-bonds.html",
+  "source_name": "U.S. Department of State — Countries Subject to Visa Bonds",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Nepal; at each entry the CBP officer sets the authorised stay (up to six months for visitors). Nepal is also on the Department of State's visa bond list: an applicant found otherwise eligible for a B-1/B-2 visa must post a refundable bond of USD 10,000, 15,000 or 20,000, set by the consular officer at the interview (programme made permanent by the Final Rule of 3 August 2026; Form I-352, paid via Pay.gov)."
+ },
+ "NR:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Nauru; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "OM:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Oman; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "PA:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Panama; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "PE:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Peru; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "PG:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/en/newsroom/visas/2026/countries-subject-to-visa-bonds.html",
+  "source_name": "U.S. Department of State — Countries Subject to Visa Bonds",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Papua New Guinea; at each entry the CBP officer sets the authorised stay (up to six months for visitors). Papua New Guinea is also on the Department of State's visa bond list: an applicant found otherwise eligible for a B-1/B-2 visa must post a refundable bond of USD 10,000, 15,000 or 20,000, set by the consular officer at the interview (programme made permanent by the Final Rule of 3 August 2026; Form I-352, paid via Pay.gov)."
+ },
+ "PH:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Philippines; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "PK:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Pakistan; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "PS:US": {
+  "date": "2026-11-07",
+  "source": "https://www.govinfo.gov/content/pkg/FR-2025-12-19/html/2025-23570.htm",
+  "source_name": "Presidential Proclamation 10998 of 16 December 2025 (Federal Register, 19 December 2025)",
+  "note": "Entry is fully suspended for anyone travelling on a document issued or endorsed by the Palestinian Authority. Under Presidential Proclamation 10998 (in force since 1 January 2026), the entry of individuals using such documents, as immigrants and as nonimmigrants, is suspended and U.S. consulates are not issuing them visas, subject only to narrow exceptions (such as diplomatic visas and lawful permanent residents). The suspension attaches to the travel document, not to a nationality."
+ },
+ "PW:US": {
+  "date": "2026-11-07",
+  "source": "https://secure.ssa.gov/apps10/poms.Nsf/lnx/0200303400",
+  "source_name": "U.S. Social Security Administration, POMS GN 00303.400 — Compact of Free Association status",
+  "note": "Under the Compact of Free Association, citizens of Palau may enter the United States without a visa and, once admitted, live, work and study there indefinitely — admission is recorded as duration of status (D/S). A valid passport is the travel document. Compact admission is not permanent residence and remains subject to inspection at the port of entry."
+ },
+ "PY:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Paraguay; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "QA:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "Travel under the Visa Waiver Program (VWP): get an ESTA authorisation from CBP online before boarding — fee USD 40.62 since 16 October 2026 (USD 40 from 30 September 2025, USD 21 before that); an approved ESTA is normally valid for two years or until the passport expires. Stays of up to 90 days for tourism or business; the stay cannot be extended and status cannot be changed, and an approved ESTA does not guarantee admission — the CBP officer at the port of entry decides. An e-passport is required. Travellers who have been in North Korea, Iran, Iraq, Libya, Somalia, Sudan, Syria or Yemen on or after 1 March 2011, or in Cuba on or after 12 January 2021, and dual nationals of Cuba, North Korea, Iran, Iraq, Sudan or Syria, cannot use the VWP and need a visitor visa instead."
+ },
+ "RS:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Serbia; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "RU:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Russia; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "RW:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Rwanda; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "SA:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Saudi Arabia; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "SB:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Solomon Islands; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "SC:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/en/newsroom/visas/2026/countries-subject-to-visa-bonds.html",
+  "source_name": "U.S. Department of State — Countries Subject to Visa Bonds",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Seychelles; at each entry the CBP officer sets the authorised stay (up to six months for visitors). Seychelles is also on the Department of State's visa bond list: an applicant found otherwise eligible for a B-1/B-2 visa must post a refundable bond of USD 10,000, 15,000 or 20,000, set by the consular officer at the interview (programme made permanent by the Final Rule of 3 August 2026; Form I-352, paid via Pay.gov)."
+ },
+ "SD:US": {
+  "date": "2026-11-07",
+  "source": "https://www.govinfo.gov/content/pkg/FR-2025-12-19/html/2025-23570.htm",
+  "source_name": "Presidential Proclamation 10998 of 16 December 2025 (Federal Register, 19 December 2025)",
+  "note": "Entry is fully suspended. Under Presidential Proclamation 10949 (in force since 9 June 2025), continued in force by Proclamation 10998 from 1 January 2026, the entry of nationals of Sudan as immigrants and as nonimmigrants is suspended and U.S. consulates are not issuing them visas, subject only to narrow exceptions (such as diplomatic visas, lawful permanent residents, and dual nationals travelling on a passport of an unaffected country). Visas validly issued before the suspension took effect were not revoked by the proclamations."
+ },
+ "SI:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "Travel under the Visa Waiver Program (VWP): get an ESTA authorisation from CBP online before boarding — fee USD 40.62 since 16 October 2026 (USD 40 from 30 September 2025, USD 21 before that); an approved ESTA is normally valid for two years or until the passport expires. Stays of up to 90 days for tourism or business; the stay cannot be extended and status cannot be changed, and an approved ESTA does not guarantee admission — the CBP officer at the port of entry decides. An e-passport is required. Travellers who have been in North Korea, Iran, Iraq, Libya, Somalia, Sudan, Syria or Yemen on or after 1 March 2011, or in Cuba on or after 12 January 2021, and dual nationals of Cuba, North Korea, Iran, Iraq, Sudan or Syria, cannot use the VWP and need a visitor visa instead."
+ },
+ "SK:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "Travel under the Visa Waiver Program (VWP): get an ESTA authorisation from CBP online before boarding — fee USD 40.62 since 16 October 2026 (USD 40 from 30 September 2025, USD 21 before that); an approved ESTA is normally valid for two years or until the passport expires. Stays of up to 90 days for tourism or business; the stay cannot be extended and status cannot be changed, and an approved ESTA does not guarantee admission — the CBP officer at the port of entry decides. An e-passport is required. Travellers who have been in North Korea, Iran, Iraq, Libya, Somalia, Sudan, Syria or Yemen on or after 1 March 2011, or in Cuba on or after 12 January 2021, and dual nationals of Cuba, North Korea, Iran, Iraq, Sudan or Syria, cannot use the VWP and need a visitor visa instead."
+ },
+ "SL:US": {
+  "date": "2026-11-07",
+  "source": "https://www.govinfo.gov/content/pkg/FR-2025-12-19/html/2025-23570.htm",
+  "source_name": "Presidential Proclamation 10998 of 16 December 2025 (Federal Register, 19 December 2025)",
+  "note": "Entry is fully suspended. Under Presidential Proclamation 10998 (in force since 1 January 2026), the entry of nationals of Sierra Leone as immigrants and as nonimmigrants is suspended and U.S. consulates are not issuing them visas, subject only to narrow exceptions (such as diplomatic visas, lawful permanent residents, and dual nationals travelling on a passport of an unaffected country)."
+ },
+ "SM:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "Travel under the Visa Waiver Program (VWP): get an ESTA authorisation from CBP online before boarding — fee USD 40.62 since 16 October 2026 (USD 40 from 30 September 2025, USD 21 before that); an approved ESTA is normally valid for two years or until the passport expires. Stays of up to 90 days for tourism or business; the stay cannot be extended and status cannot be changed, and an approved ESTA does not guarantee admission — the CBP officer at the port of entry decides. An e-passport is required. Travellers who have been in North Korea, Iran, Iraq, Libya, Somalia, Sudan, Syria or Yemen on or after 1 March 2011, or in Cuba on or after 12 January 2021, and dual nationals of Cuba, North Korea, Iran, Iraq, Sudan or Syria, cannot use the VWP and need a visitor visa instead."
+ },
+ "SN:US": {
+  "date": "2026-11-07",
+  "source": "https://www.govinfo.gov/content/pkg/FR-2025-12-19/html/2025-23570.htm",
+  "source_name": "Presidential Proclamation 10998 of 16 December 2025 (Federal Register, 19 December 2025)",
+  "note": "Entry is partially suspended. Under Presidential Proclamation 10998 (in force since 1 January 2026), the United States is not issuing immigrant visas or B-1/B-2 visitor, F, M or J visas to nationals of Senegal; other nonimmigrant categories remain possible, with their validity liable to be shortened by the consular officer. The restriction was added by that proclamation. Senegal is also on the Department of State's visa bond list: an applicant found otherwise eligible for a B-1/B-2 visa must post a refundable bond of USD 10,000, 15,000 or 20,000, set by the consular officer at the interview (programme made permanent by the Final Rule of 3 August 2026; Form I-352, paid via Pay.gov)."
+ },
+ "SO:US": {
+  "date": "2026-11-07",
+  "source": "https://www.govinfo.gov/content/pkg/FR-2025-12-19/html/2025-23570.htm",
+  "source_name": "Presidential Proclamation 10998 of 16 December 2025 (Federal Register, 19 December 2025)",
+  "note": "Entry is fully suspended. Under Presidential Proclamation 10949 (in force since 9 June 2025), continued in force by Proclamation 10998 from 1 January 2026, the entry of nationals of Somalia as immigrants and as nonimmigrants is suspended and U.S. consulates are not issuing them visas, subject only to narrow exceptions (such as diplomatic visas, lawful permanent residents, and dual nationals travelling on a passport of an unaffected country). Visas validly issued before the suspension took effect were not revoked by the proclamations."
+ },
+ "SR:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Suriname; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "SS:US": {
+  "date": "2026-11-07",
+  "source": "https://www.govinfo.gov/content/pkg/FR-2025-12-19/html/2025-23570.htm",
+  "source_name": "Presidential Proclamation 10998 of 16 December 2025 (Federal Register, 19 December 2025)",
+  "note": "Entry is fully suspended. Under Presidential Proclamation 10998 (in force since 1 January 2026), the entry of nationals of South Sudan as immigrants and as nonimmigrants is suspended and U.S. consulates are not issuing them visas, subject only to narrow exceptions (such as diplomatic visas, lawful permanent residents, and dual nationals travelling on a passport of an unaffected country)."
+ },
+ "ST:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/en/newsroom/visas/2026/countries-subject-to-visa-bonds.html",
+  "source_name": "U.S. Department of State — Countries Subject to Visa Bonds",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for São Tomé & Príncipe; at each entry the CBP officer sets the authorised stay (up to six months for visitors). São Tomé & Príncipe is also on the Department of State's visa bond list: an applicant found otherwise eligible for a B-1/B-2 visa must post a refundable bond of USD 10,000, 15,000 or 20,000, set by the consular officer at the interview (programme made permanent by the Final Rule of 3 August 2026; Form I-352, paid via Pay.gov)."
+ },
+ "SV:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for El Salvador; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "SY:US": {
+  "date": "2026-11-07",
+  "source": "https://www.govinfo.gov/content/pkg/FR-2025-12-19/html/2025-23570.htm",
+  "source_name": "Presidential Proclamation 10998 of 16 December 2025 (Federal Register, 19 December 2025)",
+  "note": "Entry is fully suspended. Under Presidential Proclamation 10998 (in force since 1 January 2026), the entry of nationals of Syria as immigrants and as nonimmigrants is suspended and U.S. consulates are not issuing them visas, subject only to narrow exceptions (such as diplomatic visas, lawful permanent residents, and dual nationals travelling on a passport of an unaffected country)."
+ },
+ "SZ:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Eswatini; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "TD:US": {
+  "date": "2026-11-07",
+  "source": "https://www.govinfo.gov/content/pkg/FR-2025-12-19/html/2025-23570.htm",
+  "source_name": "Presidential Proclamation 10998 of 16 December 2025 (Federal Register, 19 December 2025)",
+  "note": "Entry is fully suspended. Under Presidential Proclamation 10949 (in force since 9 June 2025), continued in force by Proclamation 10998 from 1 January 2026, the entry of nationals of Chad as immigrants and as nonimmigrants is suspended and U.S. consulates are not issuing them visas, subject only to narrow exceptions (such as diplomatic visas, lawful permanent residents, and dual nationals travelling on a passport of an unaffected country). Visas validly issued before the suspension took effect were not revoked by the proclamations."
+ },
+ "TG:US": {
+  "date": "2026-11-07",
+  "source": "https://www.govinfo.gov/content/pkg/FR-2025-12-19/html/2025-23570.htm",
+  "source_name": "Presidential Proclamation 10998 of 16 December 2025 (Federal Register, 19 December 2025)",
+  "note": "Entry is partially suspended. Under Presidential Proclamation 10998 (in force since 1 January 2026), the United States is not issuing immigrant visas or B-1/B-2 visitor, F, M or J visas to nationals of Togo; other nonimmigrant categories remain possible, with their validity liable to be shortened by the consular officer. The suspension continues the partial restriction first imposed on 9 June 2025 by Proclamation 10949. Togo is also on the Department of State's visa bond list: an applicant found otherwise eligible for a B-1/B-2 visa must post a refundable bond of USD 10,000, 15,000 or 20,000, set by the consular officer at the interview (programme made permanent by the Final Rule of 3 August 2026; Form I-352, paid via Pay.gov)."
+ },
+ "TH:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Thailand; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "TJ:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/en/newsroom/visas/2026/countries-subject-to-visa-bonds.html",
+  "source_name": "U.S. Department of State — Countries Subject to Visa Bonds",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Tajikistan; at each entry the CBP officer sets the authorised stay (up to six months for visitors). Tajikistan is also on the Department of State's visa bond list: an applicant found otherwise eligible for a B-1/B-2 visa must post a refundable bond of USD 10,000, 15,000 or 20,000, set by the consular officer at the interview (programme made permanent by the Final Rule of 3 August 2026; Form I-352, paid via Pay.gov)."
+ },
+ "TL:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Timor-Leste; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "TM:US": {
+  "date": "2026-11-07",
+  "source": "https://www.govinfo.gov/content/pkg/FR-2025-12-19/html/2025-23570.htm",
+  "source_name": "Presidential Proclamation 10998 of 16 December 2025 (Federal Register, 19 December 2025)",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Turkmenistan; at each entry the CBP officer sets the authorised stay (up to six months for visitors). The partial suspension imposed on Turkmen nonimmigrant visas by Proclamation 10949 was lifted on 1 January 2026 by Proclamation 10998; only immigrant visa issuance to Turkmen nationals remains suspended. Turkmenistan is also on the Department of State's visa bond list: an applicant found otherwise eligible for a B-1/B-2 visa must post a refundable bond of USD 10,000, 15,000 or 20,000, set by the consular officer at the interview (programme made permanent by the Final Rule of 3 August 2026; Form I-352, paid via Pay.gov)."
+ },
+ "TN:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/en/newsroom/visas/2026/countries-subject-to-visa-bonds.html",
+  "source_name": "U.S. Department of State — Countries Subject to Visa Bonds",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Tunisia; at each entry the CBP officer sets the authorised stay (up to six months for visitors). Tunisia is also on the Department of State's visa bond list: an applicant found otherwise eligible for a B-1/B-2 visa must post a refundable bond of USD 10,000, 15,000 or 20,000, set by the consular officer at the interview (programme made permanent by the Final Rule of 3 August 2026; Form I-352, paid via Pay.gov)."
+ },
+ "TO:US": {
+  "date": "2026-11-07",
+  "source": "https://www.govinfo.gov/content/pkg/FR-2025-12-19/html/2025-23570.htm",
+  "source_name": "Presidential Proclamation 10998 of 16 December 2025 (Federal Register, 19 December 2025)",
+  "note": "Entry is partially suspended. Under Presidential Proclamation 10998 (in force since 1 January 2026), the United States is not issuing immigrant visas or B-1/B-2 visitor, F, M or J visas to nationals of Tonga; other nonimmigrant categories remain possible, with their validity liable to be shortened by the consular officer. The restriction was added by that proclamation. Tonga is also on the Department of State's visa bond list: an applicant found otherwise eligible for a B-1/B-2 visa must post a refundable bond of USD 10,000, 15,000 or 20,000, set by the consular officer at the interview (programme made permanent by the Final Rule of 3 August 2026; Form I-352, paid via Pay.gov)."
+ },
+ "TR:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Türkiye; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "TT:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Trinidad & Tobago; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "TV:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/en/newsroom/visas/2026/countries-subject-to-visa-bonds.html",
+  "source_name": "U.S. Department of State — Countries Subject to Visa Bonds",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Tuvalu; at each entry the CBP officer sets the authorised stay (up to six months for visitors). Tuvalu is also on the Department of State's visa bond list: an applicant found otherwise eligible for a B-1/B-2 visa must post a refundable bond of USD 10,000, 15,000 or 20,000, set by the consular officer at the interview (programme made permanent by the Final Rule of 3 August 2026; Form I-352, paid via Pay.gov)."
+ },
+ "TW:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "Travel under the Visa Waiver Program (VWP): get an ESTA authorisation from CBP online before boarding — fee USD 40.62 since 16 October 2026 (USD 40 from 30 September 2025, USD 21 before that); an approved ESTA is normally valid for two years or until the passport expires. Stays of up to 90 days for tourism or business; the stay cannot be extended and status cannot be changed, and an approved ESTA does not guarantee admission — the CBP officer at the port of entry decides. An e-passport is required. Travellers who have been in North Korea, Iran, Iraq, Libya, Somalia, Sudan, Syria or Yemen on or after 1 March 2011, or in Cuba on or after 12 January 2021, and dual nationals of Cuba, North Korea, Iran, Iraq, Sudan or Syria, cannot use the VWP and need a visitor visa instead."
+ },
+ "TZ:US": {
+  "date": "2026-11-07",
+  "source": "https://www.govinfo.gov/content/pkg/FR-2025-12-19/html/2025-23570.htm",
+  "source_name": "Presidential Proclamation 10998 of 16 December 2025 (Federal Register, 19 December 2025)",
+  "note": "Entry is partially suspended. Under Presidential Proclamation 10998 (in force since 1 January 2026), the United States is not issuing immigrant visas or B-1/B-2 visitor, F, M or J visas to nationals of Tanzania; other nonimmigrant categories remain possible, with their validity liable to be shortened by the consular officer. The restriction was added by that proclamation. Tanzania is also on the Department of State's visa bond list: an applicant found otherwise eligible for a B-1/B-2 visa must post a refundable bond of USD 10,000, 15,000 or 20,000, set by the consular officer at the interview (programme made permanent by the Final Rule of 3 August 2026; Form I-352, paid via Pay.gov)."
+ },
+ "UA:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Ukraine; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "UG:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/en/newsroom/visas/2026/countries-subject-to-visa-bonds.html",
+  "source_name": "U.S. Department of State — Countries Subject to Visa Bonds",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Uganda; at each entry the CBP officer sets the authorised stay (up to six months for visitors). Uganda is also on the Department of State's visa bond list: an applicant found otherwise eligible for a B-1/B-2 visa must post a refundable bond of USD 10,000, 15,000 or 20,000, set by the consular officer at the interview (programme made permanent by the Final Rule of 3 August 2026; Form I-352, paid via Pay.gov)."
+ },
+ "UY:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Uruguay; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "UZ:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Uzbekistan; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "VA:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Vatican City; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "VC:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for St. Vincent & Grenadines; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "VE:US": {
+  "date": "2026-11-07",
+  "source": "https://www.govinfo.gov/content/pkg/FR-2025-12-19/html/2025-23570.htm",
+  "source_name": "Presidential Proclamation 10998 of 16 December 2025 (Federal Register, 19 December 2025)",
+  "note": "Entry is partially suspended. Under Presidential Proclamation 10998 (in force since 1 January 2026), the United States is not issuing immigrant visas or B-1/B-2 visitor, F, M or J visas to nationals of Venezuela; other nonimmigrant categories remain possible, with their validity liable to be shortened by the consular officer. The suspension continues the partial restriction first imposed on 9 June 2025 by Proclamation 10949. Venezuela is also on the Department of State's visa bond list: an applicant found otherwise eligible for a B-1/B-2 visa must post a refundable bond of USD 10,000, 15,000 or 20,000, set by the consular officer at the interview (programme made permanent by the Final Rule of 3 August 2026; Form I-352, paid via Pay.gov)."
+ },
+ "VN:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Vietnam; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "VU:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/en/newsroom/visas/2026/countries-subject-to-visa-bonds.html",
+  "source_name": "U.S. Department of State — Countries Subject to Visa Bonds",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Vanuatu; at each entry the CBP officer sets the authorised stay (up to six months for visitors). Vanuatu is also on the Department of State's visa bond list: an applicant found otherwise eligible for a B-1/B-2 visa must post a refundable bond of USD 10,000, 15,000 or 20,000, set by the consular officer at the interview (programme made permanent by the Final Rule of 3 August 2026; Form I-352, paid via Pay.gov)."
+ },
+ "WS:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Samoa; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "XK:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for Kosovo; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "YE:US": {
+  "date": "2026-11-07",
+  "source": "https://www.govinfo.gov/content/pkg/FR-2025-12-19/html/2025-23570.htm",
+  "source_name": "Presidential Proclamation 10998 of 16 December 2025 (Federal Register, 19 December 2025)",
+  "note": "Entry is fully suspended. Under Presidential Proclamation 10949 (in force since 9 June 2025), continued in force by Proclamation 10998 from 1 January 2026, the entry of nationals of Yemen as immigrants and as nonimmigrants is suspended and U.S. consulates are not issuing them visas, subject only to narrow exceptions (such as diplomatic visas, lawful permanent residents, and dual nationals travelling on a passport of an unaffected country). Visas validly issued before the suspension took effect were not revoked by the proclamations."
+ },
+ "ZA:US": {
+  "date": "2026-11-07",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program",
+  "note": "A visitor visa (B-1/B-2) is required in advance: complete Form DS-160 online and attend an interview at a U.S. embassy or consulate; the application fee is USD 185 and is non-refundable. Visa validity and number of entries follow the reciprocity schedule for South Africa; at each entry the CBP officer sets the authorised stay (up to six months for visitors)."
+ },
+ "ZM:US": {
+  "date": "2026-11-07",
+  "source": "https://www.govinfo.gov/content/pkg/FR-2025-12-19/html/2025-23570.htm",
+  "source_name": "Presidential Proclamation 10998 of 16 December 2025 (Federal Register, 19 December 2025)",
+  "note": "Entry is partially suspended. Under Presidential Proclamation 10998 (in force since 1 January 2026), the United States is not issuing immigrant visas or B-1/B-2 visitor, F, M or J visas to nationals of Zambia; other nonimmigrant categories remain possible, with their validity liable to be shortened by the consular officer. The restriction was added by that proclamation. Zambia is also on the Department of State's visa bond list: an applicant found otherwise eligible for a B-1/B-2 visa must post a refundable bond of USD 10,000, 15,000 or 20,000, set by the consular officer at the interview (programme made permanent by the Final Rule of 3 August 2026; Form I-352, paid via Pay.gov)."
+ },
+ "ZW:US": {
+  "date": "2026-11-07",
+  "source": "https://www.govinfo.gov/content/pkg/FR-2025-12-19/html/2025-23570.htm",
+  "source_name": "Presidential Proclamation 10998 of 16 December 2025 (Federal Register, 19 December 2025)",
+  "note": "Entry is partially suspended. Under Presidential Proclamation 10998 (in force since 1 January 2026), the United States is not issuing immigrant visas or B-1/B-2 visitor, F, M or J visas to nationals of Zimbabwe; other nonimmigrant categories remain possible, with their validity liable to be shortened by the consular officer. The restriction was added by that proclamation. Zimbabwe is also on the Department of State's visa bond list: an applicant found otherwise eligible for a B-1/B-2 visa must post a refundable bond of USD 10,000, 15,000 or 20,000, set by the consular officer at the interview (programme made permanent by the Final Rule of 3 August 2026; Form I-352, paid via Pay.gov)."
  }
 }

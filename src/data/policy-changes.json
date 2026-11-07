@@ -56,6 +56,14 @@
   "title": "South Africa's ETA goes live for four nationalities"
  },
  {
+  "date": "2026-08-03",
+  "destination": "US",
+  "title": "United States makes the visa bond programme permanent for 50 countries",
+  "summary": "A Department of State Final Rule of 3 August 2026 made the visa bond programme permanent. Nationals of 50 listed countries who are found otherwise eligible for a B-1/B-2 visa must post a refundable bond of USD 10,000, 15,000 or 20,000, set by the consular officer at the interview (the pilot that began on 20 August 2025 used USD 5,000, 10,000 or 15,000). The list is maintained on travel.state.gov and countries can be added on 15 days' notice.",
+  "source": "https://travel.state.gov/en/newsroom/visas/2026/countries-subject-to-visa-bonds.html",
+  "source_name": "U.S. Department of State — Countries Subject to Visa Bonds"
+ },
+ {
   "date": "2026-08-01",
   "destination": "EG",
   "title": "Cairo airport digital visa on arrival",
@@ -152,6 +160,14 @@
   "title": "Mali suspends entry for US citizens"
  },
  {
+  "date": "2026-01-01",
+  "destination": "US",
+  "title": "United States expands entry suspensions to 39 countries and Palestinian Authority documents",
+  "summary": "Presidential Proclamation 10998, effective 1 January 2026, fully suspends entry for nationals of 19 countries — the 12 of the June 2025 proclamation plus Burkina Faso, Laos, Mali, Niger, Sierra Leone, South Sudan and Syria — and for anyone travelling on a document issued or endorsed by the Palestinian Authority. It partially suspends entry (immigrant visas and B-1/B-2, F, M and J visas) for nationals of 20 more countries; for Turkmenistan the suspension now covers immigrant visas only. Visas validly issued before the effective dates were not revoked.",
+  "source": "https://www.govinfo.gov/content/pkg/FR-2025-12-19/html/2025-23570.htm",
+  "source_name": "Presidential Proclamation 10998 of 16 December 2025 (Federal Register, 19 December 2025)"
+ },
+ {
   "date": "2025-12-31",
   "destination": "KG",
   "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
@@ -182,6 +198,14 @@
   "summary": "From 25 November 2025, Hong Kong SAR passport holders may visit Algeria visa-free for up to 14 days, on notification from the Algerian government to the Hong Kong government. Some airline check-in systems were slow to reflect the arrangement. Algeria still publishes no consolidated exemption list; its ordinary-passport exemptions remain a short list (Libya, Malaysia, Mali, Mauritania, Seychelles, Tunisia at 90 days).",
   "source": "https://www.info.gov.hk/gia/general/202511/25/P2025112500220.htm",
   "source_name": "Government of the Hong Kong SAR — visa-free access announcement (25 November 2025)"
+ },
+ {
+  "date": "2025-09-30",
+  "destination": "US",
+  "title": "ESTA fee rises from USD 21 to USD 40",
+  "summary": "The fee for an ESTA travel authorisation under the Visa Waiver Program rose from USD 21 to USD 40 on 30 September 2025 under the 2025 budget law (Public Law 119-21), with annual inflation adjustments since: USD 40.27 from 1 January 2026 and USD 40.62 from 16 October 2026. An approved ESTA remains valid for two years or until the passport expires.",
+  "source": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+  "source_name": "U.S. Department of State — Visa Waiver Program (ESTA fee set by CBP under Public Law 119-21)"
  },
  {
   "date": "2025-09-25",
@@ -230,6 +254,14 @@
   "summary": "MFA Decision No. 128 (signed 1 July 2025) replaces the old regime: 11 nationality fee groups from free to USD 400 single-entry, the same fees at land borders and airports, all fees paid in cash at the port. The MFA confirmed via SANA on 29 April 2026 that the decision remains unchanged.",
   "source": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-128",
   "source_name": "Syria TV"
+ },
+ {
+  "date": "2025-06-09",
+  "destination": "US",
+  "title": "United States restricts entry from 19 countries (Proclamation 10949)",
+  "summary": "Presidential Proclamation 10949, effective 9 June 2025, fully suspends the entry of nationals of Afghanistan, Burma, Chad, the Republic of the Congo, Equatorial Guinea, Eritrea, Haiti, Iran, Libya, Somalia, Sudan and Yemen as immigrants and nonimmigrants, and partially suspends entry (immigrant visas and B-1/B-2, F, M and J visas) for nationals of Burundi, Cuba, Laos, Sierra Leone, Togo, Turkmenistan and Venezuela, subject to narrow exceptions.",
+  "source": "https://www.govinfo.gov/content/pkg/FR-2025-12-19/html/2025-23570.htm",
+  "source_name": "Presidential Proclamation 10949 of 4 June 2025 (recited in Proclamation 10998, Federal Register)"
  },
  {
   "date": "2025-05-12",

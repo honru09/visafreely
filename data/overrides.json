@@ -31819,5 +31819,53 @@
   "reason": "Ireland removed this nationality from the visa-exempt list effective 15 June 2026 (gov.ie announcement, 11 June 2026); seed still showed visa free.",
   "source": "https://www.citizensinformation.ie/en/moving-country/visas-for-ireland/visa-requirements-for-entering-ireland/",
   "date": "2026-11-02"
+ },
+ "BF:US": {
+  "status": "no admission",
+  "reason": "Proclamation 10998 (effective 1 January 2026) fully suspends entry; seed value superseded.",
+  "source": "https://www.govinfo.gov/content/pkg/FR-2025-12-19/html/2025-23570.htm",
+  "date": "2026-11-07"
+ },
+ "LA:US": {
+  "status": "no admission",
+  "reason": "Proclamation 10998 (effective 1 January 2026) fully suspends entry; seed value superseded.",
+  "source": "https://www.govinfo.gov/content/pkg/FR-2025-12-19/html/2025-23570.htm",
+  "date": "2026-11-07"
+ },
+ "ML:US": {
+  "status": "no admission",
+  "reason": "Proclamation 10998 (effective 1 January 2026) fully suspends entry; seed value superseded.",
+  "source": "https://www.govinfo.gov/content/pkg/FR-2025-12-19/html/2025-23570.htm",
+  "date": "2026-11-07"
+ },
+ "NE:US": {
+  "status": "no admission",
+  "reason": "Proclamation 10998 (effective 1 January 2026) fully suspends entry; seed value superseded.",
+  "source": "https://www.govinfo.gov/content/pkg/FR-2025-12-19/html/2025-23570.htm",
+  "date": "2026-11-07"
+ },
+ "PS:US": {
+  "status": "no admission",
+  "reason": "Proclamation 10998 (effective 1 January 2026) fully suspends entry on Palestinian-Authority documents; seed value superseded.",
+  "source": "https://www.govinfo.gov/content/pkg/FR-2025-12-19/html/2025-23570.htm",
+  "date": "2026-11-07"
+ },
+ "SL:US": {
+  "status": "no admission",
+  "reason": "Proclamation 10998 (effective 1 January 2026) fully suspends entry; seed value superseded.",
+  "source": "https://www.govinfo.gov/content/pkg/FR-2025-12-19/html/2025-23570.htm",
+  "date": "2026-11-07"
+ },
+ "SS:US": {
+  "status": "no admission",
+  "reason": "Proclamation 10998 (effective 1 January 2026) fully suspends entry; seed value superseded.",
+  "source": "https://www.govinfo.gov/content/pkg/FR-2025-12-19/html/2025-23570.htm",
+  "date": "2026-11-07"
+ },
+ "SY:US": {
+  "status": "no admission",
+  "reason": "Proclamation 10998 (effective 1 January 2026) fully suspends entry; seed value superseded.",
+  "source": "https://www.govinfo.gov/content/pkg/FR-2025-12-19/html/2025-23570.htm",
+  "date": "2026-11-07"
  }
 }
