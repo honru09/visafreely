@@ -31879,5 +31879,11 @@
   "reason": "Added to the visa-national list 5 March 2026 (Statement of Changes HC 1691); seed value superseded.",
   "source": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
   "date": "2026-11-07"
+ },
+ "PH:JP": {
+  "status": "e-visa",
+  "reason": "eVISA, packaged tour only, 15 days (MOFA JAPAN eVISA page); seed value superseded.",
+  "source": "https://www.mofa.go.jp/j_info/visit/visa/visaonline.html",
+  "date": "2026-11-07"
  }
 }

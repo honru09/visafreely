@@ -96,6 +96,14 @@
   "title": "Armenia temporarily exempts residence-permit holders of 111 countries"
  },
  {
+  "date": "2026-07-01",
+  "destination": "JP",
+  "title": "Japan raises visa fees fivefold",
+  "summary": "The Cabinet Order on Fees Collected by Consular Officers was amended with effect from 1 July 2026: a single-entry visa now costs approximately ¥15,000 (was ¥3,000) and a multiple-entry visa approximately ¥30,000 (was ¥6,000), the first revision since 1978. Fees are paid in local currency at the mission.",
+  "source": "https://www.mofa.go.jp/j_info/visit/visa/procedure/pagewe_000001_00391.html",
+  "source_name": "Ministry of Foreign Affairs of Japan — Visa Fees"
+ },
+ {
   "date": "2026-06-15",
   "destination": "IE",
   "title": "Ireland ends visa-free entry for Nicaragua, Saint Kitts and Nevis and Saint Lucia",
@@ -110,6 +118,14 @@
   "summary": "Malaysian ordinary-passport holders are visa-free for Libya for up to 30 days from 8 June 2026, limited to landing at Tripoli Mitiga and Misurata airports, with a possible security-letter requirement. Malaysia's own older visa table still shows Libya as visa-required and has not been updated for this change.",
   "source": "https://en.wikipedia.org/wiki/Visa_policy_of_Libya",
   "source_name": "Visa policy of Libya (Timatic-based table; Libya Herald, 24 June 2026)"
+ },
+ {
+  "date": "2026-05-29",
+  "destination": "JP",
+  "title": "Japan passes the JESTA enabling law",
+  "summary": "The amendment to the Immigration Control and Refugee Recognition Act creating the Japan Electronic System for Travel Authorization (JESTA) passed the Diet on 29 May 2026 (Law No. 32 of 2026). JESTA will require visa-exempt short-stay visitors to obtain online pre-travel authorisation; the Ministry of Justice aims to introduce it in fiscal year 2028, and the law requires a start no later than 31 March 2029. No portal, fee or exact start date exists yet, and nothing is required of travellers in the meantime.",
+  "source": "https://www.moj.go.jp/isa/content/001446181.pdf",
+  "source_name": "Zero Illegal Foreign Residents Plan (Ministry of Justice)"
  },
  {
   "date": "2026-05-26",
@@ -288,6 +304,14 @@
   "source_name": "Latvian Ministry of Foreign Affairs — Electronic Travel Declaration"
  },
  {
+  "date": "2025-09-01",
+  "destination": "JP",
+  "title": "Japan exempts Montenegro from visas",
+  "summary": "Montenegro was added to Japan's visa-exemption list on 1 September 2025, for holders of ICAO-compliant ePassports only, with a stay of up to 90 days.",
+  "source": "https://www.mofa.go.jp/j_info/visit/visa/short/novisa.html",
+  "source_name": "Ministry of Foreign Affairs of Japan — Exemption of Visa (Short-Term Stay)"
+ },
+ {
   "date": "2025-07-06",
   "destination": "SY",
   "title": "Decision No. 128 in force: 11-group visa fee table, unified land and air port fees",
@@ -296,12 +320,28 @@
   "source_name": "Syria TV"
  },
  {
+  "date": "2025-07-01",
+  "destination": "JP",
+  "title": "Japan exempts Peru from visas",
+  "summary": "Peru was added to Japan's visa-exemption list on 1 July 2025, for holders of ICAO-compliant ePassports only, with a stay of up to 90 days.",
+  "source": "https://www.mofa.go.jp/j_info/visit/visa/short/novisa.html",
+  "source_name": "Ministry of Foreign Affairs of Japan — Exemption of Visa (Short-Term Stay)"
+ },
+ {
   "date": "2025-06-09",
   "destination": "US",
   "title": "United States restricts entry from 19 countries (Proclamation 10949)",
   "summary": "Presidential Proclamation 10949, effective 9 June 2025, fully suspends the entry of nationals of Afghanistan, Burma, Chad, the Republic of the Congo, Equatorial Guinea, Eritrea, Haiti, Iran, Libya, Somalia, Sudan and Yemen as immigrants and nonimmigrants, and partially suspends entry (immigrant visas and B-1/B-2, F, M and J visas) for nationals of Burundi, Cuba, Laos, Sierra Leone, Togo, Turkmenistan and Venezuela, subject to narrow exceptions.",
   "source": "https://www.govinfo.gov/content/pkg/FR-2025-12-19/html/2025-23570.htm",
   "source_name": "Presidential Proclamation 10949 of 4 June 2025 (recited in Proclamation 10998, Federal Register)"
+ },
+ {
+  "date": "2025-06-01",
+  "destination": "JP",
+  "title": "Japan exempts Paraguay from visas",
+  "summary": "Paraguay was added to Japan's visa-exemption list on 1 June 2025, for holders of ICAO-compliant ePassports only, with a stay of up to 90 days.",
+  "source": "https://www.mofa.go.jp/j_info/visit/visa/short/novisa.html",
+  "source_name": "Ministry of Foreign Affairs of Japan — Exemption of Visa (Short-Term Stay)"
  },
  {
   "date": "2025-05-12",
@@ -318,6 +358,14 @@
   "summary": "From 1 May 2025 every traveller who needs a visa for Nigeria must obtain an e-Visa at evisa.immigration.gov.ng before travel; the visa-on-arrival system was abolished the same day. The standard short-visit e-Visa (tourism F5A, single-entry business F4A) is valid for 90 days from issuance and allows a single stay of up to 30 days, non-extendable. ECOWAS citizens and Cameroonians and Chadians remain visa-free, and every traveller must file the free electronic Landing Card before arrival.",
   "source": "https://immigration.gov.ng/info-center/tourism-visa-f5a/",
   "source_name": "Nigeria Immigration Service — Tourism Visa (F5A) page"
+ },
+ {
+  "date": "2025-04-08",
+  "destination": "JP",
+  "title": "Japan extends its North Korea sanctions for two more years",
+  "summary": "Japan's Cabinet decided on 8 April 2025 to extend its own sanctions against North Korea for a further two years, to 13 April 2027, keeping in force the ban on the entry of North Korean citizens.",
+  "source": "https://www.meti.go.jp/english/press/2025/0408_001.html",
+  "source_name": "Extension of Ban on Imports from and Exports to North Korea (Ministry of Economy, Trade and Industry, 8 April 2025)"
  },
  {
   "date": "2025-04-01",
@@ -392,11 +440,59 @@
   "source_name": "Citizens Information — Visa requirements for entering Ireland"
  },
  {
+  "date": "2024-04-01",
+  "destination": "JP",
+  "title": "Japan exempts Panama from visas",
+  "summary": "Panama was added to Japan's visa-exemption list on 1 April 2024, for holders of ICAO-compliant ePassports only, with a stay of up to 90 days.",
+  "source": "https://www.mofa.go.jp/j_info/visit/visa/short/novisa.html",
+  "source_name": "Ministry of Foreign Affairs of Japan — Exemption of Visa (Short-Term Stay)"
+ },
+ {
   "date": "2024-01-01",
   "destination": "CY",
   "title": "Kosovo passports gain visa-free access to Cyprus",
   "summary": "The EU visa waiver for Kosovo took effect: holders of biometric Kosovo passports no longer need a visa for short stays in Cyprus (up to 90 days in any 180-day period).",
   "source": "https://en.wikipedia.org/wiki/Visa_policy_of_the_Schengen_Area",
   "source_name": "Wikipedia — Visa policy of the Schengen Area"
+ },
+ {
+  "date": "2023-09-30",
+  "destination": "JP",
+  "title": "Japan exempts Brazil from visas",
+  "summary": "Brazil was added to Japan's visa-exemption list on 30 September 2023, for holders of ICAO-compliant ePassports only, with a stay of up to 90 days.",
+  "source": "https://www.mofa.go.jp/j_info/visit/visa/short/novisa.html",
+  "source_name": "Ministry of Foreign Affairs of Japan — Exemption of Visa (Short-Term Stay)"
+ },
+ {
+  "date": "2023-04-02",
+  "destination": "JP",
+  "title": "Japan exempts Qatar, conditional on ePassport registration",
+  "summary": "Qatar was added to Japan's visa-exemption list on 2 April 2023, for holders who have registered an ICAO-compliant ePassport with a Japanese mission (registration valid 3 years or until the passport expires). The permitted stay is 30 days.",
+  "source": "https://www.mofa.go.jp/j_info/visit/visa/short/novisa.html",
+  "source_name": "Ministry of Foreign Affairs of Japan — Exemption of Visa (Short-Term Stay)"
+ },
+ {
+  "date": "2022-11-01",
+  "destination": "JP",
+  "title": "Japan exempts the United Arab Emirates from visas",
+  "summary": "The United Arab Emirates was added to Japan's visa-exemption list on 1 November 2022, for holders of ICAO-compliant ePassports only, with a stay of up to 90 days.",
+  "source": "https://www.mofa.go.jp/j_info/visit/visa/short/novisa.html",
+  "source_name": "Ministry of Foreign Affairs of Japan — Exemption of Visa (Short-Term Stay)"
+ },
+ {
+  "date": "2014-12-01",
+  "destination": "JP",
+  "title": "Japan exempts Indonesia, conditional on ePassport registration",
+  "summary": "Indonesia was added to Japan's visa-exemption list on 1 December 2014, for holders who have registered an ICAO-compliant ePassport with a Japanese mission in Indonesia (registration valid 3 years or until the passport expires). The permitted stay is 15 days.",
+  "source": "https://www.mofa.go.jp/j_info/visit/visa/short/novisa.html",
+  "source_name": "Ministry of Foreign Affairs of Japan — Exemption of Visa (Short-Term Stay)"
+ },
+ {
+  "date": "2013-07-01",
+  "destination": "JP",
+  "title": "Japan exempts Thailand and Malaysia from visas",
+  "summary": "Thailand and Malaysia were added to Japan's visa-exemption list on 1 July 2013, for holders of ICAO-compliant ePassports only (Thailand 15 days, Malaysia 90 days). Travellers without an ePassport must obtain a visa in advance.",
+  "source": "https://www.mofa.go.jp/j_info/visit/visa/short/novisa.html",
+  "source_name": "Ministry of Foreign Affairs of Japan — Exemption of Visa (Short-Term Stay)"
  }
 ]
