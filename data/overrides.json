@@ -31867,5 +31867,17 @@
   "reason": "Proclamation 10998 (effective 1 January 2026) fully suspends entry; seed value superseded.",
   "source": "https://www.govinfo.gov/content/pkg/FR-2025-12-19/html/2025-23570.htm",
   "date": "2026-11-07"
+ },
+ "LC:GB": {
+  "status": "visa required",
+  "reason": "Added to the visa-national list 5 March 2026 (Statement of Changes HC 1691); seed value superseded.",
+  "source": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+  "date": "2026-11-07"
+ },
+ "NI:GB": {
+  "status": "visa required",
+  "reason": "Added to the visa-national list 5 March 2026 (Statement of Changes HC 1691); seed value superseded.",
+  "source": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+  "date": "2026-11-07"
  }
 }
