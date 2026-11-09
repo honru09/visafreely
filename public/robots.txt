@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /embed/
 
 Sitemap: https://visafreely.com/sitemap-index.xml

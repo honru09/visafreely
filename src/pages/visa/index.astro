@@ -1,0 +1,48 @@
+---
+import Base from '../../layouts/Base.astro';
+import Checker from '../../components/Checker.astro';
+import { countryBySlug, pairPath } from '../../lib/data';
+
+const popularRoutes = [
+  ['japan', 'thailand'],
+  ['united-states', 'japan'],
+  ['china', 'singapore'],
+  ['united-states', 'united-kingdom'],
+  ['germany', 'thailand'],
+  ['australia', 'indonesia'],
+]
+  .map(([ps, ds]) => ({ p: countryBySlug[ps], d: countryBySlug[ds] }))
+  .filter((r) => r.p && r.d);
+---
+
+<Base
+  title="Check a Visa Route — Visa Requirements by Passport and Destination | visafreely"
+  description="Pick a passport and a destination to see the visa requirement for that route: visa free, visa on arrival, e-Visa, ETA or visa required — with the date it was last checked against an official source."
+>
+  <h1>Check a visa route</h1>
+  <p class="lede">
+    Every route on this site has its own page: your passport, your destination, the requirement,
+    and when it was last checked against an official source. Pick a pair to get the answer.
+  </p>
+  <Checker />
+  <h2>Popular routes</h2>
+  <div class="index-rows">
+    {popularRoutes.map((r) => (
+      <a class="index-row" href={pairPath(r.p, r.d)}>
+        <span class="ir-name">{r.p.name} → {r.d.name}</span>
+        <span class="ir-stat">visa requirement</span>
+      </a>
+    ))}
+  </div>
+  <h2>Browse instead</h2>
+  <div class="index-rows">
+    <a class="index-row" href="/passports/">
+      <span class="ir-name">All passports</span>
+      <span class="ir-stat">where each passport can go</span>
+    </a>
+    <a class="index-row" href="/destinations/">
+      <span class="ir-name">All destinations</span>
+      <span class="ir-stat">who can enter, and how</span>
+    </a>
+  </div>
+</Base>
