@@ -53913,5 +53913,57 @@
   "reason": "Settled 2026-11-11 against Chad's Directorate exemption list as compiled (see research-td-official.md).",
   "source": "https://evisa.td/",
   "date": "2026-11-11"
+ },
+ "GY:AL": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Albania's MFA visa regime table as compiled (see research-al-official.md).",
+  "source": "https://punetejashtme.gov.al/",
+  "date": "2026-11-11"
+ },
+ "ID:AL": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Albania's MFA visa regime table as compiled (see research-al-official.md).",
+  "source": "https://punetejashtme.gov.al/",
+  "date": "2026-11-11"
+ },
+ "OM:AL": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Albania's MFA visa regime table as compiled (see research-al-official.md).",
+  "source": "https://punetejashtme.gov.al/",
+  "date": "2026-11-11"
+ },
+ "QA:AL": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Albania's MFA visa regime table as compiled (see research-al-official.md).",
+  "source": "https://punetejashtme.gov.al/",
+  "date": "2026-11-11"
+ },
+ "SA:AL": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Albania's MFA visa regime table as compiled (see research-al-official.md).",
+  "source": "https://punetejashtme.gov.al/",
+  "date": "2026-11-11"
+ },
+ "TH:AL": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Albania's MFA visa regime table as compiled (see research-al-official.md).",
+  "source": "https://punetejashtme.gov.al/",
+  "date": "2026-11-11"
+ },
+ "TR:AL": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Albania's MFA visa regime table as compiled (see research-al-official.md).",
+  "source": "https://punetejashtme.gov.al/",
+  "date": "2026-11-11"
+ },
+ "US:AL": {
+  "status": "visa free",
+  "days": 365,
+  "reason": "Settled 2026-11-11 against Albania's MFA visa regime table as compiled (see research-al-official.md).",
+  "source": "https://punetejashtme.gov.al/",
+  "date": "2026-11-11"
  }
 }
