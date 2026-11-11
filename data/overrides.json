@@ -2937,10 +2937,11 @@
   "days": 90
  },
  "IL:ID": {
-  "status": "visa required",
-  "reason": "Israel is on neither Indonesia’s A1 exemption list nor the 97-country B1 visa-on-arrival list; entry needs a “calling visa” with prior Directorate General approval.",
-  "source": "https://jogja.imigrasi.go.id/how-to-get-an-indonesia-visa-on-arrival/",
-  "date": "2026-10-25"
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
  },
  "IL:PH": {
   "status": "visa free",
@@ -33788,6 +33789,720 @@
   "days": 90,
   "reason": "Settled 2026-11-11 against Itamaraty's Entry Visas to Brazil table (see research-br-official.md).",
   "source": "https://www.gov.br/mre/en",
+  "date": "2026-11-11"
+ },
+ "AF:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "AG:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "AO:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "BB:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "BD:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "BF:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "BI:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "BJ:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "BO:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "BS:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "BT:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "BW:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "BY:ID": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "BZ:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "CD:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "CF:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "CG:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "CI:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "CM:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "CR:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "CU:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "CV:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "DJ:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "DM:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "DO:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "DZ:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "ER:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "ET:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "FJ:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "FM:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "GA:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "GD:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "GE:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "GH:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "GM:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "GN:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "GQ:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "GW:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "GY:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "HN:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "HT:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "IQ:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "IR:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "JM:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "KG:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "KI:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "KM:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "KN:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "KP:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "KZ:ID": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "LB:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "LC:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "LK:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "LR:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "LS:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "LY:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "MD:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "ME:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "MG:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "MH:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "MK:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "ML:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "MO:ID": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "MR:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "MW:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "NA:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "NE:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "NG:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "NI:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "NP:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "NR:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "PA:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "PK:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "PW:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "PY:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "SB:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "SD:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "SL:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "SM:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "SN:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "SO:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "SS:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "ST:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "SV:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "SY:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "SZ:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "TD:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "TG:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "TJ:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "TM:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "TO:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "TT:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "TV:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "UG:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "UY:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "VC:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "VU:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "WS:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "XK:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "YE:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "ZM:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
+  "date": "2026-11-11"
+ },
+ "ZW:ID": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
+  "source": "https://evisa.imigrasi.go.id/",
   "date": "2026-11-11"
  }
 }
