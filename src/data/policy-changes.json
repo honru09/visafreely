@@ -816,6 +816,14 @@
   "source_name": "Citizens Information — Visa requirements for entering Ireland"
  },
  {
+  "date": "2024-06-21",
+  "destination": "SV",
+  "title": "El Salvador exempts Bolivia from visas",
+  "summary": "Bolivia joined El Salvador's visa-exemption list on 21 June 2024, for stays of up to 90 days per year.",
+  "source": "https://rree.gob.sv/",
+  "source_name": "Ministry of Foreign Affairs of El Salvador"
+ },
+ {
   "date": "2024-04-20",
   "destination": "MX",
   "title": "Peru's visa waiver for Mexico suspended",
@@ -854,6 +862,14 @@
   "summary": "The EU visa waiver for Kosovo took effect: holders of biometric Kosovo passports no longer need a visa for short stays in Cyprus (up to 90 days in any 180-day period).",
   "source": "https://en.wikipedia.org/wiki/Visa_policy_of_the_Schengen_Area",
   "source_name": "Wikipedia — Visa policy of the Schengen Area"
+ },
+ {
+  "date": "2023-12-13",
+  "destination": "SV",
+  "title": "El Salvador exempts Peru from visas",
+  "summary": "Peru joined El Salvador's visa-exemption list on 13 December 2023, for stays of up to 180 days.",
+  "source": "https://rree.gob.sv/",
+  "source_name": "Ministry of Foreign Affairs of El Salvador"
  },
  {
   "date": "2023-10-23",
