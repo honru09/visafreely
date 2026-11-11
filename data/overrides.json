@@ -45673,5 +45673,24 @@
   "reason": "Settled 2026-11-11 against Laos's exemption and visa-on-arrival eligibility lists as compiled (see research-la-official.md).",
   "source": "https://laoevisa.gov.la/",
   "date": "2026-11-11"
+ },
+ "FM:MH": {
+  "status": "visa free",
+  "reason": "Settled 2026-11-11 against the Marshall Islands' exemption and visa-on-arrival lists as compiled (see research-mh-official.md).",
+  "source": "https://www.rmiembassyus.org/",
+  "date": "2026-11-11"
+ },
+ "LC:MH": {
+  "status": "visa on arrival",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the Marshall Islands' exemption and visa-on-arrival lists as compiled (see research-mh-official.md).",
+  "source": "https://www.rmiembassyus.org/",
+  "date": "2026-11-11"
+ },
+ "NO:MH": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the Marshall Islands' exemption and visa-on-arrival lists as compiled (see research-mh-official.md).",
+  "source": "https://www.rmiembassyus.org/",
+  "date": "2026-11-11"
  }
 }
