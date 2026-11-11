@@ -40,6 +40,14 @@
   "source_name": "Visa policy of Libya (Timatic-based table; North Africa News, 4 September 2026)"
  },
  {
+  "date": "2026-08-20",
+  "destination": "CN",
+  "title": "Kyrgyzstan and Vietnam join China's 240-hour transit and Hainan visa-free schemes",
+  "summary": "From 20 August 2026, citizens of Kyrgyzstan and Vietnam may use China's 240-hour (10-day) visa-free transit (the scheme now covers 57 countries) and the 30-day visa-free entry to Hainan (now 61 countries), the National Immigration Administration announced.",
+  "source": "https://www.nia.gov.cn/n741440/n741542/c1796294/content.html",
+  "source_name": "National Immigration Administration — announcement (20 August 2026)"
+ },
+ {
   "date": "2026-08-15",
   "destination": "MA",
   "title": "Morocco lifts the visa requirement for Albanian citizens",
@@ -144,6 +152,14 @@
   "title": "Sri Lanka makes the ETA free for 40 countries"
  },
  {
+  "date": "2026-05-20",
+  "destination": "CN",
+  "title": "China extends Russia's unilateral visa-free entry to the end of 2027",
+  "summary": "On 20 May 2026 the Ministry of Foreign Affairs announced that the unilateral visa-free arrangement for Russian ordinary passport holders (up to 30 days) is extended to 31 December 2027, beyond the end-2026 expiry of the rest of the scheme.",
+  "source": "https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202605/t20260520_11914508.shtml",
+  "source_name": "Ministry of Foreign Affairs of China — regular press conference (20 May 2026)"
+ },
+ {
   "date": "2026-05-11",
   "destination": "SA",
   "source": "https://www.spa.gov.sa/en/w2582764",
@@ -182,6 +198,14 @@
   "summary": "Under the 2026 Budget Law, General Security raised the visit/tourist entry-visa fee from 500,000 LBP to 2,000,000 LBP on 18 February 2026; work-entry, conversion and sponsor-transfer fees were set to the same 2,000,000 LBP. Port-issued tourist visas themselves stay free — the fee bites on pre-approved/consular visas and on in-country extensions. Old dollar prices still shown on some embassy pages (USD 17/35) are pre-reform leftovers.",
   "source": "https://www.general-security.gov.lb/en/posts/37",
   "source_name": "Lebanese General Security, visa types and fees"
+ },
+ {
+  "date": "2026-02-17",
+  "destination": "CN",
+  "title": "China grants unilateral visa-free entry to Canada and the United Kingdom",
+  "summary": "From 17 February 2026, ordinary passport holders from Canada and the United Kingdom may enter China without a visa for up to 30 days for business, tourism, family visits, exchange and transit. The arrangement runs until 31 December 2026.",
+  "source": "https://www.mfa.gov.cn/mfa_eng./xw/fyrbt/fyrbt/202602/t20260215_11860467.html",
+  "source_name": "Ministry of Foreign Affairs of China — Spokesperson's Remarks (15 February 2026)"
  },
  {
   "date": "2026-01-01",
@@ -248,6 +272,14 @@
   "source_name": "Explanatory Memorandum to the Statement of Changes HC 1333, 14 October 2025 (GOV.UK)"
  },
  {
+  "date": "2025-11-10",
+  "destination": "CN",
+  "title": "China extends its unilateral visa-free scheme to the end of 2026 and adds Sweden",
+  "summary": "China extended its unilateral visa-free scheme for 45 countries to 31 December 2026 and added Sweden from 10 November 2025. Ordinary passport holders of the listed countries may enter China without a visa for up to 30 days for business, tourism, family visits, exchange and transit.",
+  "source": "https://et.china-embassy.gov.cn/eng/lsxx_1/hzqz/202511/t20251110_11750013.htm",
+  "source_name": "Embassy of China — Notice on Extension of Unilateral Visa-Free Policy (10 November 2025)"
+ },
+ {
   "date": "2025-10-14",
   "destination": "GB",
   "title": "United Kingdom adds Botswana to the visa-national list",
@@ -270,6 +302,14 @@
   "summary": "Uzbek ordinary-passport holders are visa-exempt for Jordan for up to 30 days under the mutual agreement that took effect on 25 September 2025; previously they used visa on arrival.",
   "source": "https://www.gazeta.uz/en/2025/08/29/jordan/",
   "source_name": "Gazeta.uz — Uzbekistan, Jordan to introduce visa-free stay (MFA statement)"
+ },
+ {
+  "date": "2025-09-15",
+  "destination": "CN",
+  "title": "China grants unilateral visa-free entry to Russia",
+  "summary": "From 15 September 2025, Russian ordinary passport holders may enter China without a visa for up to 30 days for business, tourism, family visits, exchange and transit, under China's unilateral visa-free scheme (Russia reciprocated for Chinese citizens in December 2025).",
+  "source": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1011.html",
+  "source_name": "National Immigration Administration — Unilateral Visa-Free Country List (as at 17 February 2026)"
  },
  {
   "date": "2025-09-11",
@@ -312,6 +352,22 @@
   "source_name": "Ministry of Foreign Affairs of Japan — Exemption of Visa (Short-Term Stay)"
  },
  {
+  "date": "2025-07-17",
+  "destination": "CN",
+  "title": "China and Malaysia put mutual visa exemption into force",
+  "summary": "The China–Malaysia mutual visa exemption agreement entered into force on 17 July 2025. Ordinary passport holders of each country may enter the other without a visa for up to 30 days per visit, with total stays capped at 90 days in any 180-day period.",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/list/202607/t20260713_11981384.html",
+  "source_name": "Ministry of Foreign Affairs of China — Mutual Visa Exemption List (updated July 2026)"
+ },
+ {
+  "date": "2025-07-16",
+  "destination": "CN",
+  "title": "China and Azerbaijan put mutual visa exemption into force",
+  "summary": "The China–Azerbaijan mutual visa exemption agreement for ordinary passports entered into force on 16 July 2025, allowing stays of up to 30 days per visit, capped at 90 days in any 180-day period.",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/list/202607/t20260713_11981384.html",
+  "source_name": "Ministry of Foreign Affairs of China — Mutual Visa Exemption List (updated July 2026)"
+ },
+ {
   "date": "2025-07-06",
   "destination": "SY",
   "title": "Decision No. 128 in force: 11-group visa fee table, unified land and air port fees",
@@ -336,12 +392,36 @@
   "source_name": "Presidential Proclamation 10949 of 4 June 2025 (recited in Proclamation 10998, Federal Register)"
  },
  {
+  "date": "2025-06-09",
+  "destination": "CN",
+  "title": "China grants unilateral visa-free entry to four Gulf countries",
+  "summary": "From 9 June 2025, ordinary passport holders from Saudi Arabia, Oman, Kuwait and Bahrain may enter China without a visa for up to 30 days for business, tourism, family visits, exchange and transit, under China's unilateral visa-free scheme.",
+  "source": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1011.html",
+  "source_name": "National Immigration Administration — Unilateral Visa-Free Country List (as at 17 February 2026)"
+ },
+ {
   "date": "2025-06-01",
   "destination": "JP",
   "title": "Japan exempts Paraguay from visas",
   "summary": "Paraguay was added to Japan's visa-exemption list on 1 June 2025, for holders of ICAO-compliant ePassports only, with a stay of up to 90 days.",
   "source": "https://www.mofa.go.jp/j_info/visit/visa/short/novisa.html",
   "source_name": "Ministry of Foreign Affairs of Japan — Exemption of Visa (Short-Term Stay)"
+ },
+ {
+  "date": "2025-06-01",
+  "destination": "CN",
+  "title": "China and Uzbekistan put mutual visa exemption into force",
+  "summary": "The China–Uzbekistan mutual visa exemption agreement entered into force on 1 June 2025. Ordinary passport holders of each country may enter the other without a visa for up to 30 days per visit, with total stays capped at 90 days in any 180-day period.",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/list/202607/t20260713_11981384.html",
+  "source_name": "Ministry of Foreign Affairs of China — Mutual Visa Exemption List (updated July 2026)"
+ },
+ {
+  "date": "2025-06-01",
+  "destination": "CN",
+  "title": "China grants unilateral visa-free entry to five Latin American countries",
+  "summary": "From 1 June 2025, ordinary passport holders from Brazil, Argentina, Chile, Peru and Uruguay may enter China without a visa for up to 30 days for business, tourism, family visits, exchange and transit, under China's unilateral visa-free scheme.",
+  "source": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1011.html",
+  "source_name": "National Immigration Administration — Unilateral Visa-Free Country List (as at 17 February 2026)"
  },
  {
   "date": "2025-05-12",

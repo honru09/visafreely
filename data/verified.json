@@ -1,10 +1,9 @@
 {
  "JP:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Visa-free entry rests on China’s unilateral policy, currently announced to run until 31 Dec 2026.",
-  "valid_until": "2026-12-31"
+  "date": "2026-11-11",
+  "source": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1011.html",
+  "source_name": "National Immigration Administration — Unilateral Visa-Free Country List (as at 17 February 2026)",
+  "note": "Japan is on China's unilateral visa-free list (National Immigration Administration list published 17 February 2026): holders of ordinary passports may enter without a visa for up to 30 days for business, tourism, family or friends visits, exchange visits or transit, with the stay counted from the day after entry. Work, study and residence are not covered. The scheme is temporary and currently runs until 31 December 2026."
  },
  "US:JP": {
   "date": "2026-11-07",
@@ -18,9 +17,10 @@
   "source_name": "Singapore ICA — mutual 30-day visa exemption media release"
  },
  "US:CN": {
-  "date": "2026-10-25",
-  "source": "http://us.china-embassy.gov.cn/eng/unshown/visas/faq/201910/t20191010_4900023.htm",
-  "source_name": "Embassy of China in the United States — visa FAQ"
+  "date": "2026-11-11",
+  "source": "https://www.nia.gov.cn/n794014/n1050181/n1050484/c1731205/content.html",
+  "source_name": "National Immigration Administration — Visa-Free Transit Policy (240-hour scheme, 57 countries; Hainan scheme, 61 countries)",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category. United States is one of the 57 nationalities eligible for China's 240-hour (10-day) visa-free transit: with a confirmed onward ticket to a third country or territory, travellers may enter at 65 designated ports across 24 provinces and stay within the designated areas for up to 240 hours — for transit only, not for visiting China as the destination. Separately, United States passport holders may enter Hainan Province without a visa for up to 30 days under the Hainan visa-free scheme (61 countries) — valid for Hainan only, not for the rest of mainland China."
  },
  "SG:GB": {
   "date": "2026-11-07",
@@ -3521,11 +3521,10 @@
   "source_name": "Russian MFA Consular Department — unified e-visa country list"
  },
  "RU:CN": {
-  "date": "2026-10-25",
-  "source": "https://ee.china-embassy.gov.cn/eng/lsfw/zytz/202509/t20250903_11701627.htm",
-  "source_name": "Embassy of China — visa-free policy notice, 3 Sep 2025",
-  "note": "Trial basis, extended: the reciprocal China–Russia visa-free arrangement now runs to 31 Dec 2027 (China MFA FAQ, May 2026; Russian amending order, Jul 2026).",
-  "valid_until": "2027-12-31"
+  "date": "2026-11-11",
+  "source": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1011.html",
+  "source_name": "National Immigration Administration — Unilateral Visa-Free Country List (as at 17 February 2026)",
+  "note": "Russia is on China's unilateral visa-free list (in force since 15 September 2025): holders of ordinary passports may enter without a visa for up to 30 days for business, tourism, family or friends visits, exchange visits or transit, with the stay counted from the day after entry. Work, study and residence are not covered. The Russian exemption currently runs until 31 December 2027 (extended by the Ministry of Foreign Affairs on 20 May 2026)."
  },
  "CN:RU": {
   "date": "2026-10-25",
@@ -4916,517 +4915,472 @@
   "source_name": "Thailand Royal Gazette, 31 Aug 2026 — revised visa exemption (via Royal Thai Embassy consular pages)"
  },
  "GB:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Unilateral policy — currently announced to run until 31 Dec 2026.",
-  "valid_until": "2026-12-31"
+  "date": "2026-11-11",
+  "source": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1011.html",
+  "source_name": "National Immigration Administration — Unilateral Visa-Free Country List (as at 17 February 2026)",
+  "note": "United Kingdom was added to China's unilateral visa-free list on 17 February 2026 (Ministry of Foreign Affairs announcement of 15 February 2026): holders of ordinary passports may enter without a visa for up to 30 days for business, tourism, family or friends visits, exchange visits or transit, with the stay counted from the day after entry. Work, study and residence are not covered. The scheme is temporary and currently runs until 31 December 2026."
  },
  "CA:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Unilateral policy — currently announced to run until 31 Dec 2026.",
-  "valid_until": "2026-12-31"
+  "date": "2026-11-11",
+  "source": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1011.html",
+  "source_name": "National Immigration Administration — Unilateral Visa-Free Country List (as at 17 February 2026)",
+  "note": "Canada was added to China's unilateral visa-free list on 17 February 2026 (Ministry of Foreign Affairs announcement of 15 February 2026): holders of ordinary passports may enter without a visa for up to 30 days for business, tourism, family or friends visits, exchange visits or transit, with the stay counted from the day after entry. Work, study and residence are not covered. The scheme is temporary and currently runs until 31 December 2026."
  },
  "AD:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Visa-free entry rests on China’s unilateral policy, currently announced to run until 31 Dec 2026.",
-  "valid_until": "2026-12-31"
+  "date": "2026-11-11",
+  "source": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1011.html",
+  "source_name": "National Immigration Administration — Unilateral Visa-Free Country List (as at 17 February 2026)",
+  "note": "Andorra is on China's unilateral visa-free list (National Immigration Administration list published 17 February 2026): holders of ordinary passports may enter without a visa for up to 30 days for business, tourism, family or friends visits, exchange visits or transit, with the stay counted from the day after entry. Work, study and residence are not covered. The scheme is temporary and currently runs until 31 December 2026."
  },
  "AR:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Visa-free entry rests on China’s unilateral policy, currently announced to run until 31 Dec 2026.",
-  "valid_until": "2026-12-31"
+  "date": "2026-11-11",
+  "source": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1011.html",
+  "source_name": "National Immigration Administration — Unilateral Visa-Free Country List (as at 17 February 2026)",
+  "note": "Argentina is on China's unilateral visa-free list (National Immigration Administration list published 17 February 2026): holders of ordinary passports may enter without a visa for up to 30 days for business, tourism, family or friends visits, exchange visits or transit, with the stay counted from the day after entry. Work, study and residence are not covered. The scheme is temporary and currently runs until 31 December 2026."
  },
  "AT:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Visa-free entry rests on China’s unilateral policy, currently announced to run until 31 Dec 2026.",
-  "valid_until": "2026-12-31"
+  "date": "2026-11-11",
+  "source": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1011.html",
+  "source_name": "National Immigration Administration — Unilateral Visa-Free Country List (as at 17 February 2026)",
+  "note": "Austria is on China's unilateral visa-free list (National Immigration Administration list published 17 February 2026): holders of ordinary passports may enter without a visa for up to 30 days for business, tourism, family or friends visits, exchange visits or transit, with the stay counted from the day after entry. Work, study and residence are not covered. The scheme is temporary and currently runs until 31 December 2026."
  },
  "AU:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Visa-free entry rests on China’s unilateral policy, currently announced to run until 31 Dec 2026.",
-  "valid_until": "2026-12-31"
+  "date": "2026-11-11",
+  "source": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1011.html",
+  "source_name": "National Immigration Administration — Unilateral Visa-Free Country List (as at 17 February 2026)",
+  "note": "Australia is on China's unilateral visa-free list (National Immigration Administration list published 17 February 2026): holders of ordinary passports may enter without a visa for up to 30 days for business, tourism, family or friends visits, exchange visits or transit, with the stay counted from the day after entry. Work, study and residence are not covered. The scheme is temporary and currently runs until 31 December 2026."
  },
  "BE:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Visa-free entry rests on China’s unilateral policy, currently announced to run until 31 Dec 2026.",
-  "valid_until": "2026-12-31"
+  "date": "2026-11-11",
+  "source": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1011.html",
+  "source_name": "National Immigration Administration — Unilateral Visa-Free Country List (as at 17 February 2026)",
+  "note": "Belgium is on China's unilateral visa-free list (National Immigration Administration list published 17 February 2026): holders of ordinary passports may enter without a visa for up to 30 days for business, tourism, family or friends visits, exchange visits or transit, with the stay counted from the day after entry. Work, study and residence are not covered. The scheme is temporary and currently runs until 31 December 2026."
  },
  "BG:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Visa-free entry rests on China’s unilateral policy, currently announced to run until 31 Dec 2026.",
-  "valid_until": "2026-12-31"
+  "date": "2026-11-11",
+  "source": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1011.html",
+  "source_name": "National Immigration Administration — Unilateral Visa-Free Country List (as at 17 February 2026)",
+  "note": "Bulgaria is on China's unilateral visa-free list (National Immigration Administration list published 17 February 2026): holders of ordinary passports may enter without a visa for up to 30 days for business, tourism, family or friends visits, exchange visits or transit, with the stay counted from the day after entry. Work, study and residence are not covered. The scheme is temporary and currently runs until 31 December 2026."
  },
  "BH:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Visa-free entry rests on China’s unilateral policy, currently announced to run until 31 Dec 2026.",
-  "valid_until": "2026-12-31"
+  "date": "2026-11-11",
+  "source": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1011.html",
+  "source_name": "National Immigration Administration — Unilateral Visa-Free Country List (as at 17 February 2026)",
+  "note": "Bahrain is on China's unilateral visa-free list (National Immigration Administration list published 17 February 2026): holders of ordinary passports may enter without a visa for up to 30 days for business, tourism, family or friends visits, exchange visits or transit, with the stay counted from the day after entry. Work, study and residence are not covered. The scheme is temporary and currently runs until 31 December 2026."
  },
  "BR:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Visa-free entry rests on China’s unilateral policy, currently announced to run until 31 Dec 2026.",
-  "valid_until": "2026-12-31"
+  "date": "2026-11-11",
+  "source": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1011.html",
+  "source_name": "National Immigration Administration — Unilateral Visa-Free Country List (as at 17 February 2026)",
+  "note": "Brazil is on China's unilateral visa-free list (National Immigration Administration list published 17 February 2026): holders of ordinary passports may enter without a visa for up to 30 days for business, tourism, family or friends visits, exchange visits or transit, with the stay counted from the day after entry. Work, study and residence are not covered. The scheme is temporary and currently runs until 31 December 2026."
  },
  "CH:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Visa-free entry rests on China’s unilateral policy, currently announced to run until 31 Dec 2026.",
-  "valid_until": "2026-12-31"
+  "date": "2026-11-11",
+  "source": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1011.html",
+  "source_name": "National Immigration Administration — Unilateral Visa-Free Country List (as at 17 February 2026)",
+  "note": "Switzerland is on China's unilateral visa-free list (National Immigration Administration list published 17 February 2026): holders of ordinary passports may enter without a visa for up to 30 days for business, tourism, family or friends visits, exchange visits or transit, with the stay counted from the day after entry. Work, study and residence are not covered. The scheme is temporary and currently runs until 31 December 2026."
  },
  "CL:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Visa-free entry rests on China’s unilateral policy, currently announced to run until 31 Dec 2026.",
-  "valid_until": "2026-12-31"
+  "date": "2026-11-11",
+  "source": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1011.html",
+  "source_name": "National Immigration Administration — Unilateral Visa-Free Country List (as at 17 February 2026)",
+  "note": "Chile is on China's unilateral visa-free list (National Immigration Administration list published 17 February 2026): holders of ordinary passports may enter without a visa for up to 30 days for business, tourism, family or friends visits, exchange visits or transit, with the stay counted from the day after entry. Work, study and residence are not covered. The scheme is temporary and currently runs until 31 December 2026."
  },
  "CY:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Visa-free entry rests on China’s unilateral policy, currently announced to run until 31 Dec 2026.",
-  "valid_until": "2026-12-31"
+  "date": "2026-11-11",
+  "source": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1011.html",
+  "source_name": "National Immigration Administration — Unilateral Visa-Free Country List (as at 17 February 2026)",
+  "note": "Cyprus is on China's unilateral visa-free list (National Immigration Administration list published 17 February 2026): holders of ordinary passports may enter without a visa for up to 30 days for business, tourism, family or friends visits, exchange visits or transit, with the stay counted from the day after entry. Work, study and residence are not covered. The scheme is temporary and currently runs until 31 December 2026."
  },
  "DE:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Visa-free entry rests on China’s unilateral policy, currently announced to run until 31 Dec 2026.",
-  "valid_until": "2026-12-31"
+  "date": "2026-11-11",
+  "source": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1011.html",
+  "source_name": "National Immigration Administration — Unilateral Visa-Free Country List (as at 17 February 2026)",
+  "note": "Germany is on China's unilateral visa-free list (National Immigration Administration list published 17 February 2026): holders of ordinary passports may enter without a visa for up to 30 days for business, tourism, family or friends visits, exchange visits or transit, with the stay counted from the day after entry. Work, study and residence are not covered. The scheme is temporary and currently runs until 31 December 2026."
  },
  "DK:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Visa-free entry rests on China’s unilateral policy, currently announced to run until 31 Dec 2026.",
-  "valid_until": "2026-12-31"
+  "date": "2026-11-11",
+  "source": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1011.html",
+  "source_name": "National Immigration Administration — Unilateral Visa-Free Country List (as at 17 February 2026)",
+  "note": "Denmark is on China's unilateral visa-free list (National Immigration Administration list published 17 February 2026): holders of ordinary passports may enter without a visa for up to 30 days for business, tourism, family or friends visits, exchange visits or transit, with the stay counted from the day after entry. Work, study and residence are not covered. The scheme is temporary and currently runs until 31 December 2026."
  },
  "EE:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Visa-free entry rests on China’s unilateral policy, currently announced to run until 31 Dec 2026.",
-  "valid_until": "2026-12-31"
+  "date": "2026-11-11",
+  "source": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1011.html",
+  "source_name": "National Immigration Administration — Unilateral Visa-Free Country List (as at 17 February 2026)",
+  "note": "Estonia is on China's unilateral visa-free list (National Immigration Administration list published 17 February 2026): holders of ordinary passports may enter without a visa for up to 30 days for business, tourism, family or friends visits, exchange visits or transit, with the stay counted from the day after entry. Work, study and residence are not covered. The scheme is temporary and currently runs until 31 December 2026."
  },
  "ES:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Visa-free entry rests on China’s unilateral policy, currently announced to run until 31 Dec 2026.",
-  "valid_until": "2026-12-31"
+  "date": "2026-11-11",
+  "source": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1011.html",
+  "source_name": "National Immigration Administration — Unilateral Visa-Free Country List (as at 17 February 2026)",
+  "note": "Spain is on China's unilateral visa-free list (National Immigration Administration list published 17 February 2026): holders of ordinary passports may enter without a visa for up to 30 days for business, tourism, family or friends visits, exchange visits or transit, with the stay counted from the day after entry. Work, study and residence are not covered. The scheme is temporary and currently runs until 31 December 2026."
  },
  "FI:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Visa-free entry rests on China’s unilateral policy, currently announced to run until 31 Dec 2026.",
-  "valid_until": "2026-12-31"
+  "date": "2026-11-11",
+  "source": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1011.html",
+  "source_name": "National Immigration Administration — Unilateral Visa-Free Country List (as at 17 February 2026)",
+  "note": "Finland is on China's unilateral visa-free list (National Immigration Administration list published 17 February 2026): holders of ordinary passports may enter without a visa for up to 30 days for business, tourism, family or friends visits, exchange visits or transit, with the stay counted from the day after entry. Work, study and residence are not covered. The scheme is temporary and currently runs until 31 December 2026."
  },
  "FR:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Visa-free entry rests on China’s unilateral policy, currently announced to run until 31 Dec 2026.",
-  "valid_until": "2026-12-31"
+  "date": "2026-11-11",
+  "source": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1011.html",
+  "source_name": "National Immigration Administration — Unilateral Visa-Free Country List (as at 17 February 2026)",
+  "note": "France is on China's unilateral visa-free list (National Immigration Administration list published 17 February 2026): holders of ordinary passports may enter without a visa for up to 30 days for business, tourism, family or friends visits, exchange visits or transit, with the stay counted from the day after entry. Work, study and residence are not covered. The scheme is temporary and currently runs until 31 December 2026."
  },
  "GR:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Visa-free entry rests on China’s unilateral policy, currently announced to run until 31 Dec 2026.",
-  "valid_until": "2026-12-31"
+  "date": "2026-11-11",
+  "source": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1011.html",
+  "source_name": "National Immigration Administration — Unilateral Visa-Free Country List (as at 17 February 2026)",
+  "note": "Greece is on China's unilateral visa-free list (National Immigration Administration list published 17 February 2026): holders of ordinary passports may enter without a visa for up to 30 days for business, tourism, family or friends visits, exchange visits or transit, with the stay counted from the day after entry. Work, study and residence are not covered. The scheme is temporary and currently runs until 31 December 2026."
  },
  "HR:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Visa-free entry rests on China’s unilateral policy, currently announced to run until 31 Dec 2026.",
-  "valid_until": "2026-12-31"
+  "date": "2026-11-11",
+  "source": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1011.html",
+  "source_name": "National Immigration Administration — Unilateral Visa-Free Country List (as at 17 February 2026)",
+  "note": "Croatia is on China's unilateral visa-free list (National Immigration Administration list published 17 February 2026): holders of ordinary passports may enter without a visa for up to 30 days for business, tourism, family or friends visits, exchange visits or transit, with the stay counted from the day after entry. Work, study and residence are not covered. The scheme is temporary and currently runs until 31 December 2026."
  },
  "HU:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Visa-free entry rests on China’s unilateral policy, currently announced to run until 31 Dec 2026.",
-  "valid_until": "2026-12-31"
+  "date": "2026-11-11",
+  "source": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1011.html",
+  "source_name": "National Immigration Administration — Unilateral Visa-Free Country List (as at 17 February 2026)",
+  "note": "Hungary is on China's unilateral visa-free list (National Immigration Administration list published 17 February 2026): holders of ordinary passports may enter without a visa for up to 30 days for business, tourism, family or friends visits, exchange visits or transit, with the stay counted from the day after entry. Work, study and residence are not covered. The scheme is temporary and currently runs until 31 December 2026."
  },
  "IE:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Visa-free entry rests on China’s unilateral policy, currently announced to run until 31 Dec 2026.",
-  "valid_until": "2026-12-31"
+  "date": "2026-11-11",
+  "source": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1011.html",
+  "source_name": "National Immigration Administration — Unilateral Visa-Free Country List (as at 17 February 2026)",
+  "note": "Ireland is on China's unilateral visa-free list (National Immigration Administration list published 17 February 2026): holders of ordinary passports may enter without a visa for up to 30 days for business, tourism, family or friends visits, exchange visits or transit, with the stay counted from the day after entry. Work, study and residence are not covered. The scheme is temporary and currently runs until 31 December 2026."
  },
  "IS:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Visa-free entry rests on China’s unilateral policy, currently announced to run until 31 Dec 2026.",
-  "valid_until": "2026-12-31"
+  "date": "2026-11-11",
+  "source": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1011.html",
+  "source_name": "National Immigration Administration — Unilateral Visa-Free Country List (as at 17 February 2026)",
+  "note": "Iceland is on China's unilateral visa-free list (National Immigration Administration list published 17 February 2026): holders of ordinary passports may enter without a visa for up to 30 days for business, tourism, family or friends visits, exchange visits or transit, with the stay counted from the day after entry. Work, study and residence are not covered. The scheme is temporary and currently runs until 31 December 2026."
  },
  "IT:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Visa-free entry rests on China’s unilateral policy, currently announced to run until 31 Dec 2026.",
-  "valid_until": "2026-12-31"
+  "date": "2026-11-11",
+  "source": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1011.html",
+  "source_name": "National Immigration Administration — Unilateral Visa-Free Country List (as at 17 February 2026)",
+  "note": "Italy is on China's unilateral visa-free list (National Immigration Administration list published 17 February 2026): holders of ordinary passports may enter without a visa for up to 30 days for business, tourism, family or friends visits, exchange visits or transit, with the stay counted from the day after entry. Work, study and residence are not covered. The scheme is temporary and currently runs until 31 December 2026."
  },
  "KR:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Visa-free entry rests on China’s unilateral policy, currently announced to run until 31 Dec 2026.",
-  "valid_until": "2026-12-31"
+  "date": "2026-11-11",
+  "source": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1011.html",
+  "source_name": "National Immigration Administration — Unilateral Visa-Free Country List (as at 17 February 2026)",
+  "note": "South Korea is on China's unilateral visa-free list (National Immigration Administration list published 17 February 2026): holders of ordinary passports may enter without a visa for up to 30 days for business, tourism, family or friends visits, exchange visits or transit, with the stay counted from the day after entry. Work, study and residence are not covered. The scheme is temporary and currently runs until 31 December 2026."
  },
  "KW:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Visa-free entry rests on China’s unilateral policy, currently announced to run until 31 Dec 2026.",
-  "valid_until": "2026-12-31"
+  "date": "2026-11-11",
+  "source": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1011.html",
+  "source_name": "National Immigration Administration — Unilateral Visa-Free Country List (as at 17 February 2026)",
+  "note": "Kuwait is on China's unilateral visa-free list (National Immigration Administration list published 17 February 2026): holders of ordinary passports may enter without a visa for up to 30 days for business, tourism, family or friends visits, exchange visits or transit, with the stay counted from the day after entry. Work, study and residence are not covered. The scheme is temporary and currently runs until 31 December 2026."
  },
  "LI:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Visa-free entry rests on China’s unilateral policy, currently announced to run until 31 Dec 2026.",
-  "valid_until": "2026-12-31"
+  "date": "2026-11-11",
+  "source": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1011.html",
+  "source_name": "National Immigration Administration — Unilateral Visa-Free Country List (as at 17 February 2026)",
+  "note": "Liechtenstein is on China's unilateral visa-free list (National Immigration Administration list published 17 February 2026): holders of ordinary passports may enter without a visa for up to 30 days for business, tourism, family or friends visits, exchange visits or transit, with the stay counted from the day after entry. Work, study and residence are not covered. The scheme is temporary and currently runs until 31 December 2026."
  },
  "LU:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Visa-free entry rests on China’s unilateral policy, currently announced to run until 31 Dec 2026.",
-  "valid_until": "2026-12-31"
+  "date": "2026-11-11",
+  "source": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1011.html",
+  "source_name": "National Immigration Administration — Unilateral Visa-Free Country List (as at 17 February 2026)",
+  "note": "Luxembourg is on China's unilateral visa-free list (National Immigration Administration list published 17 February 2026): holders of ordinary passports may enter without a visa for up to 30 days for business, tourism, family or friends visits, exchange visits or transit, with the stay counted from the day after entry. Work, study and residence are not covered. The scheme is temporary and currently runs until 31 December 2026."
  },
  "LV:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Visa-free entry rests on China’s unilateral policy, currently announced to run until 31 Dec 2026.",
-  "valid_until": "2026-12-31"
+  "date": "2026-11-11",
+  "source": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1011.html",
+  "source_name": "National Immigration Administration — Unilateral Visa-Free Country List (as at 17 February 2026)",
+  "note": "Latvia is on China's unilateral visa-free list (National Immigration Administration list published 17 February 2026): holders of ordinary passports may enter without a visa for up to 30 days for business, tourism, family or friends visits, exchange visits or transit, with the stay counted from the day after entry. Work, study and residence are not covered. The scheme is temporary and currently runs until 31 December 2026."
  },
  "MC:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Visa-free entry rests on China’s unilateral policy, currently announced to run until 31 Dec 2026.",
-  "valid_until": "2026-12-31"
+  "date": "2026-11-11",
+  "source": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1011.html",
+  "source_name": "National Immigration Administration — Unilateral Visa-Free Country List (as at 17 February 2026)",
+  "note": "Monaco is on China's unilateral visa-free list (National Immigration Administration list published 17 February 2026): holders of ordinary passports may enter without a visa for up to 30 days for business, tourism, family or friends visits, exchange visits or transit, with the stay counted from the day after entry. Work, study and residence are not covered. The scheme is temporary and currently runs until 31 December 2026."
  },
  "ME:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Visa-free entry rests on China’s unilateral policy, currently announced to run until 31 Dec 2026.",
-  "valid_until": "2026-12-31"
+  "date": "2026-11-11",
+  "source": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1011.html",
+  "source_name": "National Immigration Administration — Unilateral Visa-Free Country List (as at 17 February 2026)",
+  "note": "Montenegro is on China's unilateral visa-free list (National Immigration Administration list published 17 February 2026): holders of ordinary passports may enter without a visa for up to 30 days for business, tourism, family or friends visits, exchange visits or transit, with the stay counted from the day after entry. Work, study and residence are not covered. The scheme is temporary and currently runs until 31 December 2026."
  },
  "MK:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Visa-free entry rests on China’s unilateral policy, currently announced to run until 31 Dec 2026.",
-  "valid_until": "2026-12-31"
+  "date": "2026-11-11",
+  "source": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1011.html",
+  "source_name": "National Immigration Administration — Unilateral Visa-Free Country List (as at 17 February 2026)",
+  "note": "North Macedonia is on China's unilateral visa-free list (National Immigration Administration list published 17 February 2026): holders of ordinary passports may enter without a visa for up to 30 days for business, tourism, family or friends visits, exchange visits or transit, with the stay counted from the day after entry. Work, study and residence are not covered. The scheme is temporary and currently runs until 31 December 2026."
  },
  "MT:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Visa-free entry rests on China’s unilateral policy, currently announced to run until 31 Dec 2026.",
-  "valid_until": "2026-12-31"
+  "date": "2026-11-11",
+  "source": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1011.html",
+  "source_name": "National Immigration Administration — Unilateral Visa-Free Country List (as at 17 February 2026)",
+  "note": "Malta is on China's unilateral visa-free list (National Immigration Administration list published 17 February 2026): holders of ordinary passports may enter without a visa for up to 30 days for business, tourism, family or friends visits, exchange visits or transit, with the stay counted from the day after entry. Work, study and residence are not covered. The scheme is temporary and currently runs until 31 December 2026."
  },
  "NL:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Visa-free entry rests on China’s unilateral policy, currently announced to run until 31 Dec 2026.",
-  "valid_until": "2026-12-31"
+  "date": "2026-11-11",
+  "source": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1011.html",
+  "source_name": "National Immigration Administration — Unilateral Visa-Free Country List (as at 17 February 2026)",
+  "note": "Netherlands is on China's unilateral visa-free list (National Immigration Administration list published 17 February 2026): holders of ordinary passports may enter without a visa for up to 30 days for business, tourism, family or friends visits, exchange visits or transit, with the stay counted from the day after entry. Work, study and residence are not covered. The scheme is temporary and currently runs until 31 December 2026."
  },
  "NO:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Visa-free entry rests on China’s unilateral policy, currently announced to run until 31 Dec 2026.",
-  "valid_until": "2026-12-31"
+  "date": "2026-11-11",
+  "source": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1011.html",
+  "source_name": "National Immigration Administration — Unilateral Visa-Free Country List (as at 17 February 2026)",
+  "note": "Norway is on China's unilateral visa-free list (National Immigration Administration list published 17 February 2026): holders of ordinary passports may enter without a visa for up to 30 days for business, tourism, family or friends visits, exchange visits or transit, with the stay counted from the day after entry. Work, study and residence are not covered. The scheme is temporary and currently runs until 31 December 2026."
  },
  "NZ:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Visa-free entry rests on China’s unilateral policy, currently announced to run until 31 Dec 2026.",
-  "valid_until": "2026-12-31"
+  "date": "2026-11-11",
+  "source": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1011.html",
+  "source_name": "National Immigration Administration — Unilateral Visa-Free Country List (as at 17 February 2026)",
+  "note": "New Zealand is on China's unilateral visa-free list (National Immigration Administration list published 17 February 2026): holders of ordinary passports may enter without a visa for up to 30 days for business, tourism, family or friends visits, exchange visits or transit, with the stay counted from the day after entry. Work, study and residence are not covered. The scheme is temporary and currently runs until 31 December 2026."
  },
  "OM:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Visa-free entry rests on China’s unilateral policy, currently announced to run until 31 Dec 2026.",
-  "valid_until": "2026-12-31"
+  "date": "2026-11-11",
+  "source": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1011.html",
+  "source_name": "National Immigration Administration — Unilateral Visa-Free Country List (as at 17 February 2026)",
+  "note": "Oman is on China's unilateral visa-free list (National Immigration Administration list published 17 February 2026): holders of ordinary passports may enter without a visa for up to 30 days for business, tourism, family or friends visits, exchange visits or transit, with the stay counted from the day after entry. Work, study and residence are not covered. The scheme is temporary and currently runs until 31 December 2026."
  },
  "PE:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Visa-free entry rests on China’s unilateral policy, currently announced to run until 31 Dec 2026.",
-  "valid_until": "2026-12-31"
+  "date": "2026-11-11",
+  "source": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1011.html",
+  "source_name": "National Immigration Administration — Unilateral Visa-Free Country List (as at 17 February 2026)",
+  "note": "Peru is on China's unilateral visa-free list (National Immigration Administration list published 17 February 2026): holders of ordinary passports may enter without a visa for up to 30 days for business, tourism, family or friends visits, exchange visits or transit, with the stay counted from the day after entry. Work, study and residence are not covered. The scheme is temporary and currently runs until 31 December 2026."
  },
  "PL:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Visa-free entry rests on China’s unilateral policy, currently announced to run until 31 Dec 2026.",
-  "valid_until": "2026-12-31"
+  "date": "2026-11-11",
+  "source": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1011.html",
+  "source_name": "National Immigration Administration — Unilateral Visa-Free Country List (as at 17 February 2026)",
+  "note": "Poland is on China's unilateral visa-free list (National Immigration Administration list published 17 February 2026): holders of ordinary passports may enter without a visa for up to 30 days for business, tourism, family or friends visits, exchange visits or transit, with the stay counted from the day after entry. Work, study and residence are not covered. The scheme is temporary and currently runs until 31 December 2026."
  },
  "PT:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Visa-free entry rests on China’s unilateral policy, currently announced to run until 31 Dec 2026.",
-  "valid_until": "2026-12-31"
+  "date": "2026-11-11",
+  "source": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1011.html",
+  "source_name": "National Immigration Administration — Unilateral Visa-Free Country List (as at 17 February 2026)",
+  "note": "Portugal is on China's unilateral visa-free list (National Immigration Administration list published 17 February 2026): holders of ordinary passports may enter without a visa for up to 30 days for business, tourism, family or friends visits, exchange visits or transit, with the stay counted from the day after entry. Work, study and residence are not covered. The scheme is temporary and currently runs until 31 December 2026."
  },
  "RO:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Visa-free entry rests on China’s unilateral policy, currently announced to run until 31 Dec 2026.",
-  "valid_until": "2026-12-31"
+  "date": "2026-11-11",
+  "source": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1011.html",
+  "source_name": "National Immigration Administration — Unilateral Visa-Free Country List (as at 17 February 2026)",
+  "note": "Romania is on China's unilateral visa-free list (National Immigration Administration list published 17 February 2026): holders of ordinary passports may enter without a visa for up to 30 days for business, tourism, family or friends visits, exchange visits or transit, with the stay counted from the day after entry. Work, study and residence are not covered. The scheme is temporary and currently runs until 31 December 2026."
  },
  "SA:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Visa-free entry rests on China’s unilateral policy, currently announced to run until 31 Dec 2026.",
-  "valid_until": "2026-12-31"
+  "date": "2026-11-11",
+  "source": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1011.html",
+  "source_name": "National Immigration Administration — Unilateral Visa-Free Country List (as at 17 February 2026)",
+  "note": "Saudi Arabia is on China's unilateral visa-free list (National Immigration Administration list published 17 February 2026): holders of ordinary passports may enter without a visa for up to 30 days for business, tourism, family or friends visits, exchange visits or transit, with the stay counted from the day after entry. Work, study and residence are not covered. The scheme is temporary and currently runs until 31 December 2026."
  },
  "SE:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Visa-free entry rests on China’s unilateral policy, currently announced to run until 31 Dec 2026.",
-  "valid_until": "2026-12-31"
+  "date": "2026-11-11",
+  "source": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1011.html",
+  "source_name": "National Immigration Administration — Unilateral Visa-Free Country List (as at 17 February 2026)",
+  "note": "Sweden is on China's unilateral visa-free list (National Immigration Administration list published 17 February 2026): holders of ordinary passports may enter without a visa for up to 30 days for business, tourism, family or friends visits, exchange visits or transit, with the stay counted from the day after entry. Work, study and residence are not covered. The scheme is temporary and currently runs until 31 December 2026."
  },
  "SI:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Visa-free entry rests on China’s unilateral policy, currently announced to run until 31 Dec 2026.",
-  "valid_until": "2026-12-31"
+  "date": "2026-11-11",
+  "source": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1011.html",
+  "source_name": "National Immigration Administration — Unilateral Visa-Free Country List (as at 17 February 2026)",
+  "note": "Slovenia is on China's unilateral visa-free list (National Immigration Administration list published 17 February 2026): holders of ordinary passports may enter without a visa for up to 30 days for business, tourism, family or friends visits, exchange visits or transit, with the stay counted from the day after entry. Work, study and residence are not covered. The scheme is temporary and currently runs until 31 December 2026."
  },
  "SK:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Visa-free entry rests on China’s unilateral policy, currently announced to run until 31 Dec 2026.",
-  "valid_until": "2026-12-31"
+  "date": "2026-11-11",
+  "source": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1011.html",
+  "source_name": "National Immigration Administration — Unilateral Visa-Free Country List (as at 17 February 2026)",
+  "note": "Slovakia is on China's unilateral visa-free list (National Immigration Administration list published 17 February 2026): holders of ordinary passports may enter without a visa for up to 30 days for business, tourism, family or friends visits, exchange visits or transit, with the stay counted from the day after entry. Work, study and residence are not covered. The scheme is temporary and currently runs until 31 December 2026."
  },
  "UY:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Visa-free entry rests on China’s unilateral policy, currently announced to run until 31 Dec 2026.",
-  "valid_until": "2026-12-31"
+  "date": "2026-11-11",
+  "source": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1011.html",
+  "source_name": "National Immigration Administration — Unilateral Visa-Free Country List (as at 17 February 2026)",
+  "note": "Uruguay is on China's unilateral visa-free list (National Immigration Administration list published 17 February 2026): holders of ordinary passports may enter without a visa for up to 30 days for business, tourism, family or friends visits, exchange visits or transit, with the stay counted from the day after entry. Work, study and residence are not covered. The scheme is temporary and currently runs until 31 December 2026."
  },
  "BN:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Mutual/unilateral basis with no expiry date stated in the official FAQ."
+  "date": "2026-11-11",
+  "source": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1011.html",
+  "source_name": "National Immigration Administration — Unilateral Visa-Free Country List (as at 17 February 2026)",
+  "note": "Brunei is on China's unilateral visa-free list (National Immigration Administration list published 17 February 2026): holders of ordinary passports may enter without a visa for up to 30 days for business, tourism, family or friends visits, exchange visits or transit, with the stay counted from the day after entry. Work, study and residence are not covered. China has set no end date for Brunei's exemption."
  },
  "AE:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Mutual visa-exemption agreement — not part of the time-limited unilateral policy."
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/list/202607/t20260713_11981384.html",
+  "source_name": "Ministry of Foreign Affairs of China — Mutual Visa Exemption List (updated July 2026)",
+  "note": "Visa-free under the mutual visa exemption agreement between China and United Arab Emirates: stays of up to 30 days per visit for short stays such as tourism, family visits and business; work, study and residence need the matching visa or permit."
  },
  "AG:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Mutual visa-exemption agreement — not part of the time-limited unilateral policy."
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/list/202607/t20260713_11981384.html",
+  "source_name": "Ministry of Foreign Affairs of China — Mutual Visa Exemption List (updated July 2026)",
+  "note": "Visa-free under the mutual visa exemption agreement between China and Antigua & Barbuda: stays of up to 30 days per visit for short stays such as tourism, family visits and business; work, study and residence need the matching visa or permit. Total stays may not exceed 90 days in any 180-day period."
  },
  "AL:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Mutual visa-exemption agreement — not part of the time-limited unilateral policy."
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/list/202607/t20260713_11981384.html",
+  "source_name": "Ministry of Foreign Affairs of China — Mutual Visa Exemption List (updated July 2026)",
+  "note": "Visa-free under the mutual visa exemption agreement between China and Albania: stays of up to 90 days per visit for short stays such as tourism, family visits and business; work, study and residence need the matching visa or permit. Total stays may not exceed 90 days in any 180-day period."
  },
  "AM:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Mutual visa-exemption agreement — not part of the time-limited unilateral policy."
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/list/202607/t20260713_11981384.html",
+  "source_name": "Ministry of Foreign Affairs of China — Mutual Visa Exemption List (updated July 2026)",
+  "note": "Visa-free under the mutual visa exemption agreement between China and Armenia: stays of up to 90 days per visit for short stays such as tourism, family visits and business; work, study and residence need the matching visa or permit. Total stays may not exceed 90 days in any 180-day period."
  },
  "AZ:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Mutual visa-exemption agreement — not part of the time-limited unilateral policy."
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/list/202607/t20260713_11981384.html",
+  "source_name": "Ministry of Foreign Affairs of China — Mutual Visa Exemption List (updated July 2026)",
+  "note": "Visa-free under the mutual visa exemption agreement between China and Azerbaijan: stays of up to 30 days per visit for short stays such as tourism, family visits and business; work, study and residence need the matching visa or permit. Total stays may not exceed 90 days in any 180-day period."
  },
  "BA:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Mutual visa-exemption agreement — not part of the time-limited unilateral policy."
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/list/202607/t20260713_11981384.html",
+  "source_name": "Ministry of Foreign Affairs of China — Mutual Visa Exemption List (updated July 2026)",
+  "note": "Visa-free under the mutual visa exemption agreement between China and Bosnia & Herzegovina: stays of up to 90 days per visit for short stays such as tourism, family visits and business; work, study and residence need the matching visa or permit."
  },
  "BB:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Mutual visa-exemption agreement — not part of the time-limited unilateral policy."
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/list/202607/t20260713_11981384.html",
+  "source_name": "Ministry of Foreign Affairs of China — Mutual Visa Exemption List (updated July 2026)",
+  "note": "Visa-free under the mutual visa exemption agreement between China and Barbados: stays of up to 30 days per visit for short stays such as tourism, family visits and business; work, study and residence need the matching visa or permit."
  },
  "BS:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Mutual visa-exemption agreement — not part of the time-limited unilateral policy."
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/list/202607/t20260713_11981384.html",
+  "source_name": "Ministry of Foreign Affairs of China — Mutual Visa Exemption List (updated July 2026)",
+  "note": "Visa-free under the mutual visa exemption agreement between China and Bahamas: stays of up to 30 days per visit for short stays such as tourism, family visits and business; work, study and residence need the matching visa or permit."
  },
  "BY:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Mutual visa-exemption agreement — not part of the time-limited unilateral policy."
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/list/202607/t20260713_11981384.html",
+  "source_name": "Ministry of Foreign Affairs of China — Mutual Visa Exemption List (updated July 2026)",
+  "note": "Visa-free under the mutual visa exemption agreement between China and Belarus: stays of up to 30 days per visit for short stays such as tourism, family visits and business; work, study and residence need the matching visa or permit. Total stays may not exceed 90 days in any calendar year."
  },
  "DM:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Mutual visa-exemption agreement — not part of the time-limited unilateral policy."
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/list/202607/t20260713_11981384.html",
+  "source_name": "Ministry of Foreign Affairs of China — Mutual Visa Exemption List (updated July 2026)",
+  "note": "Visa-free under the mutual visa exemption agreement between China and Dominica: stays of up to 30 days per visit for short stays such as tourism, family visits and business; work, study and residence need the matching visa or permit."
  },
  "EC:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Mutual visa-exemption agreement — not part of the time-limited unilateral policy."
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/list/202607/t20260713_11981384.html",
+  "source_name": "Ministry of Foreign Affairs of China — Mutual Visa Exemption List (updated July 2026)",
+  "note": "Visa-free under the mutual visa exemption agreement between China and Ecuador: stays of up to 30 days per visit for short stays such as tourism, family visits and business; work, study and residence need the matching visa or permit."
  },
  "FJ:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Mutual visa-exemption agreement — not part of the time-limited unilateral policy."
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/list/202607/t20260713_11981384.html",
+  "source_name": "Ministry of Foreign Affairs of China — Mutual Visa Exemption List (updated July 2026)",
+  "note": "Visa-free under the mutual visa exemption agreement between China and Fiji: stays of up to 30 days per visit for short stays such as tourism, family visits and business; work, study and residence need the matching visa or permit."
  },
  "GD:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Mutual visa-exemption agreement — not part of the time-limited unilateral policy."
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/list/202607/t20260713_11981384.html",
+  "source_name": "Ministry of Foreign Affairs of China — Mutual Visa Exemption List (updated July 2026)",
+  "note": "Visa-free under the mutual visa exemption agreement between China and Grenada: stays of up to 30 days per visit for short stays such as tourism, family visits and business; work, study and residence need the matching visa or permit."
  },
  "GE:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Mutual visa-exemption agreement — not part of the time-limited unilateral policy."
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/list/202607/t20260713_11981384.html",
+  "source_name": "Ministry of Foreign Affairs of China — Mutual Visa Exemption List (updated July 2026)",
+  "note": "Visa-free under the mutual visa exemption agreement between China and Georgia: stays of up to 30 days per visit for short stays such as tourism, family visits and business; work, study and residence need the matching visa or permit. Total stays may not exceed 90 days in any 180-day period."
  },
  "KZ:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Mutual visa-exemption agreement — not part of the time-limited unilateral policy."
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/list/202607/t20260713_11981384.html",
+  "source_name": "Ministry of Foreign Affairs of China — Mutual Visa Exemption List (updated July 2026)",
+  "note": "Visa-free under the mutual visa exemption agreement between China and Kazakhstan: stays of up to 30 days per visit for short stays such as tourism, family visits and business; work, study and residence need the matching visa or permit. Total stays may not exceed 90 days in any 180-day period."
  },
  "MV:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Mutual visa-exemption agreement — not part of the time-limited unilateral policy."
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/list/202607/t20260713_11981384.html",
+  "source_name": "Ministry of Foreign Affairs of China — Mutual Visa Exemption List (updated July 2026)",
+  "note": "Visa-free under the mutual visa exemption agreement between China and Maldives: stays of up to 30 days per visit for short stays such as tourism, family visits and business; work, study and residence need the matching visa or permit."
  },
  "MY:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Mutual visa-exemption agreement — not part of the time-limited unilateral policy."
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/list/202607/t20260713_11981384.html",
+  "source_name": "Ministry of Foreign Affairs of China — Mutual Visa Exemption List (updated July 2026)",
+  "note": "Visa-free under the mutual visa exemption agreement between China and Malaysia: stays of up to 30 days per visit for short stays such as tourism, family visits and business; work, study and residence need the matching visa or permit. Total stays may not exceed 90 days in any 180-day period."
  },
  "QA:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Mutual visa-exemption agreement — not part of the time-limited unilateral policy."
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/list/202607/t20260713_11981384.html",
+  "source_name": "Ministry of Foreign Affairs of China — Mutual Visa Exemption List (updated July 2026)",
+  "note": "Visa-free under the mutual visa exemption agreement between China and Qatar: stays of up to 30 days per visit for short stays such as tourism, family visits and business; work, study and residence need the matching visa or permit."
  },
  "RS:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Mutual visa-exemption agreement — not part of the time-limited unilateral policy."
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/list/202607/t20260713_11981384.html",
+  "source_name": "Ministry of Foreign Affairs of China — Mutual Visa Exemption List (updated July 2026)",
+  "note": "Visa-free under the mutual visa exemption agreement between China and Serbia: stays of up to 30 days per visit for short stays such as tourism, family visits and business; work, study and residence need the matching visa or permit."
  },
  "SB:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Mutual visa-exemption agreement — not part of the time-limited unilateral policy."
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/list/202607/t20260713_11981384.html",
+  "source_name": "Ministry of Foreign Affairs of China — Mutual Visa Exemption List (updated July 2026)",
+  "note": "Visa-free under the mutual visa exemption agreement between China and Solomon Islands: stays of up to 30 days per visit for short stays such as tourism, family visits and business; work, study and residence need the matching visa or permit. Total stays may not exceed 90 days in any 180-day period."
  },
  "SC:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Mutual visa-exemption agreement — not part of the time-limited unilateral policy."
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/list/202607/t20260713_11981384.html",
+  "source_name": "Ministry of Foreign Affairs of China — Mutual Visa Exemption List (updated July 2026)",
+  "note": "Visa-free under the mutual visa exemption agreement between China and Seychelles: stays of up to 30 days per visit for short stays such as tourism, family visits and business; work, study and residence need the matching visa or permit."
  },
  "SG:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Mutual visa-exemption agreement — not part of the time-limited unilateral policy."
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/list/202607/t20260713_11981384.html",
+  "source_name": "Ministry of Foreign Affairs of China — Mutual Visa Exemption List (updated July 2026)",
+  "note": "Visa-free under the mutual visa exemption agreement between China and Singapore: stays of up to 30 days per visit for short stays such as tourism, family visits and business; work, study and residence need the matching visa or permit."
  },
  "SM:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Mutual visa-exemption agreement — not part of the time-limited unilateral policy."
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/list/202607/t20260713_11981384.html",
+  "source_name": "Ministry of Foreign Affairs of China — Mutual Visa Exemption List (updated July 2026)",
+  "note": "Visa-free under the mutual visa exemption agreement between China and San Marino: stays of up to 90 days per visit for short stays such as tourism, family visits and business; work, study and residence need the matching visa or permit."
  },
  "SR:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Mutual visa-exemption agreement — not part of the time-limited unilateral policy."
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/list/202607/t20260713_11981384.html",
+  "source_name": "Ministry of Foreign Affairs of China — Mutual Visa Exemption List (updated July 2026)",
+  "note": "Visa-free under the mutual visa exemption agreement between China and Suriname: stays of up to 30 days per visit for short stays such as tourism, family visits and business; work, study and residence need the matching visa or permit."
  },
  "TH:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Mutual visa-exemption agreement — not part of the time-limited unilateral policy."
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/list/202607/t20260713_11981384.html",
+  "source_name": "Ministry of Foreign Affairs of China — Mutual Visa Exemption List (updated July 2026)",
+  "note": "Visa-free under the mutual visa exemption agreement between China and Thailand: stays of up to 30 days per visit for short stays such as tourism, family visits and business; work, study and residence need the matching visa or permit. Total stays may not exceed 90 days in any 180-day period."
  },
  "TO:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Mutual visa-exemption agreement — not part of the time-limited unilateral policy."
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/list/202607/t20260713_11981384.html",
+  "source_name": "Ministry of Foreign Affairs of China — Mutual Visa Exemption List (updated July 2026)",
+  "note": "Visa-free under the mutual visa exemption agreement between China and Tonga: stays of up to 30 days per visit for short stays such as tourism, family visits and business; work, study and residence need the matching visa or permit."
  },
  "UZ:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Mutual visa-exemption agreement — not part of the time-limited unilateral policy."
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/list/202607/t20260713_11981384.html",
+  "source_name": "Ministry of Foreign Affairs of China — Mutual Visa Exemption List (updated July 2026)",
+  "note": "Visa-free under the mutual visa exemption agreement between China and Uzbekistan: stays of up to 30 days per visit for short stays such as tourism, family visits and business; work, study and residence need the matching visa or permit. Total stays may not exceed 90 days in any 180-day period."
  },
  "WS:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)",
-  "note": "Mutual visa-exemption agreement — not part of the time-limited unilateral policy."
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/list/202607/t20260713_11981384.html",
+  "source_name": "Ministry of Foreign Affairs of China — Mutual Visa Exemption List (updated July 2026)",
+  "note": "Visa-free under the mutual visa exemption agreement between China and Samoa: stays of up to 30 days per visit for short stays such as tourism, family visits and business; work, study and residence need the matching visa or permit. Total stays may not exceed 90 days in any 180-day period."
  },
  "CZ:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)"
+  "date": "2026-11-11",
+  "source": "https://www.nia.gov.cn/n794014/n1050181/n1050484/c1731205/content.html",
+  "source_name": "National Immigration Administration — Visa-Free Transit Policy (240-hour scheme, 57 countries; Hainan scheme, 61 countries)",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category. Czechia is one of the 57 nationalities eligible for China's 240-hour (10-day) visa-free transit: with a confirmed onward ticket to a third country or territory, travellers may enter at 65 designated ports across 24 provinces and stay within the designated areas for up to 240 hours — for transit only, not for visiting China as the destination. Separately, Czechia passport holders may enter Hainan Province without a visa for up to 30 days under the Hainan visa-free scheme (61 countries) — valid for Hainan only, not for the rest of mainland China."
  },
  "IL:CN": {
-  "date": "2026-10-25",
-  "source": "https://sg.china-embassy.gov.cn/lsfw_0/zytz/202511/t20251112_11751433.htm",
-  "source_name": "Embassy of China — FAQs on visa-free entry (unilateral policy)"
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
  },
  "SG:KR": {
   "date": "2026-10-25",
@@ -89823,5 +89777,707 @@
   "source": "https://www.mofa.go.jp/j_info/visit/visa/index.html",
   "source_name": "Ministry of Foreign Affairs of Japan — VISA",
   "note": "A visa is required in advance: apply at the Japanese embassy, consulate-general or consular office with jurisdiction over your place of residence (in some countries through an accredited agency or Visa Application Centre). Single-entry short-term stay visa for tourism, business or visiting friends or relatives, stay up to 90 days; processing takes approximately one week. The fee from 1 July 2026 is approximately ¥15,000 for a single-entry visa (approximately ¥30,000 multiple-entry), paid in local currency. Visas cannot be obtained on arrival in Japan. A visa does not guarantee entry — landing permission is granted by an immigration officer at the port of entry."
+ },
+ "AF:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "AO:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "BD:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "BF:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "BI:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "BJ:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "BO:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "BT:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "BW:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "BZ:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "CD:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "CF:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "CG:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "CI:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "CM:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "CO:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "CR:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "CU:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "CV:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "DJ:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "DO:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "DZ:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "EG:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "ER:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "ET:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "FM:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "GA:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "GH:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "GM:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "GN:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "GQ:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "GT:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "GW:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "GY:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "HK:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "Hong Kong permanent residents travel to mainland China on a Mainland Travel Permit for Hong Kong and Macao Residents, not on a passport — no visa is involved and the permit carries no fixed stay limit. Travellers holding a foreign passport instead follow the rules for that passport's nationality."
+ },
+ "HN:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "HT:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "ID:CN": {
+  "date": "2026-11-11",
+  "source": "https://www.nia.gov.cn/n794014/n1050181/n1050484/c1731205/content.html",
+  "source_name": "National Immigration Administration — Visa-Free Transit Policy (240-hour scheme, 57 countries; Hainan scheme, 61 countries)",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category. Indonesia is one of the 57 nationalities eligible for China's 240-hour (10-day) visa-free transit: with a confirmed onward ticket to a third country or territory, travellers may enter at 65 designated ports across 24 provinces and stay within the designated areas for up to 240 hours — for transit only, not for visiting China as the destination. Separately, Indonesia passport holders may enter Hainan Province without a visa for up to 30 days under the Hainan visa-free scheme (61 countries) — valid for Hainan only, not for the rest of mainland China."
+ },
+ "IN:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "IQ:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "IR:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "JM:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "JO:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "KE:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "KG:CN": {
+  "date": "2026-11-11",
+  "source": "https://www.nia.gov.cn/n794014/n1050181/n1050484/c1731205/content.html",
+  "source_name": "National Immigration Administration — Visa-Free Transit Policy (240-hour scheme, 57 countries; Hainan scheme, 61 countries)",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category. Kyrgyzstan is one of the 57 nationalities eligible for China's 240-hour (10-day) visa-free transit: with a confirmed onward ticket to a third country or territory, travellers may enter at 65 designated ports across 24 provinces and stay within the designated areas for up to 240 hours — for transit only, not for visiting China as the destination. Separately, Kyrgyzstan passport holders may enter Hainan Province without a visa for up to 30 days under the Hainan visa-free scheme (61 countries) — valid for Hainan only, not for the rest of mainland China."
+ },
+ "KH:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "KI:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "KM:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "KN:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "KP:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "LA:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "LB:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "LC:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "LK:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "LR:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "LS:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "LT:CN": {
+  "date": "2026-11-11",
+  "source": "https://www.nia.gov.cn/n794014/n1050181/n1050484/c1731205/content.html",
+  "source_name": "National Immigration Administration — Visa-Free Transit Policy (240-hour scheme, 57 countries; Hainan scheme, 61 countries)",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category. Lithuania is one of the 57 nationalities eligible for China's 240-hour (10-day) visa-free transit: with a confirmed onward ticket to a third country or territory, travellers may enter at 65 designated ports across 24 provinces and stay within the designated areas for up to 240 hours — for transit only, not for visiting China as the destination. Separately, Lithuania passport holders may enter Hainan Province without a visa for up to 30 days under the Hainan visa-free scheme (61 countries) — valid for Hainan only, not for the rest of mainland China."
+ },
+ "LY:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "MA:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "MD:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "MG:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "MH:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "ML:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "MM:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "MN:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/list/202607/t20260713_11981384.html",
+  "source_name": "Ministry of Foreign Affairs of China — Mutual Visa Exemption List (updated July 2026)",
+  "note": "The 1989 China–Mongolia agreement formally exempts diplomatic, service and public-affairs passports. Every Mongolian ordinary passport carries the type code “PE”, so China treats all Mongolian ordinary passports as public-affairs passports — in practice, Mongolian citizens enter China visa-free for up to 30 days."
+ },
+ "MO:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "Macao permanent residents travel to mainland China on a Mainland Travel Permit for Hong Kong and Macao Residents, not on a passport — no visa is involved and the permit carries no fixed stay limit. Travellers holding a foreign passport instead follow the rules for that passport's nationality."
+ },
+ "MR:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "MU:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/list/202607/t20260713_11981384.html",
+  "source_name": "Ministry of Foreign Affairs of China — Mutual Visa Exemption List (updated July 2026)",
+  "note": "Visa-free under the mutual visa exemption agreement between China and Mauritius (in force since 2013 and extended on 14 June 2017): stays of up to 60 days per visit for short stays such as tourism, family visits and business; work, study and residence need the matching visa or permit."
+ },
+ "MW:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "MX:CN": {
+  "date": "2026-11-11",
+  "source": "https://www.nia.gov.cn/n794014/n1050181/n1050484/c1731205/content.html",
+  "source_name": "National Immigration Administration — Visa-Free Transit Policy (240-hour scheme, 57 countries; Hainan scheme, 61 countries)",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category. Mexico is one of the 57 nationalities eligible for China's 240-hour (10-day) visa-free transit: with a confirmed onward ticket to a third country or territory, travellers may enter at 65 designated ports across 24 provinces and stay within the designated areas for up to 240 hours — for transit only, not for visiting China as the destination. Separately, Mexico passport holders may enter Hainan Province without a visa for up to 30 days under the Hainan visa-free scheme (61 countries) — valid for Hainan only, not for the rest of mainland China."
+ },
+ "MZ:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "NA:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "NE:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "NG:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "NI:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "NP:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "NR:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "PA:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "PG:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "PH:CN": {
+  "date": "2026-11-11",
+  "source": "https://www.nia.gov.cn/n794014/n1050181/n1050484/c1731205/content.html",
+  "source_name": "National Immigration Administration — Visa-Free Transit Policy (240-hour scheme, 57 countries; Hainan scheme, 61 countries)",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category. Separately, Philippines passport holders may enter Hainan Province without a visa for up to 30 days under the Hainan visa-free scheme (61 countries) — valid for Hainan only, not for the rest of mainland China."
+ },
+ "PK:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "PS:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "PW:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "PY:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "RW:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "SD:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "SL:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "SN:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "SO:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "SS:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "ST:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "SV:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "SY:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "SZ:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "TD:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "TG:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "TJ:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "TL:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "TM:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "TN:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "TR:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "TT:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "TV:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "TW:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "Taiwan residents travel to mainland China on a Mainland Travel Permit for Taiwan Residents, which can be obtained in advance or on arrival at major ports — no visa is involved. A Taiwan passport as such is not the travel document used for mainland entry."
+ },
+ "TZ:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "UA:CN": {
+  "date": "2026-11-11",
+  "source": "https://www.nia.gov.cn/n794014/n1050181/n1050484/c1731205/content.html",
+  "source_name": "National Immigration Administration — Visa-Free Transit Policy (240-hour scheme, 57 countries; Hainan scheme, 61 countries)",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category. Ukraine is one of the 57 nationalities eligible for China's 240-hour (10-day) visa-free transit: with a confirmed onward ticket to a third country or territory, travellers may enter at 65 designated ports across 24 provinces and stay within the designated areas for up to 240 hours — for transit only, not for visiting China as the destination. Separately, Ukraine passport holders may enter Hainan Province without a visa for up to 30 days under the Hainan visa-free scheme (61 countries) — valid for Hainan only, not for the rest of mainland China."
+ },
+ "UG:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "VA:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "VC:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "VE:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "VN:CN": {
+  "date": "2026-11-11",
+  "source": "https://www.nia.gov.cn/n794014/n1050181/n1050484/c1731205/content.html",
+  "source_name": "National Immigration Administration — Visa-Free Transit Policy (240-hour scheme, 57 countries; Hainan scheme, 61 countries)",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category. Vietnam is one of the 57 nationalities eligible for China's 240-hour (10-day) visa-free transit: with a confirmed onward ticket to a third country or territory, travellers may enter at 65 designated ports across 24 provinces and stay within the designated areas for up to 240 hours — for transit only, not for visiting China as the destination. Separately, Vietnam passport holders may enter Hainan Province without a visa for up to 30 days under the Hainan visa-free scheme (61 countries) — valid for Hainan only, not for the rest of mainland China."
+ },
+ "VU:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "XK:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "YE:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "ZA:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "ZM:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
+ },
+ "ZW:CN": {
+  "date": "2026-11-11",
+  "source": "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
+  "source_name": "Ministry of Foreign Affairs of China — FAQs on Visa-Free Entry into China",
+  "note": "A Chinese visa is required in advance — apply through a Chinese Visa Application Service Center or a Chinese embassy or consulate (fees, validity and number of entries vary by nationality and reciprocity). Most nationalities can transit China airside for up to 24 hours without a visa, but a visa is always needed to enter China as the destination; work, study and residence need the matching visa category."
  }
 }
