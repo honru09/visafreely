@@ -33768,5 +33768,26 @@
   "reason": "Settled 2026-11-11 against the INM visa-exempt and visa-required lists (see research-mx-official.md).",
   "source": "https://www.gob.mx/inm",
   "date": "2026-11-11"
+ },
+ "AU:BR": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Itamaraty's Entry Visas to Brazil table (see research-br-official.md).",
+  "source": "https://www.gov.br/mre/en",
+  "date": "2026-11-11"
+ },
+ "CA:BR": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Itamaraty's Entry Visas to Brazil table (see research-br-official.md).",
+  "source": "https://www.gov.br/mre/en",
+  "date": "2026-11-11"
+ },
+ "US:BR": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Itamaraty's Entry Visas to Brazil table (see research-br-official.md).",
+  "source": "https://www.gov.br/mre/en",
+  "date": "2026-11-11"
  }
 }

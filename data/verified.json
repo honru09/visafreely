@@ -6511,159 +6511,184 @@
   "note": "China passport holders need a visa for Mexico, obtained from a Mexican consulate before travel; since 22 October 2023 the visa is also required for airside transit through Mexican airports. A Mexican visa is not needed if the traveller holds a valid multiple-entry visa or permanent residence permit issued by a Schengen Area state, Canada, Japan, the United Kingdom or the United States (for Chile and Colombia, permanent residence permits only) — that document substitutes for the Mexican visa for stays of up to 180 days."
  },
  "SG:BR": {
-  "date": "2026-10-25",
-  "source": "https://www.gov.br/mre/pt-br/assuntos/portal-consular/vistos/qgrv-simples-port-07out26.pdf",
-  "source_name": "Brazil Ministry of Foreign Affairs (MRE) — general visa regime table (QGRV), Oct 2026"
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Singapore passport holders enter Brazil visa-free for up to 30 days."
  },
  "KR:BR": {
-  "date": "2026-10-25",
-  "source": "https://www.gov.br/mre/pt-br/assuntos/portal-consular/vistos/qgrv-simples-port-07out26.pdf",
-  "source_name": "Brazil Ministry of Foreign Affairs (MRE) — general visa regime table (QGRV), Oct 2026"
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "South Korea passport holders enter Brazil visa-free for up to 90 days."
  },
  "JP:BR": {
-  "date": "2026-10-25",
-  "source": "https://www.gov.br/mre/pt-br/assuntos/portal-consular/vistos/qgrv-simples-port-07out26.pdf",
-  "source_name": "Brazil Ministry of Foreign Affairs (MRE) — general visa regime table (QGRV), Oct 2026"
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Japan passport holders enter Brazil visa-free for up to 90 days. The exemption is currently scheduled until 29 September 2029."
  },
  "FR:BR": {
-  "date": "2026-10-25",
-  "source": "https://www.gov.br/mre/pt-br/assuntos/portal-consular/vistos/qgrv-simples-port-07out26.pdf",
-  "source_name": "Brazil Ministry of Foreign Affairs (MRE) — general visa regime table (QGRV), Oct 2026"
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "France passport holders enter Brazil visa-free for up to 90 days."
  },
  "DE:BR": {
-  "date": "2026-10-25",
-  "source": "https://www.gov.br/mre/pt-br/assuntos/portal-consular/vistos/qgrv-simples-port-07out26.pdf",
-  "source_name": "Brazil Ministry of Foreign Affairs (MRE) — general visa regime table (QGRV), Oct 2026"
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Germany passport holders enter Brazil visa-free for up to 90 days."
  },
  "IT:BR": {
-  "date": "2026-10-25",
-  "source": "https://www.gov.br/mre/pt-br/assuntos/portal-consular/vistos/qgrv-simples-port-07out26.pdf",
-  "source_name": "Brazil Ministry of Foreign Affairs (MRE) — general visa regime table (QGRV), Oct 2026"
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Italy passport holders enter Brazil visa-free for up to 90 days."
  },
  "ES:BR": {
-  "date": "2026-10-25",
-  "source": "https://www.gov.br/mre/pt-br/assuntos/portal-consular/vistos/qgrv-simples-port-07out26.pdf",
-  "source_name": "Brazil Ministry of Foreign Affairs (MRE) — general visa regime table (QGRV), Oct 2026"
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Spain passport holders enter Brazil visa-free for up to 90 days."
  },
  "FI:BR": {
-  "date": "2026-10-25",
-  "source": "https://www.gov.br/mre/pt-br/assuntos/portal-consular/vistos/qgrv-simples-port-07out26.pdf",
-  "source_name": "Brazil Ministry of Foreign Affairs (MRE) — general visa regime table (QGRV), Oct 2026"
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Finland passport holders enter Brazil visa-free for up to 90 days."
  },
  "NL:BR": {
-  "date": "2026-10-25",
-  "source": "https://www.gov.br/mre/pt-br/assuntos/portal-consular/vistos/qgrv-simples-port-07out26.pdf",
-  "source_name": "Brazil Ministry of Foreign Affairs (MRE) — general visa regime table (QGRV), Oct 2026"
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Netherlands passport holders enter Brazil visa-free for up to 90 days."
  },
  "BE:BR": {
-  "date": "2026-10-25",
-  "source": "https://www.gov.br/mre/pt-br/assuntos/portal-consular/vistos/qgrv-simples-port-07out26.pdf",
-  "source_name": "Brazil Ministry of Foreign Affairs (MRE) — general visa regime table (QGRV), Oct 2026"
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Belgium passport holders enter Brazil visa-free for up to 90 days."
  },
  "DK:BR": {
-  "date": "2026-10-25",
-  "source": "https://www.gov.br/mre/pt-br/assuntos/portal-consular/vistos/qgrv-simples-port-07out26.pdf",
-  "source_name": "Brazil Ministry of Foreign Affairs (MRE) — general visa regime table (QGRV), Oct 2026"
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Denmark passport holders enter Brazil visa-free for up to 90 days."
  },
  "SE:BR": {
-  "date": "2026-10-25",
-  "source": "https://www.gov.br/mre/pt-br/assuntos/portal-consular/vistos/qgrv-simples-port-07out26.pdf",
-  "source_name": "Brazil Ministry of Foreign Affairs (MRE) — general visa regime table (QGRV), Oct 2026"
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Sweden passport holders enter Brazil visa-free for up to 90 days."
  },
  "NO:BR": {
-  "date": "2026-10-25",
-  "source": "https://www.gov.br/mre/pt-br/assuntos/portal-consular/vistos/qgrv-simples-port-07out26.pdf",
-  "source_name": "Brazil Ministry of Foreign Affairs (MRE) — general visa regime table (QGRV), Oct 2026"
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Norway passport holders enter Brazil visa-free for up to 90 days. The limit is 90 days within any 180-day period."
  },
  "CH:BR": {
-  "date": "2026-10-25",
-  "source": "https://www.gov.br/mre/pt-br/assuntos/portal-consular/vistos/qgrv-simples-port-07out26.pdf",
-  "source_name": "Brazil Ministry of Foreign Affairs (MRE) — general visa regime table (QGRV), Oct 2026"
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Switzerland passport holders enter Brazil visa-free for up to 90 days. The limit is 90 days within any 180-day period."
  },
  "AT:BR": {
-  "date": "2026-10-25",
-  "source": "https://www.gov.br/mre/pt-br/assuntos/portal-consular/vistos/qgrv-simples-port-07out26.pdf",
-  "source_name": "Brazil Ministry of Foreign Affairs (MRE) — general visa regime table (QGRV), Oct 2026"
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Austria passport holders enter Brazil visa-free for up to 90 days."
  },
  "IE:BR": {
-  "date": "2026-10-25",
-  "source": "https://www.gov.br/mre/pt-br/assuntos/portal-consular/vistos/qgrv-simples-port-07out26.pdf",
-  "source_name": "Brazil Ministry of Foreign Affairs (MRE) — general visa regime table (QGRV), Oct 2026"
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Ireland passport holders enter Brazil visa-free for up to 90 days."
  },
  "GB:BR": {
-  "date": "2026-10-25",
-  "source": "https://www.gov.br/mre/pt-br/assuntos/portal-consular/vistos/qgrv-simples-port-07out26.pdf",
-  "source_name": "Brazil Ministry of Foreign Affairs (MRE) — general visa regime table (QGRV), Oct 2026"
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "United Kingdom passport holders enter Brazil visa-free for up to 90 days."
  },
  "AU:BR": {
-  "date": "2026-10-25",
-  "source": "https://www.gov.br/mre/pt-br/assuntos/portal-consular/vistos/qgrv-simples-port-07out26.pdf",
-  "source_name": "Brazil Ministry of Foreign Affairs (MRE) — general visa regime table (QGRV), Oct 2026",
-  "note": "An e-Visa has been required for this passport since 10 Apr 2025 (multiple entry, stay up to 90 days)."
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Australia passport holders apply online for Brazil's electronic visitor visa (e-Visa) before travel; the unilateral visa exemption that covered them ended on 10 April 2025. Visitor stays are up to 90 days."
  },
  "NZ:BR": {
-  "date": "2026-10-25",
-  "source": "https://www.gov.br/mre/pt-br/assuntos/portal-consular/vistos/qgrv-simples-port-07out26.pdf",
-  "source_name": "Brazil Ministry of Foreign Affairs (MRE) — general visa regime table (QGRV), Oct 2026"
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "New Zealand passport holders enter Brazil visa-free for up to 90 days."
  },
  "CA:BR": {
-  "date": "2026-10-25",
-  "source": "https://www.gov.br/mre/pt-br/assuntos/portal-consular/vistos/qgrv-simples-port-07out26.pdf",
-  "source_name": "Brazil Ministry of Foreign Affairs (MRE) — general visa regime table (QGRV), Oct 2026",
-  "note": "An e-Visa has been required for this passport since 10 Apr 2025 (multiple entry, stay up to 90 days)."
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Canada passport holders apply online for Brazil's electronic visitor visa (e-Visa) before travel; the unilateral visa exemption that covered them ended on 10 April 2025. Visitor stays are up to 90 days."
  },
  "US:BR": {
-  "date": "2026-10-25",
-  "source": "https://www.gov.br/mre/pt-br/assuntos/portal-consular/vistos/qgrv-simples-port-07out26.pdf",
-  "source_name": "Brazil Ministry of Foreign Affairs (MRE) — general visa regime table (QGRV), Oct 2026",
-  "note": "An e-Visa has been required for this passport since 10 Apr 2025 (multiple entry, stay up to 90 days)."
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "United States passport holders apply online for Brazil's electronic visitor visa (e-Visa) before travel; the unilateral visa exemption that covered them ended on 10 April 2025. Visitor stays are up to 90 days."
  },
  "PT:BR": {
-  "date": "2026-10-25",
-  "source": "https://www.gov.br/mre/pt-br/assuntos/portal-consular/vistos/qgrv-simples-port-07out26.pdf",
-  "source_name": "Brazil Ministry of Foreign Affairs (MRE) — general visa regime table (QGRV), Oct 2026"
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Portugal passport holders enter Brazil visa-free for up to 90 days."
  },
  "GR:BR": {
-  "date": "2026-10-25",
-  "source": "https://www.gov.br/mre/pt-br/assuntos/portal-consular/vistos/qgrv-simples-port-07out26.pdf",
-  "source_name": "Brazil Ministry of Foreign Affairs (MRE) — general visa regime table (QGRV), Oct 2026"
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Greece passport holders enter Brazil visa-free for up to 90 days."
  },
  "PL:BR": {
-  "date": "2026-10-25",
-  "source": "https://www.gov.br/mre/pt-br/assuntos/portal-consular/vistos/qgrv-simples-port-07out26.pdf",
-  "source_name": "Brazil Ministry of Foreign Affairs (MRE) — general visa regime table (QGRV), Oct 2026"
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Poland passport holders enter Brazil visa-free for up to 90 days."
  },
  "CZ:BR": {
-  "date": "2026-10-25",
-  "source": "https://www.gov.br/mre/pt-br/assuntos/portal-consular/vistos/qgrv-simples-port-07out26.pdf",
-  "source_name": "Brazil Ministry of Foreign Affairs (MRE) — general visa regime table (QGRV), Oct 2026"
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Czechia passport holders enter Brazil visa-free for up to 90 days."
  },
  "HU:BR": {
-  "date": "2026-10-25",
-  "source": "https://www.gov.br/mre/pt-br/assuntos/portal-consular/vistos/qgrv-simples-port-07out26.pdf",
-  "source_name": "Brazil Ministry of Foreign Affairs (MRE) — general visa regime table (QGRV), Oct 2026"
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Hungary passport holders enter Brazil visa-free for up to 90 days."
  },
  "AE:BR": {
-  "date": "2026-10-25",
-  "source": "https://www.gov.br/mre/pt-br/assuntos/portal-consular/vistos/qgrv-simples-port-07out26.pdf",
-  "source_name": "Brazil Ministry of Foreign Affairs (MRE) — general visa regime table (QGRV), Oct 2026"
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "United Arab Emirates passport holders enter Brazil visa-free for up to 90 days. The waiver agreement specifies 90 days within any 12-month period, but Brazil does not apply the 12-month limitation in practice."
  },
  "MY:BR": {
-  "date": "2026-10-25",
-  "source": "https://www.gov.br/mre/pt-br/assuntos/portal-consular/vistos/qgrv-simples-port-07out26.pdf",
-  "source_name": "Brazil Ministry of Foreign Affairs (MRE) — general visa regime table (QGRV), Oct 2026"
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Malaysia passport holders enter Brazil visa-free for up to 90 days."
  },
  "IL:BR": {
-  "date": "2026-10-25",
-  "source": "https://www.gov.br/mre/pt-br/assuntos/portal-consular/vistos/qgrv-simples-port-07out26.pdf",
-  "source_name": "Brazil Ministry of Foreign Affairs (MRE) — general visa regime table (QGRV), Oct 2026"
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Israel passport holders enter Brazil visa-free for up to 90 days."
  },
  "CN:BR": {
-  "date": "2026-10-25",
-  "source": "https://www.gov.br/mre/pt-br/assuntos/portal-consular/vistos/qgrv-simples-port-07out26.pdf",
-  "source_name": "Brazil Ministry of Foreign Affairs (MRE) — general visa regime table (QGRV), Oct 2026",
-  "note": "Temporary exemption — currently announced to run until 31 Dec 2026; non-extendable 30-day stays.",
-  "valid_until": "2026-12-31"
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "China passport holders enter Brazil visa-free for up to 30 days. The exemption allows 30 days within any 12-month period and is legislated to run until 31 December 2026; Chinese business travellers may instead apply for Brazil's electronic visa (available since 19 January 2026)."
  },
  "FR:PE": {
   "date": "2026-10-25",
@@ -100950,5 +100975,1013 @@
   "source": "https://www.gob.mx/inm",
   "source_name": "Instituto Nacional de Migración (INM) — countries that do / do not require a visa",
   "note": "Botswana passport holders need a visa for Mexico, obtained from a Mexican consulate before travel; since 22 October 2023 the visa is also required for airside transit through Mexican airports. A Mexican visa is not needed if the traveller holds a valid multiple-entry visa or permanent residence permit issued by a Schengen Area state, Canada, Japan, the United Kingdom or the United States (for Chile and Colombia, permanent residence permits only) — that document substitutes for the Mexican visa for stays of up to 180 days."
+ },
+ "BB:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Barbados passport holders enter Brazil visa-free for up to 90 days."
+ },
+ "PW:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Palau passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "UY:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Uruguay passport holders enter Brazil visa-free for up to 90 days. Nationals may also enter with a national identity card when arriving from a Mercosur member or associate state."
+ },
+ "GE:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Georgia passport holders enter Brazil visa-free for up to 90 days. The limit is 90 days within any 180-day period."
+ },
+ "IR:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Iran passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "MH:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Marshall Islands passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "MC:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Monaco passport holders enter Brazil visa-free for up to 90 days. The limit is 90 days within any 180-day period."
+ },
+ "PH:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Philippines passport holders enter Brazil visa-free for up to 90 days."
+ },
+ "AR:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Argentina passport holders enter Brazil visa-free for up to 90 days. Nationals may also enter with a national identity card when arriving from a Mercosur member or associate state."
+ },
+ "HN:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Honduras passport holders enter Brazil visa-free for up to 90 days."
+ },
+ "NR:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Nauru passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "NA:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Namibia passport holders enter Brazil visa-free for up to 90 days."
+ },
+ "LU:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Luxembourg passport holders enter Brazil visa-free for up to 90 days."
+ },
+ "GA:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Gabon passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "LB:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Lebanon passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "CO:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Colombia passport holders enter Brazil visa-free for up to 90 days. Nationals may also enter with a national identity card when arriving from a Mercosur member or associate state."
+ },
+ "GN:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Guinea passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "SL:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Sierra Leone passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "VU:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Vanuatu passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "GH:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Ghana passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "LK:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Sri Lanka passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "MX:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Mexico passport holders enter Brazil visa-free for up to 90 days."
+ },
+ "UA:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Ukraine passport holders enter Brazil visa-free for up to 90 days. The limit is 90 days within any 180-day period."
+ },
+ "LV:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Latvia passport holders enter Brazil visa-free for up to 90 days."
+ },
+ "PK:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Pakistan passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "EE:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Estonia passport holders enter Brazil visa-free for up to 90 days."
+ },
+ "TT:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Trinidad & Tobago passport holders enter Brazil visa-free for up to 90 days."
+ },
+ "KH:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Cambodia passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "RU:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Russia passport holders enter Brazil visa-free for up to 90 days."
+ },
+ "DJ:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Djibouti passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "SC:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Seychelles passport holders enter Brazil visa-free for up to 90 days. The limit is 90 days within any 180-day period."
+ },
+ "CD:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Congo - Kinshasa passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "TJ:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Tajikistan passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "FJ:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Fiji passport holders enter Brazil visa-free for up to 90 days."
+ },
+ "SD:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Sudan passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "BY:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Belarus passport holders enter Brazil visa-free for up to 90 days."
+ },
+ "ML:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Mali passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "HK:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Hong Kong SAR China passport holders enter Brazil visa-free for up to 90 days."
+ },
+ "RS:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Serbia passport holders enter Brazil visa-free for up to 90 days."
+ },
+ "CG:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Congo - Brazzaville passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "RO:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Romania passport holders enter Brazil visa-free for up to 90 days."
+ },
+ "BI:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Burundi passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "IS:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Iceland passport holders enter Brazil visa-free for up to 90 days. The limit is 90 days within any 180-day period."
+ },
+ "KW:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Kuwait passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "MK:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "North Macedonia passport holders enter Brazil visa-free for up to 90 days. The limit is 90 days within any 180-day period."
+ },
+ "UG:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Uganda passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "KG:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Kyrgyzstan passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "PY:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Paraguay passport holders enter Brazil visa-free for up to 90 days. Nationals may also enter with a national identity card when arriving from a Mercosur member or associate state."
+ },
+ "TR:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Türkiye passport holders enter Brazil visa-free for up to 90 days."
+ },
+ "LS:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Lesotho passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "PA:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Panama passport holders enter Brazil visa-free for up to 90 days."
+ },
+ "TM:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Turkmenistan passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "DM:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Dominica passport holders enter Brazil visa-free for up to 90 days. The limit is 90 days within any 180-day period."
+ },
+ "OM:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Oman passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "BS:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Bahamas passport holders enter Brazil visa-free for up to 90 days."
+ },
+ "SB:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Solomon Islands passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "MZ:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Mozambique passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "LI:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Liechtenstein passport holders enter Brazil visa-free for up to 90 days. The limit is 90 days within any 180-day period."
+ },
+ "DZ:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Algeria passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "ST:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "São Tomé & Príncipe passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "IN:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "India passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days. Since 20 October 2025, Indian business travellers may instead apply for the visitor visa electronically (business purposes only)."
+ },
+ "TD:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Chad passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "AM:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Armenia passport holders enter Brazil visa-free for up to 90 days."
+ },
+ "GQ:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Equatorial Guinea passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "NG:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Nigeria passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "WS:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Samoa passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "NE:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Niger passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "RW:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Rwanda passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "NI:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Nicaragua passport holders enter Brazil visa-free for up to 90 days."
+ },
+ "CM:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Cameroon passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "AG:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Antigua & Barbuda passport holders enter Brazil visa-free for up to 90 days."
+ },
+ "JO:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Jordan passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "TN:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Tunisia passport holders enter Brazil visa-free for up to 90 days."
+ },
+ "SV:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "El Salvador passport holders enter Brazil visa-free for up to 90 days."
+ },
+ "SY:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Syria passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "BD:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Bangladesh passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "MT:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Malta passport holders enter Brazil visa-free for up to 90 days."
+ },
+ "MR:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Mauritania passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "MD:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Moldova passport holders enter Brazil visa-free for up to 90 days."
+ },
+ "CI:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Côte d’Ivoire passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "SA:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Saudi Arabia passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "UZ:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Uzbekistan passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "SO:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Somalia passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "AF:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Afghanistan passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "ZA:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "South Africa passport holders enter Brazil visa-free for up to 90 days."
+ },
+ "VC:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "St. Vincent & Grenadines passport holders enter Brazil visa-free for up to 90 days."
+ },
+ "BF:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Burkina Faso passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "MN:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Mongolia passport holders enter Brazil visa-free for up to 90 days."
+ },
+ "LT:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Lithuania passport holders enter Brazil visa-free for up to 90 days."
+ },
+ "CU:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Cuba passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "SR:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Suriname passport holders enter Brazil visa-free for up to 90 days."
+ },
+ "GW:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Guinea-Bissau passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "LA:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Laos passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "MV:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Maldives passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "MU:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Mauritius passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "BH:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Bahrain passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "AL:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Albania passport holders enter Brazil visa-free for up to 90 days. The limit is 90 days within any 180-day period."
+ },
+ "QA:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Qatar passport holders enter Brazil visa-free for up to 90 days."
+ },
+ "MW:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Malawi passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "KP:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "North Korea passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "MG:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Madagascar passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "TV:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Tuvalu passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "SZ:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Eswatini passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "CY:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Cyprus passport holders enter Brazil visa-free for up to 90 days."
+ },
+ "SI:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Slovenia passport holders enter Brazil visa-free for up to 90 days."
+ },
+ "XK:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Kosovo passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "BG:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Bulgaria passport holders enter Brazil visa-free for up to 90 days."
+ },
+ "PE:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Peru passport holders enter Brazil visa-free for up to 90 days. Nationals may also enter with a national identity card when arriving from a Mercosur member or associate state."
+ },
+ "ZM:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Zambia passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "EC:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Ecuador passport holders enter Brazil visa-free for up to 90 days. Nationals may also enter with a national identity card when arriving from a Mercosur member or associate state."
+ },
+ "MM:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Myanmar (Burma) passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "BT:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Bhutan passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "TW:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Taiwan passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "MA:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Morocco passport holders enter Brazil visa-free for up to 90 days."
+ },
+ "GY:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Guyana passport holders enter Brazil visa-free for up to 90 days."
+ },
+ "KN:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "St. Kitts & Nevis passport holders enter Brazil visa-free for up to 90 days."
+ },
+ "LY:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Libya passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "GT:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Guatemala passport holders enter Brazil visa-free for up to 90 days."
+ },
+ "SM:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "San Marino passport holders enter Brazil visa-free for up to 90 days. The limit is 90 days within any 180-day period."
+ },
+ "AD:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Andorra passport holders enter Brazil visa-free for up to 90 days."
+ },
+ "LR:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Liberia passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "YE:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Yemen passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "HR:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Croatia passport holders enter Brazil visa-free for up to 90 days."
+ },
+ "KM:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Comoros passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "NP:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Nepal passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "TO:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Tonga passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "IQ:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Iraq passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "TG:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Togo passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "AO:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Angola passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "GD:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Grenada passport holders enter Brazil visa-free for up to 90 days."
+ },
+ "PS:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Palestinian Territories passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "TZ:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Tanzania passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "FM:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Micronesia passport holders enter Brazil visa-free for up to 90 days."
+ },
+ "ZW:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Zimbabwe passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "BA:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Bosnia & Herzegovina passport holders enter Brazil visa-free for up to 90 days."
+ },
+ "KI:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Kiribati passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "TH:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Thailand passport holders enter Brazil visa-free for up to 90 days."
+ },
+ "ID:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Indonesia passport holders enter Brazil visa-free for up to 30 days."
+ },
+ "VE:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Venezuela passport holders enter Brazil visa-free for up to 60 days. Nationals may also enter with a national identity card when arriving from a Mercosur member or associate state."
+ },
+ "VN:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Vietnam passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "DO:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Dominican Republic passport holders enter Brazil visa-free for up to 60 days."
+ },
+ "GM:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Gambia passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "PG:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Papua New Guinea passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "BN:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Brunei passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "CF:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Central African Republic passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "BO:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Bolivia passport holders enter Brazil visa-free for up to 90 days. Nationals may also enter with a national identity card when arriving from a Mercosur member or associate state."
+ },
+ "KE:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Kenya passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "AZ:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Azerbaijan passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "CV:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Cape Verde passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "ER:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Eritrea passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "HT:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Haiti passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "BZ:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Belize passport holders enter Brazil visa-free for up to 90 days."
+ },
+ "JM:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Jamaica passport holders enter Brazil visa-free for up to 90 days."
+ },
+ "BW:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Botswana passport holders enter Brazil visa-free for up to 90 days."
+ },
+ "BJ:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Benin passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "KZ:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Kazakhstan passport holders enter Brazil visa-free for up to 30 days."
+ },
+ "CR:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Costa Rica passport holders enter Brazil visa-free for up to 90 days."
+ },
+ "LC:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "St. Lucia passport holders enter Brazil visa-free for up to 90 days."
+ },
+ "CL:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Chile passport holders enter Brazil visa-free for up to 90 days. Nationals may also enter with a national identity card when arriving from a Mercosur member or associate state."
+ },
+ "EG:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Egypt passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "MO:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Macao SAR China passport holders enter Brazil visa-free for up to 90 days."
+ },
+ "VA:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Vatican City passport holders enter Brazil visa-free for up to 90 days. The limit is 90 days within any 180-day period."
+ },
+ "SS:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "South Sudan passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "TL:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Timor-Leste passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "SK:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Slovakia passport holders enter Brazil visa-free for up to 90 days."
+ },
+ "ET:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Ethiopia passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
+ },
+ "ME:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Montenegro passport holders enter Brazil visa-free for up to 90 days. The limit is 90 days within any 180-day period."
+ },
+ "SN:BR": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty) — Entry Visas to Brazil",
+  "note": "Senegal passport holders need a visitor visa (VIVIS) for Brazil, obtained from a Brazilian consulate before travel; visitor stays are up to 90 days."
  }
 }

@@ -360,6 +360,14 @@
   "source_name": "Immigration New Zealand"
  },
  {
+  "date": "2025-10-20",
+  "destination": "BR",
+  "title": "Brazil opens business e-Visa for India",
+  "summary": "Since 20 October 2025, Indian business travellers may apply for Brazil's visitor visa electronically; other Indian visitors still need a consular visa.",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty)"
+ },
+ {
   "date": "2025-10-14",
   "destination": "GB",
   "title": "United Kingdom adds Botswana to the visa-national list",
@@ -542,6 +550,14 @@
   "summary": "From 1 May 2025 every traveller who needs a visa for Nigeria must obtain an e-Visa at evisa.immigration.gov.ng before travel; the visa-on-arrival system was abolished the same day. The standard short-visit e-Visa (tourism F5A, single-entry business F4A) is valid for 90 days from issuance and allows a single stay of up to 30 days, non-extendable. ECOWAS citizens and Cameroonians and Chadians remain visa-free, and every traveller must file the free electronic Landing Card before arrival.",
   "source": "https://immigration.gov.ng/info-center/tourism-visa-f5a/",
   "source_name": "Nigeria Immigration Service — Tourism Visa (F5A) page"
+ },
+ {
+  "date": "2025-04-10",
+  "destination": "BR",
+  "title": "Brazil ends visa exemption for Australia, Canada and the United States",
+  "summary": "The unilateral visa exemption covering Australian, Canadian and US passport holders ended on 10 April 2025; all three now use Brazil's electronic visitor visa.",
+  "source": "https://www.gov.br/mre/en",
+  "source_name": "Ministry of Foreign Affairs of Brazil (Itamaraty)"
  },
  {
   "date": "2025-04-08",
