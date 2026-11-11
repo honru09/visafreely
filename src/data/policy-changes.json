@@ -286,6 +286,16 @@
   "source_name": "Consular Department of the Russian MFA"
  },
  {
+  "date": "2026-05-03",
+  "passport": "LB",
+  "destination": "IR",
+  "from_status": "visa free",
+  "to_status": "visa on arrival",
+  "summary": "Iran cancelled the visa exemption for Lebanese citizens on 3 May 2026; a visa on arrival (or an e-Visa) is now required.",
+  "source": "https://evisa.mfa.ir/en/",
+  "source_name": "Iran visa-policy change log, as compiled"
+ },
+ {
   "date": "2026-05-01",
   "destination": "TW",
   "title": "Oman becomes visa-exempt for Taiwan; Nauru loses its exemption",
@@ -518,6 +528,16 @@
   "summary": "Qatari citizens no longer need a visitor visa for Canada: for air travel they now use an eTA (CAD 7, valid up to 5 years), and no document beyond the passport is needed by land or sea.",
   "source": "https://www.ircc.canada.ca/english/visit/visas.asp",
   "source_name": "IRCC — entry requirements by country"
+ },
+ {
+  "date": "2025-11-22",
+  "passport": "IN",
+  "destination": "IR",
+  "from_status": "visa free",
+  "to_status": "e-visa",
+  "summary": "Iran ended visa-free entry for Indian citizens on 22 November 2025; an e-Visa is now required.",
+  "source": "https://evisa.mfa.ir/en/",
+  "source_name": "Iran visa-policy change log, as compiled"
  },
  {
   "date": "2025-11-11",

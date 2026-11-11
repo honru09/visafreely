@@ -2082,10 +2082,10 @@
   "date": "2026-10-27"
  },
  "IN:IR": {
-  "status": "visa required",
-  "reason": "Iran suspended its visa-waiver facility for Indian ordinary passports effective 22 November 2025 (Indian MEA advisory); a visa must be obtained in advance, including for transit.",
-  "source": "https://www.mea.gov.in/press-releases.htm?dtl/40303/Advisory_on_suspension_of_visa_waiver_facility_extended_to_Indian_nationals_traveling_to_Iran",
-  "date": "2026-10-25"
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
  },
  "AD:TH": {
   "status": "e-visa",
@@ -55820,6 +55820,883 @@
   "days": 90,
   "reason": "Settled 2026-11-11 against Kosovo's MFA visa lists as compiled (see research-xk-official.md).",
   "source": "https://www.mfa-ks.net/",
+  "date": "2026-11-11"
+ },
+ "AD:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "AG:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "AL:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "AO:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "AR:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "AT:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "AU:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "BB:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "BE:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "BF:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "BG:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "BI:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "BJ:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "BO:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "BS:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "BT:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "BW:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "BZ:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "CD:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "CF:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "CG:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "CH:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "CI:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "CL:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "CM:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "CR:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "CV:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "CY:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "CZ:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "DE:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "DJ:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "DK:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "DM:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "DO:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "DZ:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "EC:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "EE:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "EG:IR": {
+  "status": "visa free",
+  "days": 20,
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "ER:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "ES:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "ET:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "FI:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "FJ:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "FM:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "FR:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "GA:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "GD:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "GH:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "GM:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "GN:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "GQ:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "GR:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "GT:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "GW:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "GY:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "HN:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "HT:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "HU:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "IE:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "IS:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "IT:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "JM:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "KE:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "KI:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "KM:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "KN:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "KP:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "KR:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "LA:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "LB:IR": {
+  "status": "visa on arrival",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "LC:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "LI:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "LK:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "LR:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "LS:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "LT:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "LU:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "LV:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "LY:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "MA:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "MC:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "MD:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "ME:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "MG:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "MH:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "MK:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "ML:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "MM:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "MN:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "MT:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "MV:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "MW:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "MZ:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "NA:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "NE:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "NG:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "NI:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "NL:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "NO:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "NP:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "NR:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "NZ:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "PA:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "PG:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "PH:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "PL:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "PS:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "PT:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "PW:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "PY:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "RO:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "RU:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "RW:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "SB:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "SD:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "SE:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "SI:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "SK:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "SL:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "SM:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "SN:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "SR:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "SS:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "ST:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "SV:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "SZ:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "TD:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "TG:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "TH:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "TL:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "TM:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "TO:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "TT:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "TV:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "TW:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "UA:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "UG:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "UY:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "VA:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "VC:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "VU:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "WS:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "XK:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "YE:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "ZA:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
+  "date": "2026-11-11"
+ },
+ "ZM:IR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iran's MFA e-Visa and exemption lists as compiled (see research-ir-official.md).",
+  "source": "https://evisa.mfa.ir/en/",
   "date": "2026-11-11"
  }
 }
