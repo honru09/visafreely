@@ -40337,5 +40337,74 @@
   "reason": "Settled 2026-11-11 against Grenada's visa requirements list as compiled (see research-gd-official.md).",
   "source": "https://www.gov.gd/",
   "date": "2026-11-11"
+ },
+ "CR:GY": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against Guyana's visa-exemption list as compiled (see research-gy-official.md).",
+  "source": "https://www.minfor.gov.gy/",
+  "date": "2026-11-11"
+ },
+ "GD:GY": {
+  "status": "visa free",
+  "days": 180,
+  "reason": "Settled 2026-11-11 against Guyana's visa-exemption list as compiled (see research-gy-official.md).",
+  "source": "https://www.minfor.gov.gy/",
+  "date": "2026-11-11"
+ },
+ "HK:GY": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Guyana's visa-exemption list as compiled (see research-gy-official.md).",
+  "source": "https://www.minfor.gov.gy/",
+  "date": "2026-11-11"
+ },
+ "ID:GY": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Guyana's visa-exemption list as compiled (see research-gy-official.md).",
+  "source": "https://www.minfor.gov.gy/",
+  "date": "2026-11-11"
+ },
+ "KN:GY": {
+  "status": "visa free",
+  "days": 180,
+  "reason": "Settled 2026-11-11 against Guyana's visa-exemption list as compiled (see research-gy-official.md).",
+  "source": "https://www.minfor.gov.gy/",
+  "date": "2026-11-11"
+ },
+ "KW:GY": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against Guyana's visa-exemption list as compiled (see research-gy-official.md).",
+  "source": "https://www.minfor.gov.gy/",
+  "date": "2026-11-11"
+ },
+ "LC:GY": {
+  "status": "visa free",
+  "days": 180,
+  "reason": "Settled 2026-11-11 against Guyana's visa-exemption list as compiled (see research-gy-official.md).",
+  "source": "https://www.minfor.gov.gy/",
+  "date": "2026-11-11"
+ },
+ "LS:GY": {
+  "status": "visa free",
+  "days": 14,
+  "reason": "Settled 2026-11-11 against Guyana's visa-exemption list as compiled (see research-gy-official.md).",
+  "source": "https://www.minfor.gov.gy/",
+  "date": "2026-11-11"
+ },
+ "PA:GY": {
+  "status": "visa free",
+  "days": 180,
+  "reason": "Settled 2026-11-11 against Guyana's visa-exemption list as compiled (see research-gy-official.md).",
+  "source": "https://www.minfor.gov.gy/",
+  "date": "2026-11-11"
+ },
+ "QA:GY": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Guyana's visa-exemption list as compiled (see research-gy-official.md).",
+  "source": "https://www.minfor.gov.gy/",
+  "date": "2026-11-11"
  }
 }
