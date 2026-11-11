@@ -184229,5 +184229,1193 @@
   "source": "https://www.evisa.gouv.dj/",
   "source_name": "Djibouti e-Visa portal and exemption rules, as compiled",
   "note": "South Africa passport holders obtain an e-Visa for Djibouti online before travel (visit visas run from 15 to 90 days). IATA Timatic also lists a visa on arrival for all nationalities, but the Djiboutian government recommends the e-Visa and lists arrival visas only for diplomatic, official and service passport holders."
+ },
+ "KE:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Kenya passport holders may enter Eritrea without a visa for an indefinite period."
+ },
+ "UG:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Uganda passport holders may enter Eritrea without a visa for an indefinite period."
+ },
+ "ET:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Ethiopia passport holders may obtain a visa on arrival in Eritrea for up to 30 days."
+ },
+ "SD:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Sudan passport holders may obtain a visa on arrival in Eritrea (indefinite stay under the arrival class)."
+ },
+ "VE:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Venezuela passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "ES:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Spain passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "CO:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Colombia passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "QA:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Qatar passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "CH:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Switzerland passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "AM:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Armenia passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "MH:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Marshall Islands passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "PY:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Paraguay passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "AZ:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Azerbaijan passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "EE:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Estonia passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "ID:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Indonesia passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "LA:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Laos passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "SZ:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Eswatini passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "SL:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Sierra Leone passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "MK:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "North Macedonia passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "PG:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Papua New Guinea passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "CY:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Cyprus passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "GD:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Grenada passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "SG:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Singapore passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "VU:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Vanuatu passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "CI:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Côte d’Ivoire passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "PK:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Pakistan passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "JM:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Jamaica passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "DZ:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Algeria passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "NO:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Norway passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "BY:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Belarus passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "NE:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Niger passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "GM:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Gambia passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "CU:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Cuba passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "FJ:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Fiji passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "KN:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "St. Kitts & Nevis passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "UZ:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Uzbekistan passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "VA:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Vatican City passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "MU:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Mauritius passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "BW:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Botswana passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "KG:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Kyrgyzstan passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "KP:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "North Korea passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "FM:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Micronesia passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "SA:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Saudi Arabia passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "TH:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Thailand passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "SM:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "San Marino passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "VN:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Vietnam passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "BZ:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Belize passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "AT:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Austria passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "HT:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Haiti passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "BN:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Brunei passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "ME:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Montenegro passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "SE:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Sweden passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "CM:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Cameroon passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "GN:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Guinea passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "MZ:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Mozambique passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "BI:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Burundi passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "OM:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Oman passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "PT:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Portugal passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "TG:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Togo passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "GR:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Greece passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "BB:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Barbados passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "CZ:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Czechia passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "RO:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Romania passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "NP:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Nepal passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "VC:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "St. Vincent & Grenadines passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "LI:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Liechtenstein passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "KW:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Kuwait passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "NL:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Netherlands passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "CL:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Chile passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "EG:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Egypt passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "KH:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Cambodia passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "ST:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "São Tomé & Príncipe passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "RS:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Serbia passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "TD:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Chad passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "MA:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Morocco passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "UY:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Uruguay passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "MO:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Macao SAR China passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "AF:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Afghanistan passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "FR:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "France passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "TN:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Tunisia passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "TJ:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Tajikistan passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "CR:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Costa Rica passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "HN:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Honduras passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "CF:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Central African Republic passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "TZ:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Tanzania passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "GA:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Gabon passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "AL:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Albania passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "NG:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Nigeria passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "GT:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Guatemala passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "MX:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Mexico passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "AE:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "United Arab Emirates passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "MR:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Mauritania passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "GB:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "United Kingdom passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "GH:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Ghana passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "IQ:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Iraq passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "TM:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Turkmenistan passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "WS:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Samoa passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "PL:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Poland passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "MW:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Malawi passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "LK:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Sri Lanka passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "HK:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Hong Kong SAR China passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "TR:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Türkiye passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "RU:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Russia passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "CD:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Congo - Kinshasa passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "ZM:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Zambia passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "IN:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "India passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "US:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "United States passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "SS:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "South Sudan passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "AD:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Andorra passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "DM:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Dominica passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "MV:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Maldives passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "IR:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Iran passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "MM:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Myanmar (Burma) passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "PH:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Philippines passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "LS:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Lesotho passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "TT:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Trinidad & Tobago passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "YE:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Yemen passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "BJ:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Benin passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "IL:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Israel passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "EC:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Ecuador passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "MN:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Mongolia passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "BE:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Belgium passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "DO:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Dominican Republic passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "CV:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Cape Verde passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "LY:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Libya passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "NA:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Namibia passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "ML:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Mali passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "SR:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Suriname passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "DK:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Denmark passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "ZA:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "South Africa passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "AU:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Australia passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "SB:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Solomon Islands passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "TW:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Taiwan passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "MD:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Moldova passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "NI:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Nicaragua passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "BF:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Burkina Faso passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "HR:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Croatia passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "BH:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Bahrain passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "BG:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Bulgaria passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "KR:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "South Korea passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "LV:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Latvia passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "PW:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Palau passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "TO:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Tonga passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "CA:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Canada passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "KM:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Comoros passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "SV:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "El Salvador passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "RW:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Rwanda passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "NZ:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "New Zealand passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "CG:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Congo - Brazzaville passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "KZ:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Kazakhstan passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "IE:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Ireland passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "DJ:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Djibouti passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "LB:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Lebanon passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "HU:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Hungary passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "PA:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Panama passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "SN:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Senegal passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "BT:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Bhutan passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "BO:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Bolivia passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "SK:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Slovakia passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "SI:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Slovenia passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "BS:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Bahamas passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "GE:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Georgia passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "AG:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Antigua & Barbuda passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "BR:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Brazil passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "AR:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Argentina passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "SO:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Somalia passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "LR:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Liberia passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "MT:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Malta passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "GQ:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Equatorial Guinea passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "BA:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Bosnia & Herzegovina passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "IS:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Iceland passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "MY:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Malaysia passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "UA:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Ukraine passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "SC:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Seychelles passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "MG:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Madagascar passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "AO:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Angola passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "FI:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Finland passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "GW:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Guinea-Bissau passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "JP:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Japan passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "PS:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Palestinian Territories passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "KI:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Kiribati passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "SY:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Syria passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "ZW:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Zimbabwe passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "TL:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Timor-Leste passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "DE:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Germany passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "LU:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Luxembourg passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "GY:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Guyana passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "XK:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Kosovo passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "TV:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Tuvalu passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "JO:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Jordan passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "LT:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Lithuania passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "IT:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Italy passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "CN:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "China passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "PE:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Peru passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "MC:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Monaco passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "NR:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Nauru passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "BD:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "Bangladesh passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
+ },
+ "LC:ER": {
+  "date": "2026-11-11",
+  "source": "https://www.eritrea.be/",
+  "source_name": "Eritrea visa rules (Timatic), as compiled",
+  "note": "St. Lucia passport holders must obtain a visa for Eritrea from an Eritrean diplomatic mission in advance; a sponsor in Eritrea can also pre-arrange a visa to be collected on arrival when the request is filed at least 48 hours ahead."
  }
 }
