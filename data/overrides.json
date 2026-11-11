@@ -39206,5 +39206,18 @@
   "reason": "Settled 2026-11-11 against Colombia's exemption list and Online Visa rules as compiled (see research-co-official.md).",
   "source": "https://www.cancilleria.gov.co/",
   "date": "2026-11-11"
+ },
+ "MO:EC": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Ecuador's visa-required list and e-Visa rules as compiled (see research-ec-official.md).",
+  "source": "https://www.cancilleria.gob.ec/",
+  "date": "2026-11-11"
+ },
+ "PE:EC": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Ecuador's visa-required list and e-Visa rules as compiled (see research-ec-official.md).",
+  "source": "https://www.cancilleria.gob.ec/",
+  "date": "2026-11-11"
  }
 }
