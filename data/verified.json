@@ -119039,5 +119039,1193 @@
   "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
   "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
   "note": "Guyana passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "BE:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Freedom of movement: Belgium citizens, as EU/EEA or Swiss citizens, may enter Malta with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months apply for a residence document with Identita."
+ },
+ "ES:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Freedom of movement: Spain citizens, as EU/EEA or Swiss citizens, may enter Malta with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months apply for a residence document with Identita."
+ },
+ "EE:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Freedom of movement: Estonia citizens, as EU/EEA or Swiss citizens, may enter Malta with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months apply for a residence document with Identita."
+ },
+ "NL:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Freedom of movement: Netherlands citizens, as EU/EEA or Swiss citizens, may enter Malta with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months apply for a residence document with Identita."
+ },
+ "IE:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Freedom of movement: Ireland citizens, as EU/EEA or Swiss citizens, may enter Malta with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months apply for a residence document with Identita."
+ },
+ "IS:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Freedom of movement: Iceland citizens, as EU/EEA or Swiss citizens, may enter Malta with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months apply for a residence document with Identita."
+ },
+ "RO:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Freedom of movement: Romania citizens, as EU/EEA or Swiss citizens, may enter Malta with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months apply for a residence document with Identita."
+ },
+ "NO:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Freedom of movement: Norway citizens, as EU/EEA or Swiss citizens, may enter Malta with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months apply for a residence document with Identita."
+ },
+ "PT:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Freedom of movement: Portugal citizens, as EU/EEA or Swiss citizens, may enter Malta with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months apply for a residence document with Identita."
+ },
+ "FI:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Freedom of movement: Finland citizens, as EU/EEA or Swiss citizens, may enter Malta with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months apply for a residence document with Identita."
+ },
+ "DK:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Freedom of movement: Denmark citizens, as EU/EEA or Swiss citizens, may enter Malta with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months apply for a residence document with Identita."
+ },
+ "HU:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Freedom of movement: Hungary citizens, as EU/EEA or Swiss citizens, may enter Malta with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months apply for a residence document with Identita."
+ },
+ "PL:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Freedom of movement: Poland citizens, as EU/EEA or Swiss citizens, may enter Malta with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months apply for a residence document with Identita."
+ },
+ "LV:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Freedom of movement: Latvia citizens, as EU/EEA or Swiss citizens, may enter Malta with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months apply for a residence document with Identita."
+ },
+ "AT:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Freedom of movement: Austria citizens, as EU/EEA or Swiss citizens, may enter Malta with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months apply for a residence document with Identita."
+ },
+ "FR:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Freedom of movement: France citizens, as EU/EEA or Swiss citizens, may enter Malta with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months apply for a residence document with Identita."
+ },
+ "SI:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Freedom of movement: Slovenia citizens, as EU/EEA or Swiss citizens, may enter Malta with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months apply for a residence document with Identita."
+ },
+ "LT:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Freedom of movement: Lithuania citizens, as EU/EEA or Swiss citizens, may enter Malta with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months apply for a residence document with Identita."
+ },
+ "BG:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Freedom of movement: Bulgaria citizens, as EU/EEA or Swiss citizens, may enter Malta with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months apply for a residence document with Identita."
+ },
+ "CY:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Freedom of movement: Cyprus citizens, as EU/EEA or Swiss citizens, may enter Malta with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months apply for a residence document with Identita."
+ },
+ "SE:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Freedom of movement: Sweden citizens, as EU/EEA or Swiss citizens, may enter Malta with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months apply for a residence document with Identita."
+ },
+ "GR:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Freedom of movement: Greece citizens, as EU/EEA or Swiss citizens, may enter Malta with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months apply for a residence document with Identita."
+ },
+ "HR:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Freedom of movement: Croatia citizens, as EU/EEA or Swiss citizens, may enter Malta with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months apply for a residence document with Identita."
+ },
+ "LU:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Freedom of movement: Luxembourg citizens, as EU/EEA or Swiss citizens, may enter Malta with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months apply for a residence document with Identita."
+ },
+ "SK:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Freedom of movement: Slovakia citizens, as EU/EEA or Swiss citizens, may enter Malta with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months apply for a residence document with Identita."
+ },
+ "CH:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Freedom of movement: Switzerland citizens, as EU/EEA or Swiss citizens, may enter Malta with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months apply for a residence document with Identita."
+ },
+ "IT:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Freedom of movement: Italy citizens, as EU/EEA or Swiss citizens, may enter Malta with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months apply for a residence document with Identita."
+ },
+ "DE:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Freedom of movement: Germany citizens, as EU/EEA or Swiss citizens, may enter Malta with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months apply for a residence document with Identita."
+ },
+ "LI:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Freedom of movement: Liechtenstein citizens, as EU/EEA or Swiss citizens, may enter Malta with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months apply for a residence document with Identita."
+ },
+ "CZ:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Freedom of movement: Czechia citizens, as EU/EEA or Swiss citizens, may enter Malta with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months apply for a residence document with Identita."
+ },
+ "BB:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Barbados passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "BR:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Brazil passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "TO:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Tonga passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "CR:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Costa Rica passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "DM:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Dominica passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "KI:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Kiribati passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "US:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "United States passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "PA:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Panama passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "AE:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "United Arab Emirates passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "SC:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Seychelles passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "TV:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Tuvalu passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "AG:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Antigua & Barbuda passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "GD:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Grenada passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "RS:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Serbia passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years. Biometric passports only — holders of non-biometric passports need a visa in advance (EUR 35 under the EU visa facilitation agreement). Passports issued by the Serbian Coordination Directorate for Kosovo and Metohija are covered since 13 October 2024."
+ },
+ "BN:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Brunei passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "WS:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Samoa passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "AR:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Argentina passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "UA:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Ukraine passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years. Biometric passports only — holders of non-biometric passports need a visa in advance (EUR 35 under the EU visa facilitation agreement)."
+ },
+ "SM:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "San Marino passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "VA:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Vatican City passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "FM:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Micronesia passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "CO:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Colombia passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "GT:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Guatemala passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "MH:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Marshall Islands passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "PY:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Paraguay passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "AU:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Australia passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "GB:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "United Kingdom passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years. Applies to British citizens; other British passport classes are covered by the same Annex II entry."
+ },
+ "GE:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Georgia passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years. Biometric passports only — holders of non-biometric passports need a visa in advance (EUR 35 under the EU visa facilitation agreement)."
+ },
+ "ME:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Montenegro passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years. Biometric passports only — holders of non-biometric passports need a visa in advance (EUR 35 under the EU visa facilitation agreement)."
+ },
+ "PE:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Peru passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "SB:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Solomon Islands passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "MO:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Macao SAR China passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years. Applies to holders of the Special Administrative Region passport only."
+ },
+ "VC:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "St. Vincent & Grenadines passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "UY:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Uruguay passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "MK:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "North Macedonia passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years. Biometric passports only — holders of non-biometric passports need a visa in advance (EUR 35 under the EU visa facilitation agreement)."
+ },
+ "PW:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Palau passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "HK:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Hong Kong SAR China passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years. Applies to holders of the Special Administrative Region passport only."
+ },
+ "HN:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Honduras passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "KN:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "St. Kitts & Nevis passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "TW:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Taiwan passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years. Applies only if the Taiwan passport contains an identity card number."
+ },
+ "TL:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Timor-Leste passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "SV:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "El Salvador passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "TT:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Trinidad & Tobago passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "XK:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Kosovo passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years. Biometric passports only — holders of non-biometric passports need a visa in advance."
+ },
+ "AL:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Albania passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years. Biometric passports only — holders of non-biometric passports need a visa in advance (EUR 35 under the EU visa facilitation agreement)."
+ },
+ "VE:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Venezuela passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "BA:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Bosnia & Herzegovina passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years. Biometric passports only — holders of non-biometric passports need a visa in advance (EUR 35 under the EU visa facilitation agreement)."
+ },
+ "CA:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Canada passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "AD:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Andorra passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "MC:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Monaco passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "IL:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Israel passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "JP:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Japan passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "NZ:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "New Zealand passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "CL:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Chile passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "NI:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Nicaragua passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "LC:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "St. Lucia passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "MU:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Mauritius passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "BS:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Bahamas passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "KR:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "South Korea passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "MX:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Mexico passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "SG:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Singapore passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "MY:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Malaysia passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "MD:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Moldova passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years. Biometric passports only — holders of non-biometric passports need a visa in advance (EUR 35 under the EU visa facilitation agreement)."
+ },
+ "NA:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Namibia passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "TG:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Togo passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "PK:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Pakistan passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period. Malta also requires an airport transit visa from this nationality for passing through a Malta airport, unless the traveller holds a residence permit issued by a Schengen state valid at least 3 months beyond the transit."
+ },
+ "CV:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Cape Verde passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period. Fee EUR 67.50 under the EU–Cabo Verde facilitation agreement (EUR 33.75 for children aged 6–12)."
+ },
+ "ZM:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Zambia passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "KZ:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Kazakhstan passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "AZ:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Azerbaijan passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period. EU visa facilitation fee: EUR 35."
+ },
+ "CI:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Côte d’Ivoire passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "MZ:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Mozambique passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "BW:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Botswana passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "DJ:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Djibouti passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "CG:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Congo - Brazzaville passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "BD:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Bangladesh passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period. Malta also requires an airport transit visa from this nationality for passing through a Malta airport, unless the traveller holds a residence permit issued by a Schengen state valid at least 3 months beyond the transit."
+ },
+ "GQ:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Equatorial Guinea passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "BF:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Burkina Faso passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "YE:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Yemen passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "GH:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Ghana passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period. Malta also requires an airport transit visa from this nationality for passing through a Malta airport, unless the traveller holds a residence permit issued by a Schengen state valid at least 3 months beyond the transit."
+ },
+ "KE:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Kenya passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "DO:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Dominican Republic passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "VU:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Vanuatu passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period.Malta's publicised exemption list still names Vanuatu; the EU visa waiver for Vanuatu was suspended in 2022 and fully revoked with effect from 3 February 2025, and the revocation governs."
+ },
+ "IN:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "India passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "QA:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Qatar passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "RW:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Rwanda passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "SY:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Syria passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "ER:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Eritrea passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period. Malta also requires an airport transit visa from this nationality for passing through a Malta airport, unless the traveller holds a residence permit issued by a Schengen state valid at least 3 months beyond the transit."
+ },
+ "SA:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Saudi Arabia passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "MR:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Mauritania passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "CN:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "China passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "BO:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Bolivia passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "PS:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Palestinian Territories passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "SN:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Senegal passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "MG:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Madagascar passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "LK:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Sri Lanka passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period. Malta also requires an airport transit visa from this nationality for passing through a Malta airport, unless the traveller holds a residence permit issued by a Schengen state valid at least 3 months beyond the transit."
+ },
+ "JO:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Jordan passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "PG:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Papua New Guinea passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "CD:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Congo - Kinshasa passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period. Malta also requires an airport transit visa from this nationality for passing through a Malta airport, unless the traveller holds a residence permit issued by a Schengen state valid at least 3 months beyond the transit."
+ },
+ "LY:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Libya passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "MV:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Maldives passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "BJ:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Benin passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "JM:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Jamaica passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "GM:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Gambia passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "GN:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Guinea passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "CM:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Cameroon passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "CU:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Cuba passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "IQ:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Iraq passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period. Malta also requires an airport transit visa from this nationality for passing through a Malta airport, unless the traveller holds a residence permit issued by a Schengen state valid at least 3 months beyond the transit."
+ },
+ "LS:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Lesotho passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "BH:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Bahrain passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "SO:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Somalia passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period. Malta also requires an airport transit visa from this nationality for passing through a Malta airport, unless the traveller holds a residence permit issued by a Schengen state valid at least 3 months beyond the transit."
+ },
+ "NR:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Nauru passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period. Nauru is named in Annex II of Regulation (EU) 2018/1806, but footnote (6) makes the exemption apply only once an EU–Nauru visa waiver agreement enters into force; none has been concluded, so the listing is dormant and a visa is required in practice."
+ },
+ "LB:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Lebanon passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "LA:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Laos passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "UZ:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Uzbekistan passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "EG:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Egypt passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "BI:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Burundi passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "ML:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Mali passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "TH:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Thailand passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "OM:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Oman passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "MN:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Mongolia passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "TM:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Turkmenistan passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "DZ:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Algeria passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "EC:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Ecuador passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "BZ:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Belize passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "AF:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Afghanistan passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period. Malta also requires an airport transit visa from this nationality for passing through a Malta airport, unless the traveller holds a residence permit issued by a Schengen state valid at least 3 months beyond the transit."
+ },
+ "TZ:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Tanzania passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "MW:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Malawi passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "KH:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Cambodia passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "SR:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Suriname passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "KW:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Kuwait passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "FJ:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Fiji passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "GA:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Gabon passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "ET:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Ethiopia passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period. Malta also requires an airport transit visa from this nationality for passing through a Malta airport, unless the traveller holds a residence permit issued by a Schengen state valid at least 3 months beyond the transit."
+ },
+ "UG:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Uganda passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "ZA:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "South Africa passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "TD:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Chad passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "BT:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Bhutan passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "RU:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Russia passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "PH:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Philippines passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "KG:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Kyrgyzstan passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "SD:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Sudan passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "HT:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Haiti passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "GW:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Guinea-Bissau passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "ZW:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Zimbabwe passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "NG:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Nigeria passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period. Malta also requires an airport transit visa from this nationality for passing through a Malta airport, unless the traveller holds a residence permit issued by a Schengen state valid at least 3 months beyond the transit."
+ },
+ "LR:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Liberia passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "CF:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Central African Republic passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "KM:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Comoros passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "ST:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "São Tomé & Príncipe passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "SS:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "South Sudan passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "TN:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Tunisia passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "NE:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Niger passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "IR:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Iran passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period. Malta also requires an airport transit visa from this nationality for passing through a Malta airport, unless the traveller holds a residence permit issued by a Schengen state valid at least 3 months beyond the transit."
+ },
+ "VN:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Vietnam passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "MA:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Morocco passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "SL:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Sierra Leone passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "KP:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "North Korea passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "TR:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Türkiye passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "ID:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Indonesia passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "MM:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Myanmar (Burma) passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "GY:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Guyana passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "AM:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Armenia passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period. EU visa facilitation fee: EUR 35."
+ },
+ "TJ:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Tajikistan passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "SZ:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Eswatini passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "NP:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Nepal passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "BY:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Belarus passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period. EU visa facilitation fee: EUR 35."
+ },
+ "AO:MT": {
+  "date": "2026-11-11",
+  "source": "https://identita.gov.mt/",
+  "source_name": "Identita Malta (Central Visa Unit) — visa policy; Regulation (EU) 2018/1806 lists as laid by PQ 25660",
+  "note": "Angola passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Maltese diplomatic mission or an authorised visa application centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Malta, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
  }
 }
