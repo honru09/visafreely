@@ -848,6 +848,14 @@
   "source_name": "Ministry of Justice (via K-ETA notices)"
  },
  {
+  "date": "2023-02-15",
+  "destination": "GT",
+  "title": "Guatemala reimposes visas on Dominican Republic nationals",
+  "summary": "The Dominican Republic's visa exemption for Guatemala was cancelled on 15 February 2023; Dominican passport holders now need a category-B visa in advance (the substitute-visa rule still applies).",
+  "source": "https://www.minex.gob.gt/",
+  "source_name": "MINEX Guatemala"
+ },
+ {
   "date": "2022-11-01",
   "destination": "JP",
   "title": "Japan exempts the United Arab Emirates from visas",
@@ -894,6 +902,14 @@
   "summary": "Venezuelan passport holders have needed a Mexican visa since 22 January 2022.",
   "source": "https://www.gob.mx/inm",
   "source_name": "Instituto Nacional de Migración (INM)"
+ },
+ {
+  "date": "2021-09-20",
+  "destination": "GT",
+  "title": "Guatemala reimposes visas on Ecuadorian nationals",
+  "summary": "Ecuador's visa exemption for Guatemala was cancelled on 20 September 2021 (moved to consular-visa category B); a visa in advance has been required since.",
+  "source": "https://www.minex.gob.gt/",
+  "source_name": "MINEX Guatemala"
  },
  {
   "date": "2021-09-04",
