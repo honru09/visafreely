@@ -117851,5 +117851,1193 @@
   "source": "https://keliauk.urm.lt/en",
   "source_name": "Ministry of Foreign Affairs of Lithuania — Do I need a visa to enter Lithuania?; EU exemption per Regulation (EU) 2018/1806",
   "note": "Senegal passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Lithuanian embassy or consulate or a VFS Global centre (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Lithuania, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "HR:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Freedom of movement: Croatia citizens, as EU/EEA or Swiss citizens, may enter Luxembourg with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months register with the municipal administration."
+ },
+ "BG:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Freedom of movement: Bulgaria citizens, as EU/EEA or Swiss citizens, may enter Luxembourg with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months register with the municipal administration."
+ },
+ "LT:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Freedom of movement: Lithuania citizens, as EU/EEA or Swiss citizens, may enter Luxembourg with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months register with the municipal administration."
+ },
+ "DE:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Freedom of movement: Germany citizens, as EU/EEA or Swiss citizens, may enter Luxembourg with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months register with the municipal administration."
+ },
+ "IE:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Freedom of movement: Ireland citizens, as EU/EEA or Swiss citizens, may enter Luxembourg with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months register with the municipal administration."
+ },
+ "GR:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Freedom of movement: Greece citizens, as EU/EEA or Swiss citizens, may enter Luxembourg with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months register with the municipal administration."
+ },
+ "AT:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Freedom of movement: Austria citizens, as EU/EEA or Swiss citizens, may enter Luxembourg with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months register with the municipal administration."
+ },
+ "HU:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Freedom of movement: Hungary citizens, as EU/EEA or Swiss citizens, may enter Luxembourg with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months register with the municipal administration."
+ },
+ "ES:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Freedom of movement: Spain citizens, as EU/EEA or Swiss citizens, may enter Luxembourg with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months register with the municipal administration."
+ },
+ "PT:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Freedom of movement: Portugal citizens, as EU/EEA or Swiss citizens, may enter Luxembourg with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months register with the municipal administration."
+ },
+ "DK:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Freedom of movement: Denmark citizens, as EU/EEA or Swiss citizens, may enter Luxembourg with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months register with the municipal administration."
+ },
+ "MT:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Freedom of movement: Malta citizens, as EU/EEA or Swiss citizens, may enter Luxembourg with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months register with the municipal administration."
+ },
+ "SI:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Freedom of movement: Slovenia citizens, as EU/EEA or Swiss citizens, may enter Luxembourg with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months register with the municipal administration."
+ },
+ "SK:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Freedom of movement: Slovakia citizens, as EU/EEA or Swiss citizens, may enter Luxembourg with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months register with the municipal administration."
+ },
+ "PL:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Freedom of movement: Poland citizens, as EU/EEA or Swiss citizens, may enter Luxembourg with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months register with the municipal administration."
+ },
+ "NL:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Freedom of movement: Netherlands citizens, as EU/EEA or Swiss citizens, may enter Luxembourg with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months register with the municipal administration."
+ },
+ "LI:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Freedom of movement: Liechtenstein citizens, as EU/EEA or Swiss citizens, may enter Luxembourg with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months register with the municipal administration."
+ },
+ "CZ:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Freedom of movement: Czechia citizens, as EU/EEA or Swiss citizens, may enter Luxembourg with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months register with the municipal administration."
+ },
+ "FI:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Freedom of movement: Finland citizens, as EU/EEA or Swiss citizens, may enter Luxembourg with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months register with the municipal administration."
+ },
+ "SE:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Freedom of movement: Sweden citizens, as EU/EEA or Swiss citizens, may enter Luxembourg with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months register with the municipal administration."
+ },
+ "IS:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Freedom of movement: Iceland citizens, as EU/EEA or Swiss citizens, may enter Luxembourg with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months register with the municipal administration."
+ },
+ "LV:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Freedom of movement: Latvia citizens, as EU/EEA or Swiss citizens, may enter Luxembourg with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months register with the municipal administration."
+ },
+ "EE:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Freedom of movement: Estonia citizens, as EU/EEA or Swiss citizens, may enter Luxembourg with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months register with the municipal administration."
+ },
+ "CY:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Freedom of movement: Cyprus citizens, as EU/EEA or Swiss citizens, may enter Luxembourg with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months register with the municipal administration."
+ },
+ "BE:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Freedom of movement: Belgium citizens, as EU/EEA or Swiss citizens, may enter Luxembourg with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months register with the municipal administration."
+ },
+ "FR:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Freedom of movement: France citizens, as EU/EEA or Swiss citizens, may enter Luxembourg with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months register with the municipal administration."
+ },
+ "CH:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Freedom of movement: Switzerland citizens, as EU/EEA or Swiss citizens, may enter Luxembourg with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months register with the municipal administration."
+ },
+ "RO:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Freedom of movement: Romania citizens, as EU/EEA or Swiss citizens, may enter Luxembourg with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months register with the municipal administration."
+ },
+ "NO:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Freedom of movement: Norway citizens, as EU/EEA or Swiss citizens, may enter Luxembourg with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months register with the municipal administration."
+ },
+ "IT:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Freedom of movement: Italy citizens, as EU/EEA or Swiss citizens, may enter Luxembourg with a passport or a national identity card and may live and work without a visa; no 90-day cap applies. Those staying longer than three months register with the municipal administration."
+ },
+ "SM:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "San Marino passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "VE:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Venezuela passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "JP:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Japan passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "BN:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Brunei passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "MO:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Macao SAR China passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years. Applies to holders of the Special Administrative Region passport only."
+ },
+ "AR:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Argentina passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "AD:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Andorra passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "CR:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Costa Rica passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "PA:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Panama passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "NZ:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "New Zealand passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "PY:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Paraguay passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "BS:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Bahamas passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "SC:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Seychelles passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "HK:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Hong Kong SAR China passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years. Applies to holders of the Special Administrative Region passport only."
+ },
+ "TT:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Trinidad & Tobago passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "AG:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Antigua & Barbuda passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "NI:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Nicaragua passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "IL:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Israel passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "VA:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Vatican City passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "MX:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Mexico passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "TO:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Tonga passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "GD:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Grenada passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "MY:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Malaysia passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "MH:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Marshall Islands passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "AL:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Albania passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years. Biometric passports only — holders of non-biometric passports need a visa in advance (EUR 35 under the EU visa facilitation agreement)."
+ },
+ "UY:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Uruguay passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "XK:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Kosovo passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years. Biometric passports only — holders of non-biometric passports need a visa in advance."
+ },
+ "SG:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Singapore passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "GT:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Guatemala passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "MU:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Mauritius passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "ME:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Montenegro passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years. Biometric passports only — holders of non-biometric passports need a visa in advance (EUR 35 under the EU visa facilitation agreement)."
+ },
+ "PW:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Palau passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "HN:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Honduras passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "KI:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Kiribati passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "TL:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Timor-Leste passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "TV:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Tuvalu passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "WS:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Samoa passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "FM:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Micronesia passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "MK:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "North Macedonia passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years. Biometric passports only — holders of non-biometric passports need a visa in advance (EUR 35 under the EU visa facilitation agreement)."
+ },
+ "PE:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Peru passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "AU:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Australia passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "CA:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Canada passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "BB:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Barbados passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "UA:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Ukraine passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years. Biometric passports only — holders of non-biometric passports need a visa in advance (EUR 35 under the EU visa facilitation agreement)."
+ },
+ "TW:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Taiwan passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years. Applies only if the Taiwan passport contains an identity card number."
+ },
+ "SV:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "El Salvador passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "AE:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "United Arab Emirates passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "VC:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "St. Vincent & Grenadines passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "CL:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Chile passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "GE:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Georgia passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years. Biometric passports only — holders of non-biometric passports need a visa in advance (EUR 35 under the EU visa facilitation agreement)."
+ },
+ "KR:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "South Korea passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "KN:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "St. Kitts & Nevis passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "BR:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Brazil passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "MD:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Moldova passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years. Biometric passports only — holders of non-biometric passports need a visa in advance (EUR 35 under the EU visa facilitation agreement)."
+ },
+ "CO:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Colombia passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "LC:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "St. Lucia passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "DM:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Dominica passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "GB:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "United Kingdom passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years. Applies to British citizens; other British passport classes are covered by the same Annex II entry."
+ },
+ "RS:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Serbia passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years. Biometric passports only — holders of non-biometric passports need a visa in advance (EUR 35 under the EU visa facilitation agreement). Passports issued by the Serbian Coordination Directorate for Kosovo and Metohija are covered since 13 October 2024."
+ },
+ "SB:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Solomon Islands passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "MC:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Monaco passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "US:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "United States passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years."
+ },
+ "BA:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Bosnia & Herzegovina passport holders are visa-free for short stays of up to 90 days in any 180-day period across the Schengen Area as a whole — the clock covers all Schengen states combined (Annex II of EU Regulation 2018/1806). Passport must be valid at least 3 months after the intended departure and issued within the previous 10 years. Biometric passports only — holders of non-biometric passports need a visa in advance (EUR 35 under the EU visa facilitation agreement)."
+ },
+ "NR:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Nauru passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period. Nauru is named in Annex II of Regulation (EU) 2018/1806, but footnote (6) makes the exemption apply only once an EU–Nauru visa waiver agreement enters into force; none has been concluded, so the listing is dormant and a visa is required in practice."
+ },
+ "CD:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Congo - Kinshasa passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period. Sweden also requires an airport transit visa from this nationality for passing through a Luxembourg airport, unless the traveller holds a residence permit issued by a Schengen state valid at least 3 months beyond the transit."
+ },
+ "VU:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Vanuatu passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period.Luxembourg's published exemption list still carries Vanuatu with a passport-recognition line; the EU visa waiver for Vanuatu was fully revoked with effect from 3 February 2025, and the revocation governs."
+ },
+ "MZ:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Mozambique passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "OM:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Oman passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "MA:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Morocco passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "ZW:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Zimbabwe passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "EC:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Ecuador passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "TM:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Turkmenistan passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "TJ:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Tajikistan passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "KG:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Kyrgyzstan passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "KP:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "North Korea passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "CN:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "China passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "AO:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Angola passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "MR:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Mauritania passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "BZ:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Belize passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "BF:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Burkina Faso passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "GA:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Gabon passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "BO:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Bolivia passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "LS:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Lesotho passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "KZ:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Kazakhstan passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "AM:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Armenia passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period. EU visa facilitation fee: EUR 35."
+ },
+ "AF:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Afghanistan passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period. Sweden also requires an airport transit visa from this nationality for passing through a Luxembourg airport, unless the traveller holds a residence permit issued by a Schengen state valid at least 3 months beyond the transit."
+ },
+ "SD:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Sudan passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "SA:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Saudi Arabia passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "SR:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Suriname passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "JO:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Jordan passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "MM:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Myanmar (Burma) passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "DO:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Dominican Republic passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "LY:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Libya passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "BJ:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Benin passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "CG:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Congo - Brazzaville passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "PS:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Palestinian Territories passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "CU:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Cuba passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "DZ:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Algeria passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "MN:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Mongolia passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "TR:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Türkiye passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "EG:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Egypt passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "IR:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Iran passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period. Sweden also requires an airport transit visa from this nationality for passing through a Luxembourg airport, unless the traveller holds a residence permit issued by a Schengen state valid at least 3 months beyond the transit."
+ },
+ "KW:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Kuwait passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "ET:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Ethiopia passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period. Sweden also requires an airport transit visa from this nationality for passing through a Luxembourg airport, unless the traveller holds a residence permit issued by a Schengen state valid at least 3 months beyond the transit."
+ },
+ "MW:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Malawi passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "BI:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Burundi passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "ML:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Mali passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "CM:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Cameroon passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "TH:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Thailand passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "SL:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Sierra Leone passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "SZ:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Eswatini passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "GH:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Ghana passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period. Sweden also requires an airport transit visa from this nationality for passing through a Luxembourg airport, unless the traveller holds a residence permit issued by a Schengen state valid at least 3 months beyond the transit."
+ },
+ "TD:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Chad passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "PK:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Pakistan passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period. Sweden also requires an airport transit visa from this nationality for passing through a Luxembourg airport, unless the traveller holds a residence permit issued by a Schengen state valid at least 3 months beyond the transit."
+ },
+ "KH:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Cambodia passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "BY:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Belarus passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period. EU visa facilitation fee: EUR 35."
+ },
+ "UZ:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Uzbekistan passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "SS:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "South Sudan passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "AZ:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Azerbaijan passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period. EU visa facilitation fee: EUR 35."
+ },
+ "GW:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Guinea-Bissau passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "IQ:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Iraq passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period. Sweden also requires an airport transit visa from this nationality for passing through a Luxembourg airport, unless the traveller holds a residence permit issued by a Schengen state valid at least 3 months beyond the transit."
+ },
+ "KM:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Comoros passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "LK:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Sri Lanka passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period. Sweden also requires an airport transit visa from this nationality for passing through a Luxembourg airport, unless the traveller holds a residence permit issued by a Schengen state valid at least 3 months beyond the transit."
+ },
+ "ST:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "São Tomé & Príncipe passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "SO:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Somalia passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period. Sweden also requires an airport transit visa from this nationality for passing through a Luxembourg airport, unless the traveller holds a residence permit issued by a Schengen state valid at least 3 months beyond the transit."
+ },
+ "GN:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Guinea passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "BD:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Bangladesh passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period. Sweden also requires an airport transit visa from this nationality for passing through a Luxembourg airport, unless the traveller holds a residence permit issued by a Schengen state valid at least 3 months beyond the transit."
+ },
+ "PH:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Philippines passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "SN:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Senegal passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "CI:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Côte d’Ivoire passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "NP:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Nepal passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "FJ:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Fiji passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "BW:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Botswana passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "SY:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Syria passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "MG:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Madagascar passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "ID:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Indonesia passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "NG:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Nigeria passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period. Sweden also requires an airport transit visa from this nationality for passing through a Luxembourg airport, unless the traveller holds a residence permit issued by a Schengen state valid at least 3 months beyond the transit."
+ },
+ "GM:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Gambia passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "GQ:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Equatorial Guinea passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "JM:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Jamaica passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "HT:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Haiti passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "UG:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Uganda passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "CF:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Central African Republic passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "LA:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Laos passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "BH:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Bahrain passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "LR:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Liberia passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "TG:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Togo passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "IN:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "India passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "ER:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Eritrea passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period. Sweden also requires an airport transit visa from this nationality for passing through a Luxembourg airport, unless the traveller holds a residence permit issued by a Schengen state valid at least 3 months beyond the transit."
+ },
+ "CV:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Cape Verde passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period. Fee EUR 67.50 under the EU–Cabo Verde facilitation agreement (EUR 33.75 for children aged 6–12)."
+ },
+ "NA:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Namibia passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "NE:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Niger passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "QA:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Qatar passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "KE:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Kenya passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "LB:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Lebanon passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "TZ:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Tanzania passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "BT:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Bhutan passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "MV:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Maldives passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "TN:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Tunisia passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "RW:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Rwanda passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "VN:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Vietnam passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "ZA:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "South Africa passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "ZM:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Zambia passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "YE:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Yemen passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "RU:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Russia passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "DJ:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Djibouti passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "PG:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Papua New Guinea passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
+ },
+ "GY:LU": {
+  "date": "2026-11-11",
+  "source": "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-et-immigration.html",
+  "source_name": "Luxembourg Ministry of Foreign Affairs — list of countries whose citizens are exempted from the visa requirement; Regulation (EU) 2018/1806",
+  "note": "Guyana passport holders need a short-stay Schengen (uniform) visa in advance: apply at a Luxembourg embassy or consulate, or at the representation of the Schengen state that represents Luxembourg where there is none (fee EUR 90; lodge up to 6 months before travel; travel medical insurance of at least EUR 30,000 and sufficient means of subsistence are required). A uniform visa issued by any Schengen state is valid for Luxembourg, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period."
  }
 }
