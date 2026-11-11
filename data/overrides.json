@@ -52589,5 +52589,12 @@
   "reason": "Settled 2026-11-11 against Lesotho's exemption lists as compiled (see research-ls-official.md).",
   "source": "https://www.lesothoembassy.com/",
   "date": "2026-11-11"
+ },
+ "BI:MG": {
+  "status": "visa on arrival",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Madagascar's visa-on-arrival rules as compiled (see research-mg-official.md).",
+  "source": "https://www.evisamada.gov.mg/",
+  "date": "2026-11-11"
  }
 }
