@@ -58833,5 +58833,26 @@
   "reason": "Settled 2026-11-11 against Mauritius' PIO visa lists as compiled (see research-mu-official.md).",
   "source": "https://passport.govmu.org/",
   "date": "2026-11-11"
+ },
+ "ID:CL": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against Chile's MFA visa table as compiled (see research-cl-official.md).",
+  "source": "https://www.minrel.gob.cl/",
+  "date": "2026-11-11"
+ },
+ "MO:CL": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against Chile's MFA visa table as compiled (see research-cl-official.md).",
+  "source": "https://www.minrel.gob.cl/",
+  "date": "2026-11-11"
+ },
+ "SR:CL": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Chile's MFA visa table as compiled (see research-cl-official.md).",
+  "source": "https://www.minrel.gob.cl/",
+  "date": "2026-11-11"
  }
 }
