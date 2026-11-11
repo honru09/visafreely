@@ -40406,5 +40406,48 @@
   "reason": "Settled 2026-11-11 against Guyana's visa-exemption list as compiled (see research-gy-official.md).",
   "source": "https://www.minfor.gov.gy/",
   "date": "2026-11-11"
+ },
+ "IR:HT": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Haiti's entry requirements as compiled (see research-ht-official.md).",
+  "source": "https://www.haiti.org/",
+  "date": "2026-11-11"
+ },
+ "LY:HT": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Haiti's entry requirements as compiled (see research-ht-official.md).",
+  "source": "https://www.haiti.org/",
+  "date": "2026-11-11"
+ },
+ "PS:HT": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Haiti's entry requirements as compiled (see research-ht-official.md).",
+  "source": "https://www.haiti.org/",
+  "date": "2026-11-11"
+ },
+ "SY:HT": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Haiti's entry requirements as compiled (see research-ht-official.md).",
+  "source": "https://www.haiti.org/",
+  "date": "2026-11-11"
+ },
+ "VN:HT": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Haiti's entry requirements as compiled (see research-ht-official.md).",
+  "source": "https://www.haiti.org/",
+  "date": "2026-11-11"
+ },
+ "XK:HT": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Haiti's entry requirements as compiled (see research-ht-official.md).",
+  "source": "https://www.haiti.org/",
+  "date": "2026-11-11"
+ },
+ "YE:HT": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Haiti's entry requirements as compiled (see research-ht-official.md).",
+  "source": "https://www.haiti.org/",
+  "date": "2026-11-11"
  }
 }
