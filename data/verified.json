@@ -180665,5 +180665,1193 @@
   "source": "https://paris.diplomatie.gouv.cf/",
   "source_name": "Central African Republic visa exemption list (Timatic), as compiled",
   "note": "Namibia passport holders must obtain a visa for Central African Republic in advance from a Central African Republic or French diplomatic mission; the official e-Visa portal is in test mode and not processing applications."
+ },
+ "CF:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Central African Republic passport holders may enter Congo - Brazzaville without a visa for up to 90 days under CEMAC free movement (biometric passport)."
+ },
+ "CM:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Cameroon passport holders may enter Congo - Brazzaville without a visa for up to 90 days under CEMAC free movement (biometric passport)."
+ },
+ "TD:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Chad passport holders may enter Congo - Brazzaville without a visa for up to 90 days under CEMAC free movement (biometric passport)."
+ },
+ "GQ:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Equatorial Guinea passport holders may enter Congo - Brazzaville without a visa for up to 90 days under CEMAC free movement (biometric passport)."
+ },
+ "GA:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Gabon passport holders may enter Congo - Brazzaville without a visa for up to 90 days under CEMAC free movement (biometric passport)."
+ },
+ "BF:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Burkina Faso passport holders may obtain a visa on arrival in Congo - Brazzaville."
+ },
+ "AE:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "United Arab Emirates passport holders may obtain a visa on arrival in Congo - Brazzaville."
+ },
+ "TG:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Togo passport holders may obtain a visa on arrival in Congo - Brazzaville."
+ },
+ "RW:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Rwanda passport holders may obtain a visa on arrival in Congo - Brazzaville."
+ },
+ "SN:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Senegal passport holders may obtain a visa on arrival in Congo - Brazzaville."
+ },
+ "BJ:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Benin passport holders may obtain a visa on arrival in Congo - Brazzaville."
+ },
+ "MR:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Mauritania passport holders may obtain a visa on arrival in Congo - Brazzaville."
+ },
+ "NE:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Niger passport holders may obtain a visa on arrival in Congo - Brazzaville."
+ },
+ "CI:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Côte d’Ivoire passport holders may obtain a visa on arrival in Congo - Brazzaville."
+ },
+ "MA:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Morocco passport holders may obtain a visa on arrival in Congo - Brazzaville."
+ },
+ "BR:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Brazil passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "EG:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Egypt passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "TV:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Tuvalu passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "KE:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Kenya passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "LR:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Liberia passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "BH:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Bahrain passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "CR:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Costa Rica passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "TN:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Tunisia passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "BT:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Bhutan passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "AR:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Argentina passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "SZ:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Eswatini passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "DK:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Denmark passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "TT:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Trinidad & Tobago passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "NA:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Namibia passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "ZW:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Zimbabwe passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "SV:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "El Salvador passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "PG:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Papua New Guinea passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "KG:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Kyrgyzstan passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "UA:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Ukraine passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "AU:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Australia passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "MK:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "North Macedonia passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "ZM:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Zambia passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "NI:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Nicaragua passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "FM:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Micronesia passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "MG:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Madagascar passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "GW:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Guinea-Bissau passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "ME:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Montenegro passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "NL:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Netherlands passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "ST:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "São Tomé & Príncipe passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "KI:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Kiribati passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "LS:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Lesotho passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "RS:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Serbia passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "TR:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Türkiye passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "SA:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Saudi Arabia passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "TW:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Taiwan passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "BD:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Bangladesh passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "CO:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Colombia passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "AT:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Austria passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "US:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "United States passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "JP:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Japan passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "AG:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Antigua & Barbuda passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "CV:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Cape Verde passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "HR:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Croatia passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "CH:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Switzerland passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "MN:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Mongolia passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "PE:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Peru passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "GE:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Georgia passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "JM:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Jamaica passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "RU:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Russia passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "SR:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Suriname passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "ZA:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "South Africa passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "PH:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Philippines passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "KN:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "St. Kitts & Nevis passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "VE:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Venezuela passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "HT:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Haiti passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "ET:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Ethiopia passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "SD:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Sudan passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "AL:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Albania passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "JO:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Jordan passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "UG:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Uganda passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "FR:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "France passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "CU:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Cuba passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "BW:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Botswana passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "MC:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Monaco passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "HN:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Honduras passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "UY:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Uruguay passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "VA:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Vatican City passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "PT:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Portugal passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "AF:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Afghanistan passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "LK:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Sri Lanka passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "NR:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Nauru passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "TL:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Timor-Leste passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "EC:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Ecuador passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "NO:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Norway passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "ML:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Mali passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "NP:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Nepal passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "FI:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Finland passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "AD:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Andorra passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "KH:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Cambodia passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "MU:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Mauritius passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "GN:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Guinea passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "GR:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Greece passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "AM:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Armenia passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "IE:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Ireland passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "SM:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "San Marino passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "SB:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Solomon Islands passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "GT:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Guatemala passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "SE:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Sweden passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "SK:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Slovakia passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "GM:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Gambia passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "AO:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Angola passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "BZ:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Belize passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "BE:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Belgium passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "WS:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Samoa passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "PA:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Panama passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "HK:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Hong Kong SAR China passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "IQ:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Iraq passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "CN:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "China passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "LB:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Lebanon passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "KW:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Kuwait passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "SC:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Seychelles passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "AZ:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Azerbaijan passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "IT:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Italy passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "LI:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Liechtenstein passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "LC:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "St. Lucia passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "DM:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Dominica passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "BB:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Barbados passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "IS:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Iceland passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "QA:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Qatar passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "MT:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Malta passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "MV:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Maldives passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "BG:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Bulgaria passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "PL:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Poland passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "MH:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Marshall Islands passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "XK:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Kosovo passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "SL:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Sierra Leone passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "CD:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Congo - Kinshasa passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "FJ:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Fiji passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "LT:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Lithuania passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "TM:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Turkmenistan passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "BY:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Belarus passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "SI:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Slovenia passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "SS:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "South Sudan passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "VU:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Vanuatu passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "MZ:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Mozambique passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "SO:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Somalia passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "ER:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Eritrea passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "RO:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Romania passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "TZ:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Tanzania passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "KM:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Comoros passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "CA:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Canada passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "KR:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "South Korea passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "DZ:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Algeria passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "DO:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Dominican Republic passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "MW:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Malawi passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "IR:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Iran passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "CY:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Cyprus passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "VC:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "St. Vincent & Grenadines passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "UZ:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Uzbekistan passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "MD:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Moldova passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "MM:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Myanmar (Burma) passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "CL:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Chile passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "LA:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Laos passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "TJ:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Tajikistan passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "CZ:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Czechia passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "OM:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Oman passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "NG:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Nigeria passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "PW:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Palau passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "SY:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Syria passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "EE:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Estonia passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "HU:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Hungary passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "ES:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Spain passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "PK:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Pakistan passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "NZ:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "New Zealand passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "DE:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Germany passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "VN:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Vietnam passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "LV:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Latvia passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "KZ:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Kazakhstan passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "BA:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Bosnia & Herzegovina passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "ID:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Indonesia passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "MY:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Malaysia passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "YE:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Yemen passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "IN:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "India passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "GB:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "United Kingdom passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "IL:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Israel passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "GD:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Grenada passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "BS:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Bahamas passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "KP:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "North Korea passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "DJ:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Djibouti passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "PY:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Paraguay passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "BN:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Brunei passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "MO:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Macao SAR China passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "GH:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Ghana passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "BO:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Bolivia passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "SG:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Singapore passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "GY:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Guyana passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "MX:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Mexico passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "PS:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Palestinian Territories passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "TH:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Thailand passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "TO:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Tonga passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "LU:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Luxembourg passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "LY:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Libya passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
+ },
+ "BI:CG": {
+  "date": "2026-11-11",
+  "source": "https://ambacongo-fr.org/",
+  "source_name": "Republic of the Congo visa rules (Timatic and CEMAC free movement), as compiled",
+  "note": "Burundi passport holders must obtain a visa for Congo - Brazzaville from a Congolese diplomatic mission in advance."
  }
 }

@@ -48850,5 +48850,17 @@
   "reason": "Settled 2026-11-11 against North Korea's entry rules as compiled (see research-kp-official.md).",
   "source": "https://www.koryogroup.com/",
   "date": "2026-11-11"
+ },
+ "AE:CG": {
+  "status": "visa on arrival",
+  "reason": "Settled 2026-11-11 against Congo's CEMAC exemption and visa-on-arrival lists as compiled (see research-cg-official.md).",
+  "source": "https://ambacongo-fr.org/",
+  "date": "2026-11-11"
+ },
+ "SN:CG": {
+  "status": "visa on arrival",
+  "reason": "Settled 2026-11-11 against Congo's CEMAC exemption and visa-on-arrival lists as compiled (see research-cg-official.md).",
+  "source": "https://ambacongo-fr.org/",
+  "date": "2026-11-11"
  }
 }
