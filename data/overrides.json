@@ -39180,5 +39180,31 @@
   "reason": "Settled 2026-11-11 against Venezuela's exemption list and e-Visa rules as compiled (see research-ve-official.md).",
   "source": "https://mppre.gob.ve/",
   "date": "2026-11-11"
+ },
+ "BN:CO": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Colombia's exemption list and Online Visa rules as compiled (see research-co-official.md).",
+  "source": "https://www.cancilleria.gov.co/",
+  "date": "2026-11-11"
+ },
+ "IL:CO": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Colombia's exemption list and Online Visa rules as compiled (see research-co-official.md).",
+  "source": "https://www.cancilleria.gov.co/",
+  "date": "2026-11-11"
+ },
+ "MN:CO": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Colombia's exemption list and Online Visa rules as compiled (see research-co-official.md).",
+  "source": "https://www.cancilleria.gov.co/",
+  "date": "2026-11-11"
+ },
+ "OM:CO": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Colombia's exemption list and Online Visa rules as compiled (see research-co-official.md).",
+  "source": "https://www.cancilleria.gov.co/",
+  "date": "2026-11-11"
  }
 }
