@@ -40190,5 +40190,73 @@
   "reason": "Settled 2026-11-11 against Antigua and Barbuda's exemption list and EEV rules as compiled (see research-ag-official.md).",
   "source": "https://immigration.gov.ag/",
   "date": "2026-11-11"
+ },
+ "AE:DM": {
+  "status": "visa free",
+  "days": 21,
+  "reason": "Settled 2026-11-11 against Dominica's visa exemption regulations as compiled (see research-dm-official.md).",
+  "source": "https://dominica.gov.dm/",
+  "date": "2026-11-11"
+ },
+ "BB:DM": {
+  "status": "visa free",
+  "reason": "Settled 2026-11-11 against Dominica's visa exemption regulations as compiled (see research-dm-official.md).",
+  "source": "https://dominica.gov.dm/",
+  "date": "2026-11-11"
+ },
+ "BJ:DM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Dominica's visa exemption regulations as compiled (see research-dm-official.md).",
+  "source": "https://dominica.gov.dm/",
+  "date": "2026-11-11"
+ },
+ "BZ:DM": {
+  "status": "visa free",
+  "reason": "Settled 2026-11-11 against Dominica's visa exemption regulations as compiled (see research-dm-official.md).",
+  "source": "https://dominica.gov.dm/",
+  "date": "2026-11-11"
+ },
+ "CN:DM": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against Dominica's visa exemption regulations as compiled (see research-dm-official.md).",
+  "source": "https://dominica.gov.dm/",
+  "date": "2026-11-11"
+ },
+ "IS:DM": {
+  "status": "visa free",
+  "days": 180,
+  "reason": "Settled 2026-11-11 against Dominica's visa exemption regulations as compiled (see research-dm-official.md).",
+  "source": "https://dominica.gov.dm/",
+  "date": "2026-11-11"
+ },
+ "LI:DM": {
+  "status": "visa free",
+  "days": 180,
+  "reason": "Settled 2026-11-11 against Dominica's visa exemption regulations as compiled (see research-dm-official.md).",
+  "source": "https://dominica.gov.dm/",
+  "date": "2026-11-11"
+ },
+ "RU:DM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Dominica's visa exemption regulations as compiled (see research-dm-official.md).",
+  "source": "https://dominica.gov.dm/",
+  "date": "2026-11-11"
+ },
+ "TJ:DM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Dominica's visa exemption regulations as compiled (see research-dm-official.md).",
+  "source": "https://dominica.gov.dm/",
+  "date": "2026-11-11"
+ },
+ "UY:DM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Dominica's visa exemption regulations as compiled (see research-dm-official.md).",
+  "source": "https://dominica.gov.dm/",
+  "date": "2026-11-11"
  }
 }
