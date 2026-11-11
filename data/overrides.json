@@ -36300,5 +36300,361 @@
   "reason": "Settled 2026-11-11 against the Honduran exemption list as compiled (see research-hn-official.md).",
   "source": "https://sreci.gob.hn/",
   "date": "2026-11-11"
+ },
+ "AE:JM": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the PICA entry requirements as compiled (see research-jm-official.md).",
+  "source": "https://www.pica.gov.jm/",
+  "date": "2026-11-11"
+ },
+ "AG:JM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the PICA entry requirements as compiled (see research-jm-official.md).",
+  "source": "https://www.pica.gov.jm/",
+  "date": "2026-11-11"
+ },
+ "AT:JM": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the PICA entry requirements as compiled (see research-jm-official.md).",
+  "source": "https://www.pica.gov.jm/",
+  "date": "2026-11-11"
+ },
+ "AU:JM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the PICA entry requirements as compiled (see research-jm-official.md).",
+  "source": "https://www.pica.gov.jm/",
+  "date": "2026-11-11"
+ },
+ "BB:JM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the PICA entry requirements as compiled (see research-jm-official.md).",
+  "source": "https://www.pica.gov.jm/",
+  "date": "2026-11-11"
+ },
+ "BD:JM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the PICA entry requirements as compiled (see research-jm-official.md).",
+  "source": "https://www.pica.gov.jm/",
+  "date": "2026-11-11"
+ },
+ "BN:JM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the PICA entry requirements as compiled (see research-jm-official.md).",
+  "source": "https://www.pica.gov.jm/",
+  "date": "2026-11-11"
+ },
+ "BS:JM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the PICA entry requirements as compiled (see research-jm-official.md).",
+  "source": "https://www.pica.gov.jm/",
+  "date": "2026-11-11"
+ },
+ "BW:JM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the PICA entry requirements as compiled (see research-jm-official.md).",
+  "source": "https://www.pica.gov.jm/",
+  "date": "2026-11-11"
+ },
+ "BZ:JM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the PICA entry requirements as compiled (see research-jm-official.md).",
+  "source": "https://www.pica.gov.jm/",
+  "date": "2026-11-11"
+ },
+ "CA:JM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the PICA entry requirements as compiled (see research-jm-official.md).",
+  "source": "https://www.pica.gov.jm/",
+  "date": "2026-11-11"
+ },
+ "CY:JM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the PICA entry requirements as compiled (see research-jm-official.md).",
+  "source": "https://www.pica.gov.jm/",
+  "date": "2026-11-11"
+ },
+ "DM:JM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the PICA entry requirements as compiled (see research-jm-official.md).",
+  "source": "https://www.pica.gov.jm/",
+  "date": "2026-11-11"
+ },
+ "ES:JM": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the PICA entry requirements as compiled (see research-jm-official.md).",
+  "source": "https://www.pica.gov.jm/",
+  "date": "2026-11-11"
+ },
+ "FJ:JM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the PICA entry requirements as compiled (see research-jm-official.md).",
+  "source": "https://www.pica.gov.jm/",
+  "date": "2026-11-11"
+ },
+ "GB:JM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the PICA entry requirements as compiled (see research-jm-official.md).",
+  "source": "https://www.pica.gov.jm/",
+  "date": "2026-11-11"
+ },
+ "GD:JM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the PICA entry requirements as compiled (see research-jm-official.md).",
+  "source": "https://www.pica.gov.jm/",
+  "date": "2026-11-11"
+ },
+ "GH:JM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the PICA entry requirements as compiled (see research-jm-official.md).",
+  "source": "https://www.pica.gov.jm/",
+  "date": "2026-11-11"
+ },
+ "GM:JM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the PICA entry requirements as compiled (see research-jm-official.md).",
+  "source": "https://www.pica.gov.jm/",
+  "date": "2026-11-11"
+ },
+ "GY:JM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the PICA entry requirements as compiled (see research-jm-official.md).",
+  "source": "https://www.pica.gov.jm/",
+  "date": "2026-11-11"
+ },
+ "IN:JM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the PICA entry requirements as compiled (see research-jm-official.md).",
+  "source": "https://www.pica.gov.jm/",
+  "date": "2026-11-11"
+ },
+ "KE:JM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the PICA entry requirements as compiled (see research-jm-official.md).",
+  "source": "https://www.pica.gov.jm/",
+  "date": "2026-11-11"
+ },
+ "KI:JM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the PICA entry requirements as compiled (see research-jm-official.md).",
+  "source": "https://www.pica.gov.jm/",
+  "date": "2026-11-11"
+ },
+ "KN:JM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the PICA entry requirements as compiled (see research-jm-official.md).",
+  "source": "https://www.pica.gov.jm/",
+  "date": "2026-11-11"
+ },
+ "LC:JM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the PICA entry requirements as compiled (see research-jm-official.md).",
+  "source": "https://www.pica.gov.jm/",
+  "date": "2026-11-11"
+ },
+ "LS:JM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the PICA entry requirements as compiled (see research-jm-official.md).",
+  "source": "https://www.pica.gov.jm/",
+  "date": "2026-11-11"
+ },
+ "MT:JM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the PICA entry requirements as compiled (see research-jm-official.md).",
+  "source": "https://www.pica.gov.jm/",
+  "date": "2026-11-11"
+ },
+ "MU:JM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the PICA entry requirements as compiled (see research-jm-official.md).",
+  "source": "https://www.pica.gov.jm/",
+  "date": "2026-11-11"
+ },
+ "MV:JM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the PICA entry requirements as compiled (see research-jm-official.md).",
+  "source": "https://www.pica.gov.jm/",
+  "date": "2026-11-11"
+ },
+ "MW:JM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the PICA entry requirements as compiled (see research-jm-official.md).",
+  "source": "https://www.pica.gov.jm/",
+  "date": "2026-11-11"
+ },
+ "MY:JM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the PICA entry requirements as compiled (see research-jm-official.md).",
+  "source": "https://www.pica.gov.jm/",
+  "date": "2026-11-11"
+ },
+ "MZ:JM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the PICA entry requirements as compiled (see research-jm-official.md).",
+  "source": "https://www.pica.gov.jm/",
+  "date": "2026-11-11"
+ },
+ "NA:JM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the PICA entry requirements as compiled (see research-jm-official.md).",
+  "source": "https://www.pica.gov.jm/",
+  "date": "2026-11-11"
+ },
+ "NR:JM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the PICA entry requirements as compiled (see research-jm-official.md).",
+  "source": "https://www.pica.gov.jm/",
+  "date": "2026-11-11"
+ },
+ "NZ:JM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the PICA entry requirements as compiled (see research-jm-official.md).",
+  "source": "https://www.pica.gov.jm/",
+  "date": "2026-11-11"
+ },
+ "PG:JM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the PICA entry requirements as compiled (see research-jm-official.md).",
+  "source": "https://www.pica.gov.jm/",
+  "date": "2026-11-11"
+ },
+ "SB:JM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the PICA entry requirements as compiled (see research-jm-official.md).",
+  "source": "https://www.pica.gov.jm/",
+  "date": "2026-11-11"
+ },
+ "SC:JM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the PICA entry requirements as compiled (see research-jm-official.md).",
+  "source": "https://www.pica.gov.jm/",
+  "date": "2026-11-11"
+ },
+ "SG:JM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the PICA entry requirements as compiled (see research-jm-official.md).",
+  "source": "https://www.pica.gov.jm/",
+  "date": "2026-11-11"
+ },
+ "SL:JM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the PICA entry requirements as compiled (see research-jm-official.md).",
+  "source": "https://www.pica.gov.jm/",
+  "date": "2026-11-11"
+ },
+ "SZ:JM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the PICA entry requirements as compiled (see research-jm-official.md).",
+  "source": "https://www.pica.gov.jm/",
+  "date": "2026-11-11"
+ },
+ "TO:JM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the PICA entry requirements as compiled (see research-jm-official.md).",
+  "source": "https://www.pica.gov.jm/",
+  "date": "2026-11-11"
+ },
+ "TT:JM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the PICA entry requirements as compiled (see research-jm-official.md).",
+  "source": "https://www.pica.gov.jm/",
+  "date": "2026-11-11"
+ },
+ "TV:JM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the PICA entry requirements as compiled (see research-jm-official.md).",
+  "source": "https://www.pica.gov.jm/",
+  "date": "2026-11-11"
+ },
+ "TZ:JM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the PICA entry requirements as compiled (see research-jm-official.md).",
+  "source": "https://www.pica.gov.jm/",
+  "date": "2026-11-11"
+ },
+ "UG:JM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the PICA entry requirements as compiled (see research-jm-official.md).",
+  "source": "https://www.pica.gov.jm/",
+  "date": "2026-11-11"
+ },
+ "VC:JM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the PICA entry requirements as compiled (see research-jm-official.md).",
+  "source": "https://www.pica.gov.jm/",
+  "date": "2026-11-11"
+ },
+ "VU:JM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the PICA entry requirements as compiled (see research-jm-official.md).",
+  "source": "https://www.pica.gov.jm/",
+  "date": "2026-11-11"
+ },
+ "WS:JM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the PICA entry requirements as compiled (see research-jm-official.md).",
+  "source": "https://www.pica.gov.jm/",
+  "date": "2026-11-11"
+ },
+ "ZA:JM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the PICA entry requirements as compiled (see research-jm-official.md).",
+  "source": "https://www.pica.gov.jm/",
+  "date": "2026-11-11"
+ },
+ "ZM:JM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the PICA entry requirements as compiled (see research-jm-official.md).",
+  "source": "https://www.pica.gov.jm/",
+  "date": "2026-11-11"
  }
 }
