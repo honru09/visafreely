@@ -53971,5 +53971,23 @@
   "reason": "Settled 2026-11-11 against Bosnia and Herzegovina's visa decision lists as compiled (see research-ba-official.md).",
   "source": "https://www.mvp.gov.ba/",
   "date": "2026-11-11"
+ },
+ "SD:MD": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Moldova's Law 257 visa lists as compiled (see research-md-official.md).",
+  "source": "https://mfa.gov.md/",
+  "date": "2026-11-11"
+ },
+ "ZM:MD": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Moldova's Law 257 visa lists as compiled (see research-md-official.md).",
+  "source": "https://mfa.gov.md/",
+  "date": "2026-11-11"
+ },
+ "ZW:MD": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Moldova's Law 257 visa lists as compiled (see research-md-official.md).",
+  "source": "https://mfa.gov.md/",
+  "date": "2026-11-11"
  }
 }
