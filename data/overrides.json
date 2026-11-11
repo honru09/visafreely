@@ -48795,5 +48795,54 @@
   "reason": "Settled 2026-11-11 against Vanuatu's exempt-country list as compiled (see research-vu-official.md).",
   "source": "https://evisa.gov.vu/",
   "date": "2026-11-11"
+ },
+ "CH:WS": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Samoa's exemption agreements as compiled (see research-ws-official.md).",
+  "source": "https://www.samoa.travel/",
+  "date": "2026-11-11"
+ },
+ "HK:WS": {
+  "status": "visa free",
+  "days": 60,
+  "reason": "Settled 2026-11-11 against Samoa's exemption agreements as compiled (see research-ws-official.md).",
+  "source": "https://www.samoa.travel/",
+  "date": "2026-11-11"
+ },
+ "IL:WS": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Samoa's exemption agreements as compiled (see research-ws-official.md).",
+  "source": "https://www.samoa.travel/",
+  "date": "2026-11-11"
+ },
+ "IS:WS": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Samoa's exemption agreements as compiled (see research-ws-official.md).",
+  "source": "https://www.samoa.travel/",
+  "date": "2026-11-11"
+ },
+ "LI:WS": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Samoa's exemption agreements as compiled (see research-ws-official.md).",
+  "source": "https://www.samoa.travel/",
+  "date": "2026-11-11"
+ },
+ "NO:WS": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Samoa's exemption agreements as compiled (see research-ws-official.md).",
+  "source": "https://www.samoa.travel/",
+  "date": "2026-11-11"
+ },
+ "RU:WS": {
+  "status": "visa free",
+  "days": 60,
+  "reason": "Settled 2026-11-11 against Samoa's exemption agreements as compiled (see research-ws-official.md).",
+  "source": "https://www.samoa.travel/",
+  "date": "2026-11-11"
  }
 }
