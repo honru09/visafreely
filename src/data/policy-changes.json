@@ -320,6 +320,14 @@
   "source_name": "U.S. Department of State — Visa Waiver Program (ESTA fee set by CBP under Public Law 119-21)"
  },
  {
+  "date": "2025-09-29",
+  "destination": "KR",
+  "title": "China group tours enter visa-free for 15 days",
+  "summary": "Mainland Chinese nationals travelling in tour groups of three or more, booked through travel agencies designated in both countries, may enter South Korea without a visa for up to 15 days. The pilot runs to 31 December 2026; individual travellers still need a visa.",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "source_name": "Ministry of Justice"
+ },
+ {
   "date": "2025-09-25",
   "destination": "JO",
   "title": "Uzbekistan–Jordan mutual visa exemption in force",
@@ -582,6 +590,14 @@
   "summary": "Qatar was added to Japan's visa-exemption list on 2 April 2023, for holders who have registered an ICAO-compliant ePassport with a Japanese mission (registration valid 3 years or until the passport expires). The permitted stay is 30 days.",
   "source": "https://www.mofa.go.jp/j_info/visit/visa/short/novisa.html",
   "source_name": "Ministry of Foreign Affairs of Japan — Exemption of Visa (Short-Term Stay)"
+ },
+ {
+  "date": "2023-04-01",
+  "destination": "KR",
+  "title": "K-ETA temporarily waived for 22 countries",
+  "summary": "South Korea exempted nationals of 22 countries and regions (including Japan, the US, the UK, Canada, Australia and most of Western Europe) from the K-ETA pre-travel authorisation. The exemption has been extended year by year and currently runs to 31 December 2026; everyone else with visa-free access still needs an approved K-ETA before boarding.",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "source_name": "Ministry of Justice (via K-ETA notices)"
  },
  {
   "date": "2022-11-01",

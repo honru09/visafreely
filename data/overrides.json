@@ -32785,5 +32785,777 @@
   "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Zimbabwe is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
   "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
   "date": "2026-11-11"
+ },
+ "AF:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "AM:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "AO:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "AZ:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "BD:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "BF:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "BG:KR": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "BH:KR": {
+  "status": "eta",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "BI:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "BJ:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "BN:KR": {
+  "status": "eta",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "BO:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "BT:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "BY:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "BZ:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "CD:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "CF:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "CG:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "CH:KR": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "CI:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "CM:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "CO:KR": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "CU:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "CV:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "CY:KR": {
+  "status": "eta",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "DJ:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "DZ:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "EE:KR": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "EG:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "ER:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "ET:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "FJ:KR": {
+  "status": "eta",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "FM:KR": {
+  "status": "eta",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "GA:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "GE:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "GH:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "GM:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "GN:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "GQ:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "GW:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "HR:KR": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "ID:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "IL:KR": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "IN:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "IQ:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "IR:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "IS:KR": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "JO:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "KE:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "KG:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "KH:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "KI:KR": {
+  "status": "eta",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "KM:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "KP:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "KW:KR": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "LA:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "LB:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "LI:KR": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "LK:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "LR:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "LT:KR": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "LU:KR": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "LV:KR": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "LY:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "MC:KR": {
+  "status": "eta",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "MD:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "MG:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "MH:KR": {
+  "status": "eta",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "MK:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "ML:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "MM:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "MN:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "MR:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "MT:KR": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "MV:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "MW:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "MZ:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "NA:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "NE:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "NG:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "NP:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "NR:KR": {
+  "status": "eta",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "OM:KR": {
+  "status": "eta",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "PG:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "PH:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "PK:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "PS:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "PW:KR": {
+  "status": "eta",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "QA:KR": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "RO:KR": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "RW:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "SA:KR": {
+  "status": "eta",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "SD:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "SI:KR": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "SK:KR": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "SL:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "SM:KR": {
+  "status": "eta",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "SN:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "SO:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "SS:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "ST:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "SY:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "TD:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "TG:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "TJ:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "TL:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "TM:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "TO:KR": {
+  "status": "eta",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "TT:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "TV:KR": {
+  "status": "eta",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "TZ:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "UA:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "UG:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "UZ:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "VA:KR": {
+  "status": "eta",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "VC:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "VN:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "VU:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "WS:KR": {
+  "status": "eta",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "XK:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "YE:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "ZM:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
+ },
+ "ZW:KR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
+  "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
+  "date": "2026-11-11"
  }
 }
