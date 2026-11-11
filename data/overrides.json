@@ -53812,5 +53812,58 @@
   "reason": "Settled 2026-11-11 against Malawi's 2026 visa category lists as compiled (see research-mw-official.md).",
   "source": "https://www.immigration.gov.mw/",
   "date": "2026-11-11"
+ },
+ "CN:SD": {
+  "status": "visa on arrival",
+  "days": 60,
+  "reason": "Settled 2026-11-11 against Sudan's exemption and arrival-visa rules as compiled (see research-sd-official.md).",
+  "source": "https://sudanembassy.org/",
+  "date": "2026-11-11"
+ },
+ "EG:SD": {
+  "status": "visa free",
+  "reason": "Settled 2026-11-11 against Sudan's exemption and arrival-visa rules as compiled (see research-sd-official.md).",
+  "source": "https://sudanembassy.org/",
+  "date": "2026-11-11"
+ },
+ "ER:SD": {
+  "status": "visa on arrival",
+  "days": 60,
+  "reason": "Settled 2026-11-11 against Sudan's exemption and arrival-visa rules as compiled (see research-sd-official.md).",
+  "source": "https://sudanembassy.org/",
+  "date": "2026-11-11"
+ },
+ "IL:SD": {
+  "status": "no admission",
+  "reason": "Settled 2026-11-11 against Sudan's exemption and arrival-visa rules as compiled (see research-sd-official.md).",
+  "source": "https://sudanembassy.org/",
+  "date": "2026-11-11"
+ },
+ "KE:SD": {
+  "status": "visa on arrival",
+  "reason": "Settled 2026-11-11 against Sudan's exemption and arrival-visa rules as compiled (see research-sd-official.md).",
+  "source": "https://sudanembassy.org/",
+  "date": "2026-11-11"
+ },
+ "MY:SD": {
+  "status": "visa on arrival",
+  "days": 60,
+  "reason": "Settled 2026-11-11 against Sudan's exemption and arrival-visa rules as compiled (see research-sd-official.md).",
+  "source": "https://sudanembassy.org/",
+  "date": "2026-11-11"
+ },
+ "QA:SD": {
+  "status": "visa on arrival",
+  "days": 60,
+  "reason": "Settled 2026-11-11 against Sudan's exemption and arrival-visa rules as compiled (see research-sd-official.md).",
+  "source": "https://sudanembassy.org/",
+  "date": "2026-11-11"
+ },
+ "TR:SD": {
+  "status": "visa on arrival",
+  "days": 60,
+  "reason": "Settled 2026-11-11 against Sudan's exemption and arrival-visa rules as compiled (see research-sd-official.md).",
+  "source": "https://sudanembassy.org/",
+  "date": "2026-11-11"
  }
 }

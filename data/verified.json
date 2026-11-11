@@ -194921,5 +194921,1193 @@
   "source": "https://www.immigration.gov.mw/",
   "source_name": "Malawi Immigration visa categories (2026 regulations), as compiled",
   "note": "Nicaragua passport holders may obtain a visa on arrival in Malawi; the government recommends applying through the e-Visa platform before travel."
+ },
+ "EG:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Egypt passport holders may enter Sudan without a visa for an indefinite period; the exemption does not apply to men aged 18 to 49."
+ },
+ "KW:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Kuwait passport holders may enter Sudan without a visa for an indefinite period."
+ },
+ "AE:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "United Arab Emirates passport holders may enter Sudan without a visa for an indefinite period."
+ },
+ "YE:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Yemen passport holders may enter Sudan without a visa for up to 30 days when arriving directly from Yemen."
+ },
+ "KE:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Kenya passport holders may obtain a visa on arrival in Sudan (indefinite stay under the arrival class)."
+ },
+ "CN:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "China passport holders may obtain a visa on arrival in Sudan for up to 60 days."
+ },
+ "ER:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Eritrea passport holders may obtain a visa on arrival in Sudan for up to 60 days. The arrival visa requires arriving directly from the traveller's country of citizenship."
+ },
+ "MY:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Malaysia passport holders may obtain a visa on arrival in Sudan for up to 60 days."
+ },
+ "QA:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Qatar passport holders may obtain a visa on arrival in Sudan for up to 60 days."
+ },
+ "TR:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Türkiye passport holders may obtain a visa on arrival in Sudan for up to 60 days. The arrival visa requires arriving directly from the traveller's country of citizenship."
+ },
+ "IL:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Israel citizens are banned from entering or transiting Sudan; the ban also applies to dual citizens travelling on another passport."
+ },
+ "BI:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Burundi passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "UZ:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Uzbekistan passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "GN:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Guinea passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "EE:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Estonia passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "TW:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Taiwan passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "BA:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Bosnia & Herzegovina passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "TJ:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Tajikistan passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "TN:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Tunisia passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "PS:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Palestinian Territories passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "MG:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Madagascar passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "NE:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Niger passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "KN:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "St. Kitts & Nevis passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "SV:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "El Salvador passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "GY:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Guyana passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "MC:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Monaco passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "IQ:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Iraq passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "SO:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Somalia passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "CH:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Switzerland passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "BJ:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Benin passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "MW:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Malawi passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "BD:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Bangladesh passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "MA:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Morocco passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "BB:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Barbados passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "SY:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Syria passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "LK:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Sri Lanka passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "GD:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Grenada passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "CA:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Canada passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "KP:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "North Korea passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "ME:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Montenegro passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "IN:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "India passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "MR:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Mauritania passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "CV:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Cape Verde passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "CM:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Cameroon passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "BN:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Brunei passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "DO:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Dominican Republic passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "LB:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Lebanon passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "UG:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Uganda passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "IS:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Iceland passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "KR:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "South Korea passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "NP:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Nepal passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "PE:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Peru passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "LT:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Lithuania passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "AL:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Albania passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "UA:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Ukraine passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "TV:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Tuvalu passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "MD:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Moldova passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "AO:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Angola passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "LI:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Liechtenstein passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "ML:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Mali passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "CF:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Central African Republic passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "FJ:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Fiji passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "NO:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Norway passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "TZ:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Tanzania passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "KI:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Kiribati passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "FI:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Finland passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "CR:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Costa Rica passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "LC:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "St. Lucia passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "MH:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Marshall Islands passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "LU:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Luxembourg passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "ZM:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Zambia passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "BT:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Bhutan passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "AD:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Andorra passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "KZ:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Kazakhstan passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "SL:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Sierra Leone passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "CD:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Congo - Kinshasa passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "MX:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Mexico passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "BF:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Burkina Faso passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "WS:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Samoa passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "GW:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Guinea-Bissau passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "NI:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Nicaragua passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "UY:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Uruguay passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "BO:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Bolivia passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "AR:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Argentina passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "TM:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Turkmenistan passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "TT:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Trinidad & Tobago passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "PW:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Palau passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "CZ:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Czechia passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "LA:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Laos passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "MZ:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Mozambique passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "RW:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Rwanda passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "DM:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Dominica passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "DJ:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Djibouti passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "SA:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Saudi Arabia passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict. Citizens travelling on business with a letter from Sudan's Ministry of Investment confirming the visit do not require a visa."
+ },
+ "OM:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Oman passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "PH:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Philippines passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "BY:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Belarus passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "GR:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Greece passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "CI:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Côte d’Ivoire passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "IR:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Iran passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "PA:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Panama passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "TO:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Tonga passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "LY:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Libya passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "AU:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Australia passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "MT:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Malta passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "BS:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Bahamas passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "GT:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Guatemala passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "LS:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Lesotho passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "SS:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "South Sudan passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "NG:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Nigeria passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "MM:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Myanmar (Burma) passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "VA:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Vatican City passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "CU:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Cuba passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "BG:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Bulgaria passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "HT:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Haiti passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "ES:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Spain passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "KM:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Comoros passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "TH:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Thailand passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "VN:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Vietnam passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "ZW:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Zimbabwe passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "PK:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Pakistan passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "ID:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Indonesia passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "NR:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Nauru passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "PL:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Poland passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "CO:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Colombia passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "CY:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Cyprus passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "SB:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Solomon Islands passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "VE:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Venezuela passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "CG:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Congo - Brazzaville passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "DK:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Denmark passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "SG:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Singapore passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "SM:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "San Marino passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "FR:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "France passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "MN:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Mongolia passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "MV:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Maldives passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "GA:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Gabon passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "NA:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Namibia passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "HR:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Croatia passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "CL:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Chile passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "DZ:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Algeria passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "TL:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Timor-Leste passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "BR:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Brazil passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "ET:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Ethiopia passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "SR:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Suriname passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "GB:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "United Kingdom passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "AT:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Austria passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "GE:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Georgia passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "JM:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Jamaica passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "LV:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Latvia passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "MO:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Macao SAR China passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "RU:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Russia passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "SZ:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Eswatini passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "TG:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Togo passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "GQ:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Equatorial Guinea passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "AG:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Antigua & Barbuda passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "EC:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Ecuador passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "PY:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Paraguay passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "XK:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Kosovo passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "HU:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Hungary passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "IT:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Italy passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "DE:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Germany passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "US:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "United States passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "KG:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Kyrgyzstan passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "JO:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Jordan passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "TD:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Chad passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "VC:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "St. Vincent & Grenadines passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "GM:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Gambia passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "AZ:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Azerbaijan passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "IE:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Ireland passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "BZ:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Belize passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "JP:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Japan passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "PG:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Papua New Guinea passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "RS:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Serbia passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "FM:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Micronesia passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "LR:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Liberia passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "VU:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Vanuatu passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "HN:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Honduras passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "SC:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Seychelles passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "GH:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Ghana passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "BE:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Belgium passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "BW:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Botswana passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "KH:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Cambodia passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "AF:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Afghanistan passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "SN:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Senegal passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "ST:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "São Tomé & Príncipe passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "MU:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Mauritius passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "BH:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Bahrain passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "NL:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Netherlands passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "PT:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Portugal passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "AM:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Armenia passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "SE:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Sweden passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "SK:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Slovakia passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "ZA:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "South Africa passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "NZ:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "New Zealand passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "HK:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Hong Kong SAR China passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "MK:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "North Macedonia passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "SI:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Slovenia passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
+ },
+ "RO:SD": {
+  "date": "2026-11-11",
+  "source": "https://sudanembassy.org/",
+  "source_name": "Sudan visa rules (Timatic), as compiled",
+  "note": "Romania passport holders must obtain a visa for Sudan from a Sudanese diplomatic mission in advance; consular services are severely disrupted by the ongoing conflict."
  }
 }
