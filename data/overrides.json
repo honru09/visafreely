@@ -35508,5 +35508,12 @@
   "reason": "Settled 2026-11-11 against the Ukrainian MFA entry regime and e-Visa list (see research-ua-official.md).",
   "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
   "date": "2026-11-11"
+ },
+ "XK:KH": {
+  "status": "visa on arrival",
+  "days": 30,
+  "reason": "Settled 2026-11-11: Cambodia's VoA/e-Visa channels are open to all nationalities per the MFAIC-based regime (see research-kh-official.md); the seed's 'no admission' is not supported by any Cambodian source.",
+  "source": "https://www.mfaic.gov.kh/",
+  "date": "2026-11-11"
  }
 }
