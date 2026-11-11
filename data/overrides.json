@@ -40064,5 +40064,80 @@
   "reason": "Settled 2026-11-11 against Bolivia's three-group visa system as compiled (see research-bo-official.md).",
   "source": "https://www.cancilleria.gob.bo/",
   "date": "2026-11-11"
+ },
+ "BA:CU": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Cuba's exemption list, e-Visa eligibility and refusal rules as compiled (see research-cu-official.md).",
+  "source": "https://www.minrex.gob.cu/",
+  "date": "2026-11-11"
+ },
+ "HT:CU": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Cuba's exemption list, e-Visa eligibility and refusal rules as compiled (see research-cu-official.md).",
+  "source": "https://www.minrex.gob.cu/",
+  "date": "2026-11-11"
+ },
+ "IN:CU": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Cuba's exemption list, e-Visa eligibility and refusal rules as compiled (see research-cu-official.md).",
+  "source": "https://www.minrex.gob.cu/",
+  "date": "2026-11-11"
+ },
+ "IR:CU": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Cuba's exemption list, e-Visa eligibility and refusal rules as compiled (see research-cu-official.md).",
+  "source": "https://www.minrex.gob.cu/",
+  "date": "2026-11-11"
+ },
+ "KE:CU": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Cuba's exemption list, e-Visa eligibility and refusal rules as compiled (see research-cu-official.md).",
+  "source": "https://www.minrex.gob.cu/",
+  "date": "2026-11-11"
+ },
+ "ME:CU": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Cuba's exemption list, e-Visa eligibility and refusal rules as compiled (see research-cu-official.md).",
+  "source": "https://www.minrex.gob.cu/",
+  "date": "2026-11-11"
+ },
+ "MK:CU": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Cuba's exemption list, e-Visa eligibility and refusal rules as compiled (see research-cu-official.md).",
+  "source": "https://www.minrex.gob.cu/",
+  "date": "2026-11-11"
+ },
+ "MN:CU": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Cuba's exemption list, e-Visa eligibility and refusal rules as compiled (see research-cu-official.md).",
+  "source": "https://www.minrex.gob.cu/",
+  "date": "2026-11-11"
+ },
+ "NA:CU": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Cuba's exemption list, e-Visa eligibility and refusal rules as compiled (see research-cu-official.md).",
+  "source": "https://www.minrex.gob.cu/",
+  "date": "2026-11-11"
+ },
+ "RS:CU": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Cuba's exemption list, e-Visa eligibility and refusal rules as compiled (see research-cu-official.md).",
+  "source": "https://www.minrex.gob.cu/",
+  "date": "2026-11-11"
+ },
+ "TW:CU": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Cuba's exemption list, e-Visa eligibility and refusal rules as compiled (see research-cu-official.md).",
+  "source": "https://www.minrex.gob.cu/",
+  "date": "2026-11-11"
  }
 }
