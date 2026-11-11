@@ -47659,5 +47659,68 @@
   "reason": "Settled 2026-11-11 against PNG's visa-on-arrival and Easy Visitor Permit lists as compiled (see research-pg-official.md).",
   "source": "https://www.immigration.gov.pg/",
   "date": "2026-11-11"
+ },
+ "CH:PW": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Palau's exemption and visa-on-arrival rules as compiled (see research-pw-official.md).",
+  "source": "https://www.palaugov.pw/",
+  "date": "2026-11-11"
+ },
+ "FM:PW": {
+  "status": "visa free",
+  "days": 365,
+  "reason": "Settled 2026-11-11 against Palau's exemption and visa-on-arrival rules as compiled (see research-pw-official.md).",
+  "source": "https://www.palaugov.pw/",
+  "date": "2026-11-11"
+ },
+ "IE:PW": {
+  "status": "visa on arrival",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against Palau's exemption and visa-on-arrival rules as compiled (see research-pw-official.md).",
+  "source": "https://www.palaugov.pw/",
+  "date": "2026-11-11"
+ },
+ "IS:PW": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Palau's exemption and visa-on-arrival rules as compiled (see research-pw-official.md).",
+  "source": "https://www.palaugov.pw/",
+  "date": "2026-11-11"
+ },
+ "LI:PW": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Palau's exemption and visa-on-arrival rules as compiled (see research-pw-official.md).",
+  "source": "https://www.palaugov.pw/",
+  "date": "2026-11-11"
+ },
+ "MH:PW": {
+  "status": "visa free",
+  "days": 365,
+  "reason": "Settled 2026-11-11 against Palau's exemption and visa-on-arrival rules as compiled (see research-pw-official.md).",
+  "source": "https://www.palaugov.pw/",
+  "date": "2026-11-11"
+ },
+ "NO:PW": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Palau's exemption and visa-on-arrival rules as compiled (see research-pw-official.md).",
+  "source": "https://www.palaugov.pw/",
+  "date": "2026-11-11"
+ },
+ "SC:PW": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against Palau's exemption and visa-on-arrival rules as compiled (see research-pw-official.md).",
+  "source": "https://www.palaugov.pw/",
+  "date": "2026-11-11"
+ },
+ "US:PW": {
+  "status": "visa free",
+  "days": 365,
+  "reason": "Settled 2026-11-11 against Palau's exemption and visa-on-arrival rules as compiled (see research-pw-official.md).",
+  "source": "https://www.palaugov.pw/",
+  "date": "2026-11-11"
  }
 }
