@@ -9708,11 +9708,11 @@
   "date": "2026-10-27"
  },
  "AO:UG": {
-  "status": "e-visa",
+  "status": "visa free",
   "days": 90,
-  "reason": "Angola appeared in the DCIC's 2021 mandatory-online-application notice among the visa-exempt countries, but it is absent from both current DCIC visa-exempt lists (services page and FAQ). Every non-exempt traveller must apply for an e-Visa online and hold an approval letter before travel — Uganda issues no visas on arrival. The seed dataset's visa free (90 days) value is outdated.",
-  "source": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
-  "date": "2026-10-27"
+  "reason": "Settled 2026-11-11 against Uganda's DCIC exempt list as compiled (see research-ug-official.md).",
+  "source": "https://www.immigration.go.ug/",
+  "date": "2026-11-11"
  },
  "BS:RW": {
   "status": "visa free",
@@ -59353,6 +59353,26 @@
   "status": "e-visa",
   "reason": "Settled 2026-11-11 against Pakistan's online-visa eligibility as compiled (see research-pk-official.md).",
   "source": "https://visa.nadra.gov.pk/",
+  "date": "2026-11-11"
+ },
+ "AE:UG": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Uganda's DCIC exempt list as compiled (see research-ug-official.md).",
+  "source": "https://www.immigration.go.ug/",
+  "date": "2026-11-11"
+ },
+ "MY:UG": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Uganda's DCIC exempt list as compiled (see research-ug-official.md).",
+  "source": "https://www.immigration.go.ug/",
+  "date": "2026-11-11"
+ },
+ "MZ:UG": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Uganda's DCIC exempt list as compiled (see research-ug-official.md).",
+  "source": "https://www.immigration.go.ug/",
   "date": "2026-11-11"
  }
 }
