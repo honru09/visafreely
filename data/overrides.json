@@ -53965,5 +53965,11 @@
   "reason": "Settled 2026-11-11 against Albania's MFA visa regime table as compiled (see research-al-official.md).",
   "source": "https://punetejashtme.gov.al/",
   "date": "2026-11-11"
+ },
+ "WS:BA": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Bosnia and Herzegovina's visa decision lists as compiled (see research-ba-official.md).",
+  "source": "https://www.mvp.gov.ba/",
+  "date": "2026-11-11"
  }
 }
