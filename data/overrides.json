@@ -54642,7 +54642,8 @@
   "date": "2026-11-11"
  },
  "TV:RS": {
-  "status": "e-visa",
+  "status": "visa free",
+  "days": 90,
   "reason": "Settled 2026-11-11 against Serbia's MFA visa regime lists as compiled (see research-rs-official.md).",
   "source": "https://www.mfa.gov.rs/en",
   "date": "2026-11-11"
