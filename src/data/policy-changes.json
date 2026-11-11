@@ -256,6 +256,14 @@
   "source_name": "Consular Department of the Russian MFA"
  },
  {
+  "date": "2026-01-16",
+  "destination": "PH",
+  "title": "China gets a 14-day visa-free arrangement for the Philippines",
+  "summary": "From 16 January 2026 to 15 January 2027, Chinese passport holders (including Hong Kong and Macao SAR passports) may enter the Philippines visa-free for up to 14 days via Manila or Cebu airports.",
+  "source": "https://evisa.gov.ph/",
+  "source_name": "Department of Foreign Affairs, Philippines"
+ },
+ {
   "date": "2026-01-02",
   "destination": "TR",
   "title": "China becomes visa-exempt for Türkiye",
@@ -520,6 +528,14 @@
   "source_name": "Ministry of Foreign Affairs of Japan — Exemption of Visa (Short-Term Stay)"
  },
  {
+  "date": "2025-07-01",
+  "destination": "PH",
+  "title": "Taiwan becomes visa-exempt for the Philippines (temporary)",
+  "summary": "Taiwan passport holders may enter the Philippines visa-free for up to 14 days from 1 July 2025, under a temporary policy running to 30 June 2027.",
+  "source": "https://evisa.gov.ph/",
+  "source_name": "Department of Foreign Affairs, Philippines"
+ },
+ {
   "date": "2025-06-09",
   "destination": "US",
   "title": "United States restricts entry from 19 countries (Proclamation 10949)",
@@ -534,6 +550,14 @@
   "summary": "From 9 June 2025, ordinary passport holders from Saudi Arabia, Oman, Kuwait and Bahrain may enter China without a visa for up to 30 days for business, tourism, family visits, exchange and transit, under China's unilateral visa-free scheme.",
   "source": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1011.html",
   "source_name": "National Immigration Administration — Unilateral Visa-Free Country List (as at 17 February 2026)"
+ },
+ {
+  "date": "2025-06-08",
+  "destination": "PH",
+  "title": "India becomes visa-exempt for the Philippines",
+  "summary": "Indian passport holders may enter the Philippines visa-free for up to 14 days for tourism from 8 June 2025.",
+  "source": "https://evisa.gov.ph/",
+  "source_name": "Department of Foreign Affairs, Philippines"
  },
  {
   "date": "2025-06-01",
