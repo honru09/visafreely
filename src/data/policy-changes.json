@@ -96,6 +96,14 @@
   "source_name": "GOV.UK — Egypt travel advice"
  },
  {
+  "date": "2026-08-01",
+  "destination": "TW",
+  "title": "Cambodia loses Taiwan's conditional travel authorisation",
+  "summary": "Taiwan cancelled Cambodian citizens' eligibility for the Travel Authorization Certificate on 1 August 2026; a visitor visa is now required.",
+  "source": "https://www.boca.gov.tw/",
+  "source_name": "Bureau of Consular Affairs, Taiwan"
+ },
+ {
   "date": "2026-07-22",
   "destination": "JO",
   "title": "Jordan extends prior-approval exemption to families of Syrian investors",
@@ -110,6 +118,14 @@
   "summary": "Belarusian and Kazakhstani passport holders and Macao SAR passport holders regained visa-free entry to Indonesia for up to 30 days on 9 July 2026.",
   "source": "https://evisa.imigrasi.go.id/",
   "source_name": "Directorate General of Immigration, Indonesia"
+ },
+ {
+  "date": "2026-07-06",
+  "destination": "TW",
+  "title": "Russia joins Taiwan's e-Visa programme",
+  "summary": "Russian passport holders became eligible for Taiwan's single-entry e-Visa (30 days) from 7 July 2026, with eligibility running to 6 July 2027.",
+  "source": "https://www.boca.gov.tw/",
+  "source_name": "Bureau of Consular Affairs, Taiwan"
  },
  {
   "date": "2026-07-01",
@@ -216,12 +232,36 @@
   "source_name": "Consular Department of the Russian MFA"
  },
  {
+  "date": "2026-05-01",
+  "destination": "TW",
+  "title": "Oman becomes visa-exempt for Taiwan; Nauru loses its exemption",
+  "summary": "Omani passport holders gained 14-day visa-free entry to Taiwan on 1 May 2026, while Nauru's 30-day exemption was cancelled the same day.",
+  "source": "https://www.boca.gov.tw/",
+  "source_name": "Bureau of Consular Affairs, Taiwan"
+ },
+ {
   "date": "2026-04-08",
   "destination": "GB",
   "title": "United Kingdom raises the ETA fee to £20 and the visit visa to £135",
   "summary": "The Home Office fee uprating of 8 April 2026 raised the ETA fee from £16 to £20 per person and the Standard Visitor visa (up to 6 months) from £127 to £135; long-term visit visas rose to £506 (2 years), £903 (5 years) and £1,128 (10 years). The fees were unchanged in the 8 October 2026 table.",
   "source": "https://www.gov.uk/government/publications/visa-regulations-revised-table/home-office-immigration-and-nationality-fees-8-april-2026",
   "source_name": "Home Office immigration and nationality fees, 8 April 2026 (GOV.UK)"
+ },
+ {
+  "date": "2026-03-30",
+  "destination": "TW",
+  "title": "Taiwan opens a conditional e-Visa to Armenia, Colombia, Kazakhstan and Uzbekistan",
+  "summary": "From 30 March 2026 to 31 March 2027, nationals of Armenia, Colombia, Kazakhstan and Uzbekistan holding a Schengen or US visa or residence permit may apply for Taiwan's e-Visa.",
+  "source": "https://www.boca.gov.tw/",
+  "source_name": "Bureau of Consular Affairs, Taiwan"
+ },
+ {
+  "date": "2026-03-10",
+  "destination": "TW",
+  "title": "Nicaragua loses visa-free access to Taiwan",
+  "summary": "Taiwan cancelled Nicaragua's visa exemption on 10 March 2026; Nicaraguan passport holders now need a visitor visa.",
+  "source": "https://www.boca.gov.tw/",
+  "source_name": "Bureau of Consular Affairs, Taiwan"
  },
  {
   "date": "2026-03-05",
@@ -254,6 +294,14 @@
   "summary": "From 17 February 2026, ordinary passport holders from Canada and the United Kingdom may enter China without a visa for up to 30 days for business, tourism, family visits, exchange and transit. The arrangement runs until 31 December 2026.",
   "source": "https://www.mfa.gov.cn/mfa_eng./xw/fyrbt/fyrbt/202602/t20260215_11860467.html",
   "source_name": "Ministry of Foreign Affairs of China — Spokesperson's Remarks (15 February 2026)"
+ },
+ {
+  "date": "2026-02-13",
+  "destination": "TW",
+  "title": "Haiti loses visa-free access to Taiwan",
+  "summary": "Taiwan cancelled Haiti's 90-day visa exemption on 13 February 2026 (a brief March resumption was cancelled again on 1 April); Haitian passport holders now use the e-Visa.",
+  "source": "https://www.boca.gov.tw/",
+  "source_name": "Bureau of Consular Affairs, Taiwan"
  },
  {
   "date": "2026-01-27",

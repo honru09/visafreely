@@ -35021,5 +35021,107 @@
   "reason": "Settled 2026-11-11 against the Hong Kong Immigration Department requirements table (see research-hk-official.md).",
   "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
   "date": "2026-11-11"
+ },
+ "BF:TW": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the BOCA visa-exemption and e-Visa lists (see research-tw-official.md).",
+  "source": "https://www.boca.gov.tw/",
+  "date": "2026-11-11"
+ },
+ "CO:TW": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the BOCA visa-exemption and e-Visa lists (see research-tw-official.md).",
+  "source": "https://www.boca.gov.tw/",
+  "date": "2026-11-11"
+ },
+ "HK:TW": {
+  "status": "eta",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the BOCA visa-exemption and e-Visa lists (see research-tw-official.md).",
+  "source": "https://www.boca.gov.tw/",
+  "date": "2026-11-11"
+ },
+ "HT:TW": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the BOCA visa-exemption and e-Visa lists (see research-tw-official.md).",
+  "source": "https://www.boca.gov.tw/",
+  "date": "2026-11-11"
+ },
+ "KH:TW": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the BOCA visa-exemption and e-Visa lists (see research-tw-official.md).",
+  "source": "https://www.boca.gov.tw/",
+  "date": "2026-11-11"
+ },
+ "KI:TW": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the BOCA visa-exemption and e-Visa lists (see research-tw-official.md).",
+  "source": "https://www.boca.gov.tw/",
+  "date": "2026-11-11"
+ },
+ "LA:TW": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the BOCA visa-exemption and e-Visa lists (see research-tw-official.md).",
+  "source": "https://www.boca.gov.tw/",
+  "date": "2026-11-11"
+ },
+ "MM:TW": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the BOCA visa-exemption and e-Visa lists (see research-tw-official.md).",
+  "source": "https://www.boca.gov.tw/",
+  "date": "2026-11-11"
+ },
+ "MO:TW": {
+  "status": "eta",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the BOCA visa-exemption and e-Visa lists (see research-tw-official.md).",
+  "source": "https://www.boca.gov.tw/",
+  "date": "2026-11-11"
+ },
+ "NI:TW": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the BOCA visa-exemption and e-Visa lists (see research-tw-official.md).",
+  "source": "https://www.boca.gov.tw/",
+  "date": "2026-11-11"
+ },
+ "NR:TW": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the BOCA visa-exemption and e-Visa lists (see research-tw-official.md).",
+  "source": "https://www.boca.gov.tw/",
+  "date": "2026-11-11"
+ },
+ "OM:TW": {
+  "status": "visa free",
+  "days": 14,
+  "reason": "Settled 2026-11-11 against the BOCA visa-exemption and e-Visa lists (see research-tw-official.md).",
+  "source": "https://www.boca.gov.tw/",
+  "date": "2026-11-11"
+ },
+ "RU:TW": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the BOCA visa-exemption and e-Visa lists (see research-tw-official.md).",
+  "source": "https://www.boca.gov.tw/",
+  "date": "2026-11-11"
+ },
+ "SB:TW": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the BOCA visa-exemption and e-Visa lists (see research-tw-official.md).",
+  "source": "https://www.boca.gov.tw/",
+  "date": "2026-11-11"
+ },
+ "TR:TW": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the BOCA visa-exemption and e-Visa lists (see research-tw-official.md).",
+  "source": "https://www.boca.gov.tw/",
+  "date": "2026-11-11"
+ },
+ "VN:TW": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the BOCA visa-exemption and e-Visa lists (see research-tw-official.md).",
+  "source": "https://www.boca.gov.tw/",
+  "date": "2026-11-11"
  }
 }
