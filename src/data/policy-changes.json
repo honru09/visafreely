@@ -760,6 +760,15 @@
   "source_name": "Ministry of Foreign Affairs of Venezuela"
  },
  {
+  "passport": "TW",
+  "destination": "SB",
+  "date": "2025-04-01",
+  "from_status": "visa on arrival",
+  "to_status": "e-visa",
+  "summary": "Solomon Islands cancelled Taiwan's free-visitor-permit-on-arrival status in April 2025; Taiwanese travellers now use the e-Visa.",
+  "source": "https://solomonislandsevisa.org/"
+ },
+ {
   "date": "2025-03-11",
   "destination": "LR",
   "source": "https://visaonarrival.lis.gov.lr/",
