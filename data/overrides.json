@@ -48782,5 +48782,12 @@
   "reason": "Settled 2026-11-11 against Tonga's exemption and free-visa-on-arrival lists as compiled (see research-to-official.md).",
   "source": "https://www.tongaconsul.com/",
   "date": "2026-11-11"
+ },
+ "RS:TV": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Tuvalu's exemption and visa-on-arrival rules as compiled (see research-tv-official.md).",
+  "source": "https://tuvaluimmigration.tv/",
+  "date": "2026-11-11"
  }
 }
