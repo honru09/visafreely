@@ -52445,5 +52445,24 @@
   "reason": "Settled 2026-11-11 against Ghana Immigration Service and e-Visa portal rules as compiled (see research-gh-official.md).",
   "source": "https://gis.gov.gh/",
   "date": "2026-11-11"
+ },
+ "NP:GM": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the Gambia's exemption list as compiled (see research-gm-official.md).",
+  "source": "https://www.visitthegambia.gm/",
+  "date": "2026-11-11"
+ },
+ "US:GM": {
+  "status": "visa on arrival",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Gambia's exemption list as compiled (see research-gm-official.md).",
+  "source": "https://www.visitthegambia.gm/",
+  "date": "2026-11-11"
+ },
+ "XK:GM": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the Gambia's exemption list as compiled (see research-gm-official.md).",
+  "source": "https://www.visitthegambia.gm/",
+  "date": "2026-11-11"
  }
 }
