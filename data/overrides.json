@@ -45596,5 +45596,23 @@
   "reason": "Settled 2026-11-11 against Kiribati's 2023 Exemption Order as compiled (see research-ki-official.md).",
   "source": "https://www.mfa.gov.ki/",
   "date": "2026-11-11"
+ },
+ "IL:KW": {
+  "status": "no admission",
+  "reason": "Settled 2026-11-11 against Kuwait's exemption, visa-on-arrival and e-Visa rules as compiled (see research-kw-official.md).",
+  "source": "https://kuwaitvisa.moi.gov.kw/",
+  "date": "2026-11-11"
+ },
+ "PH:KW": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Kuwait's exemption, visa-on-arrival and e-Visa rules as compiled (see research-kw-official.md).",
+  "source": "https://kuwaitvisa.moi.gov.kw/",
+  "date": "2026-11-11"
+ },
+ "RS:KW": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Kuwait's exemption, visa-on-arrival and e-Visa rules as compiled (see research-kw-official.md).",
+  "source": "https://kuwaitvisa.moi.gov.kw/",
+  "date": "2026-11-11"
  }
 }
