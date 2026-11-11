@@ -452,10 +452,10 @@
  },
  "NZ:OM": {
   "status": "visa free",
-  "reason": "Oman exempts this passport from entry visas for stays of up to 14 days (Foreign Ministry, Group 1 list, with conditions: 6-month passport validity, return ticket, hotel booking, insurance). A longer stay needs a paid eVisa — there is no 30-day on-arrival exemption.",
-  "source": "https://www.fm.gov.om/en/visitors/entry-visas/",
-  "date": "2026-10-25",
-  "days": 14
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
  },
  "KR:IN": {
   "status": "visa on arrival",
@@ -57180,6 +57180,484 @@
   "days": 90,
   "reason": "Settled 2026-11-11 against Peru's MFA visa requirement lists as compiled (see research-pe-official.md).",
   "source": "https://www.gob.pe/",
+  "date": "2026-11-11"
+ },
+ "AD:OM": {
+  "status": "visa free",
+  "days": 14,
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "AL:OM": {
+  "status": "visa free",
+  "days": 14,
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "AR:OM": {
+  "status": "visa free",
+  "days": 14,
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "AZ:OM": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "BG:OM": {
+  "status": "visa free",
+  "days": 14,
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "BO:OM": {
+  "status": "visa free",
+  "days": 14,
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "BR:OM": {
+  "status": "visa free",
+  "days": 14,
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "BT:OM": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "BY:OM": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "CL:OM": {
+  "status": "visa free",
+  "days": 14,
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "CO:OM": {
+  "status": "visa free",
+  "days": 14,
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "CR:OM": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "CU:OM": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "CY:OM": {
+  "status": "visa free",
+  "days": 14,
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "DZ:OM": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "EC:OM": {
+  "status": "visa free",
+  "days": 14,
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "EE:OM": {
+  "status": "visa free",
+  "days": 14,
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "EG:OM": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "GE:OM": {
+  "status": "visa free",
+  "days": 14,
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "GT:OM": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "HK:OM": {
+  "status": "visa free",
+  "days": 14,
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "HN:OM": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "HR:OM": {
+  "status": "visa free",
+  "days": 14,
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "ID:OM": {
+  "status": "visa free",
+  "days": 14,
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "IL:OM": {
+  "status": "no admission",
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "IN:OM": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "IR:OM": {
+  "status": "visa free",
+  "days": 14,
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "IS:OM": {
+  "status": "visa free",
+  "days": 14,
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "JO:OM": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "KG:OM": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "KZ:OM": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "LA:OM": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "LB:OM": {
+  "status": "visa free",
+  "days": 14,
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "LI:OM": {
+  "status": "visa free",
+  "days": 14,
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "LT:OM": {
+  "status": "visa free",
+  "days": 14,
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "LU:OM": {
+  "status": "visa free",
+  "days": 14,
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "LV:OM": {
+  "status": "visa free",
+  "days": 14,
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "MA:OM": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "MC:OM": {
+  "status": "visa free",
+  "days": 14,
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "MD:OM": {
+  "status": "visa free",
+  "days": 14,
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "ME:OM": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "MK:OM": {
+  "status": "visa free",
+  "days": 14,
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "MO:OM": {
+  "status": "visa free",
+  "days": 14,
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "MR:OM": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "MT:OM": {
+  "status": "visa free",
+  "days": 14,
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "MV:OM": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "MX:OM": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "NI:OM": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "PA:OM": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "PE:OM": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "PH:OM": {
+  "status": "visa free",
+  "days": 14,
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "PY:OM": {
+  "status": "visa free",
+  "days": 14,
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "RO:OM": {
+  "status": "visa free",
+  "days": 14,
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "RS:OM": {
+  "status": "visa free",
+  "days": 14,
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "RU:OM": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "SC:OM": {
+  "status": "visa free",
+  "days": 14,
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "SI:OM": {
+  "status": "visa free",
+  "days": 14,
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "SK:OM": {
+  "status": "visa free",
+  "days": 14,
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "SM:OM": {
+  "status": "visa free",
+  "days": 14,
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "SR:OM": {
+  "status": "visa free",
+  "days": 14,
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "SV:OM": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "TH:OM": {
+  "status": "visa free",
+  "days": 14,
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "TJ:OM": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "TM:OM": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "TN:OM": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "TW:OM": {
+  "status": "visa free",
+  "days": 14,
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "UA:OM": {
+  "status": "visa free",
+  "days": 14,
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "UY:OM": {
+  "status": "visa free",
+  "days": 14,
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "VA:OM": {
+  "status": "visa free",
+  "days": 14,
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "VE:OM": {
+  "status": "visa free",
+  "days": 14,
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "VN:OM": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
+  "date": "2026-11-11"
+ },
+ "ZA:OM": {
+  "status": "visa free",
+  "days": 14,
+  "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
+  "source": "https://www.fm.gov.om/",
   "date": "2026-11-11"
  }
 }
