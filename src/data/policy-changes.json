@@ -624,6 +624,14 @@
   "source_name": "Citizens Information — Visa requirements for entering Ireland"
  },
  {
+  "date": "2024-04-20",
+  "destination": "MX",
+  "title": "Peru's visa waiver for Mexico suspended",
+  "summary": "Mexico suspended the visa waiver for Peruvian passport holders on 20 April 2024; a consular visa has been required since.",
+  "source": "https://www.gob.mx/inm",
+  "source_name": "Instituto Nacional de Migración (INM)"
+ },
+ {
   "date": "2024-04-01",
   "destination": "JP",
   "title": "Japan exempts Panama from visas",
@@ -686,6 +694,30 @@
   "summary": "The United Arab Emirates was added to Japan's visa-exemption list on 1 November 2022, for holders of ICAO-compliant ePassports only, with a stay of up to 90 days.",
   "source": "https://www.mofa.go.jp/j_info/visit/visa/short/novisa.html",
   "source_name": "Ministry of Foreign Affairs of Japan — Exemption of Visa (Short-Term Stay)"
+ },
+ {
+  "date": "2022-08-18",
+  "destination": "MX",
+  "title": "Brazil's visa exemption for Mexico cancelled",
+  "summary": "Brazilian passport holders lost visa-free access to Mexico on 18 August 2022; Brazil now uses Mexico's electronic visa for air travel.",
+  "source": "https://www.gob.mx/inm",
+  "source_name": "Instituto Nacional de Migración (INM)"
+ },
+ {
+  "date": "2022-01-22",
+  "destination": "MX",
+  "title": "Venezuela's visa exemption for Mexico cancelled",
+  "summary": "Venezuelan passport holders have needed a Mexican visa since 22 January 2022.",
+  "source": "https://www.gob.mx/inm",
+  "source_name": "Instituto Nacional de Migración (INM)"
+ },
+ {
+  "date": "2021-09-04",
+  "destination": "MX",
+  "title": "Ecuador's visa exemption for Mexico cancelled",
+  "summary": "Ecuadorian passport holders have needed a Mexican visa since 4 September 2021, when Mexico cancelled the exemption.",
+  "source": "https://www.gob.mx/inm",
+  "source_name": "Instituto Nacional de Migración (INM)"
  },
  {
   "date": "2014-12-01",

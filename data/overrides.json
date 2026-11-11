@@ -33761,5 +33761,12 @@
   "reason": "Settled 2026-11-11 against the Russian MFA visa-exempt tables and the unified e-Visa list (see research-ru-official.md).",
   "source": "https://evisa.kdmid.ru/",
   "date": "2026-11-11"
+ },
+ "BR:MX": {
+  "status": "e-visa",
+  "days": 180,
+  "reason": "Settled 2026-11-11 against the INM visa-exempt and visa-required lists (see research-mx-official.md).",
+  "source": "https://www.gob.mx/inm",
+  "date": "2026-11-11"
  }
 }
