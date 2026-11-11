@@ -33570,5 +33570,148 @@
   "reason": "South Sudan is on ICA's Assessment Level II list — a visa (e-visa via a local contact or authorised agent, with a Letter of Introduction) is required; the seed's visa-free entry was wrong.",
   "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
   "date": "2026-11-11"
+ },
+ "AG:TR": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the Turkish MFA's per-country visa page (see research-tr-official.md).",
+  "source": "https://www.mfa.gov.tr/visa-information-for-foreigners.en.mfa",
+  "date": "2026-11-11"
+ },
+ "AM:TR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against the Turkish MFA's per-country visa page (see research-tr-official.md).",
+  "source": "https://www.mfa.gov.tr/visa-information-for-foreigners.en.mfa",
+  "date": "2026-11-11"
+ },
+ "BN:TR": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Turkish MFA's per-country visa page (see research-tr-official.md).",
+  "source": "https://www.mfa.gov.tr/visa-information-for-foreigners.en.mfa",
+  "date": "2026-11-11"
+ },
+ "BS:TR": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the Turkish MFA's per-country visa page (see research-tr-official.md).",
+  "source": "https://www.mfa.gov.tr/visa-information-for-foreigners.en.mfa",
+  "date": "2026-11-11"
+ },
+ "CY:TR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against the Turkish MFA's per-country visa page (see research-tr-official.md).",
+  "source": "https://www.mfa.gov.tr/visa-information-for-foreigners.en.mfa",
+  "date": "2026-11-11"
+ },
+ "EG:TR": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Turkish MFA's per-country visa page (see research-tr-official.md).",
+  "source": "https://www.mfa.gov.tr/visa-information-for-foreigners.en.mfa",
+  "date": "2026-11-11"
+ },
+ "FJ:TR": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Turkish MFA's per-country visa page (see research-tr-official.md).",
+  "source": "https://www.mfa.gov.tr/visa-information-for-foreigners.en.mfa",
+  "date": "2026-11-11"
+ },
+ "GD:TR": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the Turkish MFA's per-country visa page (see research-tr-official.md).",
+  "source": "https://www.mfa.gov.tr/visa-information-for-foreigners.en.mfa",
+  "date": "2026-11-11"
+ },
+ "JM:TR": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the Turkish MFA's per-country visa page (see research-tr-official.md).",
+  "source": "https://www.mfa.gov.tr/visa-information-for-foreigners.en.mfa",
+  "date": "2026-11-11"
+ },
+ "LC:TR": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the Turkish MFA's per-country visa page (see research-tr-official.md).",
+  "source": "https://www.mfa.gov.tr/visa-information-for-foreigners.en.mfa",
+  "date": "2026-11-11"
+ },
+ "LV:TR": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the Turkish MFA's per-country visa page (see research-tr-official.md).",
+  "source": "https://www.mfa.gov.tr/visa-information-for-foreigners.en.mfa",
+  "date": "2026-11-11"
+ },
+ "MK:TR": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the Turkish MFA's per-country visa page (see research-tr-official.md).",
+  "source": "https://www.mfa.gov.tr/visa-information-for-foreigners.en.mfa",
+  "date": "2026-11-11"
+ },
+ "MU:TR": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Turkish MFA's per-country visa page (see research-tr-official.md).",
+  "source": "https://www.mfa.gov.tr/visa-information-for-foreigners.en.mfa",
+  "date": "2026-11-11"
+ },
+ "MV:TR": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the Turkish MFA's per-country visa page (see research-tr-official.md).",
+  "source": "https://www.mfa.gov.tr/visa-information-for-foreigners.en.mfa",
+  "date": "2026-11-11"
+ },
+ "NA:TR": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against the Turkish MFA's per-country visa page (see research-tr-official.md).",
+  "source": "https://www.mfa.gov.tr/visa-information-for-foreigners.en.mfa",
+  "date": "2026-11-11"
+ },
+ "SB:TR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the Turkish MFA's per-country visa page (see research-tr-official.md).",
+  "source": "https://www.mfa.gov.tr/visa-information-for-foreigners.en.mfa",
+  "date": "2026-11-11"
+ },
+ "TL:TR": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Turkish MFA's per-country visa page (see research-tr-official.md).",
+  "source": "https://www.mfa.gov.tr/visa-information-for-foreigners.en.mfa",
+  "date": "2026-11-11"
+ },
+ "TW:TR": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Turkish MFA's per-country visa page (see research-tr-official.md).",
+  "source": "https://www.mfa.gov.tr/visa-information-for-foreigners.en.mfa",
+  "date": "2026-11-11"
+ },
+ "VC:TR": {
+  "status": "e-visa",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the Turkish MFA's per-country visa page (see research-tr-official.md).",
+  "source": "https://www.mfa.gov.tr/visa-information-for-foreigners.en.mfa",
+  "date": "2026-11-11"
+ },
+ "VN:TR": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Turkish MFA's per-country visa page (see research-tr-official.md).",
+  "source": "https://www.mfa.gov.tr/visa-information-for-foreigners.en.mfa",
+  "date": "2026-11-11"
+ },
+ "ZA:TR": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Turkish MFA's per-country visa page (see research-tr-official.md).",
+  "source": "https://www.mfa.gov.tr/visa-information-for-foreigners.en.mfa",
+  "date": "2026-11-11"
  }
 }
