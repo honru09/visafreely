@@ -48789,5 +48789,11 @@
   "reason": "Settled 2026-11-11 against Tuvalu's exemption and visa-on-arrival rules as compiled (see research-tv-official.md).",
   "source": "https://tuvaluimmigration.tv/",
   "date": "2026-11-11"
+ },
+ "MC:VU": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Vanuatu's exempt-country list as compiled (see research-vu-official.md).",
+  "source": "https://evisa.gov.vu/",
+  "date": "2026-11-11"
  }
 }
