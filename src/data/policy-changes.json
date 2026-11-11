@@ -1,5 +1,13 @@
 [
  {
+  "date": "2026-10-31",
+  "destination": "HN",
+  "title": "Honduras resumes visa-free entry for British passport holders",
+  "summary": "The United Kingdom's visa exemption for Honduras resumed on 31 October 2026; British passport holders are again visa-free for up to 90 days.",
+  "source": "https://www.gov.uk/foreign-travel-advice/honduras",
+  "source_name": "GOV.UK — foreign travel advice: Honduras"
+ },
+ {
   "date": "2026-10-28",
   "destination": "IL",
   "title": "Israel expands eVisa-B2 to 50 more nationalities",
@@ -768,6 +776,14 @@
   "source_name": "Jordan Ministry of Interior — Restricted and Non-Restricted Countries"
  },
  {
+  "date": "2024-08-15",
+  "destination": "HN",
+  "title": "Honduras imposes visas on British passport holders",
+  "summary": "Honduras cancelled the visa exemption for United Kingdom passport holders on 15 August 2024, citing the UK's visa requirement for Hondurans.",
+  "source": "https://sreci.gob.hn/",
+  "source_name": "SRE Honduras"
+ },
+ {
   "date": "2024-07-10",
   "destination": "IE",
   "title": "Ireland ends visa-free entry for South Africa and Botswana",
@@ -814,6 +830,14 @@
   "summary": "The EU visa waiver for Kosovo took effect: holders of biometric Kosovo passports no longer need a visa for short stays in Cyprus (up to 90 days in any 180-day period).",
   "source": "https://en.wikipedia.org/wiki/Visa_policy_of_the_Schengen_Area",
   "source_name": "Wikipedia — Visa policy of the Schengen Area"
+ },
+ {
+  "date": "2023-10-23",
+  "destination": "HN",
+  "title": "Honduras–Costa Rica visa episode ends",
+  "summary": "Honduras and Costa Rica imposed reciprocal visa requirements on 10 October 2023 and lifted them again on 23 October 2023; Costa Rican passport holders are visa-free for Honduras (90 days).",
+  "source": "https://sreci.gob.hn/",
+  "source_name": "SRE Honduras"
  },
  {
   "date": "2023-09-30",

@@ -36267,5 +36267,38 @@
   "reason": "Settled 2026-11-11 against the MINEX visa categories as compiled (see research-gt-official.md).",
   "source": "https://www.minex.gob.gt/",
   "date": "2026-11-11"
+ },
+ "BO:HN": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the Honduran exemption list as compiled (see research-hn-official.md).",
+  "source": "https://sreci.gob.hn/",
+  "date": "2026-11-11"
+ },
+ "BY:HN": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the Honduran exemption list as compiled (see research-hn-official.md).",
+  "source": "https://sreci.gob.hn/",
+  "date": "2026-11-11"
+ },
+ "EC:HN": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the Honduran exemption list as compiled (see research-hn-official.md).",
+  "source": "https://sreci.gob.hn/",
+  "date": "2026-11-11"
+ },
+ "GB:HN": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the Honduran exemption list as compiled (see research-hn-official.md).",
+  "source": "https://sreci.gob.hn/",
+  "date": "2026-11-11"
+ },
+ "PE:HN": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the Honduran exemption list as compiled (see research-hn-official.md).",
+  "source": "https://sreci.gob.hn/",
+  "date": "2026-11-11"
  }
 }
