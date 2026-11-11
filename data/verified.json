@@ -206801,5 +206801,1193 @@
   "source": "https://www.mfa.gov.rs/en",
   "source_name": "Serbia Ministry of Foreign Affairs visa regime lists, as compiled",
   "note": "Lesotho passport holders obtain an e-Visa for Serbia online before travel. Holders of a valid multiple-entry visa issued by a Schengen state, Cyprus, Ireland, the United Kingdom or the United States, or of a residence permit issued by a Schengen state, Cyprus, Ireland or the United States, may instead enter without a visa for up to 90 days within any 180-day period."
+ },
+ "CH:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Switzerland passport holders may enter San Marino without a visa. San Marino is an enclave of Italy with no border control, and entry follows Schengen visa policy."
+ },
+ "KI:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Kiribati passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "CL:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Chile passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "TR:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Türkiye passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "BS:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Bahamas passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "LS:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Lesotho passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "EG:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Egypt passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "MC:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Monaco passport holders may enter San Marino without a visa. San Marino is an enclave of Italy with no border control, and entry follows Schengen visa policy."
+ },
+ "NP:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Nepal passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "ZA:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "South Africa passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "LI:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Liechtenstein passport holders may enter San Marino without a visa. San Marino is an enclave of Italy with no border control, and entry follows Schengen visa policy."
+ },
+ "ES:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Spain passport holders may enter San Marino without a visa. San Marino is an enclave of Italy with no border control, and entry follows Schengen visa policy."
+ },
+ "PH:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Philippines passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "NG:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Nigeria passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "ST:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "São Tomé & Príncipe passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "TD:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Chad passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "IS:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Iceland passport holders may enter San Marino without a visa. San Marino is an enclave of Italy with no border control, and entry follows Schengen visa policy."
+ },
+ "UG:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Uganda passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "MX:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Mexico passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "TV:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Tuvalu passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "SN:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Senegal passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "MM:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Myanmar (Burma) passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "CF:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Central African Republic passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "ME:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Montenegro passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "MN:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Mongolia passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "PE:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Peru passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "RS:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Serbia passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "TG:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Togo passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "GN:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Guinea passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "BG:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Bulgaria passport holders may enter San Marino without a visa. San Marino is an enclave of Italy with no border control, and entry follows Schengen visa policy."
+ },
+ "PK:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Pakistan passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "BH:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Bahrain passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "CO:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Colombia passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "KZ:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Kazakhstan passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "FR:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "France passport holders may enter San Marino without a visa. San Marino is an enclave of Italy with no border control, and entry follows Schengen visa policy."
+ },
+ "FI:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Finland passport holders may enter San Marino without a visa. San Marino is an enclave of Italy with no border control, and entry follows Schengen visa policy."
+ },
+ "FM:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Micronesia passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "GB:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "United Kingdom passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "CM:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Cameroon passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "GD:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Grenada passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "KW:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Kuwait passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "MR:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Mauritania passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "SR:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Suriname passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "BI:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Burundi passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "BE:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Belgium passport holders may enter San Marino without a visa. San Marino is an enclave of Italy with no border control, and entry follows Schengen visa policy."
+ },
+ "GW:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Guinea-Bissau passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "TL:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Timor-Leste passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "KH:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Cambodia passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "VE:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Venezuela passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "PG:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Papua New Guinea passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "AG:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Antigua & Barbuda passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "NE:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Niger passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "MG:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Madagascar passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "PL:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Poland passport holders may enter San Marino without a visa. San Marino is an enclave of Italy with no border control, and entry follows Schengen visa policy."
+ },
+ "BO:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Bolivia passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "SE:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Sweden passport holders may enter San Marino without a visa. San Marino is an enclave of Italy with no border control, and entry follows Schengen visa policy."
+ },
+ "VU:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Vanuatu passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "BJ:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Benin passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "CR:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Costa Rica passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "BN:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Brunei passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "DM:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Dominica passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "AE:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "United Arab Emirates passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "HK:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Hong Kong SAR China passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "SZ:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Eswatini passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "PW:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Palau passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "CI:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Côte d’Ivoire passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "ZW:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Zimbabwe passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "PY:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Paraguay passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "MT:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Malta passport holders may enter San Marino without a visa. San Marino is an enclave of Italy with no border control, and entry follows Schengen visa policy."
+ },
+ "IL:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Israel passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "SI:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Slovenia passport holders may enter San Marino without a visa. San Marino is an enclave of Italy with no border control, and entry follows Schengen visa policy."
+ },
+ "AU:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Australia passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "BW:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Botswana passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "SS:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "South Sudan passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "TZ:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Tanzania passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "SB:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Solomon Islands passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "RO:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Romania passport holders may enter San Marino without a visa. San Marino is an enclave of Italy with no border control, and entry follows Schengen visa policy."
+ },
+ "TM:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Turkmenistan passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "ET:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Ethiopia passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "IT:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Italy passport holders may enter San Marino without a visa. San Marino is an enclave of Italy with no border control, and entry follows Schengen visa policy."
+ },
+ "HR:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Croatia passport holders may enter San Marino without a visa. San Marino is an enclave of Italy with no border control, and entry follows Schengen visa policy."
+ },
+ "SL:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Sierra Leone passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "EE:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Estonia passport holders may enter San Marino without a visa. San Marino is an enclave of Italy with no border control, and entry follows Schengen visa policy."
+ },
+ "ID:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Indonesia passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "UY:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Uruguay passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "OM:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Oman passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "AD:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Andorra passport holders may enter San Marino without a visa. San Marino is an enclave of Italy with no border control, and entry follows Schengen visa policy."
+ },
+ "IR:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Iran passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "DJ:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Djibouti passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "LR:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Liberia passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "VC:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "St. Vincent & Grenadines passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "UA:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Ukraine passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "IN:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "India passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "LU:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Luxembourg passport holders may enter San Marino without a visa. San Marino is an enclave of Italy with no border control, and entry follows Schengen visa policy."
+ },
+ "CY:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Cyprus passport holders may enter San Marino without a visa. San Marino is an enclave of Italy with no border control, and entry follows Schengen visa policy."
+ },
+ "ER:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Eritrea passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "PA:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Panama passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "EC:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Ecuador passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "GT:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Guatemala passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "BT:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Bhutan passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "CG:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Congo - Brazzaville passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "LK:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Sri Lanka passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "GE:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Georgia passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "MV:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Maldives passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "TT:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Trinidad & Tobago passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "YE:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Yemen passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "AL:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Albania passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "KE:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Kenya passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "LC:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "St. Lucia passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "JP:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Japan passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "AR:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Argentina passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "BF:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Burkina Faso passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "IE:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Ireland passport holders may enter San Marino without a visa. San Marino is an enclave of Italy with no border control, and entry follows Schengen visa policy."
+ },
+ "TO:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Tonga passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "VA:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Vatican City passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "MY:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Malaysia passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "WS:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Samoa passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "GM:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Gambia passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "SA:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Saudi Arabia passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "AZ:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Azerbaijan passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "QA:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Qatar passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "DZ:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Algeria passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "XK:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Kosovo passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "CU:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Cuba passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "DO:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Dominican Republic passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "RW:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Rwanda passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "AF:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Afghanistan passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "NA:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Namibia passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "BR:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Brazil passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "BY:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Belarus passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "LB:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Lebanon passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "CD:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Congo - Kinshasa passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "TJ:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Tajikistan passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "RU:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Russia passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "SK:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Slovakia passport holders may enter San Marino without a visa. San Marino is an enclave of Italy with no border control, and entry follows Schengen visa policy."
+ },
+ "LY:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Libya passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "IQ:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Iraq passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "GR:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Greece passport holders may enter San Marino without a visa. San Marino is an enclave of Italy with no border control, and entry follows Schengen visa policy."
+ },
+ "LA:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Laos passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "JO:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Jordan passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "GH:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Ghana passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "ML:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Mali passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "MO:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Macao SAR China passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "TH:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Thailand passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "BD:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Bangladesh passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "AM:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Armenia passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "HT:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Haiti passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "LV:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Latvia passport holders may enter San Marino without a visa. San Marino is an enclave of Italy with no border control, and entry follows Schengen visa policy."
+ },
+ "PS:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Palestinian Territories passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "KR:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "South Korea passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "NZ:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "New Zealand passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "NI:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Nicaragua passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "TN:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Tunisia passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "DK:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Denmark passport holders may enter San Marino without a visa. San Marino is an enclave of Italy with no border control, and entry follows Schengen visa policy."
+ },
+ "HU:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Hungary passport holders may enter San Marino without a visa. San Marino is an enclave of Italy with no border control, and entry follows Schengen visa policy."
+ },
+ "BA:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Bosnia & Herzegovina passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "LT:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Lithuania passport holders may enter San Marino without a visa. San Marino is an enclave of Italy with no border control, and entry follows Schengen visa policy."
+ },
+ "MZ:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Mozambique passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "SC:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Seychelles passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "UZ:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Uzbekistan passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "MA:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Morocco passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "SY:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Syria passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "MD:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Moldova passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "CN:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "China passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "VN:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Vietnam passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "NR:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Nauru passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "AO:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Angola passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "PT:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Portugal passport holders may enter San Marino without a visa. San Marino is an enclave of Italy with no border control, and entry follows Schengen visa policy."
+ },
+ "KM:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Comoros passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "GQ:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Equatorial Guinea passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "SG:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Singapore passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "NO:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Norway passport holders may enter San Marino without a visa. San Marino is an enclave of Italy with no border control, and entry follows Schengen visa policy."
+ },
+ "SD:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Sudan passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "GA:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Gabon passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "MW:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Malawi passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "MK:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "North Macedonia passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "SV:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "El Salvador passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "CA:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Canada passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "CV:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Cape Verde passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "KN:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "St. Kitts & Nevis passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "FJ:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Fiji passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "MH:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Marshall Islands passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "SO:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Somalia passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "ZM:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Zambia passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "DE:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Germany passport holders may enter San Marino without a visa. San Marino is an enclave of Italy with no border control, and entry follows Schengen visa policy."
+ },
+ "AT:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Austria passport holders may enter San Marino without a visa. San Marino is an enclave of Italy with no border control, and entry follows Schengen visa policy."
+ },
+ "KP:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "North Korea passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "CZ:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Czechia passport holders may enter San Marino without a visa. San Marino is an enclave of Italy with no border control, and entry follows Schengen visa policy."
+ },
+ "TW:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Taiwan passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "KG:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Kyrgyzstan passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "JM:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Jamaica passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "MU:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Mauritius passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "US:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "United States passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "BZ:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Belize passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "GY:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Guyana passport holders need a Schengen visa to enter San Marino: San Marino is reached through Italy and has no separate short-stay visa of its own."
+ },
+ "BB:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Barbados passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
+ },
+ "NL:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Netherlands passport holders may enter San Marino without a visa. San Marino is an enclave of Italy with no border control, and entry follows Schengen visa policy."
+ },
+ "HN:SM": {
+  "date": "2026-11-11",
+  "source": "https://www.esteri.sm/",
+  "source_name": "San Marino Department of Foreign Affairs entry information (Schengen policy via Italy), as compiled",
+  "note": "Honduras passport holders may enter San Marino without a visa for up to 90 days within any 180-day period, under the Schengen rules that govern entry through Italy."
  }
 }
