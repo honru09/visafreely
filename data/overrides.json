@@ -57659,5 +57659,68 @@
   "reason": "Settled 2026-11-11 against Oman's MFA entry-visa list and ROP e-Visa as compiled (see research-om-official.md).",
   "source": "https://www.fm.gov.om/",
   "date": "2026-11-11"
+ },
+ "AZ:MV": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Maldives Immigration rules as compiled (see research-mv-official.md).",
+  "source": "https://www.immigration.gov.mv/",
+  "date": "2026-11-11"
+ },
+ "KG:MV": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against Maldives Immigration rules as compiled (see research-mv-official.md).",
+  "source": "https://www.immigration.gov.mv/",
+  "date": "2026-11-11"
+ },
+ "KH:MV": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against Maldives Immigration rules as compiled (see research-mv-official.md).",
+  "source": "https://www.immigration.gov.mv/",
+  "date": "2026-11-11"
+ },
+ "KZ:MV": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against Maldives Immigration rules as compiled (see research-mv-official.md).",
+  "source": "https://www.immigration.gov.mv/",
+  "date": "2026-11-11"
+ },
+ "LK:MV": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Maldives Immigration rules as compiled (see research-mv-official.md).",
+  "source": "https://www.immigration.gov.mv/",
+  "date": "2026-11-11"
+ },
+ "MA:MV": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against Maldives Immigration rules as compiled (see research-mv-official.md).",
+  "source": "https://www.immigration.gov.mv/",
+  "date": "2026-11-11"
+ },
+ "MY:MV": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Maldives Immigration rules as compiled (see research-mv-official.md).",
+  "source": "https://www.immigration.gov.mv/",
+  "date": "2026-11-11"
+ },
+ "PK:MV": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Maldives Immigration rules as compiled (see research-mv-official.md).",
+  "source": "https://www.immigration.gov.mv/",
+  "date": "2026-11-11"
+ },
+ "SC:MV": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against Maldives Immigration rules as compiled (see research-mv-official.md).",
+  "source": "https://www.immigration.gov.mv/",
+  "date": "2026-11-11"
  }
 }

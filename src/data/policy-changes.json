@@ -857,6 +857,14 @@
   "source_name": "Ministry of Foreign Affairs of Ukraine"
  },
  {
+  "date": "2025-04-15",
+  "passport": "IL",
+  "destination": "MV",
+  "from": "visa on arrival",
+  "to": "no admission",
+  "summary": "Maldives bars Israeli passport holders: since 15 April 2025 entry and transit are refused to citizens of Israel, including passengers who do not leave the aircraft (temporary measure)."
+ },
+ {
   "date": "2025-04-10",
   "destination": "BR",
   "title": "Brazil ends visa exemption for Australia, Canada and the United States",
