@@ -1,13 +1,13 @@
 ---
 // Affiliate shelf — sits at the natural action point on pair pages: after the
 // verdict, steps and "Before you go" checklist, before the requirement spec table.
-// Live programs: VisaHQ (vaff18633), SafetyWing (26624375) and World Nomads (CJ click-101912829-15736546, joined 2026-11-05). Airalo stays a plain link until its program is joined.
-// Presentation is driven by the route's raw status (2026-10-26):
-//   R (embassy visa) — VisaHQ featured full-width, insurance + eSIM secondary.
-//   E (e-visa)       — VisaHQ featured, with an honest note that the official online application exists.
-//   F (visa free)    — no VisaHQ; insurance + eSIM as an equal two-card row.
-//   A (on arrival)   — no VisaHQ; eSIM leads (data on landing), insurance second.
-//   T (ETA)          — no VisaHQ (an ETA is a quick official form); insurance + eSIM two-card row.
+// Live programs: eVisas (ref=visafreely, PRIMARY processor since 2026-11-11 per the marketing plan), VisaHQ (vaff18633, demoted to fallback), SafetyWing (26624375) and World Nomads (CJ click-101912829-15736546, joined 2026-11-05). Airalo stays a plain link until its program is joined.
+// Presentation is driven by the route's raw status (processor swap 2026-11-11):
+//   R (embassy visa) — eVisas featured full-width, VisaHQ fallback card, insurance + eSIM secondary.
+//   E (e-visa)       — eVisas featured, with an honest note that the official online application exists; VisaHQ fallback.
+//   F (visa free)    — no processor; insurance + eSIM as an equal two-card row.
+//   A (on arrival)   — no processor; eSIM leads (data on landing), insurance second.
+//   T (ETA)          — eVisas card (authorisation filing) + insurance + eSIM.
 //   N (no admission) — renders nothing at all.
 // Visual identity: "travel kit" panel — tinted band with a dashed stamp-style inner
 // border; cards are boarding-pass style with an icon stub, a Partner tag and a pill CTA.
@@ -44,15 +44,39 @@ const shelfClass = isVisa ? 'shelf shelf--featured' : 'shelf shelf--duo';
         <svg width="26" height="26" viewBox="0 0 24 24" fill="none"><rect x="5" y="3.5" width="14" height="17" rx="2" stroke="currentColor" stroke-width="1.9"/><path d="M9 8.5h6M9 12h4" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"/><path d="M9.2 16.4l1.6 1.6 3-3.2" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/></svg>
       </div>
       <div class="pass-main">
-        <div class="k">Visa services<span class="partner-tag">Partner</span></div>
-        <div class="t">VisaHQ</div>
+        <div class="k">Visa application service<span class="partner-tag">Partner</span></div>
+        <div class="t">eVisas</div>
         <p>
-          If you would rather not handle the application yourself, VisaHQ can prepare and submit visa paperwork for a service fee.
+          Apply online with guided forms and document checks — eVisas runs the application for a service fee on top of the government charge.
         </p>
         {status === 'E' && (
         <p class="official-note">You can also apply yourself on the official government site — this is simply the done-for-you option.</p>
         )}
+        <a class="visit-link" data-offer={`evisas-${pos}`} href="https://evisas.com/?ref=visafreely" rel="sponsored nofollow noopener" target="_blank">Start with eVisas <span class="arr">→</span></a>
+      </div>
+    </div>
+    <div class="card">
+      <div class="stub" aria-hidden="true">
+        <svg width="26" height="26" viewBox="0 0 24 24" fill="none"><rect x="5" y="3.5" width="14" height="17" rx="2" stroke="currentColor" stroke-width="1.9"/><path d="M9 8.5h6M9 12h4" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"/><circle cx="15.8" cy="16.2" r="1.6" stroke="currentColor" stroke-width="1.9"/></svg>
+      </div>
+      <div class="pass-main">
+        <div class="k">Full-service agent<span class="partner-tag">Partner</span></div>
+        <div class="t">VisaHQ</div>
+        <p>Prefer a full done-for-you agent? VisaHQ can also prepare and submit the paperwork for this route, for a service fee.</p>
         <a class="visit-link" data-offer={`visahq-${pos}`} href="https://www.visahq.co.uk/?a_aid=vaff18633" rel="sponsored nofollow noopener" target="_blank">Visit VisaHQ <span class="arr">→</span></a>
+      </div>
+    </div>
+    )}
+    {status === 'T' && (
+    <div class="card">
+      <div class="stub" aria-hidden="true">
+        <svg width="26" height="26" viewBox="0 0 24 24" fill="none"><rect x="5" y="3.5" width="14" height="17" rx="2" stroke="currentColor" stroke-width="1.9"/><path d="M9 8.5h6M9 12h4" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"/><path d="M9.2 16.4l1.6 1.6 3-3.2" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </div>
+      <div class="pass-main">
+        <div class="k">Travel authorisation<span class="partner-tag">Partner</span></div>
+        <div class="t">eVisas</div>
+        <p>eVisas can file the electronic travel authorisation for you, if you would rather not use the official form yourself.</p>
+        <a class="visit-link" data-offer={`evisas-${pos}`} href="https://evisas.com/?ref=visafreely" rel="sponsored nofollow noopener" target="_blank">Start with eVisas <span class="arr">→</span></a>
       </div>
     </div>
     )}
