@@ -54793,5 +54793,134 @@
   "reason": "Settled 2026-11-11 against Brunei's MFA visa information and Exemption Orders as compiled (see research-bn-official.md).",
   "source": "https://www.mfa.gov.bn/",
   "date": "2026-11-11"
+ },
+ "AM:BY": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Belarus's MFA visa regime lists as compiled (see research-by-official.md).",
+  "source": "https://www.mfa.gov.by/en/",
+  "date": "2026-11-11"
+ },
+ "AZ:BY": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Belarus's MFA visa regime lists as compiled (see research-by-official.md).",
+  "source": "https://www.mfa.gov.by/en/",
+  "date": "2026-11-11"
+ },
+ "BO:BY": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Belarus's MFA visa regime lists as compiled (see research-by-official.md).",
+  "source": "https://www.mfa.gov.by/en/",
+  "date": "2026-11-11"
+ },
+ "GE:BY": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Belarus's MFA visa regime lists as compiled (see research-by-official.md).",
+  "source": "https://www.mfa.gov.by/en/",
+  "date": "2026-11-11"
+ },
+ "IN:BY": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Belarus's MFA visa regime lists as compiled (see research-by-official.md).",
+  "source": "https://www.mfa.gov.by/en/",
+  "date": "2026-11-11"
+ },
+ "KG:BY": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Belarus's MFA visa regime lists as compiled (see research-by-official.md).",
+  "source": "https://www.mfa.gov.by/en/",
+  "date": "2026-11-11"
+ },
+ "KZ:BY": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Belarus's MFA visa regime lists as compiled (see research-by-official.md).",
+  "source": "https://www.mfa.gov.by/en/",
+  "date": "2026-11-11"
+ },
+ "LA:BY": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against Belarus's MFA visa regime lists as compiled (see research-by-official.md).",
+  "source": "https://www.mfa.gov.by/en/",
+  "date": "2026-11-11"
+ },
+ "LT:BY": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Belarus's MFA visa regime lists as compiled (see research-by-official.md).",
+  "source": "https://www.mfa.gov.by/en/",
+  "date": "2026-11-11"
+ },
+ "LV:BY": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Belarus's MFA visa regime lists as compiled (see research-by-official.md).",
+  "source": "https://www.mfa.gov.by/en/",
+  "date": "2026-11-11"
+ },
+ "LY:BY": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Belarus's MFA visa regime lists as compiled (see research-by-official.md).",
+  "source": "https://www.mfa.gov.by/en/",
+  "date": "2026-11-11"
+ },
+ "MD:BY": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Belarus's MFA visa regime lists as compiled (see research-by-official.md).",
+  "source": "https://www.mfa.gov.by/en/",
+  "date": "2026-11-11"
+ },
+ "ME:BY": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Belarus's MFA visa regime lists as compiled (see research-by-official.md).",
+  "source": "https://www.mfa.gov.by/en/",
+  "date": "2026-11-11"
+ },
+ "MM:BY": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against Belarus's MFA visa regime lists as compiled (see research-by-official.md).",
+  "source": "https://www.mfa.gov.by/en/",
+  "date": "2026-11-11"
+ },
+ "NI:BY": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Belarus's MFA visa regime lists as compiled (see research-by-official.md).",
+  "source": "https://www.mfa.gov.by/en/",
+  "date": "2026-11-11"
+ },
+ "PL:BY": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Belarus's MFA visa regime lists as compiled (see research-by-official.md).",
+  "source": "https://www.mfa.gov.by/en/",
+  "date": "2026-11-11"
+ },
+ "TJ:BY": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Belarus's MFA visa regime lists as compiled (see research-by-official.md).",
+  "source": "https://www.mfa.gov.by/en/",
+  "date": "2026-11-11"
+ },
+ "UA:BY": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Belarus's MFA visa regime lists as compiled (see research-by-official.md).",
+  "source": "https://www.mfa.gov.by/en/",
+  "date": "2026-11-11"
+ },
+ "UZ:BY": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Belarus's MFA visa regime lists as compiled (see research-by-official.md).",
+  "source": "https://www.mfa.gov.by/en/",
+  "date": "2026-11-11"
  }
 }
