@@ -376,6 +376,15 @@
   "source_name": "Presidential Proclamation 10998 of 16 December 2025 (Federal Register, 19 December 2025)"
  },
  {
+  "passport": "US",
+  "destination": "GA",
+  "date": "2026-01-01",
+  "from_status": "e-visa",
+  "to_status": "no admission",
+  "summary": "Gabon suspended visa issuance to United States citizens from 1 January 2026, in reciprocity for the US suspension on Gabonese citizens; no visa channel is available.",
+  "source": "https://travel.state.gov/"
+ },
+ {
   "date": "2025-12-31",
   "destination": "KG",
   "source": "https://cbd.minjust.gov.kg/7-49471/edition/44375/ru",
