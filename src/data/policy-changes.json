@@ -856,6 +856,14 @@
   "source_name": "Instituto Nacional de Migración (INM)"
  },
  {
+  "date": "2022-07-28",
+  "destination": "BB",
+  "title": "Barbados grants temporary visa waivers to 43 countries",
+  "summary": "Barbados waived advance visas for 43 more nationalities (90 days), including Algeria, Angola, Egypt, Kuwait, Lebanon, Mongolia, Nepal, Pakistan, Paraguay and Sudan; the waivers have since been carried as standing exemptions.",
+  "source": "https://www.immigration.gov.bb/",
+  "source_name": "Government of Barbados"
+ },
+ {
   "date": "2022-07-01",
   "destination": "UA",
   "title": "Ukraine imposes a visa regime on Russia",
@@ -878,6 +886,30 @@
   "summary": "Ecuadorian passport holders have needed a Mexican visa since 4 September 2021, when Mexico cancelled the exemption.",
   "source": "https://www.gob.mx/inm",
   "source_name": "Instituto Nacional de Migración (INM)"
+ },
+ {
+  "date": "2019-07-13",
+  "destination": "BB",
+  "title": "Barbados reimposes visas on Haitian nationals",
+  "summary": "Barbados cancelled visa-free entry for Haitian passport holders; a visa in advance has been required since 13 July 2019.",
+  "source": "https://www.immigration.gov.bb/",
+  "source_name": "Barbados Immigration Department"
+ },
+ {
+  "date": "2019-05-16",
+  "destination": "BB",
+  "title": "Barbados waives visas for 25 more countries",
+  "summary": "Barbados extended visa-free entry (90 days) to 25 more nationalities, including India, Indonesia, the Philippines, Russia, Saudi Arabia, Serbia, Thailand and Vietnam.",
+  "source": "https://www.immigration.gov.bb/",
+  "source_name": "Barbados Immigration Department"
+ },
+ {
+  "date": "2017-06-01",
+  "destination": "BB",
+  "title": "China–Barbados mutual visa exemption takes effect",
+  "summary": "The mutual visa exemption agreement for ordinary passports between China and Barbados took effect, giving Chinese passport holders 30 days visa-free in Barbados.",
+  "source": "http://bb.china-embassy.gov.cn/eng/",
+  "source_name": "Embassy of China in Barbados"
  },
  {
   "date": "2014-12-01",

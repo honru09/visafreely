@@ -35508,5 +35508,94 @@
   "reason": "Settled 2026-11-11 against the Ukrainian MFA entry regime and e-Visa list (see research-ua-official.md).",
   "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
   "date": "2026-11-11"
+ },
+ "AG:BB": {
+  "status": "visa free",
+  "days": 180,
+  "reason": "Settled 2026-11-11 against the Barbados Immigration Department exemption list as compiled (see research-bb-official.md).",
+  "source": "https://www.immigration.gov.bb/",
+  "date": "2026-11-11"
+ },
+ "BS:BB": {
+  "status": "visa free",
+  "days": 180,
+  "reason": "Settled 2026-11-11 against the Barbados Immigration Department exemption list as compiled (see research-bb-official.md).",
+  "source": "https://www.immigration.gov.bb/",
+  "date": "2026-11-11"
+ },
+ "BZ:BB": {
+  "status": "visa free",
+  "reason": "Settled 2026-11-11 against the Barbados Immigration Department exemption list as compiled (see research-bb-official.md).",
+  "source": "https://www.immigration.gov.bb/",
+  "date": "2026-11-11"
+ },
+ "GD:BB": {
+  "status": "visa free",
+  "days": 180,
+  "reason": "Settled 2026-11-11 against the Barbados Immigration Department exemption list as compiled (see research-bb-official.md).",
+  "source": "https://www.immigration.gov.bb/",
+  "date": "2026-11-11"
+ },
+ "GY:BB": {
+  "status": "visa free",
+  "days": 180,
+  "reason": "Settled 2026-11-11 against the Barbados Immigration Department exemption list as compiled (see research-bb-official.md).",
+  "source": "https://www.immigration.gov.bb/",
+  "date": "2026-11-11"
+ },
+ "HK:BB": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the Barbados Immigration Department exemption list as compiled (see research-bb-official.md).",
+  "source": "https://www.immigration.gov.bb/",
+  "date": "2026-11-11"
+ },
+ "IS:BB": {
+  "status": "visa free",
+  "days": 180,
+  "reason": "Settled 2026-11-11 against the Barbados Immigration Department exemption list as compiled (see research-bb-official.md).",
+  "source": "https://www.immigration.gov.bb/",
+  "date": "2026-11-11"
+ },
+ "NG:BB": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the Barbados Immigration Department exemption list as compiled (see research-bb-official.md).",
+  "source": "https://www.immigration.gov.bb/",
+  "date": "2026-11-11"
+ },
+ "NO:BB": {
+  "status": "visa free",
+  "days": 180,
+  "reason": "Settled 2026-11-11 against the Barbados Immigration Department exemption list as compiled (see research-bb-official.md).",
+  "source": "https://www.immigration.gov.bb/",
+  "date": "2026-11-11"
+ },
+ "PA:BB": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the Barbados Immigration Department exemption list as compiled (see research-bb-official.md).",
+  "source": "https://www.immigration.gov.bb/",
+  "date": "2026-11-11"
+ },
+ "RO:BB": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the Barbados Immigration Department exemption list as compiled (see research-bb-official.md).",
+  "source": "https://www.immigration.gov.bb/",
+  "date": "2026-11-11"
+ },
+ "RU:BB": {
+  "status": "visa free",
+  "days": 28,
+  "reason": "Settled 2026-11-11 against the Barbados Immigration Department exemption list as compiled (see research-bb-official.md).",
+  "source": "https://www.immigration.gov.bb/",
+  "date": "2026-11-11"
+ },
+ "VC:BB": {
+  "status": "visa free",
+  "reason": "Settled 2026-11-11 against the Barbados Immigration Department exemption list as compiled (see research-bb-official.md).",
+  "source": "https://www.immigration.gov.bb/",
+  "date": "2026-11-11"
  }
 }
