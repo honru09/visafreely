@@ -34504,5 +34504,19 @@
   "reason": "Settled 2026-11-11 against the Directorate General of Immigration exemption and visa-on-arrival lists (see research-id-official.md).",
   "source": "https://evisa.imigrasi.go.id/",
   "date": "2026-11-11"
+ },
+ "BY:VN": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Vietnamese MFA visa-exemption table (see research-vn-official.md).",
+  "source": "https://evisa.gov.vn/",
+  "date": "2026-11-11"
+ },
+ "ID:VN": {
+  "status": "visa free",
+  "days": 14,
+  "reason": "Settled 2026-11-11 against the Vietnamese MFA visa-exemption table (see research-vn-official.md).",
+  "source": "https://evisa.gov.vn/",
+  "date": "2026-11-11"
  }
 }
