@@ -48844,5 +48844,11 @@
   "reason": "Settled 2026-11-11 against Samoa's exemption agreements as compiled (see research-ws-official.md).",
   "source": "https://www.samoa.travel/",
   "date": "2026-11-11"
+ },
+ "KR:KP": {
+  "status": "no admission",
+  "reason": "Settled 2026-11-11 against North Korea's entry rules as compiled (see research-kp-official.md).",
+  "source": "https://www.koryogroup.com/",
+  "date": "2026-11-11"
  }
 }

@@ -178289,5 +178289,1193 @@
   "source": "https://www.samoa.travel/",
   "source_name": "Samoa entry rules (Immigration permit services and bilateral agreements), as compiled",
   "note": "Iraq passport holders are issued a free Visitor's Permit on arrival in Samoa for up to 90 days."
+ },
+ "VE:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Venezuela passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "TO:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Tonga passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "SG:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Singapore passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "KW:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Kuwait passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "RS:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Serbia passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "BF:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Burkina Faso passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "CL:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Chile passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "NG:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Nigeria passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "TR:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Türkiye passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "SK:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Slovakia passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "OM:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Oman passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "GW:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Guinea-Bissau passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "ET:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Ethiopia passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "VN:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Vietnam passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "KI:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Kiribati passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "MO:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Macao SAR China passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "ZM:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Zambia passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "BN:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Brunei passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "MY:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Malaysia passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "HU:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Hungary passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "KH:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Cambodia passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "PA:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Panama passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "CY:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Cyprus passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "SA:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Saudi Arabia passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "PG:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Papua New Guinea passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "PL:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Poland passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "AR:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Argentina passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "ZW:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Zimbabwe passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "CF:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Central African Republic passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "CM:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Cameroon passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "TM:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Turkmenistan passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "BY:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Belarus passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "EC:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Ecuador passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "PS:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Palestinian Territories passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "KZ:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Kazakhstan passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "ID:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Indonesia passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "SV:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "El Salvador passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "TN:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Tunisia passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "SE:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Sweden passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "JO:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Jordan passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "VC:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "St. Vincent & Grenadines passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "BE:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Belgium passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "CO:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Colombia passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "VA:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Vatican City passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "TG:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Togo passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "NI:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Nicaragua passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "JP:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Japan passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "AM:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Armenia passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "MW:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Malawi passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "UY:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Uruguay passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "GD:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Grenada passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "NL:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Netherlands passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "AZ:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Azerbaijan passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "TV:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Tuvalu passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "MU:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Mauritius passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "BT:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Bhutan passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "SL:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Sierra Leone passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "PE:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Peru passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "AT:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Austria passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "IT:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Italy passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "DJ:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Djibouti passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "AD:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Andorra passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "IL:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Israel passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "EE:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Estonia passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "DK:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Denmark passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "GB:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "United Kingdom passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "PY:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Paraguay passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "SN:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Senegal passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "PT:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Portugal passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "KR:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "South Korea passports cannot be used to enter North Korea: South Korean citizens travel only under an inter-Korean visitation certificate and special authorization, and no South Korean citizen has legally travelled to North Korea since 2021."
+ },
+ "MN:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Mongolia passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "DM:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Dominica passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "KN:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "St. Kitts & Nevis passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "GT:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Guatemala passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "GA:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Gabon passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "NP:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Nepal passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "UZ:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Uzbekistan passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "LB:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Lebanon passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "MX:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Mexico passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "HN:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Honduras passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "MD:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Moldova passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "FJ:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Fiji passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "HT:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Haiti passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "BH:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Bahrain passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "BD:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Bangladesh passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "MA:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Morocco passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "NR:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Nauru passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "SR:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Suriname passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "CV:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Cape Verde passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "HK:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Hong Kong SAR China passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "TL:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Timor-Leste passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "SY:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Syria passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "FM:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Micronesia passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "NO:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Norway passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "TJ:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Tajikistan passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "BO:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Bolivia passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "CA:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Canada passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "LY:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Libya passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "MK:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "North Macedonia passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "GN:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Guinea passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "KE:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Kenya passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "GM:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Gambia passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "MR:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Mauritania passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "PH:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Philippines passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "TH:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Thailand passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "IQ:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Iraq passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "BG:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Bulgaria passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "HR:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Croatia passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "UA:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Ukraine passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "RO:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Romania passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "NE:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Niger passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "CD:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Congo - Kinshasa passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "EG:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Egypt passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "ML:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Mali passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "DE:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Germany passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "TT:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Trinidad & Tobago passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "YE:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Yemen passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "CG:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Congo - Brazzaville passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "JM:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Jamaica passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "UG:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Uganda passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "LK:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Sri Lanka passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "LU:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Luxembourg passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "CI:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Côte d’Ivoire passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "TD:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Chad passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "PW:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Palau passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "BJ:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Benin passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "CR:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Costa Rica passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "SD:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Sudan passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "ES:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Spain passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "GQ:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Equatorial Guinea passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "PK:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Pakistan passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "AG:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Antigua & Barbuda passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "XK:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Kosovo passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "GE:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Georgia passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "GR:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Greece passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "ZA:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "South Africa passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "SM:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "San Marino passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "TZ:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Tanzania passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "BA:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Bosnia & Herzegovina passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "ST:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "São Tomé & Príncipe passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "SZ:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Eswatini passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "KM:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Comoros passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "DZ:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Algeria passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "GH:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Ghana passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "SI:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Slovenia passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "WS:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Samoa passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "KG:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Kyrgyzstan passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "LA:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Laos passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "AF:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Afghanistan passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "ME:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Montenegro passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "LR:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Liberia passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "MT:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Malta passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "NZ:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "New Zealand passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "BR:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Brazil passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "BB:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Barbados passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "BZ:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Belize passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "FR:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "France passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "MV:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Maldives passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "SS:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "South Sudan passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "AE:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "United Arab Emirates passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "MG:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Madagascar passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "VU:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Vanuatu passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "FI:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Finland passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "LC:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "St. Lucia passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "AL:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Albania passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "LI:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Liechtenstein passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "ER:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Eritrea passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "MH:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Marshall Islands passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "LT:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Lithuania passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "AU:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Australia passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "IN:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "India passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "AO:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Angola passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "US:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "United States passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "BS:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Bahamas passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "CU:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Cuba passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "RU:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Russia passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "LS:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Lesotho passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "IR:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Iran passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "LV:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Latvia passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "SO:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Somalia passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "BW:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Botswana passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "MC:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Monaco passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "RW:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Rwanda passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "DO:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Dominican Republic passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "NA:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Namibia passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "GY:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Guyana passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "TW:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Taiwan passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "MZ:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Mozambique passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "CH:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Switzerland passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "IE:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Ireland passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "IS:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Iceland passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "SB:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Solomon Islands passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "SC:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Seychelles passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "MM:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Myanmar (Burma) passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "QA:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Qatar passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "CN:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "China passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance. Chinese tour groups may also visit Tongrim County for up to 2 days, or make a day trip to Sinuiju, without a visa."
+ },
+ "CZ:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Czechia passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
+ },
+ "BI:KP": {
+  "date": "2026-11-11",
+  "source": "https://www.koryogroup.com/",
+  "source_name": "North Korean visa rules (IATA Timatic), as compiled",
+  "note": "Burundi passport holders must obtain a visa for North Korea from a North Korean diplomatic mission in advance; tourism requires prior authorization arranged through a travel agency registered with the State General Bureau of Tourist Guidance."
  }
 }
