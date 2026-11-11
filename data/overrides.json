@@ -45614,5 +45614,64 @@
   "reason": "Settled 2026-11-11 against Kuwait's exemption, visa-on-arrival and e-Visa rules as compiled (see research-kw-official.md).",
   "source": "https://kuwaitvisa.moi.gov.kw/",
   "date": "2026-11-11"
+ },
+ "BN:LA": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against Laos's exemption and visa-on-arrival eligibility lists as compiled (see research-la-official.md).",
+  "source": "https://laoevisa.gov.la/",
+  "date": "2026-11-11"
+ },
+ "BY:LA": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against Laos's exemption and visa-on-arrival eligibility lists as compiled (see research-la-official.md).",
+  "source": "https://laoevisa.gov.la/",
+  "date": "2026-11-11"
+ },
+ "HK:LA": {
+  "status": "visa free",
+  "days": 14,
+  "reason": "Settled 2026-11-11 against Laos's exemption and visa-on-arrival eligibility lists as compiled (see research-la-official.md).",
+  "source": "https://laoevisa.gov.la/",
+  "date": "2026-11-11"
+ },
+ "IQ:LA": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Laos's exemption and visa-on-arrival eligibility lists as compiled (see research-la-official.md).",
+  "source": "https://laoevisa.gov.la/",
+  "date": "2026-11-11"
+ },
+ "JP:LA": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against Laos's exemption and visa-on-arrival eligibility lists as compiled (see research-la-official.md).",
+  "source": "https://laoevisa.gov.la/",
+  "date": "2026-11-11"
+ },
+ "LB:LA": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Laos's exemption and visa-on-arrival eligibility lists as compiled (see research-la-official.md).",
+  "source": "https://laoevisa.gov.la/",
+  "date": "2026-11-11"
+ },
+ "SD:LA": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Laos's exemption and visa-on-arrival eligibility lists as compiled (see research-la-official.md).",
+  "source": "https://laoevisa.gov.la/",
+  "date": "2026-11-11"
+ },
+ "SS:LA": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Laos's exemption and visa-on-arrival eligibility lists as compiled (see research-la-official.md).",
+  "source": "https://laoevisa.gov.la/",
+  "date": "2026-11-11"
+ },
+ "TL:LA": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against Laos's exemption and visa-on-arrival eligibility lists as compiled (see research-la-official.md).",
+  "source": "https://laoevisa.gov.la/",
+  "date": "2026-11-11"
  }
 }
