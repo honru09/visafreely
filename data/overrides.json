@@ -48775,5 +48775,12 @@
   "reason": "Settled 2026-11-11 against Timor-Leste's exemption and visa-on-arrival rules as compiled (see research-tl-official.md).",
   "source": "https://migracao.gov.tl/",
   "date": "2026-11-11"
+ },
+ "CN:TO": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against Tonga's exemption and free-visa-on-arrival lists as compiled (see research-to-official.md).",
+  "source": "https://www.tongaconsul.com/",
+  "date": "2026-11-11"
  }
 }
