@@ -35151,5 +35151,362 @@
   "reason": "Settled 2026-11-11 against the Argentine DNM exemption list and AVE rules (see research-ar-official.md).",
   "source": "https://www.argentina.gob.ar/interior/migraciones",
   "date": "2026-11-11"
+ },
+ "AM:UA": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the Ukrainian MFA entry regime and e-Visa list (see research-ua-official.md).",
+  "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
+  "date": "2026-11-11"
+ },
+ "AZ:UA": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the Ukrainian MFA entry regime and e-Visa list (see research-ua-official.md).",
+  "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
+  "date": "2026-11-11"
+ },
+ "BB:UA": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Ukrainian MFA entry regime and e-Visa list (see research-ua-official.md).",
+  "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
+  "date": "2026-11-11"
+ },
+ "BO:UA": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Ukrainian MFA entry regime and e-Visa list (see research-ua-official.md).",
+  "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
+  "date": "2026-11-11"
+ },
+ "BS:UA": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Ukrainian MFA entry regime and e-Visa list (see research-ua-official.md).",
+  "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
+  "date": "2026-11-11"
+ },
+ "BT:UA": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Ukrainian MFA entry regime and e-Visa list (see research-ua-official.md).",
+  "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
+  "date": "2026-11-11"
+ },
+ "BY:UA": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the Ukrainian MFA entry regime and e-Visa list (see research-ua-official.md).",
+  "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
+  "date": "2026-11-11"
+ },
+ "BZ:UA": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Ukrainian MFA entry regime and e-Visa list (see research-ua-official.md).",
+  "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
+  "date": "2026-11-11"
+ },
+ "CN:UA": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Ukrainian MFA entry regime and e-Visa list (see research-ua-official.md).",
+  "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
+  "date": "2026-11-11"
+ },
+ "CR:UA": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Ukrainian MFA entry regime and e-Visa list (see research-ua-official.md).",
+  "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
+  "date": "2026-11-11"
+ },
+ "DO:UA": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Ukrainian MFA entry regime and e-Visa list (see research-ua-official.md).",
+  "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
+  "date": "2026-11-11"
+ },
+ "FJ:UA": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Ukrainian MFA entry regime and e-Visa list (see research-ua-official.md).",
+  "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
+  "date": "2026-11-11"
+ },
+ "FM:UA": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Ukrainian MFA entry regime and e-Visa list (see research-ua-official.md).",
+  "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
+  "date": "2026-11-11"
+ },
+ "GT:UA": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Ukrainian MFA entry regime and e-Visa list (see research-ua-official.md).",
+  "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
+  "date": "2026-11-11"
+ },
+ "HN:UA": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Ukrainian MFA entry regime and e-Visa list (see research-ua-official.md).",
+  "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
+  "date": "2026-11-11"
+ },
+ "HT:UA": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Ukrainian MFA entry regime and e-Visa list (see research-ua-official.md).",
+  "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
+  "date": "2026-11-11"
+ },
+ "ID:UA": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Ukrainian MFA entry regime and e-Visa list (see research-ua-official.md).",
+  "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
+  "date": "2026-11-11"
+ },
+ "IN:UA": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Ukrainian MFA entry regime and e-Visa list (see research-ua-official.md).",
+  "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
+  "date": "2026-11-11"
+ },
+ "JM:UA": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Ukrainian MFA entry regime and e-Visa list (see research-ua-official.md).",
+  "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
+  "date": "2026-11-11"
+ },
+ "KH:UA": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Ukrainian MFA entry regime and e-Visa list (see research-ua-official.md).",
+  "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
+  "date": "2026-11-11"
+ },
+ "KI:UA": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Ukrainian MFA entry regime and e-Visa list (see research-ua-official.md).",
+  "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
+  "date": "2026-11-11"
+ },
+ "LA:UA": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Ukrainian MFA entry regime and e-Visa list (see research-ua-official.md).",
+  "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
+  "date": "2026-11-11"
+ },
+ "LC:UA": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Ukrainian MFA entry regime and e-Visa list (see research-ua-official.md).",
+  "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
+  "date": "2026-11-11"
+ },
+ "MD:UA": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the Ukrainian MFA entry regime and e-Visa list (see research-ua-official.md).",
+  "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
+  "date": "2026-11-11"
+ },
+ "MM:UA": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Ukrainian MFA entry regime and e-Visa list (see research-ua-official.md).",
+  "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
+  "date": "2026-11-11"
+ },
+ "MN:UA": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the Ukrainian MFA entry regime and e-Visa list (see research-ua-official.md).",
+  "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
+  "date": "2026-11-11"
+ },
+ "MO:UA": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Ukrainian MFA entry regime and e-Visa list (see research-ua-official.md).",
+  "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
+  "date": "2026-11-11"
+ },
+ "MU:UA": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the Ukrainian MFA entry regime and e-Visa list (see research-ua-official.md).",
+  "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
+  "date": "2026-11-11"
+ },
+ "MV:UA": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Ukrainian MFA entry regime and e-Visa list (see research-ua-official.md).",
+  "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
+  "date": "2026-11-11"
+ },
+ "MX:UA": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Ukrainian MFA entry regime and e-Visa list (see research-ua-official.md).",
+  "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
+  "date": "2026-11-11"
+ },
+ "MY:UA": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Ukrainian MFA entry regime and e-Visa list (see research-ua-official.md).",
+  "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
+  "date": "2026-11-11"
+ },
+ "NI:UA": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Ukrainian MFA entry regime and e-Visa list (see research-ua-official.md).",
+  "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
+  "date": "2026-11-11"
+ },
+ "NP:UA": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Ukrainian MFA entry regime and e-Visa list (see research-ua-official.md).",
+  "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
+  "date": "2026-11-11"
+ },
+ "NR:UA": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Ukrainian MFA entry regime and e-Visa list (see research-ua-official.md).",
+  "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
+  "date": "2026-11-11"
+ },
+ "PH:UA": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Ukrainian MFA entry regime and e-Visa list (see research-ua-official.md).",
+  "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
+  "date": "2026-11-11"
+ },
+ "PW:UA": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Ukrainian MFA entry regime and e-Visa list (see research-ua-official.md).",
+  "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
+  "date": "2026-11-11"
+ },
+ "RS:UA": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the Ukrainian MFA entry regime and e-Visa list (see research-ua-official.md).",
+  "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
+  "date": "2026-11-11"
+ },
+ "SB:UA": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Ukrainian MFA entry regime and e-Visa list (see research-ua-official.md).",
+  "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
+  "date": "2026-11-11"
+ },
+ "SC:UA": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Ukrainian MFA entry regime and e-Visa list (see research-ua-official.md).",
+  "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
+  "date": "2026-11-11"
+ },
+ "SG:UA": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Ukrainian MFA entry regime and e-Visa list (see research-ua-official.md).",
+  "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
+  "date": "2026-11-11"
+ },
+ "SR:UA": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Ukrainian MFA entry regime and e-Visa list (see research-ua-official.md).",
+  "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
+  "date": "2026-11-11"
+ },
+ "SV:UA": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Ukrainian MFA entry regime and e-Visa list (see research-ua-official.md).",
+  "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
+  "date": "2026-11-11"
+ },
+ "TH:UA": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Ukrainian MFA entry regime and e-Visa list (see research-ua-official.md).",
+  "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
+  "date": "2026-11-11"
+ },
+ "TL:UA": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Ukrainian MFA entry regime and e-Visa list (see research-ua-official.md).",
+  "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
+  "date": "2026-11-11"
+ },
+ "TT:UA": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Ukrainian MFA entry regime and e-Visa list (see research-ua-official.md).",
+  "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
+  "date": "2026-11-11"
+ },
+ "TV:UA": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Ukrainian MFA entry regime and e-Visa list (see research-ua-official.md).",
+  "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
+  "date": "2026-11-11"
+ },
+ "TW:UA": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Ukrainian MFA entry regime and e-Visa list (see research-ua-official.md).",
+  "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
+  "date": "2026-11-11"
+ },
+ "UZ:UA": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the Ukrainian MFA entry regime and e-Visa list (see research-ua-official.md).",
+  "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
+  "date": "2026-11-11"
+ },
+ "VU:UA": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Ukrainian MFA entry regime and e-Visa list (see research-ua-official.md).",
+  "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
+  "date": "2026-11-11"
+ },
+ "WS:UA": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Ukrainian MFA entry regime and e-Visa list (see research-ua-official.md).",
+  "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
+  "date": "2026-11-11"
+ },
+ "ZA:UA": {
+  "status": "e-visa",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Ukrainian MFA entry regime and e-Visa list (see research-ua-official.md).",
+  "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
+  "date": "2026-11-11"
  }
 }

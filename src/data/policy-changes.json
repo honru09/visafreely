@@ -664,6 +664,14 @@
   "source_name": "Nigeria Immigration Service — Tourism Visa (F5A) page"
  },
  {
+  "date": "2025-04-19",
+  "destination": "UA",
+  "title": "Mauritius gains visa-free access to Ukraine",
+  "summary": "The Ukraine–Mauritius visa exemption agreement entered into force on 19 April 2025: Mauritian passports are visa-free for 90 days within any 180-day period.",
+  "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
+  "source_name": "Ministry of Foreign Affairs of Ukraine"
+ },
+ {
   "date": "2025-04-10",
   "destination": "BR",
   "title": "Brazil ends visa exemption for Australia, Canada and the United States",
@@ -710,6 +718,14 @@
   "summary": "From 1 March 2025, Czech, Swiss and Polish passport holders enter Vietnam visa-free for up to 45 days under Government Resolution 44, which runs to 14 March 2028.",
   "source": "https://evisa.gov.vn/",
   "source_name": "Government of Vietnam — Resolutions 44 & 229"
+ },
+ {
+  "date": "2025-02-19",
+  "destination": "UA",
+  "title": "Ukraine resumes issuing e-Visas",
+  "summary": "Ukraine's e-Visa service (suspended in 2022) resumed on 19 February 2025 for the listed nationalities, for stays of up to 30 days.",
+  "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
+  "source_name": "Ministry of Foreign Affairs of Ukraine"
  },
  {
   "date": "2025-01-17",
@@ -838,6 +854,14 @@
   "summary": "Brazilian passport holders lost visa-free access to Mexico on 18 August 2022; Brazil now uses Mexico's electronic visa for air travel.",
   "source": "https://www.gob.mx/inm",
   "source_name": "Instituto Nacional de Migración (INM)"
+ },
+ {
+  "date": "2022-07-01",
+  "destination": "UA",
+  "title": "Ukraine imposes a visa regime on Russia",
+  "summary": "Ukraine ended visa-free entry for Russian citizens on 1 July 2022, after severing diplomatic relations; Russians apply via visa centres in Russia or Ukrainian missions abroad, and admission at the border remains discretionary.",
+  "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
+  "source_name": "Ministry of Foreign Affairs of Ukraine"
  },
  {
   "date": "2022-01-22",
