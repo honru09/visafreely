@@ -1067,153 +1067,178 @@
   "note": "A short-stay Schengen (uniform) visa is required in advance: file at VFS Global or TLScontact — the application is decided by the Consular Service Organisation of the Dutch Ministry of Foreign Affairs in The Hague, averaging 18 to 21 calendar days (legal range 15 days, up to 45). Fee EUR 90; apply between 6 months and at least 15 days before travel. A uniform visa issued by any Schengen state is valid for the Netherlands, and holders of a valid residence permit or long-stay visa issued by another Schengen state may enter without a visa for up to 90 days in any 180-day period. Passport must be valid at least 3 months after the intended departure, with two blank pages, issued within the previous 10 years. This covers the European part of the Netherlands; the Caribbean parts of the Kingdom (Aruba, Bonaire, Curaçao, Saba, Sint Eustatius and Sint Maarten) have their own entry rules."
  },
  "SG:AU": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
-  "source_name": "Australian Department of Home Affairs — ETA (subclass 601)"
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Singapore passport holders apply for an Electronic Travel Authority (ETA, subclass 601) before travelling to Australia — through the Australian ETA app (AUD 20 service charge, usually decided immediately). The ETA allows stays of up to 3 months per visit, with multiple entries over 12 months."
  },
  "KR:AU": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
-  "source_name": "Australian Department of Home Affairs — ETA (subclass 601)"
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "South Korea passport holders apply for an Electronic Travel Authority (ETA, subclass 601) before travelling to Australia — through the Australian ETA app (AUD 20 service charge, usually decided immediately). The ETA allows stays of up to 3 months per visit, with multiple entries over 12 months."
  },
  "JP:AU": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
-  "source_name": "Australian Department of Home Affairs — ETA (subclass 601)"
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Japan passport holders apply for an Electronic Travel Authority (ETA, subclass 601) before travelling to Australia — through the Australian ETA app (AUD 20 service charge, usually decided immediately). The ETA allows stays of up to 3 months per visit, with multiple entries over 12 months."
  },
  "FR:AU": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
-  "source_name": "Australian Department of Home Affairs — ETA (subclass 601)"
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "France passport holders have two electronic options for Australia: the free eVisitor (subclass 651), applied for online through ImmiAccount, or the Electronic Travel Authority (ETA, subclass 601) in the Australian ETA app (AUD 20 service charge). Either allows stays of up to 3 months per visit, with multiple entries over 12 months."
  },
  "DE:AU": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
-  "source_name": "Australian Department of Home Affairs — ETA (subclass 601)"
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Germany passport holders have two electronic options for Australia: the free eVisitor (subclass 651), applied for online through ImmiAccount, or the Electronic Travel Authority (ETA, subclass 601) in the Australian ETA app (AUD 20 service charge). Either allows stays of up to 3 months per visit, with multiple entries over 12 months."
  },
  "IT:AU": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
-  "source_name": "Australian Department of Home Affairs — ETA (subclass 601)"
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Italy passport holders have two electronic options for Australia: the free eVisitor (subclass 651), applied for online through ImmiAccount, or the Electronic Travel Authority (ETA, subclass 601) in the Australian ETA app (AUD 20 service charge). Either allows stays of up to 3 months per visit, with multiple entries over 12 months."
  },
  "ES:AU": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
-  "source_name": "Australian Department of Home Affairs — ETA (subclass 601)"
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Spain passport holders have two electronic options for Australia: the free eVisitor (subclass 651), applied for online through ImmiAccount, or the Electronic Travel Authority (ETA, subclass 601) in the Australian ETA app (AUD 20 service charge). Either allows stays of up to 3 months per visit, with multiple entries over 12 months."
  },
  "FI:AU": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
-  "source_name": "Australian Department of Home Affairs — ETA (subclass 601)"
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Finland passport holders have two electronic options for Australia: the free eVisitor (subclass 651), applied for online through ImmiAccount, or the Electronic Travel Authority (ETA, subclass 601) in the Australian ETA app (AUD 20 service charge). Either allows stays of up to 3 months per visit, with multiple entries over 12 months."
  },
  "NL:AU": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
-  "source_name": "Australian Department of Home Affairs — ETA (subclass 601)"
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Netherlands passport holders have two electronic options for Australia: the free eVisitor (subclass 651), applied for online through ImmiAccount, or the Electronic Travel Authority (ETA, subclass 601) in the Australian ETA app (AUD 20 service charge). Either allows stays of up to 3 months per visit, with multiple entries over 12 months."
  },
  "BE:AU": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
-  "source_name": "Australian Department of Home Affairs — ETA (subclass 601)"
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Belgium passport holders have two electronic options for Australia: the free eVisitor (subclass 651), applied for online through ImmiAccount, or the Electronic Travel Authority (ETA, subclass 601) in the Australian ETA app (AUD 20 service charge). Either allows stays of up to 3 months per visit, with multiple entries over 12 months."
  },
  "DK:AU": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
-  "source_name": "Australian Department of Home Affairs — ETA (subclass 601)"
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Denmark passport holders have two electronic options for Australia: the free eVisitor (subclass 651), applied for online through ImmiAccount, or the Electronic Travel Authority (ETA, subclass 601) in the Australian ETA app (AUD 20 service charge). Either allows stays of up to 3 months per visit, with multiple entries over 12 months."
  },
  "SE:AU": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
-  "source_name": "Australian Department of Home Affairs — ETA (subclass 601)"
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Sweden passport holders have two electronic options for Australia: the free eVisitor (subclass 651), applied for online through ImmiAccount, or the Electronic Travel Authority (ETA, subclass 601) in the Australian ETA app (AUD 20 service charge). Either allows stays of up to 3 months per visit, with multiple entries over 12 months."
  },
  "NO:AU": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
-  "source_name": "Australian Department of Home Affairs — ETA (subclass 601)"
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Norway passport holders have two electronic options for Australia: the free eVisitor (subclass 651), applied for online through ImmiAccount, or the Electronic Travel Authority (ETA, subclass 601) in the Australian ETA app (AUD 20 service charge). Either allows stays of up to 3 months per visit, with multiple entries over 12 months."
  },
  "CH:AU": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
-  "source_name": "Australian Department of Home Affairs — ETA (subclass 601)"
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Switzerland passport holders have two electronic options for Australia: the free eVisitor (subclass 651), applied for online through ImmiAccount, or the Electronic Travel Authority (ETA, subclass 601) in the Australian ETA app (AUD 20 service charge). Either allows stays of up to 3 months per visit, with multiple entries over 12 months."
  },
  "AT:AU": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
-  "source_name": "Australian Department of Home Affairs — ETA (subclass 601)"
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Austria passport holders have two electronic options for Australia: the free eVisitor (subclass 651), applied for online through ImmiAccount, or the Electronic Travel Authority (ETA, subclass 601) in the Australian ETA app (AUD 20 service charge). Either allows stays of up to 3 months per visit, with multiple entries over 12 months."
  },
  "IE:AU": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
-  "source_name": "Australian Department of Home Affairs — ETA (subclass 601)"
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Ireland passport holders have two electronic options for Australia: the free eVisitor (subclass 651), applied for online through ImmiAccount, or the Electronic Travel Authority (ETA, subclass 601) in the Australian ETA app (AUD 20 service charge). Either allows stays of up to 3 months per visit, with multiple entries over 12 months."
  },
  "GB:AU": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
-  "source_name": "Australian Department of Home Affairs — ETA (subclass 601)"
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "United Kingdom passport holders have two electronic options for Australia: the free eVisitor (subclass 651), applied for online through ImmiAccount, or the Electronic Travel Authority (ETA, subclass 601) in the Australian ETA app (AUD 20 service charge). Either allows stays of up to 3 months per visit, with multiple entries over 12 months."
  },
  "CA:AU": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
-  "source_name": "Australian Department of Home Affairs — ETA (subclass 601)"
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Canada passport holders apply for an Electronic Travel Authority (ETA, subclass 601) before travelling to Australia — through the Australian ETA app (AUD 20 service charge, usually decided immediately). The ETA allows stays of up to 3 months per visit, with multiple entries over 12 months."
  },
  "US:AU": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
-  "source_name": "Australian Department of Home Affairs — ETA (subclass 601)"
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "United States passport holders apply for an Electronic Travel Authority (ETA, subclass 601) before travelling to Australia — through the Australian ETA app (AUD 20 service charge, usually decided immediately). The ETA allows stays of up to 3 months per visit, with multiple entries over 12 months."
  },
  "PT:AU": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
-  "source_name": "Australian Department of Home Affairs — ETA (subclass 601)"
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Portugal passport holders have two electronic options for Australia: the free eVisitor (subclass 651), applied for online through ImmiAccount, or the Electronic Travel Authority (ETA, subclass 601) in the Australian ETA app (AUD 20 service charge). Either allows stays of up to 3 months per visit, with multiple entries over 12 months."
  },
  "GR:AU": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
-  "source_name": "Australian Department of Home Affairs — ETA (subclass 601)"
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Greece passport holders have two electronic options for Australia: the free eVisitor (subclass 651), applied for online through ImmiAccount, or the Electronic Travel Authority (ETA, subclass 601) in the Australian ETA app (AUD 20 service charge). Either allows stays of up to 3 months per visit, with multiple entries over 12 months."
  },
  "MY:AU": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
-  "source_name": "Australian Department of Home Affairs — ETA (subclass 601)"
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Malaysia passport holders apply for an Electronic Travel Authority (ETA, subclass 601) before travelling to Australia — through the Australian ETA app (AUD 20 service charge, usually decided immediately). The ETA allows stays of up to 3 months per visit, with multiple entries over 12 months."
  },
  "NZ:AU": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
-  "source_name": "Australian Department of Home Affairs — ETA (subclass 601)",
-  "note": "New Zealand citizens are granted a Special Category visa (subclass 444) on arrival — no ETA needed."
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "New Zealand citizens do not need a visa in advance for Australia: a Special Category visa (subclass 444) is granted on arrival, allowing them to stay and travel in Australia — it ceases when they leave and is granted again on return."
  },
  "PL:AU": {
-  "date": "2026-10-25",
-  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/evisitor-651",
-  "source_name": "Australian Department of Home Affairs — eVisitor (subclass 651)",
-  "note": "Not eligible for the ETA app (subclass 601); the free eVisitor (subclass 651) is the online authorisation for this passport — also 3 months per visit."
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Poland passport holders apply online for a free eVisitor (subclass 651) through ImmiAccount before travelling to Australia. The eVisitor allows stays of up to 3 months per visit, with multiple entries over 12 months."
  },
  "CZ:AU": {
-  "date": "2026-10-25",
-  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/evisitor-651",
-  "source_name": "Australian Department of Home Affairs — eVisitor (subclass 651)",
-  "note": "Not eligible for the ETA app (subclass 601); the free eVisitor (subclass 651) is the online authorisation for this passport — also 3 months per visit."
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Czechia passport holders apply online for a free eVisitor (subclass 651) through ImmiAccount before travelling to Australia. The eVisitor allows stays of up to 3 months per visit, with multiple entries over 12 months."
  },
  "HU:AU": {
-  "date": "2026-10-25",
-  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/evisitor-651",
-  "source_name": "Australian Department of Home Affairs — eVisitor (subclass 651)",
-  "note": "Not eligible for the ETA app (subclass 601); the free eVisitor (subclass 651) is the online authorisation for this passport — also 3 months per visit."
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Hungary passport holders apply online for a free eVisitor (subclass 651) through ImmiAccount before travelling to Australia. The eVisitor allows stays of up to 3 months per visit, with multiple entries over 12 months."
  },
  "AE:AU": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
-  "source_name": "Australian Department of Home Affairs — ETA (subclass 601)"
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "United Arab Emirates passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
  },
  "IL:AU": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
-  "source_name": "Australian Department of Home Affairs — ETA (subclass 601)"
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Israel passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
  },
  "CN:AU": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
-  "source_name": "Australian Department of Home Affairs — ETA (subclass 601)"
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "China passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
  },
  "KR:EG": {
   "date": "2026-10-31",
@@ -91489,5 +91514,1019 @@
   "source": "https://www.ircc.canada.ca/english/visit/visas.asp",
   "source_name": "IRCC — Check if you need a visa or eTA to travel to Canada",
   "note": "Croatia passport holders do not need a visitor visa for Canada. When flying to Canada, get an electronic travel authorization (eTA) before boarding — apply online on the Government of Canada site (CAD 7, electronically linked to the passport, valid for up to 5 years). Arriving by land or sea needs no eTA, just the passport. A border officer admits visitors for up to 6 months."
+ },
+ "CR:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Costa Rica passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "SO:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Somalia passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "UA:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Ukraine passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "SD:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Sudan passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "UY:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Uruguay passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "GQ:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Equatorial Guinea passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "HR:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Croatia passport holders apply online for a free eVisitor (subclass 651) through ImmiAccount before travelling to Australia. The eVisitor allows stays of up to 3 months per visit, with multiple entries over 12 months."
+ },
+ "CU:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Cuba passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "GY:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Guyana passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "SI:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Slovenia passport holders apply online for a free eVisitor (subclass 651) through ImmiAccount before travelling to Australia. The eVisitor allows stays of up to 3 months per visit, with multiple entries over 12 months."
+ },
+ "NG:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Nigeria passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "HT:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Haiti passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "TO:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Tonga passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "MZ:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Mozambique passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "MT:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Malta passport holders have two electronic options for Australia: the free eVisitor (subclass 651), applied for online through ImmiAccount, or the Electronic Travel Authority (ETA, subclass 601) in the Australian ETA app (AUD 20 service charge). Either allows stays of up to 3 months per visit, with multiple entries over 12 months."
+ },
+ "PH:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Philippines passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "RS:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Serbia passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "GA:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Gabon passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "BG:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Bulgaria passport holders apply online for a free eVisitor (subclass 651) through ImmiAccount before travelling to Australia. The eVisitor allows stays of up to 3 months per visit, with multiple entries over 12 months."
+ },
+ "IS:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Iceland passport holders have two electronic options for Australia: the free eVisitor (subclass 651), applied for online through ImmiAccount, or the Electronic Travel Authority (ETA, subclass 601) in the Australian ETA app (AUD 20 service charge). Either allows stays of up to 3 months per visit, with multiple entries over 12 months."
+ },
+ "LY:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Libya passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "BA:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Bosnia & Herzegovina passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "RU:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Russia passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "GH:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Ghana passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "IR:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Iran passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "EE:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Estonia passport holders apply online for a free eVisitor (subclass 651) through ImmiAccount before travelling to Australia. The eVisitor allows stays of up to 3 months per visit, with multiple entries over 12 months."
+ },
+ "MA:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Morocco passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "TG:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Togo passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "CY:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Cyprus passport holders apply online for a free eVisitor (subclass 651) through ImmiAccount before travelling to Australia. The eVisitor allows stays of up to 3 months per visit, with multiple entries over 12 months."
+ },
+ "LC:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "St. Lucia passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "TR:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Türkiye passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "DZ:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Algeria passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "EC:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Ecuador passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "KN:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "St. Kitts & Nevis passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "BR:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Brazil passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "BJ:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Benin passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "BY:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Belarus passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "AF:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Afghanistan passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "SM:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "San Marino passport holders have two electronic options for Australia: the free eVisitor (subclass 651), applied for online through ImmiAccount, or the Electronic Travel Authority (ETA, subclass 601) in the Australian ETA app (AUD 20 service charge). Either allows stays of up to 3 months per visit, with multiple entries over 12 months."
+ },
+ "CO:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Colombia passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "NR:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Nauru passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "ID:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Indonesia passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "SK:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Slovakia passport holders apply online for a free eVisitor (subclass 651) through ImmiAccount before travelling to Australia. The eVisitor allows stays of up to 3 months per visit, with multiple entries over 12 months."
+ },
+ "GE:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Georgia passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "GW:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Guinea-Bissau passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "LA:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Laos passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "MN:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Mongolia passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "OM:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Oman passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "MO:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Macao SAR China passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "BB:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Barbados passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "GT:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Guatemala passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "CF:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Central African Republic passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "MH:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Marshall Islands passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "TM:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Turkmenistan passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "AL:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Albania passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "MK:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "North Macedonia passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "NP:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Nepal passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "AM:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Armenia passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "ST:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "São Tomé & Príncipe passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "RW:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Rwanda passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "YE:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Yemen passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "GN:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Guinea passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "DM:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Dominica passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "LK:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Sri Lanka passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "SC:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Seychelles passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "VU:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Vanuatu passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "CG:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Congo - Brazzaville passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "PW:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Palau passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "KH:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Cambodia passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "ML:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Mali passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "MX:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Mexico passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "SY:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Syria passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "SR:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Suriname passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "XK:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Kosovo passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "AR:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Argentina passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "LR:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Liberia passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "PA:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Panama passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "TV:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Tuvalu passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "SS:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "South Sudan passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "BD:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Bangladesh passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "TH:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Thailand passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "MR:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Mauritania passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "CM:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Cameroon passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "IQ:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Iraq passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "HK:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Hong Kong SAR China passport holders apply for an Electronic Travel Authority (ETA, subclass 601) before travelling to Australia — through the Australian ETA app (AUD 20 service charge, usually decided immediately). The ETA allows stays of up to 3 months per visit, with multiple entries over 12 months. This covers Hong Kong SAR passports."
+ },
+ "PK:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Pakistan passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "BF:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Burkina Faso passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "PS:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Palestinian Territories passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "JM:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Jamaica passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "ZM:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Zambia passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "TL:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Timor-Leste passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "BH:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Bahrain passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "BW:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Botswana passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "ZW:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Zimbabwe passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "IN:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "India passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "KW:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Kuwait passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "KP:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "North Korea passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026). North Korean applications carry an added barrier: since October 2006 Australia has operated a general ban on visas for DPRK citizens, applied case by case — every application is referred to the Minister for Foreign Affairs under Public Interest Criterion 4003, and grants are exceptional."
+ },
+ "NE:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Niger passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "CI:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Côte d’Ivoire passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "BN:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Brunei passport holders apply for an Electronic Travel Authority (ETA, subclass 601) before travelling to Australia — through the Australian ETA app (AUD 20 service charge, usually decided immediately). The ETA allows stays of up to 3 months per visit, with multiple entries over 12 months."
+ },
+ "BS:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Bahamas passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "SN:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Senegal passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "VN:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Vietnam passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "SA:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Saudi Arabia passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "WS:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Samoa passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "SB:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Solomon Islands passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "LS:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Lesotho passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "NA:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Namibia passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "ZA:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "South Africa passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "NI:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Nicaragua passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "KE:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Kenya passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "FJ:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Fiji passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "MD:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Moldova passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "MM:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Myanmar (Burma) passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "JO:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Jordan passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "LI:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Liechtenstein passport holders have two electronic options for Australia: the free eVisitor (subclass 651), applied for online through ImmiAccount, or the Electronic Travel Authority (ETA, subclass 601) in the Australian ETA app (AUD 20 service charge). Either allows stays of up to 3 months per visit, with multiple entries over 12 months."
+ },
+ "TZ:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Tanzania passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "CD:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Congo - Kinshasa passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "ER:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Eritrea passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "VE:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Venezuela passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "RO:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Romania passport holders apply online for a free eVisitor (subclass 651) through ImmiAccount before travelling to Australia. The eVisitor allows stays of up to 3 months per visit, with multiple entries over 12 months."
+ },
+ "TN:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Tunisia passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "TW:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Taiwan passport holders apply for an Electronic Travel Authority (ETA, subclass 601) before travelling to Australia — through the Australian ETA app (AUD 20 service charge, usually decided immediately). The ETA allows stays of up to 3 months per visit, with multiple entries over 12 months. This covers ordinary passports; Taiwanese official and diplomatic passports need a Visitor visa instead."
+ },
+ "ET:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Ethiopia passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "TD:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Chad passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "BI:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Burundi passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "LT:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Lithuania passport holders apply online for a free eVisitor (subclass 651) through ImmiAccount before travelling to Australia. The eVisitor allows stays of up to 3 months per visit, with multiple entries over 12 months."
+ },
+ "UG:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Uganda passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "SV:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "El Salvador passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "KM:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Comoros passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "MU:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Mauritius passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "MV:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Maldives passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "CV:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Cape Verde passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "LV:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Latvia passport holders apply online for a free eVisitor (subclass 651) through ImmiAccount before travelling to Australia. The eVisitor allows stays of up to 3 months per visit, with multiple entries over 12 months."
+ },
+ "MG:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Madagascar passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "VC:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "St. Vincent & Grenadines passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "FM:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Micronesia passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "MC:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Monaco passport holders have two electronic options for Australia: the free eVisitor (subclass 651), applied for online through ImmiAccount, or the Electronic Travel Authority (ETA, subclass 601) in the Australian ETA app (AUD 20 service charge). Either allows stays of up to 3 months per visit, with multiple entries over 12 months."
+ },
+ "TJ:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Tajikistan passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "KZ:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Kazakhstan passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "QA:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Qatar passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "PG:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Papua New Guinea passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "HN:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Honduras passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "PY:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Paraguay passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "EG:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Egypt passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "AG:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Antigua & Barbuda passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "UZ:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Uzbekistan passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "BT:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Bhutan passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "SL:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Sierra Leone passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "KG:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Kyrgyzstan passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "PE:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Peru passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "TT:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Trinidad & Tobago passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "DO:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Dominican Republic passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "KI:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Kiribati passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "SZ:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Eswatini passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "BZ:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Belize passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "MW:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Malawi passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "GM:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Gambia passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "CL:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Chile passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "GD:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Grenada passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "LU:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Luxembourg passport holders have two electronic options for Australia: the free eVisitor (subclass 651), applied for online through ImmiAccount, or the Electronic Travel Authority (ETA, subclass 601) in the Australian ETA app (AUD 20 service charge). Either allows stays of up to 3 months per visit, with multiple entries over 12 months."
+ },
+ "LB:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Lebanon passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "ME:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Montenegro passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "DJ:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Djibouti passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "AO:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Angola passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "VA:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Vatican City passport holders have two electronic options for Australia: the free eVisitor (subclass 651), applied for online through ImmiAccount, or the Electronic Travel Authority (ETA, subclass 601) in the Australian ETA app (AUD 20 service charge). Either allows stays of up to 3 months per visit, with multiple entries over 12 months."
+ },
+ "BO:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Bolivia passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
+ },
+ "AD:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Andorra passport holders have two electronic options for Australia: the free eVisitor (subclass 651), applied for online through ImmiAccount, or the Electronic Travel Authority (ETA, subclass 601) in the Australian ETA app (AUD 20 service charge). Either allows stays of up to 3 months per visit, with multiple entries over 12 months."
+ },
+ "AZ:AU": {
+  "date": "2026-11-11",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "source_name": "Department of Home Affairs — Electronic Travel Authority (601) & eVisitor (651) eligible passports",
+  "note": "Azerbaijan passport holders need a Visitor visa (subclass 600) for Australia — a full visa application made before travel, online through ImmiAccount. The base application charge is AUD 250; the Tourist stream is usually granted for 3, 6 or 12 months, and recent processing ran at 50% decided in 21 days and 90% in 31 days (Home Affairs, November 2026)."
  }
 }

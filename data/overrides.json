@@ -31891,5 +31891,899 @@
   "reason": "Settled against IRCC's official country lists (read 2026-11-11): Somalia is on the visa-required list; the seed value did not match.",
   "source": "https://www.ircc.canada.ca/english/visit/visas.asp",
   "date": "2026-11-11"
+ },
+ "AF:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Afghanistan is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "AG:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Antigua & Barbuda is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "AL:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Albania is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "AM:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Armenia is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "AO:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Angola is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "AR:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Argentina is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "AZ:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Azerbaijan is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "BA:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Bosnia & Herzegovina is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "BB:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Barbados is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "BD:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Bangladesh is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "BF:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Burkina Faso is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "BH:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Bahrain is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "BI:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Burundi is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "BJ:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Benin is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "BO:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Bolivia is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "BR:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Brazil is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "BS:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Bahamas is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "BT:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Bhutan is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "BW:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Botswana is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "BY:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Belarus is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "BZ:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Belize is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "CD:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Congo - Kinshasa is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "CF:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Central African Republic is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "CG:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Congo - Brazzaville is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "CI:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Côte d’Ivoire is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "CL:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Chile is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "CM:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Cameroon is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "CO:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Colombia is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "CR:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Costa Rica is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "CU:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Cuba is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "CV:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Cape Verde is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "DJ:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Djibouti is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "DM:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Dominica is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "DO:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Dominican Republic is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "DZ:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Algeria is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "EC:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Ecuador is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "EG:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Egypt is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "ER:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Eritrea is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "ET:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Ethiopia is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "FJ:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Fiji is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "FM:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Micronesia is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "GA:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Gabon is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "GD:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Grenada is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "GE:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Georgia is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "GH:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Ghana is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "GM:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Gambia is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "GN:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Guinea is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "GQ:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Equatorial Guinea is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "GT:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Guatemala is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "GW:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Guinea-Bissau is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "GY:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Guyana is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "HN:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Honduras is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "HT:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Haiti is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "ID:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Indonesia is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "IN:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): India is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "IQ:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Iraq is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "IR:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Iran is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "JM:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Jamaica is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "JO:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Jordan is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "KE:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Kenya is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "KG:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Kyrgyzstan is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "KH:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Cambodia is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "KI:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Kiribati is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "KM:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Comoros is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "KN:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): St. Kitts & Nevis is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "KP:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): North Korea is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "KW:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Kuwait is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "KZ:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Kazakhstan is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "LA:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Laos is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "LB:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Lebanon is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "LC:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): St. Lucia is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "LK:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Sri Lanka is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "LR:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Liberia is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "LS:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Lesotho is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "LY:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Libya is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "MA:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Morocco is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "MD:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Moldova is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "ME:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Montenegro is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "MG:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Madagascar is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "MH:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Marshall Islands is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "MK:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): North Macedonia is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "ML:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Mali is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "MM:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Myanmar (Burma) is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "MN:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Mongolia is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "MO:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Macao SAR China is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "MR:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Mauritania is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "MU:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Mauritius is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "MV:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Maldives is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "MW:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Malawi is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "MX:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Mexico is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "MZ:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Mozambique is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "NA:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Namibia is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "NE:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Niger is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "NG:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Nigeria is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "NI:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Nicaragua is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "NP:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Nepal is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "NR:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Nauru is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "OM:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Oman is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "PA:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Panama is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "PE:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Peru is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "PG:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Papua New Guinea is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "PH:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Philippines is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "PK:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Pakistan is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "PS:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Palestinian Territories is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "PW:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Palau is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "PY:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Paraguay is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "QA:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Qatar is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "RS:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Serbia is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "RU:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Russia is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "RW:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Rwanda is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "SA:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Saudi Arabia is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "SB:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Solomon Islands is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "SC:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Seychelles is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "SD:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Sudan is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "SL:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Sierra Leone is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "SN:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Senegal is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "SO:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Somalia is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "SR:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Suriname is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "SS:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): South Sudan is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "ST:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): São Tomé & Príncipe is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "SV:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): El Salvador is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "SY:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Syria is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "SZ:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Eswatini is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "TD:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Chad is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "TG:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Togo is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "TH:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Thailand is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "TJ:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Tajikistan is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "TL:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Timor-Leste is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "TM:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Turkmenistan is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "TN:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Tunisia is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "TO:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Tonga is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "TR:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Türkiye is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "TT:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Trinidad & Tobago is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "TV:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Tuvalu is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "TZ:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Tanzania is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "UA:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Ukraine is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "UG:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Uganda is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "UY:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Uruguay is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "UZ:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Uzbekistan is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "VC:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): St. Vincent & Grenadines is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "VE:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Venezuela is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "VN:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Vietnam is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "VU:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Vanuatu is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "WS:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Samoa is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "XK:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Kosovo is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "YE:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Yemen is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "ZA:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): South Africa is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "ZM:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Zambia is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
+ },
+ "ZW:AU": {
+  "status": "visa required",
+  "reason": "Settled against the Department of Home Affairs lists (read 2026-11-11): Zimbabwe is on neither the ETA (601) nor the eVisitor (651) eligible-passport list; a Visitor visa (subclass 600), applied for in advance, is required — the seed's 'e-visa' label does not reflect the full visa application the subclass 600 is.",
+  "source": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "date": "2026-11-11"
  }
 }
