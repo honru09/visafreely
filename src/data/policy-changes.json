@@ -937,6 +937,15 @@
   "source_name": "Ministry of Foreign Affairs of El Salvador"
  },
  {
+  "passport": "US",
+  "destination": "CF",
+  "date": "2023-11-17",
+  "from_status": "visa free",
+  "to_status": "visa required",
+  "summary": "Central African Republic cancelled the visa exemption for United States citizens on 17 November 2023; a visa is now required in advance.",
+  "source": "https://paris.diplomatie.gouv.cf/"
+ },
+ {
   "date": "2023-10-23",
   "destination": "HN",
   "title": "Honduras–Costa Rica visa episode ends",
