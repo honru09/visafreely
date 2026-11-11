@@ -36192,5 +36192,74 @@
   "reason": "Settled 2026-11-11 against the DGME visa-group guidelines as compiled (see research-cr-official.md).",
   "source": "https://www.migracion.go.cr/",
   "date": "2026-11-11"
+ },
+ "BR:DO": {
+  "status": "visa free",
+  "days": 60,
+  "reason": "Settled 2026-11-11 against the MIREX visa regime as compiled (see research-do-official.md).",
+  "source": "https://www.mirex.gob.do/",
+  "date": "2026-11-11"
+ },
+ "DM:DO": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the MIREX visa regime as compiled (see research-do-official.md).",
+  "source": "https://www.mirex.gob.do/",
+  "date": "2026-11-11"
+ },
+ "EC:DO": {
+  "status": "visa free",
+  "days": 60,
+  "reason": "Settled 2026-11-11 against the MIREX visa regime as compiled (see research-do-official.md).",
+  "source": "https://www.mirex.gob.do/",
+  "date": "2026-11-11"
+ },
+ "HN:DO": {
+  "status": "visa free",
+  "days": 60,
+  "reason": "Settled 2026-11-11 against the MIREX visa regime as compiled (see research-do-official.md).",
+  "source": "https://www.mirex.gob.do/",
+  "date": "2026-11-11"
+ },
+ "MA:DO": {
+  "status": "visa free",
+  "days": 60,
+  "reason": "Settled 2026-11-11 against the MIREX visa regime as compiled (see research-do-official.md).",
+  "source": "https://www.mirex.gob.do/",
+  "date": "2026-11-11"
+ },
+ "ME:DO": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the MIREX visa regime as compiled (see research-do-official.md).",
+  "source": "https://www.mirex.gob.do/",
+  "date": "2026-11-11"
+ },
+ "PE:DO": {
+  "status": "visa free",
+  "days": 60,
+  "reason": "Settled 2026-11-11 against the MIREX visa regime as compiled (see research-do-official.md).",
+  "source": "https://www.mirex.gob.do/",
+  "date": "2026-11-11"
+ },
+ "PY:DO": {
+  "status": "visa free",
+  "days": 60,
+  "reason": "Settled 2026-11-11 against the MIREX visa regime as compiled (see research-do-official.md).",
+  "source": "https://www.mirex.gob.do/",
+  "date": "2026-11-11"
+ },
+ "RU:DO": {
+  "status": "visa free",
+  "days": 60,
+  "reason": "Settled 2026-11-11 against the MIREX visa regime as compiled (see research-do-official.md).",
+  "source": "https://www.mirex.gob.do/",
+  "date": "2026-11-11"
+ },
+ "SV:DO": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the MIREX visa regime as compiled (see research-do-official.md).",
+  "source": "https://www.mirex.gob.do/",
+  "date": "2026-11-11"
  }
 }
