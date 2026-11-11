@@ -34728,5 +34728,298 @@
   "reason": "Settled 2026-11-11 against the Philippine DFA visa-exemption lists (see research-ph-official.md).",
   "source": "https://evisa.gov.ph/",
   "date": "2026-11-11"
+ },
+ "AF:HK": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the Hong Kong Immigration Department requirements table (see research-hk-official.md).",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "date": "2026-11-11"
+ },
+ "AO:HK": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the Hong Kong Immigration Department requirements table (see research-hk-official.md).",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "date": "2026-11-11"
+ },
+ "AZ:HK": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the Hong Kong Immigration Department requirements table (see research-hk-official.md).",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "date": "2026-11-11"
+ },
+ "BD:HK": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the Hong Kong Immigration Department requirements table (see research-hk-official.md).",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "date": "2026-11-11"
+ },
+ "BI:HK": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the Hong Kong Immigration Department requirements table (see research-hk-official.md).",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "date": "2026-11-11"
+ },
+ "BY:HK": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Hong Kong Immigration Department requirements table (see research-hk-official.md).",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "date": "2026-11-11"
+ },
+ "CD:HK": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the Hong Kong Immigration Department requirements table (see research-hk-official.md).",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "date": "2026-11-11"
+ },
+ "CF:HK": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the Hong Kong Immigration Department requirements table (see research-hk-official.md).",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "date": "2026-11-11"
+ },
+ "CG:HK": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the Hong Kong Immigration Department requirements table (see research-hk-official.md).",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "date": "2026-11-11"
+ },
+ "CI:HK": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the Hong Kong Immigration Department requirements table (see research-hk-official.md).",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "date": "2026-11-11"
+ },
+ "CM:HK": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the Hong Kong Immigration Department requirements table (see research-hk-official.md).",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "date": "2026-11-11"
+ },
+ "CN:HK": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the Hong Kong Immigration Department requirements table (see research-hk-official.md).",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "date": "2026-11-11"
+ },
+ "CU:HK": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the Hong Kong Immigration Department requirements table (see research-hk-official.md).",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "date": "2026-11-11"
+ },
+ "ER:HK": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the Hong Kong Immigration Department requirements table (see research-hk-official.md).",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "date": "2026-11-11"
+ },
+ "ET:HK": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the Hong Kong Immigration Department requirements table (see research-hk-official.md).",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "date": "2026-11-11"
+ },
+ "GH:HK": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the Hong Kong Immigration Department requirements table (see research-hk-official.md).",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "date": "2026-11-11"
+ },
+ "GM:HK": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the Hong Kong Immigration Department requirements table (see research-hk-official.md).",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "date": "2026-11-11"
+ },
+ "GW:HK": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the Hong Kong Immigration Department requirements table (see research-hk-official.md).",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "date": "2026-11-11"
+ },
+ "IQ:HK": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the Hong Kong Immigration Department requirements table (see research-hk-official.md).",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "date": "2026-11-11"
+ },
+ "IR:HK": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the Hong Kong Immigration Department requirements table (see research-hk-official.md).",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "date": "2026-11-11"
+ },
+ "KG:HK": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the Hong Kong Immigration Department requirements table (see research-hk-official.md).",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "date": "2026-11-11"
+ },
+ "KP:HK": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the Hong Kong Immigration Department requirements table (see research-hk-official.md).",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "date": "2026-11-11"
+ },
+ "LB:HK": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the Hong Kong Immigration Department requirements table (see research-hk-official.md).",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "date": "2026-11-11"
+ },
+ "LK:HK": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the Hong Kong Immigration Department requirements table (see research-hk-official.md).",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "date": "2026-11-11"
+ },
+ "LR:HK": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the Hong Kong Immigration Department requirements table (see research-hk-official.md).",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "date": "2026-11-11"
+ },
+ "LY:HK": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the Hong Kong Immigration Department requirements table (see research-hk-official.md).",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "date": "2026-11-11"
+ },
+ "MD:HK": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the Hong Kong Immigration Department requirements table (see research-hk-official.md).",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "date": "2026-11-11"
+ },
+ "NG:HK": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the Hong Kong Immigration Department requirements table (see research-hk-official.md).",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "date": "2026-11-11"
+ },
+ "NI:HK": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Hong Kong Immigration Department requirements table (see research-hk-official.md).",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "date": "2026-11-11"
+ },
+ "NP:HK": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the Hong Kong Immigration Department requirements table (see research-hk-official.md).",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "date": "2026-11-11"
+ },
+ "PK:HK": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the Hong Kong Immigration Department requirements table (see research-hk-official.md).",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "date": "2026-11-11"
+ },
+ "PS:HK": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the Hong Kong Immigration Department requirements table (see research-hk-official.md).",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "date": "2026-11-11"
+ },
+ "RW:HK": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the Hong Kong Immigration Department requirements table (see research-hk-official.md).",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "date": "2026-11-11"
+ },
+ "SA:HK": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the Hong Kong Immigration Department requirements table (see research-hk-official.md).",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "date": "2026-11-11"
+ },
+ "SB:HK": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Hong Kong Immigration Department requirements table (see research-hk-official.md).",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "date": "2026-11-11"
+ },
+ "SD:HK": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the Hong Kong Immigration Department requirements table (see research-hk-official.md).",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "date": "2026-11-11"
+ },
+ "SL:HK": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the Hong Kong Immigration Department requirements table (see research-hk-official.md).",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "date": "2026-11-11"
+ },
+ "SN:HK": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the Hong Kong Immigration Department requirements table (see research-hk-official.md).",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "date": "2026-11-11"
+ },
+ "SO:HK": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the Hong Kong Immigration Department requirements table (see research-hk-official.md).",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "date": "2026-11-11"
+ },
+ "SS:HK": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the Hong Kong Immigration Department requirements table (see research-hk-official.md).",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "date": "2026-11-11"
+ },
+ "SY:HK": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the Hong Kong Immigration Department requirements table (see research-hk-official.md).",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "date": "2026-11-11"
+ },
+ "SZ:HK": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the Hong Kong Immigration Department requirements table (see research-hk-official.md).",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "date": "2026-11-11"
+ },
+ "TG:HK": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the Hong Kong Immigration Department requirements table (see research-hk-official.md).",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "date": "2026-11-11"
+ },
+ "TJ:HK": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the Hong Kong Immigration Department requirements table (see research-hk-official.md).",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "date": "2026-11-11"
+ },
+ "TM:HK": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the Hong Kong Immigration Department requirements table (see research-hk-official.md).",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "date": "2026-11-11"
+ },
+ "TW:HK": {
+  "status": "eta",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Hong Kong Immigration Department requirements table (see research-hk-official.md).",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "date": "2026-11-11"
+ },
+ "UZ:HK": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the Hong Kong Immigration Department requirements table (see research-hk-official.md).",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "date": "2026-11-11"
+ },
+ "YE:HK": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against the Hong Kong Immigration Department requirements table (see research-hk-official.md).",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "date": "2026-11-11"
  }
 }

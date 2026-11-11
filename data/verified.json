@@ -5781,200 +5781,238 @@
   "note": "Israel passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
  },
  "SG:HK": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
-  "source_name": "Hong Kong Immigration Department — visit visa / entry permit requirements"
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Singapore passport holders enter Hong Kong SAR China visa-free for up to 90 days."
  },
  "KR:HK": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
-  "source_name": "Hong Kong Immigration Department — visit visa / entry permit requirements"
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "South Korea passport holders enter Hong Kong SAR China visa-free for up to 90 days."
  },
  "JP:HK": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
-  "source_name": "Hong Kong Immigration Department — visit visa / entry permit requirements"
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Japan passport holders enter Hong Kong SAR China visa-free for up to 90 days."
  },
  "FR:HK": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
-  "source_name": "Hong Kong Immigration Department — visit visa / entry permit requirements"
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "France passport holders enter Hong Kong SAR China visa-free for up to 90 days."
  },
  "DE:HK": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
-  "source_name": "Hong Kong Immigration Department — visit visa / entry permit requirements"
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Germany passport holders enter Hong Kong SAR China visa-free for up to 90 days."
  },
  "IT:HK": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
-  "source_name": "Hong Kong Immigration Department — visit visa / entry permit requirements"
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Italy passport holders enter Hong Kong SAR China visa-free for up to 90 days."
  },
  "ES:HK": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
-  "source_name": "Hong Kong Immigration Department — visit visa / entry permit requirements"
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Spain passport holders enter Hong Kong SAR China visa-free for up to 90 days."
  },
  "FI:HK": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
-  "source_name": "Hong Kong Immigration Department — visit visa / entry permit requirements"
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Finland passport holders enter Hong Kong SAR China visa-free for up to 90 days."
  },
  "NL:HK": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
-  "source_name": "Hong Kong Immigration Department — visit visa / entry permit requirements"
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Netherlands passport holders enter Hong Kong SAR China visa-free for up to 90 days."
  },
  "BE:HK": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
-  "source_name": "Hong Kong Immigration Department — visit visa / entry permit requirements"
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Belgium passport holders enter Hong Kong SAR China visa-free for up to 90 days."
  },
  "DK:HK": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
-  "source_name": "Hong Kong Immigration Department — visit visa / entry permit requirements"
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Denmark passport holders enter Hong Kong SAR China visa-free for up to 90 days."
  },
  "SE:HK": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
-  "source_name": "Hong Kong Immigration Department — visit visa / entry permit requirements"
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Sweden passport holders enter Hong Kong SAR China visa-free for up to 90 days."
  },
  "NO:HK": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
-  "source_name": "Hong Kong Immigration Department — visit visa / entry permit requirements"
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Norway passport holders enter Hong Kong SAR China visa-free for up to 90 days."
  },
  "CH:HK": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
-  "source_name": "Hong Kong Immigration Department — visit visa / entry permit requirements"
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Switzerland passport holders enter Hong Kong SAR China visa-free for up to 90 days."
  },
  "AT:HK": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
-  "source_name": "Hong Kong Immigration Department — visit visa / entry permit requirements"
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Austria passport holders enter Hong Kong SAR China visa-free for up to 90 days."
  },
  "IE:HK": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
-  "source_name": "Hong Kong Immigration Department — visit visa / entry permit requirements"
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Ireland passport holders enter Hong Kong SAR China visa-free for up to 90 days."
  },
  "GB:HK": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
-  "source_name": "Hong Kong Immigration Department — visit visa / entry permit requirements",
-  "note": "British citizens receive 180 days; other British passport categories 90 days."
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "United Kingdom passport holders enter Hong Kong SAR China visa-free for up to 180 days. British Overseas Territories citizens, British Overseas citizens, British subjects and British Protected Persons get 90 days."
  },
  "AU:HK": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
-  "source_name": "Hong Kong Immigration Department — visit visa / entry permit requirements"
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Australia passport holders enter Hong Kong SAR China visa-free for up to 90 days."
  },
  "NZ:HK": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
-  "source_name": "Hong Kong Immigration Department — visit visa / entry permit requirements"
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "New Zealand passport holders enter Hong Kong SAR China visa-free for up to 90 days."
  },
  "CA:HK": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
-  "source_name": "Hong Kong Immigration Department — visit visa / entry permit requirements"
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Canada passport holders enter Hong Kong SAR China visa-free for up to 90 days."
  },
  "US:HK": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
-  "source_name": "Hong Kong Immigration Department — visit visa / entry permit requirements"
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "United States passport holders enter Hong Kong SAR China visa-free for up to 90 days. Holders of US diplomatic passports need a visa."
  },
  "PT:HK": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
-  "source_name": "Hong Kong Immigration Department — visit visa / entry permit requirements"
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Portugal passport holders enter Hong Kong SAR China visa-free for up to 90 days."
  },
  "GR:HK": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
-  "source_name": "Hong Kong Immigration Department — visit visa / entry permit requirements"
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Greece passport holders enter Hong Kong SAR China visa-free for up to 90 days."
  },
  "PL:HK": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
-  "source_name": "Hong Kong Immigration Department — visit visa / entry permit requirements"
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Poland passport holders enter Hong Kong SAR China visa-free for up to 90 days."
  },
  "CZ:HK": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
-  "source_name": "Hong Kong Immigration Department — visit visa / entry permit requirements"
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Czechia passport holders enter Hong Kong SAR China visa-free for up to 90 days."
  },
  "HU:HK": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
-  "source_name": "Hong Kong Immigration Department — visit visa / entry permit requirements"
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Hungary passport holders enter Hong Kong SAR China visa-free for up to 90 days."
  },
  "AE:HK": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
-  "source_name": "Hong Kong Immigration Department — visit visa / entry permit requirements"
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "United Arab Emirates passport holders enter Hong Kong SAR China visa-free for up to 30 days."
  },
  "MY:HK": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
-  "source_name": "Hong Kong Immigration Department — visit visa / entry permit requirements"
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Malaysia passport holders enter Hong Kong SAR China visa-free for up to 90 days."
  },
  "IL:HK": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
-  "source_name": "Hong Kong Immigration Department — visit visa / entry permit requirements"
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Israel passport holders enter Hong Kong SAR China visa-free for up to 90 days."
  },
  "PH:HK": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
-  "source_name": "Hong Kong Immigration Department — visit visa / entry permit requirements"
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Philippines passport holders enter Hong Kong SAR China visa-free for up to 14 days."
  },
  "ID:HK": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
-  "source_name": "Hong Kong Immigration Department — visit visa / entry permit requirements"
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Indonesia passport holders enter Hong Kong SAR China visa-free for up to 30 days."
  },
  "TH:HK": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
-  "source_name": "Hong Kong Immigration Department — visit visa / entry permit requirements"
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Thailand passport holders enter Hong Kong SAR China visa-free for up to 30 days."
  },
  "BN:HK": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
-  "source_name": "Hong Kong Immigration Department — visit visa / entry permit requirements"
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Brunei passport holders enter Hong Kong SAR China visa-free for up to 90 days."
  },
  "IN:HK": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
-  "source_name": "Hong Kong Immigration Department — visit visa / entry permit requirements"
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Indian passport holders must complete Hong Kong's Pre-arrival Registration (PAR) online and have it approved before travelling; a successful PAR allows visa-free visits of up to 14 days."
  },
  "RU:HK": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
-  "source_name": "Hong Kong Immigration Department — visit visa / entry permit requirements"
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Russia passport holders enter Hong Kong SAR China visa-free for up to 14 days."
  },
  "VN:HK": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
-  "source_name": "Hong Kong Immigration Department — visit visa / entry permit requirements"
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Vietnam passport holders must obtain a Hong Kong visit visa before travelling (applied for through a Chinese diplomatic mission or the Immigration Department directly; issued as an e-Visa). No visa is needed for airside transit through Hong Kong airport; holders of diplomatic or official passports may visit visa-free for up to 14 days."
  },
  "KH:HK": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
-  "source_name": "Hong Kong Immigration Department — visit visa / entry permit requirements"
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Cambodia passport holders must obtain a Hong Kong visit visa before travelling (applied for through a Chinese diplomatic mission or the Immigration Department directly; issued as an e-Visa). No visa is needed for airside transit through Hong Kong airport; holders of diplomatic or official passports may visit visa-free for up to 14 days."
  },
  "LA:HK": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
-  "source_name": "Hong Kong Immigration Department — visit visa / entry permit requirements"
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Laos passport holders must obtain a Hong Kong visit visa before travelling (applied for through a Chinese diplomatic mission or the Immigration Department directly; issued as an e-Visa). No visa is needed for airside transit through Hong Kong airport; holders of diplomatic or official passports may visit visa-free for up to 14 days."
  },
  "MM:HK": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
-  "source_name": "Hong Kong Immigration Department — visit visa / entry permit requirements"
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Myanmar (Burma) passport holders must obtain a Hong Kong visit visa before travelling (applied for through a Chinese diplomatic mission or the Immigration Department directly; issued as an e-Visa). No visa is needed for airside transit through Hong Kong airport; holders of diplomatic or official passports may visit visa-free for up to 14 days."
  },
  "SG:US": {
   "date": "2026-11-07",
@@ -105046,5 +105084,953 @@
   "source": "https://evisa.gov.ph/",
   "source_name": "Department of Foreign Affairs, Philippines — visa exemption lists & e-Visa portal",
   "note": "Burundi passport holders enter the Philippines visa-free for up to 30 days."
+ },
+ "TW:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Taiwan passport holders register online with the Hong Kong Immigration Department before travelling and may then visit visa-free for up to 30 days; holders of the Mainland Travel Permit for Taiwan Residents enter directly."
+ },
+ "TL:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Timor-Leste passport holders enter Hong Kong SAR China visa-free for up to 7 days. Timor-Leste is covered by the Immigration Department's 7-day provision for nationals of countries not individually listed."
+ },
+ "MO:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Macao SAR China passport holders enter Hong Kong SAR China visa-free for up to 7 days. Macao permanent residents enter on their Macao identity card for up to 180 days; the 7-day period is the Macao SAR passport reading."
+ },
+ "CN:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Mainland Chinese residents visit Hong Kong on an Exit-Entry Permit (Two-way Permit) with a valid exit endorsement — there is no visa-free entry on a mainland household registration; a PRC passport may be used only when transiting Hong Kong to or from another country, for up to 7 days."
+ },
+ "VE:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Venezuela passport holders enter Hong Kong SAR China visa-free for up to 90 days."
+ },
+ "BR:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Brazil passport holders enter Hong Kong SAR China visa-free for up to 90 days."
+ },
+ "AG:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Antigua & Barbuda passport holders enter Hong Kong SAR China visa-free for up to 90 days."
+ },
+ "NA:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Namibia passport holders enter Hong Kong SAR China visa-free for up to 90 days."
+ },
+ "TT:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Trinidad & Tobago passport holders enter Hong Kong SAR China visa-free for up to 90 days."
+ },
+ "LU:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Luxembourg passport holders enter Hong Kong SAR China visa-free for up to 90 days."
+ },
+ "EG:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Egypt passport holders enter Hong Kong SAR China visa-free for up to 90 days."
+ },
+ "KI:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Kiribati passport holders enter Hong Kong SAR China visa-free for up to 90 days."
+ },
+ "AR:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Argentina passport holders enter Hong Kong SAR China visa-free for up to 90 days."
+ },
+ "NR:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Nauru passport holders enter Hong Kong SAR China visa-free for up to 90 days."
+ },
+ "EE:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Estonia passport holders enter Hong Kong SAR China visa-free for up to 90 days."
+ },
+ "JM:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Jamaica passport holders enter Hong Kong SAR China visa-free for up to 90 days."
+ },
+ "DM:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Dominica passport holders enter Hong Kong SAR China visa-free for up to 90 days."
+ },
+ "FJ:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Fiji passport holders enter Hong Kong SAR China visa-free for up to 90 days."
+ },
+ "HR:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Croatia passport holders enter Hong Kong SAR China visa-free for up to 90 days."
+ },
+ "BW:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Botswana passport holders enter Hong Kong SAR China visa-free for up to 90 days."
+ },
+ "MC:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Monaco passport holders enter Hong Kong SAR China visa-free for up to 90 days."
+ },
+ "TO:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Tonga passport holders enter Hong Kong SAR China visa-free for up to 90 days. Tongan National and Tongan Protected Person passports need a visa."
+ },
+ "MU:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Mauritius passport holders enter Hong Kong SAR China visa-free for up to 90 days."
+ },
+ "MV:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Maldives passport holders enter Hong Kong SAR China visa-free for up to 90 days."
+ },
+ "BB:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Barbados passport holders enter Hong Kong SAR China visa-free for up to 90 days."
+ },
+ "SC:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Seychelles passport holders enter Hong Kong SAR China visa-free for up to 90 days."
+ },
+ "CO:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Colombia passport holders enter Hong Kong SAR China visa-free for up to 90 days."
+ },
+ "SM:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "San Marino passport holders enter Hong Kong SAR China visa-free for up to 90 days."
+ },
+ "BG:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Bulgaria passport holders enter Hong Kong SAR China visa-free for up to 90 days."
+ },
+ "LI:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Liechtenstein passport holders enter Hong Kong SAR China visa-free for up to 90 days."
+ },
+ "MX:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Mexico passport holders enter Hong Kong SAR China visa-free for up to 90 days."
+ },
+ "CY:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Cyprus passport holders enter Hong Kong SAR China visa-free for up to 90 days."
+ },
+ "SK:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Slovakia passport holders enter Hong Kong SAR China visa-free for up to 90 days."
+ },
+ "TR:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Türkiye passport holders enter Hong Kong SAR China visa-free for up to 90 days."
+ },
+ "BS:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Bahamas passport holders enter Hong Kong SAR China visa-free for up to 90 days."
+ },
+ "GD:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Grenada passport holders enter Hong Kong SAR China visa-free for up to 90 days."
+ },
+ "RO:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Romania passport holders enter Hong Kong SAR China visa-free for up to 90 days."
+ },
+ "SA:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Saudi Arabia passport holders enter Hong Kong SAR China visa-free for up to 90 days."
+ },
+ "TZ:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Tanzania passport holders enter Hong Kong SAR China visa-free for up to 90 days."
+ },
+ "CL:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Chile passport holders enter Hong Kong SAR China visa-free for up to 90 days."
+ },
+ "SI:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Slovenia passport holders enter Hong Kong SAR China visa-free for up to 90 days."
+ },
+ "TV:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Tuvalu passport holders enter Hong Kong SAR China visa-free for up to 90 days. Not applicable where the holder's nationality is stated as I-Tuvalu."
+ },
+ "KE:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Kenya passport holders enter Hong Kong SAR China visa-free for up to 90 days."
+ },
+ "LC:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "St. Lucia passport holders enter Hong Kong SAR China visa-free for up to 90 days."
+ },
+ "UY:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Uruguay passport holders enter Hong Kong SAR China visa-free for up to 90 days. Not applicable to passports issued under Decree 289/90."
+ },
+ "BZ:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Belize passport holders enter Hong Kong SAR China visa-free for up to 90 days."
+ },
+ "AD:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Andorra passport holders enter Hong Kong SAR China visa-free for up to 90 days."
+ },
+ "LV:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Latvia passport holders enter Hong Kong SAR China visa-free for up to 90 days."
+ },
+ "IS:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Iceland passport holders enter Hong Kong SAR China visa-free for up to 90 days."
+ },
+ "KN:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "St. Kitts & Nevis passport holders enter Hong Kong SAR China visa-free for up to 90 days."
+ },
+ "GY:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Guyana passport holders enter Hong Kong SAR China visa-free for up to 90 days."
+ },
+ "ZW:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Zimbabwe passport holders enter Hong Kong SAR China visa-free for up to 90 days."
+ },
+ "VU:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Vanuatu passport holders enter Hong Kong SAR China visa-free for up to 90 days."
+ },
+ "MT:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Malta passport holders enter Hong Kong SAR China visa-free for up to 90 days."
+ },
+ "ZM:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Zambia passport holders enter Hong Kong SAR China visa-free for up to 90 days."
+ },
+ "VC:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "St. Vincent & Grenadines passport holders enter Hong Kong SAR China visa-free for up to 90 days."
+ },
+ "MW:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Malawi passport holders enter Hong Kong SAR China visa-free for up to 90 days."
+ },
+ "LT:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Lithuania passport holders enter Hong Kong SAR China visa-free for up to 90 days."
+ },
+ "EC:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Ecuador passport holders enter Hong Kong SAR China visa-free for up to 90 days."
+ },
+ "PG:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Papua New Guinea passport holders enter Hong Kong SAR China visa-free for up to 90 days."
+ },
+ "JO:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Jordan passport holders enter Hong Kong SAR China visa-free for up to 30 days."
+ },
+ "HN:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Honduras passport holders enter Hong Kong SAR China visa-free for up to 30 days."
+ },
+ "BO:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Bolivia passport holders enter Hong Kong SAR China visa-free for up to 30 days."
+ },
+ "GE:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Georgia passport holders enter Hong Kong SAR China visa-free for up to 30 days."
+ },
+ "UG:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Uganda passport holders enter Hong Kong SAR China visa-free for up to 30 days."
+ },
+ "OM:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Oman passport holders enter Hong Kong SAR China visa-free for up to 30 days."
+ },
+ "PA:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Panama passport holders enter Hong Kong SAR China visa-free for up to 30 days."
+ },
+ "BH:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Bahrain passport holders enter Hong Kong SAR China visa-free for up to 30 days."
+ },
+ "DO:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Dominican Republic passport holders enter Hong Kong SAR China visa-free for up to 30 days."
+ },
+ "TN:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Tunisia passport holders enter Hong Kong SAR China visa-free for up to 30 days."
+ },
+ "WS:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Samoa passport holders enter Hong Kong SAR China visa-free for up to 30 days."
+ },
+ "KW:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Kuwait passport holders enter Hong Kong SAR China visa-free for up to 30 days."
+ },
+ "CV:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Cape Verde passport holders enter Hong Kong SAR China visa-free for up to 30 days."
+ },
+ "SV:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "El Salvador passport holders enter Hong Kong SAR China visa-free for up to 30 days."
+ },
+ "AM:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Armenia passport holders enter Hong Kong SAR China visa-free for up to 30 days."
+ },
+ "PE:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Peru passport holders enter Hong Kong SAR China visa-free for up to 30 days. Peruvian special passports need a visa."
+ },
+ "SB:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Solomon Islands passport holders enter Hong Kong SAR China visa-free for up to 30 days."
+ },
+ "GT:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Guatemala passport holders enter Hong Kong SAR China visa-free for up to 30 days."
+ },
+ "CR:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Costa Rica passport holders enter Hong Kong SAR China visa-free for up to 30 days. Costa Rican provisional passports and the Documento de Identidad y Viaje need a visa."
+ },
+ "QA:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Qatar passport holders enter Hong Kong SAR China visa-free for up to 30 days."
+ },
+ "NI:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Nicaragua passport holders enter Hong Kong SAR China visa-free for up to 30 days."
+ },
+ "PY:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Paraguay passport holders enter Hong Kong SAR China visa-free for up to 30 days."
+ },
+ "ZA:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "South Africa passport holders enter Hong Kong SAR China visa-free for up to 30 days."
+ },
+ "MA:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Morocco passport holders enter Hong Kong SAR China visa-free for up to 30 days."
+ },
+ "BY:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Belarus passport holders enter Hong Kong SAR China visa-free for up to 30 days."
+ },
+ "BT:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Bhutan passport holders enter Hong Kong SAR China visa-free for up to 14 days."
+ },
+ "MN:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Mongolia passport holders enter Hong Kong SAR China visa-free for up to 14 days."
+ },
+ "SR:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Suriname passport holders enter Hong Kong SAR China visa-free for up to 14 days."
+ },
+ "MZ:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Mozambique passport holders enter Hong Kong SAR China visa-free for up to 14 days."
+ },
+ "NE:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Niger passport holders enter Hong Kong SAR China visa-free for up to 14 days."
+ },
+ "VA:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Vatican City passport holders enter Hong Kong SAR China visa-free for up to 14 days. Vatican service passports need a visa."
+ },
+ "BJ:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Benin passport holders enter Hong Kong SAR China visa-free for up to 14 days."
+ },
+ "PW:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Palau passport holders enter Hong Kong SAR China visa-free for up to 14 days."
+ },
+ "DJ:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Djibouti passport holders enter Hong Kong SAR China visa-free for up to 14 days."
+ },
+ "MG:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Madagascar passport holders enter Hong Kong SAR China visa-free for up to 14 days."
+ },
+ "LS:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Lesotho passport holders enter Hong Kong SAR China visa-free for up to 14 days."
+ },
+ "ML:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Mali passport holders enter Hong Kong SAR China visa-free for up to 14 days."
+ },
+ "ME:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Montenegro passport holders enter Hong Kong SAR China visa-free for up to 14 days."
+ },
+ "KM:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Comoros passport holders enter Hong Kong SAR China visa-free for up to 14 days."
+ },
+ "AL:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Albania passport holders enter Hong Kong SAR China visa-free for up to 14 days. Holders of non-biometric Albanian passports need a visa."
+ },
+ "GQ:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Equatorial Guinea passport holders enter Hong Kong SAR China visa-free for up to 14 days."
+ },
+ "GN:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Guinea passport holders enter Hong Kong SAR China visa-free for up to 14 days."
+ },
+ "KZ:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Kazakhstan passport holders enter Hong Kong SAR China visa-free for up to 14 days."
+ },
+ "TD:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Chad passport holders enter Hong Kong SAR China visa-free for up to 14 days."
+ },
+ "MR:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Mauritania passport holders enter Hong Kong SAR China visa-free for up to 14 days."
+ },
+ "HT:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Haiti passport holders enter Hong Kong SAR China visa-free for up to 14 days."
+ },
+ "MH:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Marshall Islands passport holders enter Hong Kong SAR China visa-free for up to 14 days."
+ },
+ "FM:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Micronesia passport holders enter Hong Kong SAR China visa-free for up to 14 days."
+ },
+ "MK:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "North Macedonia passport holders enter Hong Kong SAR China visa-free for up to 14 days."
+ },
+ "GA:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Gabon passport holders enter Hong Kong SAR China visa-free for up to 14 days."
+ },
+ "BF:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Burkina Faso passport holders enter Hong Kong SAR China visa-free for up to 14 days."
+ },
+ "DZ:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Algeria passport holders enter Hong Kong SAR China visa-free for up to 14 days."
+ },
+ "ST:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "São Tomé & Príncipe passport holders enter Hong Kong SAR China visa-free for up to 14 days."
+ },
+ "BA:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Bosnia & Herzegovina passport holders enter Hong Kong SAR China visa-free for up to 14 days."
+ },
+ "UA:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Ukraine passport holders enter Hong Kong SAR China visa-free for up to 14 days."
+ },
+ "RS:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Serbia passport holders enter Hong Kong SAR China visa-free for up to 14 days. Holders of non-biometric passports, and passports issued by the Serbian Coordination Directorate, need a visa."
+ },
+ "CD:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Congo - Kinshasa passport holders must obtain a Hong Kong visit visa before travelling (applied for through a Chinese diplomatic mission or the Immigration Department directly; issued as an e-Visa). A visa is required even for airside transit through Hong Kong airport."
+ },
+ "ER:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Eritrea passport holders must obtain a Hong Kong visit visa before travelling (applied for through a Chinese diplomatic mission or the Immigration Department directly; issued as an e-Visa). A visa is required even for airside transit through Hong Kong airport."
+ },
+ "LK:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Sri Lanka passport holders must obtain a Hong Kong visit visa before travelling (applied for through a Chinese diplomatic mission or the Immigration Department directly; issued as an e-Visa). A visa is required even for airside transit through Hong Kong airport; holders of diplomatic or official passports may visit visa-free for up to 14 days."
+ },
+ "SL:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Sierra Leone passport holders must obtain a Hong Kong visit visa before travelling (applied for through a Chinese diplomatic mission or the Immigration Department directly; issued as an e-Visa). A visa is required even for airside transit through Hong Kong airport."
+ },
+ "UZ:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Uzbekistan passport holders must obtain a Hong Kong visit visa before travelling (applied for through a Chinese diplomatic mission or the Immigration Department directly; issued as an e-Visa). No visa is needed for airside transit through Hong Kong airport; holders of diplomatic or official passports may visit visa-free for up to 14 days."
+ },
+ "SS:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "South Sudan passport holders must obtain a Hong Kong visit visa before travelling (applied for through a Chinese diplomatic mission or the Immigration Department directly; issued as an e-Visa). A visa is required even for airside transit through Hong Kong airport."
+ },
+ "CG:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Congo - Brazzaville passport holders must obtain a Hong Kong visit visa before travelling (applied for through a Chinese diplomatic mission or the Immigration Department directly; issued as an e-Visa). A visa is required even for airside transit through Hong Kong airport; holders of diplomatic or official passports may visit visa-free for up to 14 days."
+ },
+ "GM:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Gambia passport holders must obtain a Hong Kong visit visa before travelling (applied for through a Chinese diplomatic mission or the Immigration Department directly; issued as an e-Visa). A visa is required even for airside transit through Hong Kong airport."
+ },
+ "MD:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Moldova passport holders must obtain a Hong Kong visit visa before travelling (applied for through a Chinese diplomatic mission or the Immigration Department directly; issued as an e-Visa). No visa is needed for airside transit through Hong Kong airport; holders of diplomatic or official passports may visit visa-free for up to 14 days."
+ },
+ "PK:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Pakistan passport holders must obtain a Hong Kong visit visa before travelling (applied for through a Chinese diplomatic mission or the Immigration Department directly; issued as an e-Visa). A visa is required even for airside transit through Hong Kong airport; holders of diplomatic or official passports may visit visa-free for up to 30 days."
+ },
+ "CU:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Cuba passport holders must obtain a Hong Kong visit visa before travelling (applied for through a Chinese diplomatic mission or the Immigration Department directly; issued as an e-Visa)."
+ },
+ "GH:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Ghana passport holders must obtain a Hong Kong visit visa before travelling (applied for through a Chinese diplomatic mission or the Immigration Department directly; issued as an e-Visa). A visa is required even for airside transit through Hong Kong airport; holders of diplomatic or official passports may visit visa-free for up to 14 days."
+ },
+ "SN:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Senegal passport holders must obtain a Hong Kong visit visa before travelling (applied for through a Chinese diplomatic mission or the Immigration Department directly; issued as an e-Visa)."
+ },
+ "YE:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Yemen passport holders must obtain a Hong Kong visit visa before travelling (applied for through a Chinese diplomatic mission or the Immigration Department directly; issued as an e-Visa). A visa is required even for airside transit through Hong Kong airport."
+ },
+ "SZ:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Eswatini passport holders must obtain a Hong Kong visit visa before travelling (applied for through a Chinese diplomatic mission or the Immigration Department directly; issued as an e-Visa). A visa is required even for airside transit through Hong Kong airport."
+ },
+ "CF:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Central African Republic passport holders must obtain a Hong Kong visit visa before travelling (applied for through a Chinese diplomatic mission or the Immigration Department directly; issued as an e-Visa). A visa is required even for airside transit through Hong Kong airport."
+ },
+ "KG:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Kyrgyzstan passport holders must obtain a Hong Kong visit visa before travelling (applied for through a Chinese diplomatic mission or the Immigration Department directly; issued as an e-Visa). No visa is needed for airside transit through Hong Kong airport; holders of diplomatic or official passports may visit visa-free for up to 14 days."
+ },
+ "LR:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Liberia passport holders must obtain a Hong Kong visit visa before travelling (applied for through a Chinese diplomatic mission or the Immigration Department directly; issued as an e-Visa). A visa is required even for airside transit through Hong Kong airport."
+ },
+ "SD:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Sudan passport holders must obtain a Hong Kong visit visa before travelling (applied for through a Chinese diplomatic mission or the Immigration Department directly; issued as an e-Visa). A visa is required even for airside transit through Hong Kong airport."
+ },
+ "NP:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Nepal passport holders must obtain a Hong Kong visit visa before travelling (applied for through a Chinese diplomatic mission or the Immigration Department directly; issued as an e-Visa). No visa is needed for airside transit through Hong Kong airport; holders of diplomatic or official passports may visit visa-free for up to 14 days."
+ },
+ "RW:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Rwanda passport holders must obtain a Hong Kong visit visa before travelling (applied for through a Chinese diplomatic mission or the Immigration Department directly; issued as an e-Visa). A visa is required even for airside transit through Hong Kong airport; holders of diplomatic or official passports may visit visa-free for up to 14 days."
+ },
+ "TM:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Turkmenistan passport holders must obtain a Hong Kong visit visa before travelling (applied for through a Chinese diplomatic mission or the Immigration Department directly; issued as an e-Visa). No visa is needed for airside transit through Hong Kong airport; holders of diplomatic or official passports may visit visa-free for up to 14 days."
+ },
+ "BD:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Bangladesh passport holders must obtain a Hong Kong visit visa before travelling (applied for through a Chinese diplomatic mission or the Immigration Department directly; issued as an e-Visa). A visa is required even for airside transit through Hong Kong airport; holders of diplomatic or official passports may visit visa-free for up to 14 days."
+ },
+ "AF:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Afghanistan passport holders must obtain a Hong Kong visit visa before travelling (applied for through a Chinese diplomatic mission or the Immigration Department directly; issued as an e-Visa). A visa is required even for airside transit through Hong Kong airport."
+ },
+ "SY:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Syria passport holders must obtain a Hong Kong visit visa before travelling (applied for through a Chinese diplomatic mission or the Immigration Department directly; issued as an e-Visa). A visa is required even for airside transit through Hong Kong airport."
+ },
+ "CI:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Côte d’Ivoire passport holders must obtain a Hong Kong visit visa before travelling (applied for through a Chinese diplomatic mission or the Immigration Department directly; issued as an e-Visa). A visa is required even for airside transit through Hong Kong airport."
+ },
+ "IQ:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Iraq passport holders must obtain a Hong Kong visit visa before travelling (applied for through a Chinese diplomatic mission or the Immigration Department directly; issued as an e-Visa). A visa is required even for airside transit through Hong Kong airport."
+ },
+ "AO:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Angola passport holders must obtain a Hong Kong visit visa before travelling (applied for through a Chinese diplomatic mission or the Immigration Department directly; issued as an e-Visa). A visa is required even for airside transit through Hong Kong airport; holders of diplomatic or official passports may visit visa-free for up to 14 days."
+ },
+ "LY:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Libya passport holders must obtain a Hong Kong visit visa before travelling (applied for through a Chinese diplomatic mission or the Immigration Department directly; issued as an e-Visa). A visa is required even for airside transit through Hong Kong airport."
+ },
+ "GW:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Guinea-Bissau passport holders must obtain a Hong Kong visit visa before travelling (applied for through a Chinese diplomatic mission or the Immigration Department directly; issued as an e-Visa). A visa is required even for airside transit through Hong Kong airport."
+ },
+ "TG:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Togo passport holders must obtain a Hong Kong visit visa before travelling (applied for through a Chinese diplomatic mission or the Immigration Department directly; issued as an e-Visa). A visa is required even for airside transit through Hong Kong airport; holders of diplomatic or official passports may visit visa-free for up to 14 days."
+ },
+ "PS:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Palestinian Territories passport holders must obtain a Hong Kong visit visa before travelling (applied for through a Chinese diplomatic mission or the Immigration Department directly; issued as an e-Visa)."
+ },
+ "LB:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Lebanon passport holders must obtain a Hong Kong visit visa before travelling (applied for through a Chinese diplomatic mission or the Immigration Department directly; issued as an e-Visa)."
+ },
+ "CM:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Cameroon passport holders must obtain a Hong Kong visit visa before travelling (applied for through a Chinese diplomatic mission or the Immigration Department directly; issued as an e-Visa). A visa is required even for airside transit through Hong Kong airport; holders of diplomatic or official passports may visit visa-free for up to 14 days."
+ },
+ "BI:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Burundi passport holders must obtain a Hong Kong visit visa before travelling (applied for through a Chinese diplomatic mission or the Immigration Department directly; issued as an e-Visa). A visa is required even for airside transit through Hong Kong airport; holders of diplomatic or official passports may visit visa-free for up to 14 days."
+ },
+ "IR:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Iran passport holders must obtain a Hong Kong visit visa before travelling (applied for through a Chinese diplomatic mission or the Immigration Department directly; issued as an e-Visa). A visa is required even for airside transit through Hong Kong airport."
+ },
+ "ET:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Ethiopia passport holders must obtain a Hong Kong visit visa before travelling (applied for through a Chinese diplomatic mission or the Immigration Department directly; issued as an e-Visa). A visa is required even for airside transit through Hong Kong airport; holders of diplomatic or official passports may visit visa-free for up to 14 days."
+ },
+ "NG:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Nigeria passport holders must obtain a Hong Kong visit visa before travelling (applied for through a Chinese diplomatic mission or the Immigration Department directly; issued as an e-Visa). A visa is required even for airside transit through Hong Kong airport."
+ },
+ "AZ:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Azerbaijan passport holders must obtain a Hong Kong visit visa before travelling (applied for through a Chinese diplomatic mission or the Immigration Department directly; issued as an e-Visa). No visa is needed for airside transit through Hong Kong airport; holders of diplomatic or official passports may visit visa-free for up to 14 days."
+ },
+ "SO:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Somalia passport holders must obtain a Hong Kong visit visa before travelling (applied for through a Chinese diplomatic mission or the Immigration Department directly; issued as an e-Visa). A visa is required even for airside transit through Hong Kong airport."
+ },
+ "KP:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "North Korea passport holders must obtain a Hong Kong visit visa before travelling (applied for through a Chinese diplomatic mission or the Immigration Department directly; issued as an e-Visa). A visa is required even for airside transit through Hong Kong airport."
+ },
+ "TJ:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "source_name": "Hong Kong Immigration Department — Visit Visa / Entry Permit Requirements",
+  "note": "Tajikistan passport holders must obtain a Hong Kong visit visa before travelling (applied for through a Chinese diplomatic mission or the Immigration Department directly; issued as an e-Visa). No visa is needed for airside transit through Hong Kong airport; holders of diplomatic or official passports may visit visa-free for up to 14 days."
  }
 }
