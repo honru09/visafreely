@@ -38417,5 +38417,11 @@
   "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
   "source": "https://nationalsecurity.gov.tt/",
   "date": "2026-11-11"
+ },
+ "QA:UY": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Uruguay's visa admission regime as compiled (see research-uy-official.md).",
+  "source": "https://www.gub.uy/ministerio-interior/",
+  "date": "2026-11-11"
  }
 }
