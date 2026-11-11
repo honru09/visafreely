@@ -37495,5 +37495,53 @@
   "reason": "Settled 2026-11-11 against Panama's exemption list and Decree 521 as compiled (see research-pa-official.md).",
   "source": "https://www.migracion.gob.pa/",
   "date": "2026-11-11"
+ },
+ "ID:PY": {
+  "status": "visa on arrival",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against Paraguay's exemption and visa-on-arrival lists as compiled (see research-py-official.md).",
+  "source": "https://www.mre.gov.py/",
+  "date": "2026-11-11"
+ },
+ "KN:PY": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Paraguay's exemption and visa-on-arrival lists as compiled (see research-py-official.md).",
+  "source": "https://www.mre.gov.py/",
+  "date": "2026-11-11"
+ },
+ "MY:PY": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against Paraguay's exemption and visa-on-arrival lists as compiled (see research-py-official.md).",
+  "source": "https://www.mre.gov.py/",
+  "date": "2026-11-11"
+ },
+ "PH:PY": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against Paraguay's exemption and visa-on-arrival lists as compiled (see research-py-official.md).",
+  "source": "https://www.mre.gov.py/",
+  "date": "2026-11-11"
+ },
+ "TH:PY": {
+  "status": "visa on arrival",
+  "days": 15,
+  "reason": "Settled 2026-11-11 against Paraguay's exemption and visa-on-arrival lists as compiled (see research-py-official.md).",
+  "source": "https://www.mre.gov.py/",
+  "date": "2026-11-11"
+ },
+ "VE:PY": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Paraguay's exemption and visa-on-arrival lists as compiled (see research-py-official.md).",
+  "source": "https://www.mre.gov.py/",
+  "date": "2026-11-11"
+ },
+ "VN:PY": {
+  "status": "visa on arrival",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against Paraguay's exemption and visa-on-arrival lists as compiled (see research-py-official.md).",
+  "source": "https://www.mre.gov.py/",
+  "date": "2026-11-11"
  }
 }
