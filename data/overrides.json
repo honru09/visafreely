@@ -44701,5 +44701,33 @@
   "reason": "Settled 2026-11-11 against Bhutan's visa rules as compiled (see research-bt-official.md).",
   "source": "https://visit.doi.gov.bt/",
   "date": "2026-11-11"
+ },
+ "MH:FM": {
+  "status": "visa free",
+  "days": 365,
+  "reason": "Settled 2026-11-11 against FSM entry rules as compiled (see research-fm-official.md).",
+  "source": "https://www.fsmgov.org/",
+  "date": "2026-11-11"
+ },
+ "OM:FM": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against FSM entry rules as compiled (see research-fm-official.md).",
+  "source": "https://www.fsmgov.org/",
+  "date": "2026-11-11"
+ },
+ "PW:FM": {
+  "status": "visa free",
+  "days": 365,
+  "reason": "Settled 2026-11-11 against FSM entry rules as compiled (see research-fm-official.md).",
+  "source": "https://www.fsmgov.org/",
+  "date": "2026-11-11"
+ },
+ "US:FM": {
+  "status": "visa free",
+  "days": 365,
+  "reason": "Settled 2026-11-11 against FSM entry rules as compiled (see research-fm-official.md).",
+  "source": "https://www.fsmgov.org/",
+  "date": "2026-11-11"
  }
 }
