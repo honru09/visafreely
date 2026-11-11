@@ -55592,5 +55592,39 @@
   "reason": "Settled 2026-11-11 against Myanmar's immigration ministry lists as compiled (see research-mm-official.md).",
   "source": "https://evisa.moip.gov.mm/",
   "date": "2026-11-11"
+ },
+ "CN:MO": {
+  "status": "visa free",
+  "reason": "Settled 2026-11-11 against Macao's Public Security Police exempt list as compiled (see research-mo-official.md).",
+  "source": "https://www.fsm.gov.mo/psp/eng/",
+  "date": "2026-11-11"
+ },
+ "GE:MO": {
+  "status": "visa on arrival",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against Macao's Public Security Police exempt list as compiled (see research-mo-official.md).",
+  "source": "https://www.fsm.gov.mo/psp/eng/",
+  "date": "2026-11-11"
+ },
+ "HK:MO": {
+  "status": "visa free",
+  "days": 365,
+  "reason": "Settled 2026-11-11 against Macao's Public Security Police exempt list as compiled (see research-mo-official.md).",
+  "source": "https://www.fsm.gov.mo/psp/eng/",
+  "date": "2026-11-11"
+ },
+ "KI:MO": {
+  "status": "visa on arrival",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against Macao's Public Security Police exempt list as compiled (see research-mo-official.md).",
+  "source": "https://www.fsm.gov.mo/psp/eng/",
+  "date": "2026-11-11"
+ },
+ "LI:MO": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against Macao's Public Security Police exempt list as compiled (see research-mo-official.md).",
+  "source": "https://www.fsm.gov.mo/psp/eng/",
+  "date": "2026-11-11"
  }
 }
