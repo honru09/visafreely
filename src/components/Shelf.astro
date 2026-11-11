@@ -12,13 +12,18 @@
 // Visual identity: "travel kit" panel — tinted band with a dashed stamp-style inner
 // border; cards are boarding-pass style with an icon stub, a Partner tag and a pill CTA.
 import Stamp from './Stamp.astro';
+import campaigns from '../data/evisas-campaigns.json';
 interface Props {
   status: string;
   passportName: string;
   destinationName: string;
+  passportCode?: string;
+  destinationCode?: string;
   pos?: string;
 }
-const { status, destinationName, pos = 'bottom' } = Astro.props;
+const { status, destinationName, passportCode, destinationCode, pos = 'bottom' } = Astro.props;
+const sid = passportCode && destinationCode ? (campaigns as Record<string, string>)[`${passportCode}:${destinationCode}`] : undefined;
+const evisasHref = sid ? `https://evisas.com/?ref=visafreely&sid=${sid}` : 'https://evisas.com/?ref=visafreely';
 const isVisa = status === 'R' || status === 'E';
 const headings: Record<string, string> = {
   R: 'Get this visa handled',
@@ -52,7 +57,7 @@ const shelfClass = isVisa ? 'shelf shelf--featured' : 'shelf shelf--duo';
         {status === 'E' && (
         <p class="official-note">You can also apply yourself on the official government site — this is simply the done-for-you option.</p>
         )}
-        <a class="visit-link" data-offer={`evisas-${pos}`} href="https://evisas.com/?ref=visafreely" rel="sponsored nofollow noopener" target="_blank">Start with eVisas <span class="arr">→</span></a>
+        <a class="visit-link" data-offer={`evisas-${pos}`} href={evisasHref} rel="sponsored nofollow noopener" target="_blank">Start with eVisas <span class="arr">→</span></a>
       </div>
     </div>
     <div class="card">
@@ -76,7 +81,7 @@ const shelfClass = isVisa ? 'shelf shelf--featured' : 'shelf shelf--duo';
         <div class="k">Travel authorisation<span class="partner-tag">Partner</span></div>
         <div class="t">eVisas</div>
         <p>eVisas can file the electronic travel authorisation for you, if you would rather not use the official form yourself.</p>
-        <a class="visit-link" data-offer={`evisas-${pos}`} href="https://evisas.com/?ref=visafreely" rel="sponsored nofollow noopener" target="_blank">Start with eVisas <span class="arr">→</span></a>
+        <a class="visit-link" data-offer={`evisas-${pos}`} href={evisasHref} rel="sponsored nofollow noopener" target="_blank">Start with eVisas <span class="arr">→</span></a>
       </div>
     </div>
     )}

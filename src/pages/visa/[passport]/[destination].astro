@@ -1,6 +1,7 @@
 ---
 import Base from '../../../layouts/Base.astro';
 import Shelf from '../../../components/Shelf.astro';
+import evisasCampaigns from '../../../data/evisas-campaigns.json';
 import Stamp from '../../../components/Stamp.astro';
 import ShareRow from '../../../components/ShareRow.astro';
 import {
@@ -38,6 +39,8 @@ export function getStaticPaths() {
 }
 
 const { p, d, row } = Astro.props;
+const barSid = (evisasCampaigns as Record<string, string>)[`${p.code}:${d.code}`];
+const evisasBarHref = barSid ? `https://evisas.com/?ref=visafreely&sid=${barSid}` : 'https://evisas.com/?ref=visafreely';
 const extra = pairExtra(p.code, d.code);
 const verdict = verdictText(row);
 const label = statusLabel(row.s);
@@ -189,7 +192,7 @@ const freePassports = countries
     )
   }
 
-  <Shelf status={row.s} passportName={p.name} destinationName={d.name} pos="top" />
+  <Shelf status={row.s} passportName={p.name} destinationName={d.name} passportCode={p.code} destinationCode={d.code} pos="top" />
 
   <h2>What to do next</h2>
   <ol class="steps" data-reveal>
@@ -208,7 +211,7 @@ const freePassports = countries
     </ul>
   </div>
 
-  <Shelf status={row.s} passportName={p.name} destinationName={d.name} pos="bottom" />
+  <Shelf status={row.s} passportName={p.name} destinationName={d.name} passportCode={p.code} destinationCode={d.code} pos="bottom" />
 
   <h2>Requirement details</h2>
   <div class="spec-card">
@@ -359,7 +362,7 @@ const freePassports = countries
   {(row.s === 'R' || row.s === 'E') && (
     <div class="sticky-bar" role="complementary" aria-label="Visa service">
       <span class="sb-text">{row.s === 'R' ? `Visa required for ${d.name}` : `e-Visa for ${d.name} — apply before you fly`}</span>
-      <a class="sb-btn" data-offer="evisas-bar" href="https://evisas.com/?ref=visafreely" rel="sponsored nofollow noopener" target="_blank">Get it handled →</a>
+      <a class="sb-btn" data-offer="evisas-bar" href={evisasBarHref} rel="sponsored nofollow noopener" target="_blank">Get it handled →</a>
     </div>
   )}
 </Base>
