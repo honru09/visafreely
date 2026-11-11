@@ -40139,5 +40139,56 @@
   "reason": "Settled 2026-11-11 against Cuba's exemption list, e-Visa eligibility and refusal rules as compiled (see research-cu-official.md).",
   "source": "https://www.minrex.gob.cu/",
   "date": "2026-11-11"
+ },
+ "AE:AG": {
+  "status": "visa free",
+  "days": 180,
+  "reason": "Settled 2026-11-11 against Antigua and Barbuda's exemption list and EEV rules as compiled (see research-ag-official.md).",
+  "source": "https://immigration.gov.ag/",
+  "date": "2026-11-11"
+ },
+ "BO:AG": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Antigua and Barbuda's exemption list and EEV rules as compiled (see research-ag-official.md).",
+  "source": "https://immigration.gov.ag/",
+  "date": "2026-11-11"
+ },
+ "CO:AG": {
+  "status": "visa free",
+  "days": 180,
+  "reason": "Settled 2026-11-11 against Antigua and Barbuda's exemption list and EEV rules as compiled (see research-ag-official.md).",
+  "source": "https://immigration.gov.ag/",
+  "date": "2026-11-11"
+ },
+ "EC:AG": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Antigua and Barbuda's exemption list and EEV rules as compiled (see research-ag-official.md).",
+  "source": "https://immigration.gov.ag/",
+  "date": "2026-11-11"
+ },
+ "MG:AG": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Antigua and Barbuda's exemption list and EEV rules as compiled (see research-ag-official.md).",
+  "source": "https://immigration.gov.ag/",
+  "date": "2026-11-11"
+ },
+ "MK:AG": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Antigua and Barbuda's exemption list and EEV rules as compiled (see research-ag-official.md).",
+  "source": "https://immigration.gov.ag/",
+  "date": "2026-11-11"
+ },
+ "RU:AG": {
+  "status": "visa free",
+  "days": 180,
+  "reason": "Settled 2026-11-11 against Antigua and Barbuda's exemption list and EEV rules as compiled (see research-ag-official.md).",
+  "source": "https://immigration.gov.ag/",
+  "date": "2026-11-11"
+ },
+ "XK:AG": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Antigua and Barbuda's exemption list and EEV rules as compiled (see research-ag-official.md).",
+  "source": "https://immigration.gov.ag/",
+  "date": "2026-11-11"
  }
 }
