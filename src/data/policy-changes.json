@@ -681,6 +681,15 @@
   "source_name": "Department of Foreign Affairs, Philippines"
  },
  {
+  "passport": "US",
+  "destination": "TD",
+  "date": "2025-06-05",
+  "from_status": "e-visa",
+  "to_status": "no admission",
+  "summary": "Chad suspended visa issuance to United States citizens on 5 June 2025 in response to the US travel ban; visas already issued remain valid until expiry.",
+  "source": "https://www.reuters.com/"
+ },
+ {
   "date": "2025-06-01",
   "destination": "JP",
   "title": "Japan exempts Paraguay from visas",

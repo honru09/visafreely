@@ -53865,5 +53865,53 @@
   "reason": "Settled 2026-11-11 against Sudan's exemption and arrival-visa rules as compiled (see research-sd-official.md).",
   "source": "https://sudanembassy.org/",
   "date": "2026-11-11"
+ },
+ "BB:TD": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Chad's Directorate exemption list as compiled (see research-td-official.md).",
+  "source": "https://evisa.td/",
+  "date": "2026-11-11"
+ },
+ "DM:TD": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Chad's Directorate exemption list as compiled (see research-td-official.md).",
+  "source": "https://evisa.td/",
+  "date": "2026-11-11"
+ },
+ "FM:TD": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Chad's Directorate exemption list as compiled (see research-td-official.md).",
+  "source": "https://evisa.td/",
+  "date": "2026-11-11"
+ },
+ "SG:TD": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Chad's Directorate exemption list as compiled (see research-td-official.md).",
+  "source": "https://evisa.td/",
+  "date": "2026-11-11"
+ },
+ "SR:TD": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Chad's Directorate exemption list as compiled (see research-td-official.md).",
+  "source": "https://evisa.td/",
+  "date": "2026-11-11"
+ },
+ "US:TD": {
+  "status": "no admission",
+  "reason": "Settled 2026-11-11 against Chad's Directorate exemption list as compiled (see research-td-official.md).",
+  "source": "https://evisa.td/",
+  "date": "2026-11-11"
+ },
+ "VC:TD": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Chad's Directorate exemption list as compiled (see research-td-official.md).",
+  "source": "https://evisa.td/",
+  "date": "2026-11-11"
  }
 }
