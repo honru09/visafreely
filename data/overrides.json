@@ -52494,5 +52494,100 @@
   "reason": "Settled 2026-11-11 against Equatorial Guinea's exemption list and e-Visa rules as compiled (see research-gq-official.md).",
   "source": "https://equatorialguinea-evisa.com/",
   "date": "2026-11-11"
+ },
+ "AU:LS": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Lesotho's exemption lists as compiled (see research-ls-official.md).",
+  "source": "https://www.lesothoembassy.com/",
+  "date": "2026-11-11"
+ },
+ "BW:LS": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Lesotho's exemption lists as compiled (see research-ls-official.md).",
+  "source": "https://www.lesothoembassy.com/",
+  "date": "2026-11-11"
+ },
+ "CA:LS": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Lesotho's exemption lists as compiled (see research-ls-official.md).",
+  "source": "https://www.lesothoembassy.com/",
+  "date": "2026-11-11"
+ },
+ "GB:LS": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Lesotho's exemption lists as compiled (see research-ls-official.md).",
+  "source": "https://www.lesothoembassy.com/",
+  "date": "2026-11-11"
+ },
+ "IE:LS": {
+  "status": "visa free",
+  "days": 14,
+  "reason": "Settled 2026-11-11 against Lesotho's exemption lists as compiled (see research-ls-official.md).",
+  "source": "https://www.lesothoembassy.com/",
+  "date": "2026-11-11"
+ },
+ "KR:LS": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Lesotho's exemption lists as compiled (see research-ls-official.md).",
+  "source": "https://www.lesothoembassy.com/",
+  "date": "2026-11-11"
+ },
+ "LK:LS": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Lesotho's exemption lists as compiled (see research-ls-official.md).",
+  "source": "https://www.lesothoembassy.com/",
+  "date": "2026-11-11"
+ },
+ "MG:LS": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Lesotho's exemption lists as compiled (see research-ls-official.md).",
+  "source": "https://www.lesothoembassy.com/",
+  "date": "2026-11-11"
+ },
+ "MZ:LS": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Lesotho's exemption lists as compiled (see research-ls-official.md).",
+  "source": "https://www.lesothoembassy.com/",
+  "date": "2026-11-11"
+ },
+ "SC:LS": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Lesotho's exemption lists as compiled (see research-ls-official.md).",
+  "source": "https://www.lesothoembassy.com/",
+  "date": "2026-11-11"
+ },
+ "SZ:LS": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Lesotho's exemption lists as compiled (see research-ls-official.md).",
+  "source": "https://www.lesothoembassy.com/",
+  "date": "2026-11-11"
+ },
+ "US:LS": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Lesotho's exemption lists as compiled (see research-ls-official.md).",
+  "source": "https://www.lesothoembassy.com/",
+  "date": "2026-11-11"
+ },
+ "ZA:LS": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Lesotho's exemption lists as compiled (see research-ls-official.md).",
+  "source": "https://www.lesothoembassy.com/",
+  "date": "2026-11-11"
+ },
+ "ZW:LS": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Lesotho's exemption lists as compiled (see research-ls-official.md).",
+  "source": "https://www.lesothoembassy.com/",
+  "date": "2026-11-11"
  }
 }
