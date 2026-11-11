@@ -147401,5 +147401,1193 @@
   "source": "https://www.cancilleria.gob.ec/",
   "source_name": "Ministry of Foreign Affairs of Ecuador — list of countries whose nationals must present a visa",
   "note": "Bhutan passport holders may enter Ecuador without a visa for up to 90 days."
+ },
+ "MX:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Mexico passport holders may enter Bolivia without a visa for up to 180 days (Group 1)."
+ },
+ "RU:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Russia passport holders may enter Bolivia without a visa for up to 90 days within any 180-day period (Group 1)."
+ },
+ "AU:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Australia passport holders may enter Bolivia without a visa for up to 90 days (Group 1)."
+ },
+ "MC:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Monaco passport holders may enter Bolivia without a visa for up to 90 days (Group 1)."
+ },
+ "ZA:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "South Africa passport holders may enter Bolivia without a visa for up to 90 days (Group 1)."
+ },
+ "EC:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Ecuador passport holders may enter Bolivia without a visa for up to 90 days (Group 1). Citizens may also enter with a national identity card instead of a passport."
+ },
+ "PS:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Palestinian Territories passport holders may enter Bolivia without a visa for up to 90 days (Group 1)."
+ },
+ "TR:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Türkiye passport holders may enter Bolivia without a visa for up to 90 days (Group 1)."
+ },
+ "CH:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Switzerland passport holders may enter Bolivia without a visa for up to 90 days (Group 1)."
+ },
+ "BR:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Brazil passport holders may enter Bolivia without a visa for up to 90 days (Group 1). Citizens may also enter with a national identity card instead of a passport."
+ },
+ "CL:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Chile passport holders may enter Bolivia without a visa for up to 90 days (Group 1). Citizens may also enter with a national identity card instead of a passport."
+ },
+ "CA:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Canada passport holders may enter Bolivia without a visa for up to 90 days (Group 1)."
+ },
+ "SV:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "El Salvador passport holders may enter Bolivia without a visa for up to 90 days (Group 1)."
+ },
+ "NZ:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "New Zealand passport holders may enter Bolivia without a visa for up to 90 days (Group 1)."
+ },
+ "UY:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Uruguay passport holders may enter Bolivia without a visa for up to 90 days (Group 1). Citizens may also enter with a national identity card instead of a passport."
+ },
+ "SR:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Suriname passport holders may enter Bolivia without a visa for up to 90 days (Group 1)."
+ },
+ "PA:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Panama passport holders may enter Bolivia without a visa for up to 90 days (Group 1)."
+ },
+ "AD:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Andorra passport holders may enter Bolivia without a visa for up to 90 days (Group 1)."
+ },
+ "VA:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Vatican City passport holders may enter Bolivia without a visa for up to 90 days (Group 1)."
+ },
+ "KR:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "South Korea passport holders may enter Bolivia without a visa for up to 90 days (Group 1)."
+ },
+ "PH:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Philippines passport holders may enter Bolivia without a visa for up to 90 days (Group 1)."
+ },
+ "AR:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Argentina passport holders may enter Bolivia without a visa for up to 90 days (Group 1). Citizens may also enter with a national identity card instead of a passport."
+ },
+ "DO:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Dominican Republic passport holders may enter Bolivia without a visa for up to 90 days (Group 1)."
+ },
+ "VE:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Venezuela passport holders may enter Bolivia without a visa for up to 90 days (Group 1). Citizens may also enter with a national identity card instead of a passport."
+ },
+ "IL:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Israel passport holders may enter Bolivia without a visa for up to 90 days (Group 1)."
+ },
+ "HN:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Honduras passport holders may enter Bolivia without a visa for up to 90 days (Group 1)."
+ },
+ "GB:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "United Kingdom passport holders may enter Bolivia without a visa for up to 90 days (Group 1)."
+ },
+ "AE:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "United Arab Emirates passport holders may enter Bolivia without a visa for up to 90 days (Group 1)."
+ },
+ "CO:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Colombia passport holders may enter Bolivia without a visa for up to 90 days (Group 1). Citizens may also enter with a national identity card instead of a passport."
+ },
+ "PE:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Peru passport holders may enter Bolivia without a visa for up to 90 days (Group 1). Citizens may also enter with a national identity card instead of a passport."
+ },
+ "US:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "United States passport holders may enter Bolivia without a visa for up to 90 days (Group 1)."
+ },
+ "NO:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Norway passport holders may enter Bolivia without a visa for up to 90 days (Group 1)."
+ },
+ "PY:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Paraguay passport holders may enter Bolivia without a visa for up to 90 days (Group 1). Citizens may also enter with a national identity card instead of a passport."
+ },
+ "JP:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Japan passport holders may enter Bolivia without a visa for up to 90 days (Group 1)."
+ },
+ "IS:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Iceland passport holders may enter Bolivia without a visa for up to 90 days (Group 1)."
+ },
+ "LI:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Liechtenstein passport holders may enter Bolivia without a visa for up to 90 days (Group 1)."
+ },
+ "CR:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Costa Rica passport holders may enter Bolivia without a visa for up to 90 days (Group 1)."
+ },
+ "SE:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Sweden passport holders may enter Bolivia without a visa for up to 90 days within a year (Group 1)."
+ },
+ "FR:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "France passport holders may enter Bolivia without a visa for up to 90 days within a year (Group 1)."
+ },
+ "SI:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Slovenia passport holders may enter Bolivia without a visa for up to 90 days within a year (Group 1)."
+ },
+ "IT:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Italy passport holders may enter Bolivia without a visa for up to 90 days within a year (Group 1)."
+ },
+ "AT:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Austria passport holders may enter Bolivia without a visa for up to 90 days within a year (Group 1)."
+ },
+ "SK:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Slovakia passport holders may enter Bolivia without a visa for up to 90 days within a year (Group 1)."
+ },
+ "FI:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Finland passport holders may enter Bolivia without a visa for up to 90 days within a year (Group 1)."
+ },
+ "HR:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Croatia passport holders may enter Bolivia without a visa for up to 90 days within a year (Group 1)."
+ },
+ "NL:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Netherlands passport holders may enter Bolivia without a visa for up to 90 days within a year (Group 1)."
+ },
+ "RO:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Romania passport holders may enter Bolivia without a visa for up to 90 days within a year (Group 1)."
+ },
+ "CZ:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Czechia passport holders may enter Bolivia without a visa for up to 90 days within a year (Group 1)."
+ },
+ "ES:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Spain passport holders may enter Bolivia without a visa for up to 90 days within a year (Group 1)."
+ },
+ "BG:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Bulgaria passport holders may enter Bolivia without a visa for up to 90 days within a year (Group 1)."
+ },
+ "GR:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Greece passport holders may enter Bolivia without a visa for up to 90 days within a year (Group 1)."
+ },
+ "LT:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Lithuania passport holders may enter Bolivia without a visa for up to 90 days within a year (Group 1)."
+ },
+ "PT:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Portugal passport holders may enter Bolivia without a visa for up to 90 days within a year (Group 1)."
+ },
+ "DE:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Germany passport holders may enter Bolivia without a visa for up to 90 days within a year (Group 1)."
+ },
+ "IE:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Ireland passport holders may enter Bolivia without a visa for up to 90 days within a year (Group 1)."
+ },
+ "LU:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Luxembourg passport holders may enter Bolivia without a visa for up to 90 days within a year (Group 1)."
+ },
+ "HU:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Hungary passport holders may enter Bolivia without a visa for up to 90 days within a year (Group 1)."
+ },
+ "LV:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Latvia passport holders may enter Bolivia without a visa for up to 90 days within a year (Group 1)."
+ },
+ "BE:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Belgium passport holders may enter Bolivia without a visa for up to 90 days within a year (Group 1)."
+ },
+ "EE:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Estonia passport holders may enter Bolivia without a visa for up to 90 days within a year (Group 1)."
+ },
+ "PL:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Poland passport holders may enter Bolivia without a visa for up to 90 days within a year (Group 1)."
+ },
+ "MT:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Malta passport holders may enter Bolivia without a visa for up to 90 days within a year (Group 1)."
+ },
+ "DK:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Denmark passport holders may enter Bolivia without a visa for up to 90 days within a year (Group 1)."
+ },
+ "IR:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Iran passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "KG:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Kyrgyzstan passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "TM:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Turkmenistan passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "UA:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Ukraine passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "KH:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Cambodia passport holders need a visa in advance with a special authorisation, obtained through a Bolivian embassy or consulate (Group 3)."
+ },
+ "TJ:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Tajikistan passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "MG:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Madagascar passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "JO:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Jordan passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "MM:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Myanmar (Burma) passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "CV:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Cape Verde passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "KM:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Comoros passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "GH:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Ghana passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "PW:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Palau passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "BN:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Brunei passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "FJ:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Fiji passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "MO:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Macao SAR China passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "GA:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Gabon passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "MY:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Malaysia passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "PK:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Pakistan passport holders need a visa in advance with a special authorisation, obtained through a Bolivian embassy or consulate (Group 3)."
+ },
+ "SL:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Sierra Leone passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "KE:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Kenya passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "VC:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "St. Vincent & Grenadines passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "PG:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Papua New Guinea passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "SC:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Seychelles passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "GQ:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Equatorial Guinea passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "UG:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Uganda passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "GD:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Grenada passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "CM:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Cameroon passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "ID:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Indonesia passport holders need a visa in advance with a special authorisation, obtained through a Bolivian embassy or consulate (Group 3)."
+ },
+ "ME:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Montenegro passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "MW:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Malawi passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "NR:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Nauru passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "TD:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Chad passport holders need a visa in advance with a special authorisation, obtained through a Bolivian embassy or consulate (Group 3)."
+ },
+ "MU:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Mauritius passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "TN:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Tunisia passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "NA:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Namibia passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "IQ:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Iraq passport holders need a visa in advance with a special authorisation, obtained through a Bolivian embassy or consulate (Group 3)."
+ },
+ "ZM:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Zambia passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "BS:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Bahamas passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "IN:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "India passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "TL:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Timor-Leste passport holders need a visa in advance with a special authorisation, obtained through a Bolivian embassy or consulate (Group 3)."
+ },
+ "TW:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Taiwan passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "BB:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Barbados passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "DM:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Dominica passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "BZ:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Belize passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "SM:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "San Marino passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "MR:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Mauritania passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "ZW:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Zimbabwe passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "CF:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Central African Republic passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "JM:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Jamaica passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "SN:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Senegal passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "TO:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Tonga passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "LS:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Lesotho passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "LK:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Sri Lanka passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "TV:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Tuvalu passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "GY:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Guyana passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "MN:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Mongolia passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "UZ:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Uzbekistan passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "AL:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Albania passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "SD:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Sudan passport holders need a visa in advance with a special authorisation, obtained through a Bolivian embassy or consulate (Group 3)."
+ },
+ "ML:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Mali passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "KZ:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Kazakhstan passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "MZ:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Mozambique passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "EG:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Egypt passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "MV:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Maldives passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "SZ:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Eswatini passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "CN:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "China passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "LR:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Liberia passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "LB:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Lebanon passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "VU:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Vanuatu passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "BD:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Bangladesh passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "YE:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Yemen passport holders need a visa in advance with a special authorisation, obtained through a Bolivian embassy or consulate (Group 3)."
+ },
+ "BT:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Bhutan passport holders need a visa in advance with a special authorisation, obtained through a Bolivian embassy or consulate (Group 3)."
+ },
+ "XK:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Kosovo passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "NP:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Nepal passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "QA:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Qatar passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "KI:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Kiribati passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "SA:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Saudi Arabia passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "GT:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Guatemala passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "VN:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Vietnam passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "FM:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Micronesia passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "GE:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Georgia passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "KW:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Kuwait passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "MA:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Morocco passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "SO:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Somalia passport holders need a visa in advance with a special authorisation, obtained through a Bolivian embassy or consulate (Group 3)."
+ },
+ "LA:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Laos passport holders need a visa in advance with a special authorisation, obtained through a Bolivian embassy or consulate (Group 3)."
+ },
+ "CU:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Cuba passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "NE:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Niger passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "ET:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Ethiopia passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "CY:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Cyprus passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "TH:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Thailand passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "NI:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Nicaragua passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "BH:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Bahrain passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "ST:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "São Tomé & Príncipe passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "LY:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Libya passport holders need a visa in advance with a special authorisation, obtained through a Bolivian embassy or consulate (Group 3)."
+ },
+ "BJ:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Benin passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "ER:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Eritrea passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "CD:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Congo - Kinshasa passport holders need a visa in advance with a special authorisation, obtained through a Bolivian embassy or consulate (Group 3)."
+ },
+ "BF:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Burkina Faso passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "TT:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Trinidad & Tobago passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "OM:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Oman passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "AO:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Angola passport holders need a visa in advance with a special authorisation, obtained through a Bolivian embassy or consulate (Group 3)."
+ },
+ "GM:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Gambia passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "KN:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "St. Kitts & Nevis passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "BI:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Burundi passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "CG:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Congo - Brazzaville passport holders need a visa in advance with a special authorisation, obtained through a Bolivian embassy or consulate (Group 3)."
+ },
+ "DZ:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Algeria passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "MH:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Marshall Islands passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "SY:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Syria passport holders need a visa in advance with a special authorisation, obtained through a Bolivian embassy or consulate (Group 3)."
+ },
+ "TZ:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Tanzania passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "WS:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Samoa passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "HK:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Hong Kong SAR China passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "BA:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Bosnia & Herzegovina passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "BW:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Botswana passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "AG:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Antigua & Barbuda passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "MD:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Moldova passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "MK:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "North Macedonia passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "BY:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Belarus passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "LC:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "St. Lucia passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "HT:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Haiti passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "NG:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Nigeria passport holders need a visa in advance with a special authorisation, obtained through a Bolivian embassy or consulate (Group 3)."
+ },
+ "SS:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "South Sudan passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "CI:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Côte d’Ivoire passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "AF:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Afghanistan passport holders need a visa in advance with a special authorisation, obtained through a Bolivian embassy or consulate (Group 3)."
+ },
+ "TG:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Togo passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "AZ:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Azerbaijan passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "KP:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "North Korea passport holders need a visa in advance with a special authorisation, obtained through a Bolivian embassy or consulate (Group 3)."
+ },
+ "GW:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Guinea-Bissau passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "RW:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Rwanda passport holders need a visa in advance with a special authorisation, obtained through a Bolivian embassy or consulate (Group 3)."
+ },
+ "RS:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Serbia passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "SB:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Solomon Islands passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "AM:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Armenia passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "DJ:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Djibouti passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "GN:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Guinea passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
+ },
+ "SG:BO": {
+  "date": "2026-11-11",
+  "source": "https://www.cancilleria.gob.bo/",
+  "source_name": "Ministry of Foreign Affairs of Bolivia — three-group visa system (Timatic)",
+  "note": "Singapore passport holders need a visa in advance from a Bolivian embassy or consulate (Group 2; applications may be lodged through the online platform, but the visa is issued by the consulate — the former Group 2 visa on arrival ended on 25 July 2025)."
  }
 }
