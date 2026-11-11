@@ -58813,5 +58813,25 @@
   "reason": "Settled 2026-11-11 against the SEBS authorisation rules as compiled (see research-sc-official.md).",
   "source": "https://seychelles.govtas.com/",
   "date": "2026-11-11"
+ },
+ "GY:MU": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Mauritius' PIO visa lists as compiled (see research-mu-official.md).",
+  "source": "https://passport.govmu.org/",
+  "date": "2026-11-11"
+ },
+ "MG:MU": {
+  "status": "visa on arrival",
+  "days": 14,
+  "reason": "Settled 2026-11-11 against Mauritius' PIO visa lists as compiled (see research-mu-official.md).",
+  "source": "https://passport.govmu.org/",
+  "date": "2026-11-11"
+ },
+ "UG:MU": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Mauritius' PIO visa lists as compiled (see research-mu-official.md).",
+  "source": "https://passport.govmu.org/",
+  "date": "2026-11-11"
  }
 }
