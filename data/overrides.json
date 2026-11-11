@@ -55498,5 +55498,61 @@
   "reason": "Settled 2026-11-11 against Iraq's federal e-Visa regime as compiled (see research-iq-official.md).",
   "source": "https://evisa.iq/",
   "date": "2026-11-11"
+ },
+ "AL:KN": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against St. Kitts and Nevis's eTA regime lists as compiled (see research-kn-official.md).",
+  "source": "https://www.knatravelform.kn/",
+  "date": "2026-11-11"
+ },
+ "CN:KN": {
+  "status": "eta",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against St. Kitts and Nevis's eTA regime lists as compiled (see research-kn-official.md).",
+  "source": "https://www.knatravelform.kn/",
+  "date": "2026-11-11"
+ },
+ "GE:KN": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against St. Kitts and Nevis's eTA regime lists as compiled (see research-kn-official.md).",
+  "source": "https://www.knatravelform.kn/",
+  "date": "2026-11-11"
+ },
+ "ID:KN": {
+  "status": "eta",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against St. Kitts and Nevis's eTA regime lists as compiled (see research-kn-official.md).",
+  "source": "https://www.knatravelform.kn/",
+  "date": "2026-11-11"
+ },
+ "RS:KN": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against St. Kitts and Nevis's eTA regime lists as compiled (see research-kn-official.md).",
+  "source": "https://www.knatravelform.kn/",
+  "date": "2026-11-11"
+ },
+ "RW:KN": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against St. Kitts and Nevis's eTA regime lists as compiled (see research-kn-official.md).",
+  "source": "https://www.knatravelform.kn/",
+  "date": "2026-11-11"
+ },
+ "SM:KN": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against St. Kitts and Nevis's eTA regime lists as compiled (see research-kn-official.md).",
+  "source": "https://www.knatravelform.kn/",
+  "date": "2026-11-11"
+ },
+ "XK:KN": {
+  "status": "eta",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against St. Kitts and Nevis's eTA regime lists as compiled (see research-kn-official.md).",
+  "source": "https://www.knatravelform.kn/",
+  "date": "2026-11-11"
  }
 }
