@@ -463,6 +463,23 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
       }
       .shelf-head { position: relative; display: flex; align-items: center; gap: 10px; margin: 0 2px 2px; }
       .shelf-head h2 { margin: 0; }
+      /* Sticky mobile action bar (pair pages with a visa to obtain, R/E) */
+      .sticky-bar { display: none; }
+      @media (max-width: 720px) {
+        .sticky-bar {
+          display: flex; align-items: center; gap: 10px;
+          position: fixed; left: 10px; right: 10px; bottom: calc(10px + env(safe-area-inset-bottom));
+          z-index: 60; padding: 10px 12px 10px 16px;
+          background: rgba(255,255,255,.96); backdrop-filter: blur(8px);
+          border: 1px solid var(--line-strong); border-radius: 999px; box-shadow: var(--sh-md);
+        }
+        .sticky-bar .sb-text { flex: 1; min-width: 0; font-size: 13.5px; font-weight: 650; color: var(--ink); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+        .sticky-bar .sb-btn {
+          flex: none; padding: 9px 15px; border-radius: 999px;
+          background: var(--brand); color: #fff; font-size: 13.5px; font-weight: 700; text-decoration: none;
+        }
+        body:has(.sticky-bar) { padding-bottom: 74px; }
+      }
       .shelf-stamp { display: flex; flex: none; color: var(--brand); }
       .shelf { position: relative; display: grid; gap: 12px; margin: 14px 0 0; }
       .shelf--featured { grid-template-columns: 1fr 1fr; }
@@ -1019,6 +1036,7 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
       })();
     </script>
     <script>(function(){var u="https://honru09--site-stats-web.us-east.modal.run/track?s=visafreely&p="+encodeURIComponent(location.pathname)+"&r="+encodeURIComponent(document.referrer||"");if(navigator.sendBeacon){try{navigator.sendBeacon(u);return;}catch(e){}}var i=new Image();i.src=u;})();</script>
+    <script>(function(){document.addEventListener('click',function(e){var a=e.target&&e.target.closest?e.target.closest('a[data-offer]'):null;if(!a)return;var u="https://honru09--site-stats-web.us-east.modal.run/track?s=visafreely&p="+encodeURIComponent(location.pathname)+"&e=click&o="+encodeURIComponent(a.getAttribute('data-offer'));if(navigator.sendBeacon){try{navigator.sendBeacon(u);return;}catch(x){}}var i=new Image();i.src=u;},true);})();</script>
   </body>
 </html>
 

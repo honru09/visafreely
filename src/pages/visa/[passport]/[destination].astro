@@ -189,6 +189,8 @@ const freePassports = countries
     )
   }
 
+  <Shelf status={row.s} passportName={p.name} destinationName={d.name} pos="top" />
+
   <h2>What to do next</h2>
   <ol class="steps" data-reveal>
     {steps.map((s) => <li><span><strong>{s.t}.</strong> {s.b}</span></li>)}
@@ -206,7 +208,7 @@ const freePassports = countries
     </ul>
   </div>
 
-  <Shelf status={row.s} passportName={p.name} destinationName={d.name} />
+  <Shelf status={row.s} passportName={p.name} destinationName={d.name} pos="bottom" />
 
   <h2>Requirement details</h2>
   <div class="spec-card">
@@ -317,4 +319,11 @@ const freePassports = countries
       <a class="btn ghost-on-dark" href="/widget/">Put this checker on your site</a>
     </div>
   </div>
+
+  {(row.s === 'R' || row.s === 'E') && (
+    <div class="sticky-bar" role="complementary" aria-label="Visa service">
+      <span class="sb-text">{row.s === 'R' ? `Visa required for ${d.name}` : `e-Visa for ${d.name} — apply before you fly`}</span>
+      <a class="sb-btn" data-offer="visahq-bar" href="https://www.visahq.co.uk/?a_aid=vaff18633" rel="sponsored nofollow noopener" target="_blank">Get it handled →</a>
+    </div>
+  )}
 </Base>
