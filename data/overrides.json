@@ -59336,5 +59336,23 @@
   "reason": "Settled 2026-11-11 against Bahrain's NPRA e-Visa lists and fee table as compiled (see research-bh-official.md).",
   "source": "https://www.evisa.gov.bh/",
   "date": "2026-11-11"
+ },
+ "HK:PK": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Pakistan's online-visa eligibility as compiled (see research-pk-official.md).",
+  "source": "https://visa.nadra.gov.pk/",
+  "date": "2026-11-11"
+ },
+ "MO:PK": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Pakistan's online-visa eligibility as compiled (see research-pk-official.md).",
+  "source": "https://visa.nadra.gov.pk/",
+  "date": "2026-11-11"
+ },
+ "WS:PK": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Pakistan's online-visa eligibility as compiled (see research-pk-official.md).",
+  "source": "https://visa.nadra.gov.pk/",
+  "date": "2026-11-11"
  }
 }
