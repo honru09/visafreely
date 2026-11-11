@@ -200861,5 +200861,1193 @@
   "source": "https://www.mvp.gov.ba/",
   "source_name": "Bosnia and Herzegovina visa information (Decision on Visas), as compiled",
   "note": "Sierra Leone passport holders must obtain a visa for Bosnia & Herzegovina from a Bosnia and Herzegovina diplomatic mission in advance. Holders of a valid multiple-entry visa issued by a Schengen state, Cyprus, Ireland, Monaco or the United States, or of a residence permit issued by a Schengen state, Albania, Cyprus, Ireland, Monaco, Montenegro, Serbia or the United States, may enter without a visa for up to 30 days (90 days within any 6 months)."
+ },
+ "BG:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Bulgaria passport holders may enter Monaco without a visa under freedom of movement; Monaco applies the Schengen visa policy through France."
+ },
+ "RO:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Romania passport holders may enter Monaco without a visa under freedom of movement; Monaco applies the Schengen visa policy through France."
+ },
+ "GR:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Greece passport holders may enter Monaco without a visa under freedom of movement; Monaco applies the Schengen visa policy through France."
+ },
+ "ES:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Spain passport holders may enter Monaco without a visa under freedom of movement; Monaco applies the Schengen visa policy through France."
+ },
+ "DK:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Denmark passport holders may enter Monaco without a visa under freedom of movement; Monaco applies the Schengen visa policy through France."
+ },
+ "CH:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Switzerland passport holders may enter Monaco without a visa under freedom of movement; Monaco applies the Schengen visa policy through France."
+ },
+ "AT:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Austria passport holders may enter Monaco without a visa under freedom of movement; Monaco applies the Schengen visa policy through France."
+ },
+ "IT:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Italy passport holders may enter Monaco without a visa under freedom of movement; Monaco applies the Schengen visa policy through France."
+ },
+ "PT:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Portugal passport holders may enter Monaco without a visa under freedom of movement; Monaco applies the Schengen visa policy through France."
+ },
+ "SK:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Slovakia passport holders may enter Monaco without a visa under freedom of movement; Monaco applies the Schengen visa policy through France."
+ },
+ "PL:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Poland passport holders may enter Monaco without a visa under freedom of movement; Monaco applies the Schengen visa policy through France."
+ },
+ "LI:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Liechtenstein passport holders may enter Monaco without a visa under freedom of movement; Monaco applies the Schengen visa policy through France."
+ },
+ "SI:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Slovenia passport holders may enter Monaco without a visa under freedom of movement; Monaco applies the Schengen visa policy through France."
+ },
+ "LU:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Luxembourg passport holders may enter Monaco without a visa under freedom of movement; Monaco applies the Schengen visa policy through France."
+ },
+ "CY:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Cyprus passport holders may enter Monaco without a visa under freedom of movement; Monaco applies the Schengen visa policy through France."
+ },
+ "NL:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Netherlands passport holders may enter Monaco without a visa under freedom of movement; Monaco applies the Schengen visa policy through France."
+ },
+ "DE:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Germany passport holders may enter Monaco without a visa under freedom of movement; Monaco applies the Schengen visa policy through France."
+ },
+ "IS:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Iceland passport holders may enter Monaco without a visa under freedom of movement; Monaco applies the Schengen visa policy through France."
+ },
+ "LT:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Lithuania passport holders may enter Monaco without a visa under freedom of movement; Monaco applies the Schengen visa policy through France."
+ },
+ "SE:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Sweden passport holders may enter Monaco without a visa under freedom of movement; Monaco applies the Schengen visa policy through France."
+ },
+ "BE:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Belgium passport holders may enter Monaco without a visa under freedom of movement; Monaco applies the Schengen visa policy through France."
+ },
+ "LV:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Latvia passport holders may enter Monaco without a visa under freedom of movement; Monaco applies the Schengen visa policy through France."
+ },
+ "FR:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "France passport holders may enter Monaco without a visa under freedom of movement; Monaco applies the Schengen visa policy through France."
+ },
+ "FI:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Finland passport holders may enter Monaco without a visa under freedom of movement; Monaco applies the Schengen visa policy through France."
+ },
+ "HU:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Hungary passport holders may enter Monaco without a visa under freedom of movement; Monaco applies the Schengen visa policy through France."
+ },
+ "HR:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Croatia passport holders may enter Monaco without a visa under freedom of movement; Monaco applies the Schengen visa policy through France."
+ },
+ "EE:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Estonia passport holders may enter Monaco without a visa under freedom of movement; Monaco applies the Schengen visa policy through France."
+ },
+ "IE:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Ireland passport holders may enter Monaco without a visa under freedom of movement; Monaco applies the Schengen visa policy through France."
+ },
+ "MT:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Malta passport holders may enter Monaco without a visa under freedom of movement; Monaco applies the Schengen visa policy through France."
+ },
+ "CZ:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Czechia passport holders may enter Monaco without a visa under freedom of movement; Monaco applies the Schengen visa policy through France."
+ },
+ "NO:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Norway passport holders may enter Monaco without a visa under freedom of movement; Monaco applies the Schengen visa policy through France."
+ },
+ "AU:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Australia passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "MO:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Macao SAR China passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "PW:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Palau passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "US:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "United States passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "BN:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Brunei passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "BS:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Bahamas passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "RS:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Serbia passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "AE:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "United Arab Emirates passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "WS:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Samoa passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "PA:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Panama passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "TW:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Taiwan passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "CO:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Colombia passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "VA:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Vatican City passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "CL:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Chile passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "MX:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Mexico passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "PE:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Peru passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "TO:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Tonga passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "GD:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Grenada passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "HK:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Hong Kong SAR China passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "LC:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "St. Lucia passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "SC:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Seychelles passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "MD:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Moldova passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "SM:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "San Marino passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "AL:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Albania passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "SG:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Singapore passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "AG:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Antigua & Barbuda passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "UY:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Uruguay passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "VC:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "St. Vincent & Grenadines passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "UA:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Ukraine passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "GT:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Guatemala passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "NZ:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "New Zealand passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "TT:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Trinidad & Tobago passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "TV:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Tuvalu passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "CR:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Costa Rica passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "MK:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "North Macedonia passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "BB:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Barbados passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "ME:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Montenegro passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "GE:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Georgia passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "SB:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Solomon Islands passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "CA:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Canada passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "BA:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Bosnia & Herzegovina passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "VE:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Venezuela passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "KI:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Kiribati passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "SV:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "El Salvador passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "JP:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Japan passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "XK:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Kosovo passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "NI:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Nicaragua passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "AD:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Andorra passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "MH:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Marshall Islands passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "AR:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Argentina passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "KR:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "South Korea passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "PY:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Paraguay passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "BR:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Brazil passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "DM:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Dominica passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "MY:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Malaysia passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "TL:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Timor-Leste passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "FM:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Micronesia passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "MU:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Mauritius passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "GB:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "United Kingdom passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "HN:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Honduras passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "KN:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "St. Kitts & Nevis passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "IL:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Israel passport holders may enter Monaco without a visa for up to 90 days within any 180-day period; Monaco applies the Schengen visa policy through France."
+ },
+ "BW:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Botswana passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "AO:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Angola passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "IN:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "India passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "GQ:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Equatorial Guinea passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "CV:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Cape Verde passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "LS:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Lesotho passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "UZ:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Uzbekistan passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "KM:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Comoros passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "ET:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Ethiopia passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "HT:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Haiti passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "ZM:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Zambia passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "SD:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Sudan passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "MA:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Morocco passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "YE:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Yemen passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "PK:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Pakistan passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "TG:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Togo passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "LA:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Laos passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "NP:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Nepal passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "SN:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Senegal passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "CD:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Congo - Kinshasa passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "VU:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Vanuatu passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "TM:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Turkmenistan passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "CU:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Cuba passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "SS:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "South Sudan passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "EC:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Ecuador passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "MN:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Mongolia passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "BF:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Burkina Faso passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "ML:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Mali passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "IR:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Iran passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "OM:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Oman passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "BY:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Belarus passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "ER:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Eritrea passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "KP:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "North Korea passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "BI:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Burundi passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "MG:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Madagascar passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "ZA:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "South Africa passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "KZ:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Kazakhstan passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "KG:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Kyrgyzstan passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "LB:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Lebanon passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "BH:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Bahrain passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "GW:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Guinea-Bissau passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "MZ:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Mozambique passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "AM:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Armenia passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "GA:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Gabon passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "ST:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "São Tomé & Príncipe passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "AZ:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Azerbaijan passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "CM:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Cameroon passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "AF:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Afghanistan passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "DZ:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Algeria passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "DJ:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Djibouti passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "KW:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Kuwait passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "SY:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Syria passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "CI:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Côte d’Ivoire passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "EG:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Egypt passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "DO:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Dominican Republic passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "PG:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Papua New Guinea passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "KH:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Cambodia passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "TD:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Chad passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "JO:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Jordan passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "GY:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Guyana passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "NG:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Nigeria passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "PS:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Palestinian Territories passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "ZW:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Zimbabwe passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "TR:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Türkiye passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "TN:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Tunisia passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "GM:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Gambia passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "BT:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Bhutan passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "BO:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Bolivia passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "SR:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Suriname passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "BJ:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Benin passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "KE:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Kenya passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "GH:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Ghana passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "MR:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Mauritania passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "NE:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Niger passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "CF:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Central African Republic passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "IQ:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Iraq passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "SL:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Sierra Leone passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "QA:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Qatar passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "GN:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Guinea passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "MV:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Maldives passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "VN:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Vietnam passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "LY:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Libya passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "MM:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Myanmar (Burma) passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "CG:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Congo - Brazzaville passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "NA:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Namibia passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "SZ:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Eswatini passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "BZ:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Belize passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "NR:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Nauru passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "RW:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Rwanda passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "ID:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Indonesia passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "PH:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Philippines passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "TJ:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Tajikistan passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "FJ:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Fiji passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "TH:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Thailand passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "JM:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Jamaica passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "SA:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Saudi Arabia passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "SO:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Somalia passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "RU:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Russia passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "BD:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Bangladesh passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "TZ:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Tanzania passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "LK:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Sri Lanka passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "CN:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "China passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "MW:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Malawi passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "LR:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Liberia passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
+ },
+ "UG:MC": {
+  "date": "2026-11-11",
+  "source": "https://service-public-particuliers.gouv.mc/",
+  "source_name": "Monaco entry rules (Schengen visa policy applied through France)",
+  "note": "Uganda passport holders must obtain a Schengen visa before travelling to Monaco; Monaco has no separate visa policy and applications are handled through French consular channels."
  }
 }
