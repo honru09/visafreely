@@ -55626,5 +55626,104 @@
   "reason": "Settled 2026-11-11 against Macao's Public Security Police exempt list as compiled (see research-mo-official.md).",
   "source": "https://www.fsm.gov.mo/psp/eng/",
   "date": "2026-11-11"
+ },
+ "AE:NR": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Nauru's immigration requirements and bilateral agreements as compiled (see research-nr-official.md).",
+  "source": "https://www.nauru.gov.nr/",
+  "date": "2026-11-11"
+ },
+ "ES:NR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Nauru's immigration requirements and bilateral agreements as compiled (see research-nr-official.md).",
+  "source": "https://www.nauru.gov.nr/",
+  "date": "2026-11-11"
+ },
+ "FJ:NR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Nauru's immigration requirements and bilateral agreements as compiled (see research-nr-official.md).",
+  "source": "https://www.nauru.gov.nr/",
+  "date": "2026-11-11"
+ },
+ "FM:NR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Nauru's immigration requirements and bilateral agreements as compiled (see research-nr-official.md).",
+  "source": "https://www.nauru.gov.nr/",
+  "date": "2026-11-11"
+ },
+ "IL:NR": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Nauru's immigration requirements and bilateral agreements as compiled (see research-nr-official.md).",
+  "source": "https://www.nauru.gov.nr/",
+  "date": "2026-11-11"
+ },
+ "KI:NR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Nauru's immigration requirements and bilateral agreements as compiled (see research-nr-official.md).",
+  "source": "https://www.nauru.gov.nr/",
+  "date": "2026-11-11"
+ },
+ "MH:NR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Nauru's immigration requirements and bilateral agreements as compiled (see research-nr-official.md).",
+  "source": "https://www.nauru.gov.nr/",
+  "date": "2026-11-11"
+ },
+ "PG:NR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Nauru's immigration requirements and bilateral agreements as compiled (see research-nr-official.md).",
+  "source": "https://www.nauru.gov.nr/",
+  "date": "2026-11-11"
+ },
+ "PW:NR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Nauru's immigration requirements and bilateral agreements as compiled (see research-nr-official.md).",
+  "source": "https://www.nauru.gov.nr/",
+  "date": "2026-11-11"
+ },
+ "RU:NR": {
+  "status": "visa free",
+  "days": 14,
+  "reason": "Settled 2026-11-11 against Nauru's immigration requirements and bilateral agreements as compiled (see research-nr-official.md).",
+  "source": "https://www.nauru.gov.nr/",
+  "date": "2026-11-11"
+ },
+ "SB:NR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Nauru's immigration requirements and bilateral agreements as compiled (see research-nr-official.md).",
+  "source": "https://www.nauru.gov.nr/",
+  "date": "2026-11-11"
+ },
+ "TO:NR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Nauru's immigration requirements and bilateral agreements as compiled (see research-nr-official.md).",
+  "source": "https://www.nauru.gov.nr/",
+  "date": "2026-11-11"
+ },
+ "TV:NR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Nauru's immigration requirements and bilateral agreements as compiled (see research-nr-official.md).",
+  "source": "https://www.nauru.gov.nr/",
+  "date": "2026-11-11"
+ },
+ "TW:NR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Nauru's immigration requirements and bilateral agreements as compiled (see research-nr-official.md).",
+  "source": "https://www.nauru.gov.nr/",
+  "date": "2026-11-11"
+ },
+ "VU:NR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Nauru's immigration requirements and bilateral agreements as compiled (see research-nr-official.md).",
+  "source": "https://www.nauru.gov.nr/",
+  "date": "2026-11-11"
+ },
+ "WS:NR": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Nauru's immigration requirements and bilateral agreements as compiled (see research-nr-official.md).",
+  "source": "https://www.nauru.gov.nr/",
+  "date": "2026-11-11"
  }
 }

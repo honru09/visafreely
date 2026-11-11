@@ -218681,5 +218681,1193 @@
   "source": "https://www.fsm.gov.mo/psp/eng/",
   "source_name": "Macao Public Security Police visa-exempt list, as compiled",
   "note": "Burundi passport holders may obtain a visa on arrival for Macao SAR China at the border checkpoints for up to 30 days (MOP 200)."
+ },
+ "AE:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "United Arab Emirates passport holders may enter Nauru without a visa for up to 90 days."
+ },
+ "IL:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Israel passport holders may enter Nauru without a visa for up to 90 days within any 6-month period under the bilateral agreement (IATA's database omits the exemption; the Israeli Foreign Ministry confirms it)."
+ },
+ "RU:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Russia passport holders may enter Nauru without a visa for up to 14 days under the bilateral agreement (IATA lists 90 days; the agreement's own period is followed here)."
+ },
+ "GY:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Guyana passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "SO:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Somalia passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "BS:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Bahamas passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "PY:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Paraguay passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "XK:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Kosovo passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "SI:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Slovenia passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "CD:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Congo - Kinshasa passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "PL:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Poland passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "NP:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Nepal passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "TL:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Timor-Leste passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "MY:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Malaysia passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "ER:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Eritrea passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "CU:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Cuba passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "MU:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Mauritius passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "MG:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Madagascar passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "TT:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Trinidad & Tobago passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "UA:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Ukraine passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "UZ:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Uzbekistan passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "MT:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Malta passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "DK:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Denmark passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "JO:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Jordan passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "MM:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Myanmar (Burma) passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "FJ:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Fiji passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "HT:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Haiti passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "IQ:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Iraq passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "KZ:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Kazakhstan passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "LR:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Liberia passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "NI:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Nicaragua passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "TW:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Taiwan passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "AL:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Albania passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "GE:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Georgia passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "BH:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Bahrain passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "MC:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Monaco passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "AO:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Angola passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "IS:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Iceland passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "LA:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Laos passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "SV:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "El Salvador passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "FR:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "France passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "KN:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "St. Kitts & Nevis passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "MV:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Maldives passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "DE:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Germany passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "PS:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Palestinian Territories passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "SA:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Saudi Arabia passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "GB:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "United Kingdom passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "DO:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Dominican Republic passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "LB:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Lebanon passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "CO:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Colombia passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "EE:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Estonia passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "BA:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Bosnia & Herzegovina passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "GM:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Gambia passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "WS:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Samoa passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "HK:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Hong Kong SAR China passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "LU:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Luxembourg passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "ZW:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Zimbabwe passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "IE:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Ireland passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "UG:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Uganda passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "KE:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Kenya passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "SG:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Singapore passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "SZ:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Eswatini passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "NE:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Niger passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "CA:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Canada passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "GN:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Guinea passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "GT:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Guatemala passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "BN:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Brunei passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "MR:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Mauritania passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "PE:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Peru passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "AT:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Austria passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "RW:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Rwanda passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "FM:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Micronesia passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "SR:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Suriname passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "RO:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Romania passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "BF:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Burkina Faso passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "SY:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Syria passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "LI:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Liechtenstein passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "DZ:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Algeria passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "GW:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Guinea-Bissau passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "MO:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Macao SAR China passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "GA:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Gabon passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "BJ:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Benin passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "AZ:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Azerbaijan passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "IN:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "India passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "MX:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Mexico passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "KG:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Kyrgyzstan passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "TJ:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Tajikistan passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "TN:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Tunisia passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "BR:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Brazil passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "AD:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Andorra passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "PG:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Papua New Guinea passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "MD:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Moldova passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "VN:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Vietnam passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "TD:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Chad passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "VU:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Vanuatu passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "TR:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Türkiye passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "ME:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Montenegro passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "OM:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Oman passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "PA:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Panama passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "BD:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Bangladesh passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "CF:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Central African Republic passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "CM:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Cameroon passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "DM:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Dominica passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "EG:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Egypt passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "ET:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Ethiopia passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "GH:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Ghana passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "JM:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Jamaica passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "PK:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Pakistan passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "ST:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "São Tomé & Príncipe passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "LK:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Sri Lanka passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "AG:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Antigua & Barbuda passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "NO:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Norway passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "SB:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Solomon Islands passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "ID:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Indonesia passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "KW:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Kuwait passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "KP:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "North Korea passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "MA:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Morocco passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "MW:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Malawi passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "BB:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Barbados passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "MH:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Marshall Islands passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "HR:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Croatia passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "SC:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Seychelles passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "ZA:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "South Africa passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "PH:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Philippines passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "BG:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Bulgaria passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "CZ:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Czechia passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "LT:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Lithuania passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "BZ:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Belize passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "BI:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Burundi passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "BY:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Belarus passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "VE:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Venezuela passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "YE:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Yemen passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "HU:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Hungary passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "CV:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Cape Verde passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "AM:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Armenia passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "TZ:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Tanzania passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "AF:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Afghanistan passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "PW:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Palau passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "QA:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Qatar passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "LS:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Lesotho passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "MZ:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Mozambique passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "GD:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Grenada passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "SS:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "South Sudan passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "VC:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "St. Vincent & Grenadines passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "BE:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Belgium passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "NL:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Netherlands passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "KH:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Cambodia passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "SK:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Slovakia passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "LV:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Latvia passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "CI:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Côte d’Ivoire passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "TG:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Togo passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "JP:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Japan passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "SE:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Sweden passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "FI:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Finland passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "ML:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Mali passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "ZM:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Zambia passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "IT:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Italy passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "LC:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "St. Lucia passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "TO:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Tonga passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "MN:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Mongolia passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "AU:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Australia passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "LY:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Libya passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "KM:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Comoros passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "RS:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Serbia passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "BO:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Bolivia passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "AR:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Argentina passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "TM:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Turkmenistan passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "EC:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Ecuador passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "CN:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "China passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "TV:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Tuvalu passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "SM:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "San Marino passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "BW:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Botswana passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "DJ:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Djibouti passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "SL:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Sierra Leone passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "CR:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Costa Rica passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "SD:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Sudan passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "IR:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Iran passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "CG:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Congo - Brazzaville passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "BT:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Bhutan passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "US:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "United States passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "TH:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Thailand passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "SN:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Senegal passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "PT:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Portugal passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "GR:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Greece passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "GQ:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Equatorial Guinea passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "NZ:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "New Zealand passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "CY:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Cyprus passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "NA:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Namibia passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "ES:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Spain passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival. IATA lists Spanish citizens as visa-exempt, but the Spanish Foreign Ministry and the Nauru embassy in Brisbane state that a visa is required (only the fee is waived)."
+ },
+ "CH:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Switzerland passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "KR:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "South Korea passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "VA:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Vatican City passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "NG:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Nigeria passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "HN:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Honduras passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "CL:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Chile passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "UY:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Uruguay passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "MK:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "North Macedonia passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "KI:NR": {
+  "date": "2026-11-11",
+  "source": "https://www.nauru.gov.nr/",
+  "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
+  "note": "Kiribati passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
  }
 }
