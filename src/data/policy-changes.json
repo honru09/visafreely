@@ -36,6 +36,16 @@
   "source": "https://www.gov.me/en/"
  },
  {
+  "passport": "ME",
+  "destination": "BY",
+  "date": "2026-11-01",
+  "from_status": "visa free",
+  "to_status": "visa required",
+  "summary": "Belarus cancelled Montenegro's visa exemption on 1 November 2026, in reciprocity for Montenegro's withdrawal of the exemption for Belarusian citizens.",
+  "source": "https://www.mfa.gov.by/en/",
+  "source_name": "Belarus visa-policy change log, as compiled"
+ },
+ {
   "date": "2026-10-31",
   "destination": "HN",
   "title": "Honduras resumes visa-free entry for British passport holders",
