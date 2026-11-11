@@ -37482,5 +37482,18 @@
   "reason": "Settled 2026-11-11 against Nicaragua's post-overhaul regime as compiled (see research-ni-official.md).",
   "source": "https://www.migob.gob.ni/",
   "date": "2026-11-11"
+ },
+ "GA:PA": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Panama's exemption list and Decree 521 as compiled (see research-pa-official.md).",
+  "source": "https://www.migracion.gob.pa/",
+  "date": "2026-11-11"
+ },
+ "HK:PA": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against Panama's exemption list and Decree 521 as compiled (see research-pa-official.md).",
+  "source": "https://www.migracion.gob.pa/",
+  "date": "2026-11-11"
  }
 }
