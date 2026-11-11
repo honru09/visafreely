@@ -55450,5 +55450,53 @@
   "reason": "Settled 2026-11-11 against Fiji Immigration's visa-exempt list as compiled (see research-fj-official.md).",
   "source": "https://www.immigration.gov.fj/",
   "date": "2026-11-11"
+ },
+ "AE:IQ": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iraq's federal e-Visa regime as compiled (see research-iq-official.md).",
+  "source": "https://evisa.iq/",
+  "date": "2026-11-11"
+ },
+ "BD:IQ": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iraq's federal e-Visa regime as compiled (see research-iq-official.md).",
+  "source": "https://evisa.iq/",
+  "date": "2026-11-11"
+ },
+ "BH:IQ": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iraq's federal e-Visa regime as compiled (see research-iq-official.md).",
+  "source": "https://evisa.iq/",
+  "date": "2026-11-11"
+ },
+ "IL:IQ": {
+  "status": "no admission",
+  "reason": "Settled 2026-11-11 against Iraq's federal e-Visa regime as compiled (see research-iq-official.md).",
+  "source": "https://evisa.iq/",
+  "date": "2026-11-11"
+ },
+ "KW:IQ": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iraq's federal e-Visa regime as compiled (see research-iq-official.md).",
+  "source": "https://evisa.iq/",
+  "date": "2026-11-11"
+ },
+ "OM:IQ": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iraq's federal e-Visa regime as compiled (see research-iq-official.md).",
+  "source": "https://evisa.iq/",
+  "date": "2026-11-11"
+ },
+ "QA:IQ": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iraq's federal e-Visa regime as compiled (see research-iq-official.md).",
+  "source": "https://evisa.iq/",
+  "date": "2026-11-11"
+ },
+ "SA:IQ": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Iraq's federal e-Visa regime as compiled (see research-iq-official.md).",
+  "source": "https://evisa.iq/",
+  "date": "2026-11-11"
  }
 }
