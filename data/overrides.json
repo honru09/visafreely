@@ -54739,5 +54739,24 @@
   "reason": "Settled 2026-11-11: San Marino applies Schengen policy through Italy; partition derived from the settled Andorra column (see research-sm-official.md).",
   "source": "https://www.esteri.sm/",
   "date": "2026-11-11"
+ },
+ "AD:VA": {
+  "status": "visa free",
+  "reason": "Settled 2026-11-11: Vatican City has an open border with Italy; partition derived from the settled Andorra column (see research-va-official.md).",
+  "source": "https://www.vatican.va/",
+  "date": "2026-11-11"
+ },
+ "HN:VA": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11: Vatican City has an open border with Italy; partition derived from the settled Andorra column (see research-va-official.md).",
+  "source": "https://www.vatican.va/",
+  "date": "2026-11-11"
+ },
+ "MC:VA": {
+  "status": "visa free",
+  "reason": "Settled 2026-11-11: Vatican City has an open border with Italy; partition derived from the settled Andorra column (see research-va-official.md).",
+  "source": "https://www.vatican.va/",
+  "date": "2026-11-11"
  }
 }
