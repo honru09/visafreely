@@ -136,12 +136,28 @@
   "source_name": "Zero Illegal Foreign Residents Plan (Ministry of Justice)"
  },
  {
+  "date": "2026-05-27",
+  "destination": "CA",
+  "title": "Canada suspends immigration documents for residents of DR Congo, Uganda and South Sudan",
+  "summary": "Temporary Ebola measures: visas, eTAs and permits held by residents of the three countries are suspended — even approved documents cannot be used to travel — and affected applications are processed but not finalised. Extended on 28 September 2026 to run until 27 November 2026. The suspension is keyed to residence, not nationality.",
+  "source": "https://www.canada.ca/en/immigration-refugees-citizenship/news/notices/government-extends-border-measures-response-ebola-disease-outbreak.html",
+  "source_name": "Government of Canada — IRCC notice, 28 Sep 2026"
+ },
+ {
   "date": "2026-05-26",
   "destination": "TG",
   "source": "https://voyage.gouv.tg/about",
   "source_name": "Voyage Togo — official travel platform",
   "summary": "A decree adopted by Togo's Council of Ministers on 26 May 2026 exempts nationals of every African state holding a valid passport from entry visas for stays of up to 30 days. Exempt travellers still file a free travel declaration on the Togo Voyage platform at least 24 hours before arrival. Non-African travellers still need the platform's e-Visa in advance — visas on arrival were abolished in 2022.",
   "title": "Togo exempts all African nationals for 30 days"
+ },
+ {
+  "date": "2026-05-26",
+  "destination": "CA",
+  "title": "Canada extends its conditional eTA to Indonesia and Malaysia",
+  "summary": "Eligible travellers from Indonesia and Malaysia who fly to Canada may now apply for an eTA instead of a visitor visa, if they have held a Canadian visitor visa in the past 10 years or hold a valid US nonimmigrant visa. Arrival by land or sea still requires a visa. The two countries join 15 others in the conditional-eTA programme.",
+  "source": "https://www.ircc.canada.ca/english/visit/visas.asp",
+  "source_name": "IRCC — entry requirements by country"
  },
  {
   "date": "2026-05-25",
@@ -262,6 +278,14 @@
   "summary": "From 25 November 2025, Hong Kong SAR passport holders may visit Algeria visa-free for up to 14 days, on notification from the Algerian government to the Hong Kong government. Some airline check-in systems were slow to reflect the arrangement. Algeria still publishes no consolidated exemption list; its ordinary-passport exemptions remain a short list (Libya, Malaysia, Mali, Mauritania, Seychelles, Tunisia at 90 days).",
   "source": "https://www.info.gov.hk/gia/general/202511/25/P2025112500220.htm",
   "source_name": "Government of the Hong Kong SAR — visa-free access announcement (25 November 2025)"
+ },
+ {
+  "date": "2025-11-25",
+  "destination": "CA",
+  "title": "Canada lifts the visitor visa requirement for Qatar",
+  "summary": "Qatari citizens no longer need a visitor visa for Canada: for air travel they now use an eTA (CAD 7, valid up to 5 years), and no document beyond the passport is needed by land or sea.",
+  "source": "https://www.ircc.canada.ca/english/visit/visas.asp",
+  "source_name": "IRCC — entry requirements by country"
  },
  {
   "date": "2025-11-11",
@@ -526,6 +550,14 @@
   "summary": "Panama was added to Japan's visa-exemption list on 1 April 2024, for holders of ICAO-compliant ePassports only, with a stay of up to 90 days.",
   "source": "https://www.mofa.go.jp/j_info/visit/visa/short/novisa.html",
   "source_name": "Ministry of Foreign Affairs of Japan — Exemption of Visa (Short-Term Stay)"
+ },
+ {
+  "date": "2024-02-29",
+  "destination": "CA",
+  "title": "Canada reimposes a partial visa requirement on Mexico",
+  "summary": "Mexico's full visa-free access to Canada ended: most Mexican travellers now need a visitor visa, keeping an eTA option only when flying and only if they have held a Canadian visitor visa in the past 10 years or hold a valid US nonimmigrant visa.",
+  "source": "https://www.ircc.canada.ca/english/visit/visas.asp",
+  "source_name": "IRCC — entry requirements by country"
  },
  {
   "date": "2024-01-01",

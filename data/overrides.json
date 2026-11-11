@@ -31885,5 +31885,11 @@
   "reason": "eVISA, packaged tour only, 15 days (MOFA JAPAN eVISA page); seed value superseded.",
   "source": "https://www.mofa.go.jp/j_info/visit/visa/visaonline.html",
   "date": "2026-11-07"
+ },
+ "SO:CA": {
+  "status": "visa required",
+  "reason": "Settled against IRCC's official country lists (read 2026-11-11): Somalia is on the visa-required list; the seed value did not match.",
+  "source": "https://www.ircc.canada.ca/english/visit/visas.asp",
+  "date": "2026-11-11"
  }
 }
