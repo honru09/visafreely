@@ -55725,5 +55725,80 @@
   "reason": "Settled 2026-11-11 against Nauru's immigration requirements and bilateral agreements as compiled (see research-nr-official.md).",
   "source": "https://www.nauru.gov.nr/",
   "date": "2026-11-11"
+ },
+ "AO:ST": {
+  "status": "visa free",
+  "days": 15,
+  "reason": "Settled 2026-11-11 against São Tomé & Príncipe's SMF visa lists as compiled (see research-st-official.md).",
+  "source": "https://www.smf.st/",
+  "date": "2026-11-11"
+ },
+ "BR:ST": {
+  "status": "visa free",
+  "days": 15,
+  "reason": "Settled 2026-11-11 against São Tomé & Príncipe's SMF visa lists as compiled (see research-st-official.md).",
+  "source": "https://www.smf.st/",
+  "date": "2026-11-11"
+ },
+ "CV:ST": {
+  "status": "visa free",
+  "days": 15,
+  "reason": "Settled 2026-11-11 against São Tomé & Príncipe's SMF visa lists as compiled (see research-st-official.md).",
+  "source": "https://www.smf.st/",
+  "date": "2026-11-11"
+ },
+ "EE:ST": {
+  "status": "visa free",
+  "days": 15,
+  "reason": "Settled 2026-11-11 against São Tomé & Príncipe's SMF visa lists as compiled (see research-st-official.md).",
+  "source": "https://www.smf.st/",
+  "date": "2026-11-11"
+ },
+ "GH:ST": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against São Tomé & Príncipe's SMF visa lists as compiled (see research-st-official.md).",
+  "source": "https://www.smf.st/",
+  "date": "2026-11-11"
+ },
+ "GW:ST": {
+  "status": "visa free",
+  "days": 15,
+  "reason": "Settled 2026-11-11 against São Tomé & Príncipe's SMF visa lists as compiled (see research-st-official.md).",
+  "source": "https://www.smf.st/",
+  "date": "2026-11-11"
+ },
+ "HK:ST": {
+  "status": "visa on arrival",
+  "days": 15,
+  "reason": "Settled 2026-11-11 against São Tomé & Príncipe's SMF visa lists as compiled (see research-st-official.md).",
+  "source": "https://www.smf.st/",
+  "date": "2026-11-11"
+ },
+ "MO:ST": {
+  "status": "visa on arrival",
+  "days": 15,
+  "reason": "Settled 2026-11-11 against São Tomé & Príncipe's SMF visa lists as compiled (see research-st-official.md).",
+  "source": "https://www.smf.st/",
+  "date": "2026-11-11"
+ },
+ "MZ:ST": {
+  "status": "visa free",
+  "days": 15,
+  "reason": "Settled 2026-11-11 against São Tomé & Príncipe's SMF visa lists as compiled (see research-st-official.md).",
+  "source": "https://www.smf.st/",
+  "date": "2026-11-11"
+ },
+ "TL:ST": {
+  "status": "visa free",
+  "days": 15,
+  "reason": "Settled 2026-11-11 against São Tomé & Príncipe's SMF visa lists as compiled (see research-st-official.md).",
+  "source": "https://www.smf.st/",
+  "date": "2026-11-11"
+ },
+ "TW:ST": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against São Tomé & Príncipe's SMF visa lists as compiled (see research-st-official.md).",
+  "source": "https://www.smf.st/",
+  "date": "2026-11-11"
  }
 }

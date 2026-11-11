@@ -219869,5 +219869,1193 @@
   "source": "https://www.nauru.gov.nr/",
   "source_name": "Nauru Immigration visa requirements and bilateral agreements, as compiled",
   "note": "Kiribati passport holders must obtain a visa for Nauru in advance by applying to Nauru Immigration by email; there is no visa on arrival."
+ },
+ "TG:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Togo passport holders may enter São Tomé & Príncipe without a visa for up to 90 days."
+ },
+ "ES:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Spain passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "PL:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Poland passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "SI:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Slovenia passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "HU:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Hungary passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "VA:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Vatican City passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "CV:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Cape Verde passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "LI:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Liechtenstein passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "CY:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Cyprus passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "QA:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Qatar passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "RO:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Romania passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "DE:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Germany passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "FR:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "France passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "MZ:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Mozambique passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "GQ:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Equatorial Guinea passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "CH:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Switzerland passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "HR:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Croatia passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "MC:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Monaco passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "PT:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Portugal passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "GA:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Gabon passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "KR:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "South Korea passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "DK:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Denmark passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "RU:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Russia passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "TR:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Türkiye passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "BG:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Bulgaria passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "BE:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Belgium passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "NL:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Netherlands passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "AO:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Angola passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "KW:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Kuwait passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "LU:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Luxembourg passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "US:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "United States passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "IE:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Ireland passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "IT:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Italy passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "LT:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Lithuania passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "JP:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Japan passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "GW:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Guinea-Bissau passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "CZ:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Czechia passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "GB:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "United Kingdom passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "AT:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Austria passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "IS:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Iceland passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "FI:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Finland passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "AD:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Andorra passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "RW:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Rwanda passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "GR:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Greece passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "SE:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Sweden passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "LV:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Latvia passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "SM:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "San Marino passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "AE:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "United Arab Emirates passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "BR:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Brazil passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "MT:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Malta passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "SK:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Slovakia passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "CA:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Canada passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "TL:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Timor-Leste passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "EE:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Estonia passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "NO:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Norway passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "MA:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Morocco passport holders may enter São Tomé & Príncipe without a visa for up to 15 days."
+ },
+ "CN:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "China passport holders may obtain a visa on arrival for São Tomé & Príncipe for up to 15 days."
+ },
+ "HK:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Hong Kong SAR China passport holders may obtain a visa on arrival for São Tomé & Príncipe for up to 15 days."
+ },
+ "MO:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Macao SAR China passport holders may obtain a visa on arrival for São Tomé & Príncipe for up to 15 days."
+ },
+ "TW:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Taiwan passport holders must obtain a visa for São Tomé & Príncipe in advance: Taiwan is not included in the eVisaST system, so the application goes through a diplomatic mission."
+ },
+ "GE:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Georgia passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "CO:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Colombia passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "CU:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Cuba passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "LY:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Libya passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "SY:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Syria passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "ID:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Indonesia passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "DZ:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Algeria passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "UY:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Uruguay passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "IL:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Israel passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "AF:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Afghanistan passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "TJ:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Tajikistan passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "MN:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Mongolia passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "ZA:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "South Africa passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "PY:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Paraguay passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "PA:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Panama passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "EC:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Ecuador passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "PW:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Palau passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "MW:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Malawi passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "ZW:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Zimbabwe passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "TM:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Turkmenistan passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "TT:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Trinidad & Tobago passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "MY:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Malaysia passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "NA:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Namibia passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "SG:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Singapore passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "MK:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "North Macedonia passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "ME:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Montenegro passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "ZM:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Zambia passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "GM:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Gambia passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "CD:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Congo - Kinshasa passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "LK:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Sri Lanka passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "ET:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Ethiopia passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "OM:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Oman passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "DO:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Dominican Republic passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "AG:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Antigua & Barbuda passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "CM:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Cameroon passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "UZ:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Uzbekistan passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "NR:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Nauru passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "NG:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Nigeria passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "TN:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Tunisia passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "CR:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Costa Rica passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "SL:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Sierra Leone passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "GY:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Guyana passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "MH:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Marshall Islands passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "PS:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Palestinian Territories passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "DJ:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Djibouti passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "MX:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Mexico passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "SB:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Solomon Islands passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "ML:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Mali passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "VE:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Venezuela passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "NE:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Niger passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "LB:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Lebanon passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "SA:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Saudi Arabia passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "TH:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Thailand passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "BO:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Bolivia passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "FM:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Micronesia passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "MU:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Mauritius passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "TZ:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Tanzania passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "PE:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Peru passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "DM:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Dominica passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "BZ:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Belize passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "GD:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Grenada passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "WS:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Samoa passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "BA:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Bosnia & Herzegovina passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "BF:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Burkina Faso passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "BJ:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Benin passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "NI:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Nicaragua passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "HN:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Honduras passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "BB:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Barbados passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "TV:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Tuvalu passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "JO:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Jordan passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "UA:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Ukraine passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "BN:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Brunei passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "MD:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Moldova passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "GH:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Ghana passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "MM:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Myanmar (Burma) passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "TO:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Tonga passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "AL:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Albania passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "BW:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Botswana passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "KI:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Kiribati passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "YE:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Yemen passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "KP:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "North Korea passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "KZ:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Kazakhstan passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "AZ:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Azerbaijan passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "CG:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Congo - Brazzaville passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "SD:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Sudan passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "VU:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Vanuatu passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "BH:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Bahrain passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "GN:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Guinea passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "BD:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Bangladesh passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "CF:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Central African Republic passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "IN:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "India passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "MV:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Maldives passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "LR:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Liberia passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "LS:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Lesotho passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "SZ:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Eswatini passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "SS:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "South Sudan passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "MR:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Mauritania passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "BS:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Bahamas passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "AU:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Australia passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "SR:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Suriname passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "VC:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "St. Vincent & Grenadines passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "FJ:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Fiji passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "MG:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Madagascar passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "CL:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Chile passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "JM:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Jamaica passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "BT:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Bhutan passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "GT:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Guatemala passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "XK:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Kosovo passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "PG:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Papua New Guinea passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "KH:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Cambodia passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "IQ:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Iraq passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "TD:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Chad passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "AM:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Armenia passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "NZ:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "New Zealand passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "PH:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Philippines passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "BI:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Burundi passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "KM:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Comoros passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "RS:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Serbia passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "NP:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Nepal passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "BY:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Belarus passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "LC:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "St. Lucia passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "HT:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Haiti passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "PK:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Pakistan passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "UG:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Uganda passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "VN:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Vietnam passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "SC:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Seychelles passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "SN:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Senegal passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "ER:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Eritrea passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "KN:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "St. Kitts & Nevis passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "LA:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Laos passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "CI:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Côte d’Ivoire passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "EG:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Egypt passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "KG:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Kyrgyzstan passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "SO:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Somalia passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "AR:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Argentina passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "SV:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "El Salvador passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "IR:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Iran passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
+ },
+ "KE:ST": {
+  "date": "2026-11-11",
+  "source": "https://www.smf.st/",
+  "source_name": "São Tomé & Príncipe Migration and Borders Service (SMF) visa lists, as compiled",
+  "note": "Kenya passport holders obtain an e-Visa for São Tomé & Príncipe online before travel (eVisaST). Holders of a visa or residence permit issued by a Schengen state or the United States may instead enter without a visa for up to 15 days."
  }
 }
