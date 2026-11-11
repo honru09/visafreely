@@ -55800,5 +55800,12 @@
   "reason": "Settled 2026-11-11 against São Tomé & Príncipe's SMF visa lists as compiled (see research-st-official.md).",
   "source": "https://www.smf.st/",
   "date": "2026-11-11"
+ },
+ "TW:SZ": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Eswatini's immigration exemption lists as compiled (see research-sz-official.md).",
+  "source": "https://www.gov.sz/",
+  "date": "2026-11-11"
  }
 }
