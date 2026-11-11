@@ -48768,5 +48768,12 @@
   "reason": "Settled 2026-11-11 against Solomon Islands' exemption and visitor-permit lists as compiled (see research-sb-official.md).",
   "source": "https://solomonislandsevisa.org/",
   "date": "2026-11-11"
+ },
+ "LA:TL": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against Timor-Leste's exemption and visa-on-arrival rules as compiled (see research-tl-official.md).",
+  "source": "https://migracao.gov.tl/",
+  "date": "2026-11-11"
  }
 }
