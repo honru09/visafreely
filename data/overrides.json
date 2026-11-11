@@ -54786,5 +54786,12 @@
   "reason": "Settled 2026-11-11 against Benin's MFA visa agreement lists as compiled (see research-bj-official.md).",
   "source": "https://diplomatie.gouv.bj/",
   "date": "2026-11-11"
+ },
+ "QA:BN": {
+  "status": "visa on arrival",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against Brunei's MFA visa information and Exemption Orders as compiled (see research-bn-official.md).",
+  "source": "https://www.mfa.gov.bn/",
+  "date": "2026-11-11"
  }
 }
