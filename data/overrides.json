@@ -40449,5 +40449,33 @@
   "reason": "Settled 2026-11-11 against Haiti's entry requirements as compiled (see research-ht-official.md).",
   "source": "https://www.haiti.org/",
   "date": "2026-11-11"
+ },
+ "EC:LC": {
+  "status": "visa free",
+  "days": 42,
+  "reason": "Settled 2026-11-11 against Saint Lucia's exemption and visa-on-arrival lists as compiled (see research-lc-official.md).",
+  "source": "https://www.govt.lc/",
+  "date": "2026-11-11"
+ },
+ "IS:LC": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Saint Lucia's exemption and visa-on-arrival lists as compiled (see research-lc-official.md).",
+  "source": "https://www.govt.lc/",
+  "date": "2026-11-11"
+ },
+ "LI:LC": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Saint Lucia's exemption and visa-on-arrival lists as compiled (see research-lc-official.md).",
+  "source": "https://www.govt.lc/",
+  "date": "2026-11-11"
+ },
+ "RS:LC": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Saint Lucia's exemption and visa-on-arrival lists as compiled (see research-lc-official.md).",
+  "source": "https://www.govt.lc/",
+  "date": "2026-11-11"
  }
 }
