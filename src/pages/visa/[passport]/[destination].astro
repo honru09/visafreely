@@ -314,6 +314,42 @@ const freePassports = countries
       datasets notice late. We track the changes themselves, from the official text, on the
       date each one takes effect.
     </p>
+    <form id="route-alert-form" style="margin:20px auto 0;max-width:520px;">
+      <label for="route-alert-email" style="display:block;font-weight:600;color:#fff;margin-bottom:8px;">Get an email if the rules for this route change</label>
+      <div style="display:flex;gap:8px;justify-content:center;flex-wrap:wrap;">
+        <input id="route-alert-email" type="email" required placeholder="you@example.com" autocomplete="email"
+          style="flex:1 1 240px;max-width:340px;padding:11px 14px;border-radius:10px;border:1px solid rgba(255,255,255,.35);background:rgba(255,255,255,.1);color:#fff;font-size:15px;" />
+        <button type="submit" class="btn on-dark" style="cursor:pointer;">Alert me</button>
+      </div>
+      <p id="route-alert-status" hidden style="margin:10px auto 0;color:#bfe3cd;font-size:14px;"></p>
+    </form>
+    <script is:inline>
+      (function () {
+        var form = document.getElementById('route-alert-form');
+        if (!form) return;
+        form.addEventListener('submit', function (e) {
+          e.preventDefault();
+          var email = document.getElementById('route-alert-email').value.trim();
+          var status = document.getElementById('route-alert-status');
+          fetch('https://honru09--site-stats-web.us-east.modal.run/subscribe', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ site: 'visafreely', email: email, route: location.pathname })
+          }).then(function (r) {
+            status.hidden = false;
+            if (r.ok) {
+              status.textContent = 'You are on the list — we will email you if this route changes.';
+              form.querySelector('button').disabled = true;
+            } else {
+              status.textContent = 'That email did not go through — please check it and try again.';
+            }
+          }).catch(function () {
+            status.hidden = false;
+            status.textContent = 'Could not reach the signup service — please try again later.';
+          });
+        });
+      })();
+    </script>
     <div class="cb-actions">
       <a class="btn on-dark" href="/visa-policy-changes/">Latest visa policy changes</a>
       <a class="btn ghost-on-dark" href="/widget/">Put this checker on your site</a>
