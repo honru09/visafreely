@@ -55807,5 +55807,19 @@
   "reason": "Settled 2026-11-11 against Eswatini's immigration exemption lists as compiled (see research-sz-official.md).",
   "source": "https://www.gov.sz/",
   "date": "2026-11-11"
+ },
+ "BA:XK": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Kosovo's MFA visa lists as compiled (see research-xk-official.md).",
+  "source": "https://www.mfa-ks.net/",
+  "date": "2026-11-11"
+ },
+ "ZA:XK": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Kosovo's MFA visa lists as compiled (see research-xk-official.md).",
+  "source": "https://www.mfa-ks.net/",
+  "date": "2026-11-11"
  }
 }
