@@ -54758,5 +54758,33 @@
   "reason": "Settled 2026-11-11: Vatican City has an open border with Italy; partition derived from the settled Andorra column (see research-va-official.md).",
   "source": "https://www.vatican.va/",
   "date": "2026-11-11"
+ },
+ "AE:BJ": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Benin's MFA visa agreement lists as compiled (see research-bj-official.md).",
+  "source": "https://diplomatie.gouv.bj/",
+  "date": "2026-11-11"
+ },
+ "AG:BJ": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Benin's MFA visa agreement lists as compiled (see research-bj-official.md).",
+  "source": "https://diplomatie.gouv.bj/",
+  "date": "2026-11-11"
+ },
+ "PH:BJ": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against Benin's MFA visa agreement lists as compiled (see research-bj-official.md).",
+  "source": "https://diplomatie.gouv.bj/",
+  "date": "2026-11-11"
+ },
+ "SG:BJ": {
+  "status": "visa free",
+  "days": 14,
+  "reason": "Settled 2026-11-11 against Benin's MFA visa agreement lists as compiled (see research-bj-official.md).",
+  "source": "https://diplomatie.gouv.bj/",
+  "date": "2026-11-11"
  }
 }
