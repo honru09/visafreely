@@ -59595,5 +59595,35 @@
   "reason": "Settled 2026-11-11 against Nigeria's e-Visa eligibility as compiled (see research-ng-official.md).",
   "source": "https://immigration.gov.ng/",
   "date": "2026-11-11"
+ },
+ "IL:QA": {
+  "status": "no admission",
+  "reason": "Settled 2026-11-11 in the residual sweep (see research-residual-sweep.md).",
+  "source": "https://www.moi.gov.qa/",
+  "date": "2026-11-11"
+ },
+ "XK:KZ": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 in the residual sweep (see research-residual-sweep.md).",
+  "source": "https://www.gov.kz/",
+  "date": "2026-11-11"
+ },
+ "XK:HK": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 in the residual sweep (see research-residual-sweep.md).",
+  "source": "https://www.immd.gov.hk/",
+  "date": "2026-11-11"
+ },
+ "TW:GE": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 in the residual sweep (see research-residual-sweep.md).",
+  "source": "https://geoconsul.gov.ge/",
+  "date": "2026-11-11"
+ },
+ "TW:SA": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 in the residual sweep (see research-residual-sweep.md).",
+  "source": "https://visa.visitsaudi.com/",
+  "date": "2026-11-11"
  }
 }

@@ -233947,5 +233947,65 @@
   "source": "https://immigration.gov.ng/",
   "source_name": "Nigeria Immigration Service e-Visa rules and ECOWAS free movement, as compiled",
   "note": "Syria passport holders may obtain a short-term visa for Nigeria through the Nigeria e-Visa system (introduced 1 May 2025, about 48 hours) before travel. All visitors must also obtain a landing card before departure."
+ },
+ "AM:AZ": {
+  "date": "2026-11-11",
+  "source": "https://mfa.gov.az/",
+  "source_name": "Azerbaijan Ministry of Foreign Affairs entry prohibitions (Timatic), as compiled",
+  "note": "Entry and transit are refused to Armenian nationals: Azerbaijan bans the entry and transit of citizens of Armenia (and of persons of Armenian descent) due to the state of war between the two countries."
+ },
+ "IL:QA": {
+  "date": "2026-11-11",
+  "source": "https://www.moi.gov.qa/",
+  "source_name": "Qatar entry rules for Israeli passport holders, as compiled",
+  "note": "Israeli passport holders are not admitted to Qatar (entry and transit refused); the 2022 FIFA World Cup admission was a one-off exception."
+ },
+ "XK:GE": {
+  "date": "2026-11-11",
+  "source": "https://geoconsul.gov.ge/",
+  "source_name": "Georgian consular rules on unrecognised passports (Timatic), as compiled",
+  "note": "Georgia does not recognise Kosovo passports, so holders cannot use the standard visa-free or e-Visa channels and require a visa arranged through a Georgian consular post in advance."
+ },
+ "XK:KZ": {
+  "date": "2026-11-11",
+  "source": "https://www.gov.kz/",
+  "source_name": "Kazakhstan rules on unrecognised passports (Timatic), as compiled",
+  "note": "Kazakhstan does not recognise Kosovo passports, so holders require a visa arranged through a Kazakh consular post in advance."
+ },
+ "XK:TJ": {
+  "date": "2026-11-11",
+  "source": "https://mfa.tj/",
+  "source_name": "Tajikistan rules on unrecognised passports (Timatic), as compiled",
+  "note": "Tajikistan does not recognise Kosovo passports, so holders are outside the visa-free and e-Visa lists and require a visa arranged in advance."
+ },
+ "XK:TM": {
+  "date": "2026-11-11",
+  "source": "https://migration.gov.tm/",
+  "source_name": "Turkmenistan rules on unrecognised passports (Timatic), as compiled",
+  "note": "Turkmenistan does not recognise Kosovo passports, so holders require a visa arranged through a Turkmen consular post in advance."
+ },
+ "XK:UZ": {
+  "date": "2026-11-11",
+  "source": "https://mfa.uz/",
+  "source_name": "Uzbekistan rules on unrecognised passports (Timatic), as compiled",
+  "note": "Uzbekistan does not recognise Kosovo passports, so holders are outside the visa-free and e-Visa lists and require a visa arranged in advance."
+ },
+ "XK:HK": {
+  "date": "2026-11-11",
+  "source": "https://www.immd.gov.hk/",
+  "source_name": "Hong Kong Immigration Department rules on unrecognised passports (Timatic), as compiled",
+  "note": "Hong Kong does not recognise Kosovo passports, so holders cannot use the Pre-arrival Registration or visa-free channels and require a visit visa in advance."
+ },
+ "TW:GE": {
+  "date": "2026-11-11",
+  "source": "https://geoconsul.gov.ge/",
+  "source_name": "Georgian consular rules on unrecognised passports (Timatic), as compiled",
+  "note": "Georgia does not recognise Taiwanese passports, which makes obtaining a Georgian visa difficult in practice; a visa must be arranged through a Georgian consular post in advance."
+ },
+ "TW:SA": {
+  "date": "2026-11-11",
+  "source": "https://visa.visitsaudi.com/",
+  "source_name": "Saudi e-Visa eligibility list, as compiled",
+  "note": "Taiwan passport holders are not eligible for the Saudi e-Visa or visa on arrival and must obtain a visa through a Saudi diplomatic mission in advance."
  }
 }
