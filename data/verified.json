@@ -107220,5 +107220,1193 @@
   "source": "https://www.boca.gov.tw/",
   "source_name": "Bureau of Consular Affairs, Taiwan (BOCA) — visa-exempt entry & e-Visa",
   "note": "Gambia passport holders need a visitor visa for Taiwan, applied for at a Taipei representative office. Taiwan applies special requirements to this nationality: visits are possible only for listed purposes (official invitation, conferences, family, business, crew, medical) with a sponsor guarantee filed in Taiwan."
+ },
+ "CH:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Switzerland passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "BE:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Belgium passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "CO:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Colombia passport holders enter Argentina visa-free for up to 90 days. As a Mercosur/associated-state national they may enter on an identity card instead of a passport."
+ },
+ "BR:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Brazil passport holders enter Argentina visa-free for up to 90 days. As a Mercosur/associated-state national they may enter on an identity card instead of a passport."
+ },
+ "DM:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Dominica passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "US:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "United States passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "LT:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Lithuania passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "GR:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Greece passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "MT:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Malta passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "EE:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Estonia passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "PT:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Portugal passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "SE:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Sweden passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "NO:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Norway passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "GE:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Georgia passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "SK:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Slovakia passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "HN:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Honduras passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "CL:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Chile passport holders enter Argentina visa-free for up to 90 days. As a Mercosur/associated-state national they may enter on an identity card instead of a passport."
+ },
+ "RO:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Romania passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "AM:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Armenia passport holders enter Argentina visa-free for up to 90 days. The 90 days run within any 180-day period."
+ },
+ "GY:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Guyana passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "AE:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "United Arab Emirates passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "BO:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Bolivia passport holders enter Argentina visa-free for up to 90 days. As a Mercosur/associated-state national they may enter on an identity card instead of a passport."
+ },
+ "PY:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Paraguay passport holders enter Argentina visa-free for up to 90 days. As a Mercosur/associated-state national they may enter on an identity card instead of a passport."
+ },
+ "NZ:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "New Zealand passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "CR:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Costa Rica passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "IL:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Israel passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "MC:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Monaco passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "PA:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Panama passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "VC:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "St. Vincent & Grenadines passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "DE:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Germany passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "FR:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "France passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "RU:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Russia passport holders enter Argentina visa-free for up to 90 days. The 90 days run within any 180-day period."
+ },
+ "AU:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Australia passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "LI:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Liechtenstein passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "KR:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "South Korea passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "RS:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Serbia passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "VE:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Venezuela passport holders enter Argentina visa-free for up to 90 days. As a Mercosur/associated-state national they may enter on an identity card instead of a passport. Under the Special Regime in force since 20 September 2024, Venezuelan citizens abroad may also enter on a passport or ID card expired by no more than 10 years."
+ },
+ "LC:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "St. Lucia passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "BB:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Barbados passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "PL:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Poland passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "IS:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Iceland passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "ZA:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "South Africa passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "TR:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Türkiye passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "SR:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Suriname passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "FJ:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Fiji passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "SV:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "El Salvador passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "JP:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Japan passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "TH:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Thailand passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "AD:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Andorra passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "ES:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Spain passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "SI:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Slovenia passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "MN:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Mongolia passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "IT:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Italy passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "SM:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "San Marino passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "EC:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Ecuador passport holders enter Argentina visa-free for up to 90 days. As a Mercosur/associated-state national they may enter on an identity card instead of a passport."
+ },
+ "GT:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Guatemala passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "SG:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Singapore passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "IE:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Ireland passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "UA:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Ukraine passport holders enter Argentina visa-free for up to 90 days. The 90 days run within any 180-day period."
+ },
+ "BY:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Belarus passport holders enter Argentina visa-free for up to 90 days. The 90 days run within a calendar year."
+ },
+ "HK:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Hong Kong SAR China passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "HR:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Croatia passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "AT:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Austria passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "PE:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Peru passport holders enter Argentina visa-free for up to 90 days. As a Mercosur/associated-state national they may enter on an identity card instead of a passport."
+ },
+ "GB:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "United Kingdom passport holders enter Argentina visa-free for up to 90 days. BN(O) passports are also granted 90 days; British subject and British Protected Person passports are not."
+ },
+ "TT:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Trinidad & Tobago passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "UY:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Uruguay passport holders enter Argentina visa-free for up to 90 days. As a Mercosur/associated-state national they may enter on an identity card instead of a passport."
+ },
+ "MK:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "North Macedonia passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "CA:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Canada passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "MX:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Mexico passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "HU:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Hungary passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "CY:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Cyprus passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "CZ:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Czechia passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "ME:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Montenegro passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "LV:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Latvia passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "NI:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Nicaragua passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "DK:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Denmark passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "LU:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Luxembourg passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "KN:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "St. Kitts & Nevis passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "BG:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Bulgaria passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "BA:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Bosnia & Herzegovina passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "QA:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Qatar passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "VA:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Vatican City passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "NL:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Netherlands passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "FI:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Finland passport holders enter Argentina visa-free for up to 90 days."
+ },
+ "JM:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Jamaica passport holders enter Argentina visa-free for up to 30 days. For business visits the visa-free stay is 90 days."
+ },
+ "MY:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Malaysia passport holders enter Argentina visa-free for up to 30 days. For business visits the visa-free stay is 90 days."
+ },
+ "KZ:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Kazakhstan passport holders enter Argentina visa-free for up to 30 days. The 30 days run within a calendar year."
+ },
+ "MO:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Macao SAR China passport holders enter Argentina visa-free for up to 30 days."
+ },
+ "GD:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Grenada passport holders enter Argentina visa-free for up to 30 days."
+ },
+ "BJ:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Benin passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "CN:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "China passport holders need an Argentine visa — unless they hold a valid US visa in the B1/B2, B2, J, B1, O, P (P1–P3), E or H-1B categories, or US permanent residence, in which case they may enter visa-free for up to 90 days."
+ },
+ "PH:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Philippines passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "SZ:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Eswatini passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "ML:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Mali passport holders need an Argentine visa from a consulate; this nationality is excluded from the Electronic Travel Authorization (AVE)."
+ },
+ "CM:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Cameroon passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "DJ:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Djibouti passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "ER:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Eritrea passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "GH:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Ghana passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "BZ:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Belize passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "SD:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Sudan passport holders need an Argentine visa from a consulate; this nationality is excluded from the Electronic Travel Authorization (AVE)."
+ },
+ "BF:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Burkina Faso passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "LR:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Liberia passport holders need an Argentine visa from a consulate; this nationality is excluded from the Electronic Travel Authorization (AVE)."
+ },
+ "BH:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Bahrain passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "SB:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Solomon Islands passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "AL:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Albania passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "GQ:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Equatorial Guinea passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "ZM:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Zambia passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "LY:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Libya passport holders need an Argentine visa from a consulate; this nationality is excluded from the Electronic Travel Authorization (AVE)."
+ },
+ "SC:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Seychelles passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "PG:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Papua New Guinea passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "XK:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Kosovo passport holders need an Argentine visa from a consulate; this nationality is excluded from the Electronic Travel Authorization (AVE)."
+ },
+ "MW:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Malawi passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "MA:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Morocco passport holders need an Argentine visa from a consulate; this nationality is excluded from the Electronic Travel Authorization (AVE)."
+ },
+ "BD:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Bangladesh passport holders need an Argentine visa from a consulate; this nationality is excluded from the Electronic Travel Authorization (AVE)."
+ },
+ "VU:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Vanuatu passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "IQ:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Iraq passport holders need an Argentine visa from a consulate; this nationality is excluded from the Electronic Travel Authorization (AVE)."
+ },
+ "NG:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Nigeria passport holders need an Argentine visa from a consulate; this nationality is excluded from the Electronic Travel Authorization (AVE)."
+ },
+ "EG:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Egypt passport holders need an Argentine visa from a consulate; this nationality is excluded from the Electronic Travel Authorization (AVE)."
+ },
+ "TG:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Togo passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "TJ:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Tajikistan passport holders need an Argentine visa from a consulate; this nationality is excluded from the Electronic Travel Authorization (AVE)."
+ },
+ "TL:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Timor-Leste passport holders need an Argentine visa from a consulate; this nationality is excluded from the Electronic Travel Authorization (AVE)."
+ },
+ "UG:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Uganda passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "RW:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Rwanda passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "SY:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Syria passport holders need an Argentine visa from a consulate; this nationality is excluded from the Electronic Travel Authorization (AVE)."
+ },
+ "AO:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Angola passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "DO:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Dominican Republic passport holders need an Argentine visa — unless they hold a valid US visa in the B1/B2, B2, J, B1, O, P (P1–P3), E or H-1B categories, or US permanent residence, in which case they may enter visa-free for up to 90 days."
+ },
+ "UZ:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Uzbekistan passport holders need an Argentine visa from a consulate; this nationality is excluded from the Electronic Travel Authorization (AVE)."
+ },
+ "BW:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Botswana passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "KE:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Kenya passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "GN:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Guinea passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "KM:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Comoros passport holders need an Argentine visa from a consulate; this nationality is excluded from the Electronic Travel Authorization (AVE)."
+ },
+ "ET:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Ethiopia passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "TD:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Chad passport holders need an Argentine visa from a consulate; this nationality is excluded from the Electronic Travel Authorization (AVE)."
+ },
+ "NR:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Nauru passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "MV:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Maldives passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "FM:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Micronesia passport holders need an Argentine visa from a consulate; this nationality is excluded from the Electronic Travel Authorization (AVE)."
+ },
+ "KP:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "North Korea passport holders need an Argentine visa from a consulate; this nationality is excluded from the Electronic Travel Authorization (AVE)."
+ },
+ "MZ:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Mozambique passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "TW:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Taiwan passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "BN:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Brunei passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "WS:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Samoa passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "NE:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Niger passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "SS:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "South Sudan passport holders need an Argentine visa from a consulate; this nationality is excluded from the Electronic Travel Authorization (AVE)."
+ },
+ "NP:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Nepal passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "MR:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Mauritania passport holders need an Argentine visa from a consulate; this nationality is excluded from the Electronic Travel Authorization (AVE)."
+ },
+ "BT:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Bhutan passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "TO:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Tonga passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "CU:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Cuba passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "MD:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Moldova passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "KH:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Cambodia passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "TN:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Tunisia passport holders need an Argentine visa from a consulate; this nationality is excluded from the Electronic Travel Authorization (AVE)."
+ },
+ "IR:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Iran passport holders need an Argentine visa from a consulate; this nationality is excluded from the Electronic Travel Authorization (AVE)."
+ },
+ "MG:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Madagascar passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "GW:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Guinea-Bissau passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "AF:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Afghanistan passport holders need an Argentine visa from a consulate; this nationality is excluded from the Electronic Travel Authorization (AVE)."
+ },
+ "AZ:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Azerbaijan passport holders need an Argentine visa from a consulate; this nationality is excluded from the Electronic Travel Authorization (AVE)."
+ },
+ "DZ:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Algeria passport holders need an Argentine visa from a consulate; this nationality is excluded from the Electronic Travel Authorization (AVE)."
+ },
+ "ID:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Indonesia passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "PS:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Palestinian Territories passport holders need an Argentine visa from a consulate; this nationality is excluded from the Electronic Travel Authorization (AVE)."
+ },
+ "SL:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Sierra Leone passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "IN:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "India passport holders need an Argentine visa — unless they hold a valid US visa in the B1/B2, B2, J, B1, O, P (P1–P3), E or H-1B categories, or US permanent residence, in which case they may enter visa-free for up to 90 days."
+ },
+ "CG:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Congo - Brazzaville passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "ZW:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Zimbabwe passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "SO:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Somalia passport holders need an Argentine visa from a consulate; this nationality is excluded from the Electronic Travel Authorization (AVE)."
+ },
+ "MU:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Mauritius passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "KG:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Kyrgyzstan passport holders need an Argentine visa from a consulate; this nationality is excluded from the Electronic Travel Authorization (AVE)."
+ },
+ "ST:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "São Tomé & Príncipe passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "HT:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Haiti passport holders need an Argentine visa from a consulate; this nationality is excluded from the Electronic Travel Authorization (AVE)."
+ },
+ "KI:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Kiribati passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "CV:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Cape Verde passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "PK:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Pakistan passport holders need an Argentine visa from a consulate; this nationality is excluded from the Electronic Travel Authorization (AVE)."
+ },
+ "YE:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Yemen passport holders need an Argentine visa from a consulate; this nationality is excluded from the Electronic Travel Authorization (AVE)."
+ },
+ "CF:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Central African Republic passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "LK:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Sri Lanka passport holders need an Argentine visa from a consulate; this nationality is excluded from the Electronic Travel Authorization (AVE)."
+ },
+ "MH:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Marshall Islands passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "TM:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Turkmenistan passport holders need an Argentine visa from a consulate; this nationality is excluded from the Electronic Travel Authorization (AVE)."
+ },
+ "OM:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Oman passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "NA:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Namibia passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "SN:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Senegal passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "PW:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Palau passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "CD:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Congo - Kinshasa passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "GA:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Gabon passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "BI:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Burundi passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "AG:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Antigua & Barbuda passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "KW:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Kuwait passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "BS:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Bahamas passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "MM:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Myanmar (Burma) passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "SA:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Saudi Arabia passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "VN:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Vietnam passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "CI:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Côte d’Ivoire passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "TV:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Tuvalu passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "LB:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Lebanon passport holders need an Argentine visa from a consulate; this nationality is excluded from the Electronic Travel Authorization (AVE)."
+ },
+ "LA:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Laos passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "JO:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Jordan passport holders need an Argentine visa from a consulate; this nationality is excluded from the Electronic Travel Authorization (AVE)."
+ },
+ "LS:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Lesotho passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "TZ:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Tanzania passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
+ },
+ "GM:AR": {
+  "date": "2026-11-11",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "source_name": "Dirección Nacional de Migraciones, Argentina — visa-exempt countries & AVE",
+  "note": "Gambia passport holders need an Argentine visa — but holders of a valid US B1/B2, J, B1, O, P (P1–P3), E or H-1B visa may instead obtain the Electronic Travel Authorization (AVE) online for a tourist stay of up to 90 days."
  }
 }

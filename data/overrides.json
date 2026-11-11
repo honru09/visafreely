@@ -35123,5 +35123,33 @@
   "reason": "Settled 2026-11-11 against the BOCA visa-exemption and e-Visa lists (see research-tw-official.md).",
   "source": "https://www.boca.gov.tw/",
   "date": "2026-11-11"
+ },
+ "GD:AR": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Argentine DNM exemption list and AVE rules (see research-ar-official.md).",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "date": "2026-11-11"
+ },
+ "JM:AR": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Argentine DNM exemption list and AVE rules (see research-ar-official.md).",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "date": "2026-11-11"
+ },
+ "KZ:AR": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Argentine DNM exemption list and AVE rules (see research-ar-official.md).",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "date": "2026-11-11"
+ },
+ "MO:AR": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the Argentine DNM exemption list and AVE rules (see research-ar-official.md).",
+  "source": "https://www.argentina.gob.ar/interior/migraciones",
+  "date": "2026-11-11"
  }
 }
