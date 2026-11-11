@@ -36178,5 +36178,19 @@
   "reason": "Settled 2026-11-11 against the Belize Immigration exemption list as compiled (see research-bz-official.md).",
   "source": "https://www.immigration.gov.bz/",
   "date": "2026-11-11"
+ },
+ "BB:CR": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the DGME visa-group guidelines as compiled (see research-cr-official.md).",
+  "source": "https://www.migracion.go.cr/",
+  "date": "2026-11-11"
+ },
+ "HN:CR": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against the DGME visa-group guidelines as compiled (see research-cr-official.md).",
+  "source": "https://www.migracion.go.cr/",
+  "date": "2026-11-11"
  }
 }

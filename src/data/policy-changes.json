@@ -824,6 +824,14 @@
   "source_name": "Ministry of Foreign Affairs of Japan — Exemption of Visa (Short-Term Stay)"
  },
  {
+  "date": "2023-05-29",
+  "destination": "CR",
+  "title": "Costa Rica moves Kazakhstan to the restricted-visa group",
+  "summary": "Kazakhstan's visa exemption was cancelled on 29 May 2023; Kazakh passport holders now need a restricted visa authorised in advance by the Commission for Restricted Visas.",
+  "source": "https://www.migracion.go.cr/",
+  "source_name": "DGME Costa Rica"
+ },
+ {
   "date": "2023-04-02",
   "destination": "JP",
   "title": "Japan exempts Qatar, conditional on ePassport registration",
@@ -870,6 +878,14 @@
   "summary": "Ukraine ended visa-free entry for Russian citizens on 1 July 2022, after severing diplomatic relations; Russians apply via visa centres in Russia or Ukrainian missions abroad, and admission at the border remains discretionary.",
   "source": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine",
   "source_name": "Ministry of Foreign Affairs of Ukraine"
+ },
+ {
+  "date": "2022-02-21",
+  "destination": "CR",
+  "title": "Costa Rica reimposes visas on Venezuelan nationals",
+  "summary": "Costa Rica cancelled visa-free entry for Venezuelan passport holders on 21 February 2022; a consular visa (or the substitute-visa rule) has applied since.",
+  "source": "https://www.migracion.go.cr/",
+  "source_name": "DGME Costa Rica"
  },
  {
   "date": "2022-01-22",
