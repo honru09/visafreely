@@ -2727,152 +2727,178 @@
   "note": "Visa-exempt for up to 90 days (30 days for culture or sport activities). An approved ETA-IL is mandatory before travel since 1 January 2025: apply via the PIBA portal at least 72 hours ahead (fee ILS 25, valid 2 years or to passport expiry, multiple entries). Approval does not guarantee entry; the border officer decides. Passport validity: 3 months beyond arrival is the official ETA-IL rule, but airlines commonly enforce 6 months, so carry 6 months to be safe. An in-country extension of up to 90 days may be applied for."
  },
  "SG:NZ": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
-  "source_name": "Immigration New Zealand — visa waiver countries (NZeTA)"
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Singapore is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit."
  },
  "KR:NZ": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
-  "source_name": "Immigration New Zealand — visa waiver countries (NZeTA)"
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "South Korea is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit."
  },
  "JP:NZ": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
-  "source_name": "Immigration New Zealand — visa waiver countries (NZeTA)"
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Japan is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit."
  },
  "FR:NZ": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
-  "source_name": "Immigration New Zealand — visa waiver countries (NZeTA)"
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "France is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit."
  },
  "DE:NZ": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
-  "source_name": "Immigration New Zealand — visa waiver countries (NZeTA)"
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Germany is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit."
  },
  "IT:NZ": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
-  "source_name": "Immigration New Zealand — visa waiver countries (NZeTA)"
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Italy is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit."
  },
  "ES:NZ": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
-  "source_name": "Immigration New Zealand — visa waiver countries (NZeTA)"
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Spain is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit."
  },
  "FI:NZ": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
-  "source_name": "Immigration New Zealand — visa waiver countries (NZeTA)"
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Finland is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit."
  },
  "NL:NZ": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
-  "source_name": "Immigration New Zealand — visa waiver countries (NZeTA)"
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Netherlands is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit."
  },
  "BE:NZ": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
-  "source_name": "Immigration New Zealand — visa waiver countries (NZeTA)"
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Belgium is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit."
  },
  "DK:NZ": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
-  "source_name": "Immigration New Zealand — visa waiver countries (NZeTA)"
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Denmark is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit."
  },
  "SE:NZ": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
-  "source_name": "Immigration New Zealand — visa waiver countries (NZeTA)"
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Sweden is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit."
  },
  "NO:NZ": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
-  "source_name": "Immigration New Zealand — visa waiver countries (NZeTA)"
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Norway is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit."
  },
  "CH:NZ": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
-  "source_name": "Immigration New Zealand — visa waiver countries (NZeTA)"
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Switzerland is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit."
  },
  "AT:NZ": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
-  "source_name": "Immigration New Zealand — visa waiver countries (NZeTA)"
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Austria is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit."
  },
  "IE:NZ": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
-  "source_name": "Immigration New Zealand — visa waiver countries (NZeTA)"
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Ireland is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit."
  },
  "GB:NZ": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
-  "source_name": "Immigration New Zealand — visa waiver countries (NZeTA)",
-  "note": "UK passports get the longer 6-month visa-waiver stay."
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "United Kingdom is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 6 months per visit. The waiver covers British citizens and other British passport holders who have the right to reside permanently in the United Kingdom."
  },
  "AU:NZ": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
-  "source_name": "Immigration New Zealand — visa waiver countries (NZeTA)",
-  "note": "Australian citizens and permanent residents on an Australian passport need neither a visa nor an NZeTA."
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Australian citizens travelling on an Australian passport need neither a visa nor an NZeTA for New Zealand: under the Trans-Tasman arrangements a resident visa is granted on arrival."
  },
  "CA:NZ": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
-  "source_name": "Immigration New Zealand — visa waiver countries (NZeTA)"
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Canada is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit."
  },
  "US:NZ": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
-  "source_name": "Immigration New Zealand — visa waiver countries (NZeTA)"
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "United States is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit."
  },
  "PT:NZ": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
-  "source_name": "Immigration New Zealand — visa waiver countries (NZeTA)"
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Portugal is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit. The waiver covers Portuguese passport holders who have the right to live permanently in Portugal."
  },
  "GR:NZ": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
-  "source_name": "Immigration New Zealand — visa waiver countries (NZeTA)"
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Greece is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit. The waiver covers Greek passports issued on or after 1 January 2006."
  },
  "PL:NZ": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
-  "source_name": "Immigration New Zealand — visa waiver countries (NZeTA)"
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Poland is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit."
  },
  "CZ:NZ": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
-  "source_name": "Immigration New Zealand — visa waiver countries (NZeTA)"
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Czechia is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit."
  },
  "HU:NZ": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
-  "source_name": "Immigration New Zealand — visa waiver countries (NZeTA)"
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Hungary is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit."
  },
  "AE:NZ": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
-  "source_name": "Immigration New Zealand — visa waiver countries (NZeTA)"
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "United Arab Emirates is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit."
  },
  "MY:NZ": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
-  "source_name": "Immigration New Zealand — visa waiver countries (NZeTA)"
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Malaysia is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit."
  },
  "IL:NZ": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
-  "source_name": "Immigration New Zealand — visa waiver countries (NZeTA)"
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Israel is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit."
  },
  "CN:NZ": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
-  "source_name": "Immigration New Zealand — visa waiver countries (NZeTA)",
-  "note": "Trial from 3 Nov 2025 (~12 months): Chinese passport holders travelling from Australia on an eligible Australian visa may visit visa-waiver style for up to 3 months. Direct travel from China still needs a visitor visa."
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "China passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441). Trial exception: since 3 November 2025, holders travelling directly from Australia on an eligible Australian visa may instead visit for up to 3 months on an NZeTA under a 12-month trial — the government has said eligible travellers may continue while the trial is evaluated."
  },
  "SG:SC": {
   "date": "2026-10-25",
@@ -94592,5 +94618,1019 @@
   "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
   "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
   "note": "Jordan is an Assessment Level II country for Singapore: a visa is required before travel, issued as an e-visa — the application is lodged online with ICA through a Singapore local contact or strategic partner, or through an authorised visa agent abroad (SGD 30 fee; usually decided in 3 working days), and a Letter of Introduction for Visa Application from the local contact or agent is also required. Transit is airside only. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "MZ:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Mozambique passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "TR:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Türkiye passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "SV:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "El Salvador passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "SS:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "South Sudan passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "TJ:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Tajikistan passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "PE:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Peru passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "LA:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Laos passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "HN:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Honduras passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "NA:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Namibia passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "KI:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Kiribati passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441). Trial exception: since 3 November 2025, holders travelling directly from Australia on an eligible Australian visa may instead visit for up to 3 months on an NZeTA under a 12-month trial — the government has said eligible travellers may continue while the trial is evaluated."
+ },
+ "KG:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Kyrgyzstan passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "VU:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Vanuatu passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441). Trial exception: since 3 November 2025, holders travelling directly from Australia on an eligible Australian visa may instead visit for up to 3 months on an NZeTA under a 12-month trial — the government has said eligible travellers may continue while the trial is evaluated."
+ },
+ "NP:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Nepal passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "RU:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Russia passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "FJ:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Fiji passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441). Trial exception: since 3 November 2025, holders travelling directly from Australia on an eligible Australian visa may instead visit for up to 3 months on an NZeTA under a 12-month trial — the government has said eligible travellers may continue while the trial is evaluated."
+ },
+ "BG:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Bulgaria is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit."
+ },
+ "MK:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "North Macedonia passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "MT:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Malta is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit."
+ },
+ "JO:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Jordan passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "MV:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Maldives passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "TO:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Tonga passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441). Trial exception: since 3 November 2025, holders travelling directly from Australia on an eligible Australian visa may instead visit for up to 3 months on an NZeTA under a 12-month trial — the government has said eligible travellers may continue while the trial is evaluated."
+ },
+ "FM:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Micronesia passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441). Trial exception: since 3 November 2025, holders travelling directly from Australia on an eligible Australian visa may instead visit for up to 3 months on an NZeTA under a 12-month trial — the government has said eligible travellers may continue while the trial is evaluated."
+ },
+ "HT:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Haiti passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "KN:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "St. Kitts & Nevis passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "VC:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "St. Vincent & Grenadines passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "BF:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Burkina Faso passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "AR:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Argentina is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit."
+ },
+ "CM:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Cameroon passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "LT:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Lithuania is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit. The waiver covers Lithuanian citizens only."
+ },
+ "LU:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Luxembourg is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit."
+ },
+ "AM:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Armenia passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "LV:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Latvia is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit. The waiver covers Latvian citizens only."
+ },
+ "OM:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Oman is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit."
+ },
+ "BY:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Belarus passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "MU:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Mauritius is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit."
+ },
+ "RO:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Romania is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit."
+ },
+ "TG:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Togo passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "EE:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Estonia is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit. The waiver covers Estonian citizens only."
+ },
+ "AO:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Angola passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "SZ:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Eswatini passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "GQ:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Equatorial Guinea passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "TM:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Turkmenistan passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "KM:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Comoros passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "SK:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Slovakia is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit."
+ },
+ "VA:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Vatican City is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit."
+ },
+ "KZ:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Kazakhstan passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "MR:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Mauritania passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "SD:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Sudan passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "IR:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Iran passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "LC:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "St. Lucia passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "LR:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Liberia passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "NI:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Nicaragua passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "TW:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Taiwan is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit. The waiver covers Taiwan permanent residents travelling on a Taiwan passport."
+ },
+ "CR:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Costa Rica passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "BI:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Burundi passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "LB:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Lebanon passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "MA:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Morocco passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "PH:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Philippines passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "SN:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Senegal passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "GE:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Georgia passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "GW:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Guinea-Bissau passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "GY:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Guyana passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "EC:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Ecuador passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "IN:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "India passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "CL:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Chile is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit."
+ },
+ "BO:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Bolivia passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "CF:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Central African Republic passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "LS:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Lesotho passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "SC:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Seychelles is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit."
+ },
+ "TL:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Timor-Leste passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "TD:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Chad passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "GN:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Guinea passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "SR:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Suriname passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "ST:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "São Tomé & Príncipe passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "ZM:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Zambia passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "GD:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Grenada passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "DZ:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Algeria passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "UA:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Ukraine passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "CD:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Congo - Kinshasa passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "ZA:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "South Africa passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "WS:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Samoa passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441). Trial exception: since 3 November 2025, holders travelling directly from Australia on an eligible Australian visa may instead visit for up to 3 months on an NZeTA under a 12-month trial — the government has said eligible travellers may continue while the trial is evaluated."
+ },
+ "MG:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Madagascar passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "AL:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Albania passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "DM:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Dominica passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "GT:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Guatemala passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "PG:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Papua New Guinea passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441). Trial exception: since 3 November 2025, holders travelling directly from Australia on an eligible Australian visa may instead visit for up to 3 months on an NZeTA under a 12-month trial — the government has said eligible travellers may continue while the trial is evaluated."
+ },
+ "PY:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Paraguay passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "SL:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Sierra Leone passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "SM:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "San Marino is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit."
+ },
+ "TH:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Thailand passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "TN:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Tunisia passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "BB:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Barbados passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "CO:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Colombia passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "GA:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Gabon passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "GM:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Gambia passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "QA:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Qatar is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit."
+ },
+ "AF:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Afghanistan passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "ML:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Mali passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "BH:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Bahrain is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit."
+ },
+ "YE:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Yemen passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "DO:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Dominican Republic passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "ZW:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Zimbabwe passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "BW:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Botswana passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "PA:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Panama passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "XK:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Kosovo passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "LY:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Libya passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "SA:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Saudi Arabia is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit."
+ },
+ "CY:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Cyprus is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit."
+ },
+ "JM:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Jamaica passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "KP:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "North Korea passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "PW:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Palau passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441). Trial exception: since 3 November 2025, holders travelling directly from Australia on an eligible Australian visa may instead visit for up to 3 months on an NZeTA under a 12-month trial — the government has said eligible travellers may continue while the trial is evaluated."
+ },
+ "MM:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Myanmar (Burma) passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "IQ:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Iraq passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "IS:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Iceland is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit."
+ },
+ "BD:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Bangladesh passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "TZ:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Tanzania passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "SI:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Slovenia is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit."
+ },
+ "RS:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Serbia passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "SY:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Syria passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "KE:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Kenya passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "BA:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Bosnia & Herzegovina passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "DJ:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Djibouti passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "PK:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Pakistan passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "PS:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Palestinian Territories passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "RW:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Rwanda passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "VN:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Vietnam passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "MD:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Moldova passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "AZ:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Azerbaijan passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "KH:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Cambodia passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "GH:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Ghana passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "NG:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Nigeria passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "CG:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Congo - Brazzaville passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "BT:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Bhutan passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "AD:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Andorra is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit."
+ },
+ "MO:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Macao SAR China is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit. The waiver covers residents travelling on Macao SAR passports."
+ },
+ "MX:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Mexico is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit."
+ },
+ "LI:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Liechtenstein is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit."
+ },
+ "UZ:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Uzbekistan passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "NR:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Nauru passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441). Trial exception: since 3 November 2025, holders travelling directly from Australia on an eligible Australian visa may instead visit for up to 3 months on an NZeTA under a 12-month trial — the government has said eligible travellers may continue while the trial is evaluated."
+ },
+ "SB:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Solomon Islands passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441). Trial exception: since 3 November 2025, holders travelling directly from Australia on an eligible Australian visa may instead visit for up to 3 months on an NZeTA under a 12-month trial — the government has said eligible travellers may continue while the trial is evaluated."
+ },
+ "VE:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Venezuela passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "HR:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Croatia is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit."
+ },
+ "CU:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Cuba passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "TT:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Trinidad & Tobago passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "BJ:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Benin passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "MW:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Malawi passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "EG:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Egypt passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "BZ:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Belize passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "BR:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Brazil is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit."
+ },
+ "CV:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Cape Verde passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "MH:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Marshall Islands passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "ET:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Ethiopia passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "CI:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Côte d’Ivoire passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "ID:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Indonesia passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "ME:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Montenegro passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "NE:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Niger passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "UG:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Uganda passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "BN:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Brunei is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit."
+ },
+ "BS:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Bahamas passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "HK:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Hong Kong SAR China is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit. The waiver covers residents travelling on Hong Kong SAR or British National (Overseas) passports."
+ },
+ "ER:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Eritrea passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "MN:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Mongolia passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "TV:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Tuvalu passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441). Trial exception: since 3 November 2025, holders travelling directly from Australia on an eligible Australian visa may instead visit for up to 3 months on an NZeTA under a 12-month trial — the government has said eligible travellers may continue while the trial is evaluated."
+ },
+ "LK:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Sri Lanka passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "KW:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Kuwait is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit."
+ },
+ "MC:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Monaco is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit."
+ },
+ "SO:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Somalia passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "AG:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Antigua & Barbuda passport holders need a Visitor Visa for New Zealand, applied for online with Immigration New Zealand before travel (from NZD 441)."
+ },
+ "UY:NZ": {
+  "date": "2026-11-11",
+  "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+  "source_name": "Immigration New Zealand — visa waiver countries and territories",
+  "note": "Uruguay is a visa waiver country for New Zealand: no visitor visa is needed, but an NZeTA (New Zealand Electronic Travel Authority) must be approved before travel — NZD 17 in the app or NZD 23 online, plus the NZD 100 International Visitor Conservation and Tourism Levy; valid 2 years. A visitor visa is granted on arrival for up to 3 months per visit."
  }
 }
