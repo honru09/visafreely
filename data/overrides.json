@@ -37543,5 +37543,879 @@
   "reason": "Settled 2026-11-11 against Paraguay's exemption and visa-on-arrival lists as compiled (see research-py-official.md).",
   "source": "https://www.mre.gov.py/",
   "date": "2026-11-11"
+ },
+ "AD:TT": {
+  "status": "visa on arrival",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "AE:TT": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "AF:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "AG:TT": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "AM:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "AO:TT": {
+  "status": "visa on arrival",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "AZ:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "BB:TT": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "BD:TT": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "BF:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "BH:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "BI:TT": {
+  "status": "visa on arrival",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "BJ:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "BN:TT": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "BO:TT": {
+  "status": "visa on arrival",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "BS:TT": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "BT:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "BW:TT": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "BY:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "BZ:TT": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "CA:TT": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "CD:TT": {
+  "status": "visa on arrival",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "CF:TT": {
+  "status": "visa on arrival",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "CG:TT": {
+  "status": "visa on arrival",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "CI:TT": {
+  "status": "visa on arrival",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "CM:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "CN:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "CV:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "DJ:TT": {
+  "status": "visa on arrival",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "DM:TT": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "DZ:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "EG:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "ER:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "ET:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "FJ:TT": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "FM:TT": {
+  "status": "visa on arrival",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "GA:TT": {
+  "status": "visa on arrival",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "GB:TT": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "GD:TT": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "GE:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "GH:TT": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "GM:TT": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "GN:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "GQ:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "GW:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "GY:TT": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "HK:TT": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "HT:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "ID:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "IE:TT": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "IQ:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "IR:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "JM:TT": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "JO:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "KE:TT": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "KG:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "KH:TT": {
+  "status": "visa on arrival",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "KI:TT": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "KM:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "KN:TT": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "KP:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "KW:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "KZ:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "LA:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "LB:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "LC:TT": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "LK:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "LR:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "LS:TT": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "LY:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "MA:TT": {
+  "status": "visa on arrival",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "MC:TT": {
+  "status": "visa on arrival",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "MD:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "ME:TT": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "MG:TT": {
+  "status": "visa on arrival",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "MH:TT": {
+  "status": "visa on arrival",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "MK:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "ML:TT": {
+  "status": "visa on arrival",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "MM:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "MN:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "MO:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "MR:TT": {
+  "status": "visa on arrival",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "MU:TT": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "MV:TT": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "MW:TT": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "MY:TT": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "MZ:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "NA:TT": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "NE:TT": {
+  "status": "visa on arrival",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "NG:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "NP:TT": {
+  "status": "visa on arrival",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "NR:TT": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "OM:TT": {
+  "status": "visa on arrival",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "PG:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "PK:TT": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "PS:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "PW:TT": {
+  "status": "visa on arrival",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "PY:TT": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "QA:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "RW:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "SA:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "SB:TT": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "SC:TT": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "SD:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "SG:TT": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "SL:TT": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "SM:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "SN:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "SO:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "SR:TT": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "SS:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "ST:TT": {
+  "status": "visa on arrival",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "SY:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "SZ:TT": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "TD:TT": {
+  "status": "visa on arrival",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "TG:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "TH:TT": {
+  "status": "visa on arrival",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "TJ:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "TL:TT": {
+  "status": "visa on arrival",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "TM:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "TN:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "TO:TT": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "TV:TT": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "TW:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "TZ:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "UA:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "UG:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "UZ:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "VA:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "VC:TT": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "VE:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "VN:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "VU:TT": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "WS:TT": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "XK:TT": {
+  "status": "e-visa",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "YE:TT": {
+  "status": "visa on arrival",
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "ZM:TT": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
+ },
+ "ZW:TT": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Trinidad and Tobago's exemption, arrival-waiver and eVisa lists as compiled (see research-tt-official.md).",
+  "source": "https://nationalsecurity.gov.tt/",
+  "date": "2026-11-11"
  }
 }
