@@ -56784,7 +56784,8 @@
   "date": "2026-11-11"
  },
  "CH:PE": {
-  "status": "visa required",
+  "status": "visa free",
+  "days": 90,
   "reason": "Settled 2026-11-11 against Peru's MFA visa requirement lists as compiled (see research-pe-official.md).",
   "source": "https://www.gob.pe/",
   "date": "2026-11-11"
@@ -57000,7 +57001,8 @@
   "date": "2026-11-11"
  },
  "PA:PE": {
-  "status": "visa required",
+  "status": "visa free",
+  "days": 90,
   "reason": "Settled 2026-11-11 against Peru's MFA visa requirement lists as compiled (see research-pe-official.md).",
   "source": "https://www.gob.pe/",
   "date": "2026-11-11"
@@ -57069,7 +57071,8 @@
   "date": "2026-11-11"
  },
  "SR:PE": {
-  "status": "visa required",
+  "status": "visa free",
+  "days": 90,
   "reason": "Settled 2026-11-11 against Peru's MFA visa requirement lists as compiled (see research-pe-official.md).",
   "source": "https://www.gob.pe/",
   "date": "2026-11-11"
