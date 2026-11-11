@@ -33557,5 +33557,18 @@
   "reason": "Settled 2026-11-11 against the official K-ETA eligible-countries table and the MOJ temporary-exemption notice (see research-kr-official.md).",
   "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
   "date": "2026-11-11"
+ },
+ "SA:SG": {
+  "status": "visa free",
+  "days": 30,
+  "reason": "Saudi Arabia is in ICA's 30-day visa-exempt group (GCC states, named in the 30-day list); the seed left the stay blank.",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "date": "2026-11-11"
+ },
+ "SS:SG": {
+  "status": "e-visa",
+  "reason": "South Sudan is on ICA's Assessment Level II list — a visa (e-visa via a local contact or authorised agent, with a Letter of Introduction) is required; the seed's visa-free entry was wrong.",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "date": "2026-11-11"
  }
 }

@@ -12,9 +12,10 @@
   "note": "No visa is required for a short-term stay of up to 90 days for tourism, business or visiting friends or relatives. Landing permission is granted by an immigration officer on arrival; a visa exemption does not guarantee entry."
  },
  "CN:SG": {
-  "date": "2026-10-25",
-  "source": "https://www.ica.gov.sg/news-and-publications/newsroom/media-release/mutual-30-day-visa-exemption-arrangement-between-singapore-and-the-people-s-republic-of-china",
-  "source_name": "Singapore ICA — mutual 30-day visa exemption media release"
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "China passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. The exemption rests on the China–Singapore mutual visa-exemption arrangement in force since 9 February 2024, covering ordinary passports. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
  },
  "US:CN": {
   "date": "2026-11-11",
@@ -5582,144 +5583,172 @@
   "note": "China passport holders need a visa for South Korea — a short-term visit (C-3) visa from a Korean embassy, consulate or Korea Visa Application Center before travel. Exception: since 29 September 2025, mainland Chinese group tours of 3 or more people booked through designated travel agencies may enter visa-free for 15 days (scheme runs to 31 December 2026). A separate scheme allows direct arrivals at Jeju Island to stay in Jeju Province visa-free for 30 days (a K-ETA approval is also required before the flight)."
  },
  "US:SG": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
-  "source_name": "Singapore Immigration & Checkpoints Authority — visa requirements; MFA stay groupings"
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "United States passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 90 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
  },
  "AU:SG": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
-  "source_name": "Singapore Immigration & Checkpoints Authority — visa requirements; MFA stay groupings"
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Australia passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 90 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
  },
  "GB:SG": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
-  "source_name": "Singapore Immigration & Checkpoints Authority — visa requirements; MFA stay groupings"
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "United Kingdom passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 90 days. British passports without proof of the right of abode in the United Kingdom are granted 30 days instead. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
  },
  "KR:SG": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
-  "source_name": "Singapore Immigration & Checkpoints Authority — visa requirements; MFA stay groupings"
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "South Korea passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 90 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
  },
  "JP:SG": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
-  "source_name": "Singapore Immigration & Checkpoints Authority — visa requirements; MFA stay groupings"
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Japan passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
  },
  "FR:SG": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
-  "source_name": "Singapore Immigration & Checkpoints Authority — visa requirements; MFA stay groupings"
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "France passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 90 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
  },
  "DE:SG": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
-  "source_name": "Singapore Immigration & Checkpoints Authority — visa requirements; MFA stay groupings"
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Germany passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 90 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
  },
  "IT:SG": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
-  "source_name": "Singapore Immigration & Checkpoints Authority — visa requirements; MFA stay groupings"
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Italy passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 90 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
  },
  "ES:SG": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
-  "source_name": "Singapore Immigration & Checkpoints Authority — visa requirements; MFA stay groupings"
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Spain passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 90 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
  },
  "FI:SG": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
-  "source_name": "Singapore Immigration & Checkpoints Authority — visa requirements; MFA stay groupings"
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Finland passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 90 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
  },
  "NL:SG": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
-  "source_name": "Singapore Immigration & Checkpoints Authority — visa requirements; MFA stay groupings"
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Netherlands passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 90 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
  },
  "BE:SG": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
-  "source_name": "Singapore Immigration & Checkpoints Authority — visa requirements; MFA stay groupings"
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Belgium passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 90 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
  },
  "DK:SG": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
-  "source_name": "Singapore Immigration & Checkpoints Authority — visa requirements; MFA stay groupings"
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Denmark passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 90 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
  },
  "SE:SG": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
-  "source_name": "Singapore Immigration & Checkpoints Authority — visa requirements; MFA stay groupings"
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Sweden passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 90 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
  },
  "NO:SG": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
-  "source_name": "Singapore Immigration & Checkpoints Authority — visa requirements; MFA stay groupings"
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Norway passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 90 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
  },
  "CH:SG": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
-  "source_name": "Singapore Immigration & Checkpoints Authority — visa requirements; MFA stay groupings"
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Switzerland passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 90 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
  },
  "AT:SG": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
-  "source_name": "Singapore Immigration & Checkpoints Authority — visa requirements; MFA stay groupings"
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Austria passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 90 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
  },
  "IE:SG": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
-  "source_name": "Singapore Immigration & Checkpoints Authority — visa requirements; MFA stay groupings"
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Ireland passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 90 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
  },
  "NZ:SG": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
-  "source_name": "Singapore Immigration & Checkpoints Authority — visa requirements; MFA stay groupings"
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "New Zealand passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 90 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
  },
  "CA:SG": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
-  "source_name": "Singapore Immigration & Checkpoints Authority — visa requirements; MFA stay groupings"
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Canada passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
  },
  "PT:SG": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
-  "source_name": "Singapore Immigration & Checkpoints Authority — visa requirements; MFA stay groupings"
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Portugal passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 90 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
  },
  "GR:SG": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
-  "source_name": "Singapore Immigration & Checkpoints Authority — visa requirements; MFA stay groupings"
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Greece passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 90 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
  },
  "PL:SG": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
-  "source_name": "Singapore Immigration & Checkpoints Authority — visa requirements; MFA stay groupings"
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Poland passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 90 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
  },
  "CZ:SG": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
-  "source_name": "Singapore Immigration & Checkpoints Authority — visa requirements; MFA stay groupings"
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Czechia passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 90 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
  },
  "HU:SG": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
-  "source_name": "Singapore Immigration & Checkpoints Authority — visa requirements; MFA stay groupings"
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Hungary passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 90 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
  },
  "AE:SG": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
-  "source_name": "Singapore Immigration & Checkpoints Authority — visa requirements; MFA stay groupings"
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "United Arab Emirates passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Holders of UAE temporary passports are not covered by the exemption and need a visa. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
  },
  "MY:SG": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
-  "source_name": "Singapore Immigration & Checkpoints Authority — visa requirements; MFA stay groupings"
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Malaysia passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
  },
  "IL:SG": {
-  "date": "2026-10-25",
+  "date": "2026-11-11",
   "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
-  "source_name": "Singapore Immigration & Checkpoints Authority — visa requirements; MFA stay groupings"
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Israel passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
  },
  "SG:HK": {
   "date": "2026-10-25",
@@ -93549,5 +93578,1019 @@
   "source": "https://www.k-eta.go.kr/portal/apply/viewstep1.do",
   "source_name": "Korea Electronic Travel Authorization (K-ETA) — eligible countries & MOJ temporary exemption notice",
   "note": "Bangladesh passport holders need a visa for South Korea — a short-term visit (C-3) visa from a Korean embassy, consulate or Korea Visa Application Center before travel. Bangladesh is on the exclusion list of the Jeju visa-waiver scheme, so the visa is needed for Jeju too."
+ },
+ "LA:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Laos passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "SC:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Seychelles passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "TZ:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Tanzania passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "PE:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Peru passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "AO:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Angola passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "LR:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Liberia passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "MG:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Madagascar passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "OM:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Oman passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "LS:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Lesotho passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "ST:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "São Tomé & Príncipe passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "KN:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "St. Kitts & Nevis passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "IS:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Iceland passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "PS:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Palestinian Territories is an Assessment Level II country for Singapore: a visa is required before travel, issued as an e-visa — the application is lodged online with ICA through a Singapore local contact or strategic partner, or through an authorised visa agent abroad (SGD 30 fee; usually decided in 3 working days), and a Letter of Introduction for Visa Application from the local contact or agent is also required. Transit is airside only. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "TV:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Tuvalu passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "PG:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Papua New Guinea passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "EG:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Egypt is an Assessment Level II country for Singapore: a visa is required before travel, issued as an e-visa — the application is lodged online with ICA through a Singapore local contact or strategic partner, or through an authorised visa agent abroad (SGD 30 fee; usually decided in 3 working days), and a Letter of Introduction for Visa Application from the local contact or agent is also required. Transit is airside only. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "VE:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Venezuela passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "BR:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Brazil passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "GD:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Grenada passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "KE:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Kenya passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "TD:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Chad passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "LU:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Luxembourg passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 90 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "GN:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Guinea passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "GW:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Guinea-Bissau passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "SK:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Slovakia passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 90 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "ZM:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Zambia passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "KW:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Kuwait passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "YE:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Yemen is an Assessment Level II country for Singapore: a visa is required before travel, issued as an e-visa — the application is lodged online with ICA through a Singapore local contact or strategic partner, or through an authorised visa agent abroad (SGD 30 fee; usually decided in 3 working days), and a Letter of Introduction for Visa Application from the local contact or agent is also required. Transit is airside only. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "UA:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Ukraine is an Assessment Level I country for Singapore: a visa is required before travel, issued as an e-visa — the application is lodged online with ICA through a Singapore local contact or strategic partner, or through an authorised visa agent abroad (SGD 30 fee; usually decided in 3 working days); travel with the e-visa printout. In transit, nationals may use the 96-hour Visa-Free Transit Facility with an onward ticket when the routing conditions are met. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "AF:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Afghanistan is an Assessment Level II country for Singapore: a visa is required before travel, issued as an e-visa — the application is lodged online with ICA through a Singapore local contact or strategic partner, or through an authorised visa agent abroad (SGD 30 fee; usually decided in 3 working days), and a Letter of Introduction for Visa Application from the local contact or agent is also required. Transit is airside only. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "LI:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Liechtenstein passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "NI:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Nicaragua passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "WS:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Samoa passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "BB:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Barbados passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "SD:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Sudan is an Assessment Level II country for Singapore: a visa is required before travel, issued as an e-visa — the application is lodged online with ICA through a Singapore local contact or strategic partner, or through an authorised visa agent abroad (SGD 30 fee; usually decided in 3 working days), and a Letter of Introduction for Visa Application from the local contact or agent is also required. Transit is airside only. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "MX:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Mexico passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "ML:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Mali is an Assessment Level II country for Singapore: a visa is required before travel, issued as an e-visa — the application is lodged online with ICA through a Singapore local contact or strategic partner, or through an authorised visa agent abroad (SGD 30 fee; usually decided in 3 working days), and a Letter of Introduction for Visa Application from the local contact or agent is also required. Transit is airside only. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "BG:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Bulgaria passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 90 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "CI:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Côte d’Ivoire passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "MD:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Moldova is an Assessment Level I country for Singapore: a visa is required before travel, issued as an e-visa — the application is lodged online with ICA through a Singapore local contact or strategic partner, or through an authorised visa agent abroad (SGD 30 fee; usually decided in 3 working days); travel with the e-visa printout. In transit, nationals may use the 96-hour Visa-Free Transit Facility with an onward ticket when the routing conditions are met. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "BW:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Botswana passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "VC:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "St. Vincent & Grenadines passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "SI:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Slovenia passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 90 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "VN:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Vietnam passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "CR:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Costa Rica passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "LV:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Latvia passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 90 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "IR:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Iran is an Assessment Level II country for Singapore: a visa is required before travel, issued as an e-visa — the application is lodged online with ICA through a Singapore local contact or strategic partner, or through an authorised visa agent abroad (SGD 30 fee; usually decided in 3 working days), and a Letter of Introduction for Visa Application from the local contact or agent is also required. Transit is airside only. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "NR:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Nauru passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "MM:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Myanmar (Burma) passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "IQ:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Iraq is an Assessment Level II country for Singapore: a visa is required before travel, issued as an e-visa — the application is lodged online with ICA through a Singapore local contact or strategic partner, or through an authorised visa agent abroad (SGD 30 fee; usually decided in 3 working days), and a Letter of Introduction for Visa Application from the local contact or agent is also required. Transit is airside only. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "LK:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Sri Lanka passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "MW:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Malawi passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "ET:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Ethiopia passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "ME:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Montenegro passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "MN:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Mongolia passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "HK:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Hong Kong SAR China passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. This covers Hong Kong SAR China Special Administrative Region passports. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "KH:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Cambodia passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "EC:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Ecuador passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "AM:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Armenia is an Assessment Level I country for Singapore: a visa is required before travel, issued as an e-visa — the application is lodged online with ICA through a Singapore local contact or strategic partner, or through an authorised visa agent abroad (SGD 30 fee; usually decided in 3 working days); travel with the e-visa printout. In transit, nationals may use the 96-hour Visa-Free Transit Facility with an onward ticket when the routing conditions are met. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "DO:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Dominican Republic passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "BY:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Belarus is an Assessment Level I country for Singapore: a visa is required before travel, issued as an e-visa — the application is lodged online with ICA through a Singapore local contact or strategic partner, or through an authorised visa agent abroad (SGD 30 fee; usually decided in 3 working days); travel with the e-visa printout. In transit, nationals may use the 96-hour Visa-Free Transit Facility with an onward ticket when the routing conditions are met. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "BO:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Bolivia passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "CF:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Central African Republic passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "KZ:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Kazakhstan is an Assessment Level I country for Singapore: a visa is required before travel, issued as an e-visa — the application is lodged online with ICA through a Singapore local contact or strategic partner, or through an authorised visa agent abroad (SGD 30 fee; usually decided in 3 working days); travel with the e-visa printout. In transit, nationals may use the 96-hour Visa-Free Transit Facility with an onward ticket when the routing conditions are met. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "NP:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Nepal passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "SM:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "San Marino passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "SV:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "El Salvador passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "LC:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "St. Lucia passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "ER:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Eritrea passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "BT:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Bhutan passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "AZ:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Azerbaijan is an Assessment Level I country for Singapore: a visa is required before travel, issued as an e-visa — the application is lodged online with ICA through a Singapore local contact or strategic partner, or through an authorised visa agent abroad (SGD 30 fee; usually decided in 3 working days); travel with the e-visa printout. In transit, nationals may use the 96-hour Visa-Free Transit Facility with an onward ticket when the routing conditions are met. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "BJ:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Benin passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "CY:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Cyprus passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 90 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "PA:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Panama passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "UG:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Uganda passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "ID:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Indonesia passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "AR:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Argentina passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "NE:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Niger passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "TR:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Türkiye passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "MV:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Maldives passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "TM:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Turkmenistan is an Assessment Level I country for Singapore: a visa is required before travel, issued as an e-visa — the application is lodged online with ICA through a Singapore local contact or strategic partner, or through an authorised visa agent abroad (SGD 30 fee; usually decided in 3 working days); travel with the e-visa printout. In transit, nationals may use the 96-hour Visa-Free Transit Facility with an onward ticket when the routing conditions are met. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "TN:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Tunisia is an Assessment Level II country for Singapore: a visa is required before travel, issued as an e-visa — the application is lodged online with ICA through a Singapore local contact or strategic partner, or through an authorised visa agent abroad (SGD 30 fee; usually decided in 3 working days), and a Letter of Introduction for Visa Application from the local contact or agent is also required. Transit is airside only. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "CG:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Congo - Brazzaville passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "BD:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Bangladesh is an Assessment Level II country for Singapore: a visa is required before travel, issued as an e-visa — the application is lodged online with ICA through a Singapore local contact or strategic partner, or through an authorised visa agent abroad (SGD 30 fee; usually decided in 3 working days), and a Letter of Introduction for Visa Application from the local contact or agent is also required. Transit is airside only. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "SS:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "South Sudan is an Assessment Level II country for Singapore: a visa is required before travel, issued as an e-visa — the application is lodged online with ICA through a Singapore local contact or strategic partner, or through an authorised visa agent abroad (SGD 30 fee; usually decided in 3 working days), and a Letter of Introduction for Visa Application from the local contact or agent is also required. Transit is airside only. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "BA:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Bosnia & Herzegovina passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "DJ:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Djibouti passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "CD:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Congo - Kinshasa passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "HT:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Haiti passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "GA:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Gabon passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "BZ:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Belize passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "BI:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Burundi passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "PW:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Palau passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "CM:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Cameroon passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "KP:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "North Korea is an Assessment Level I country for Singapore: a visa is required before travel, issued as an e-visa — the application is lodged online with ICA through a Singapore local contact or strategic partner, or through an authorised visa agent abroad (SGD 30 fee; usually decided in 3 working days); travel with the e-visa printout. In transit, nationals may use the 96-hour Visa-Free Transit Facility with an onward ticket when the routing conditions are met. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "AD:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Andorra passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "SZ:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Eswatini passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "LY:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Libya is an Assessment Level II country for Singapore: a visa is required before travel, issued as an e-visa — the application is lodged online with ICA through a Singapore local contact or strategic partner, or through an authorised visa agent abroad (SGD 30 fee; usually decided in 3 working days), and a Letter of Introduction for Visa Application from the local contact or agent is also required. Transit is airside only. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "PY:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Paraguay passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "HN:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Honduras passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "XK:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Kosovo is an Assessment Level II country for Singapore: a visa is required before travel, issued as an e-visa — the application is lodged online with ICA through a Singapore local contact or strategic partner, or through an authorised visa agent abroad (SGD 30 fee; usually decided in 3 working days), and a Letter of Introduction for Visa Application from the local contact or agent is also required. Transit is airside only. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "GE:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Georgia is an Assessment Level I country for Singapore: a visa is required before travel, issued as an e-visa — the application is lodged online with ICA through a Singapore local contact or strategic partner, or through an authorised visa agent abroad (SGD 30 fee; usually decided in 3 working days); travel with the e-visa printout. In transit, nationals may use the 96-hour Visa-Free Transit Facility with an onward ticket when the routing conditions are met. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "TH:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Thailand passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "TT:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Trinidad & Tobago passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "HR:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Croatia passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 90 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "GQ:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Equatorial Guinea passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "RS:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Serbia passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "RO:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Romania passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 90 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "GM:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Gambia passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "JM:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Jamaica passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "BF:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Burkina Faso passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "BS:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Bahamas passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "NA:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Namibia passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "MA:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Morocco is an Assessment Level II country for Singapore: a visa is required before travel, issued as an e-visa — the application is lodged online with ICA through a Singapore local contact or strategic partner, or through an authorised visa agent abroad (SGD 30 fee; usually decided in 3 working days), and a Letter of Introduction for Visa Application from the local contact or agent is also required. Transit is airside only. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "SB:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Solomon Islands passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "UZ:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Uzbekistan is an Assessment Level I country for Singapore: a visa is required before travel, issued as an e-visa — the application is lodged online with ICA through a Singapore local contact or strategic partner, or through an authorised visa agent abroad (SGD 30 fee; usually decided in 3 working days); travel with the e-visa printout. In transit, nationals may use the 96-hour Visa-Free Transit Facility with an onward ticket when the routing conditions are met. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "IN:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "India is an Assessment Level I country for Singapore: a visa is required before travel, issued as an e-visa — the application is lodged online with ICA through a Singapore local contact or strategic partner, or through an authorised visa agent abroad (SGD 30 fee; usually decided in 3 working days); travel with the e-visa printout. In transit, the 96-hour Visa-Free Transit Facility can apply if you hold a valid visa or long-term pass for Australia, Canada, Japan, New Zealand, Germany, Switzerland, the UK or the US and an onward ticket within 96 hours. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "VA:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Vatican City passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "BN:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Brunei passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "CV:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Cape Verde passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "SA:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Saudi Arabia passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "SL:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Sierra Leone passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "LB:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Lebanon is an Assessment Level II country for Singapore: a visa is required before travel, issued as an e-visa — the application is lodged online with ICA through a Singapore local contact or strategic partner, or through an authorised visa agent abroad (SGD 30 fee; usually decided in 3 working days), and a Letter of Introduction for Visa Application from the local contact or agent is also required. Transit is airside only. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "VU:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Vanuatu passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "QA:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Qatar passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "SY:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Syria is an Assessment Level II country for Singapore: a visa is required before travel, issued as an e-visa — the application is lodged online with ICA through a Singapore local contact or strategic partner, or through an authorised visa agent abroad (SGD 30 fee; usually decided in 3 working days), and a Letter of Introduction for Visa Application from the local contact or agent is also required. Transit is airside only. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "ZA:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "South Africa passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "AG:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Antigua & Barbuda passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "MC:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Monaco passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "MH:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Marshall Islands passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "UY:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Uruguay passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "CU:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Cuba passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "TO:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Tonga passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "SN:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Senegal passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "MT:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Malta passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 90 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "MO:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Macao SAR China passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. This covers Macao SAR China Special Administrative Region passports. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "DZ:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Algeria is an Assessment Level II country for Singapore: a visa is required before travel, issued as an e-visa — the application is lodged online with ICA through a Singapore local contact or strategic partner, or through an authorised visa agent abroad (SGD 30 fee; usually decided in 3 working days), and a Letter of Introduction for Visa Application from the local contact or agent is also required. Transit is airside only. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "EE:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Estonia passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 90 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "GH:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Ghana passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "KI:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Kiribati passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "SR:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Suriname passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "CO:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Colombia passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "AL:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Albania passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "KG:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Kyrgyzstan is an Assessment Level I country for Singapore: a visa is required before travel, issued as an e-visa — the application is lodged online with ICA through a Singapore local contact or strategic partner, or through an authorised visa agent abroad (SGD 30 fee; usually decided in 3 working days); travel with the e-visa printout. In transit, nationals may use the 96-hour Visa-Free Transit Facility with an onward ticket when the routing conditions are met. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "RW:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Rwanda passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "CL:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Chile passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "BH:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Bahrain passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "TG:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Togo passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "PK:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Pakistan is an Assessment Level II country for Singapore: a visa is required before travel, issued as an e-visa — the application is lodged online with ICA through a Singapore local contact or strategic partner, or through an authorised visa agent abroad (SGD 30 fee; usually decided in 3 working days), and a Letter of Introduction for Visa Application from the local contact or agent is also required. Transit is airside only. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "TW:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Taiwan passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Holders without the right of abode in Taiwan must also hold a valid Taiwan re-entry permit. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "FJ:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Fiji passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "MK:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "North Macedonia passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "SO:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Somalia is an Assessment Level II country for Singapore: a visa is required before travel, issued as an e-visa — the application is lodged online with ICA through a Singapore local contact or strategic partner, or through an authorised visa agent abroad (SGD 30 fee; usually decided in 3 working days), and a Letter of Introduction for Visa Application from the local contact or agent is also required. Transit is airside only. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "PH:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Philippines passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "MR:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Mauritania passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "ZW:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Zimbabwe passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "RU:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Russia is an Assessment Level I country for Singapore: a visa is required before travel, issued as an e-visa — the application is lodged online with ICA through a Singapore local contact or strategic partner, or through an authorised visa agent abroad (SGD 30 fee; usually decided in 3 working days); travel with the e-visa printout. In transit, nationals may use the 96-hour Visa-Free Transit Facility with an onward ticket when the routing conditions are met. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "DM:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Dominica passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "TJ:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Tajikistan is an Assessment Level I country for Singapore: a visa is required before travel, issued as an e-visa — the application is lodged online with ICA through a Singapore local contact or strategic partner, or through an authorised visa agent abroad (SGD 30 fee; usually decided in 3 working days); travel with the e-visa printout. In transit, nationals may use the 96-hour Visa-Free Transit Facility with an onward ticket when the routing conditions are met. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "MZ:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Mozambique passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "GT:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Guatemala passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "LT:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Lithuania passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 90 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "NG:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Nigeria is an Assessment Level II country for Singapore: a visa is required before travel, issued as an e-visa — the application is lodged online with ICA through a Singapore local contact or strategic partner, or through an authorised visa agent abroad (SGD 30 fee; usually decided in 3 working days), and a Letter of Introduction for Visa Application from the local contact or agent is also required. Transit is airside only. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "GY:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Guyana passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "MU:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Mauritius passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "FM:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Micronesia passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "KM:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Comoros passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "TL:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Timor-Leste passport holders enter Singapore visa-free; the visit pass granted on arrival allows up to 30 days. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
+ },
+ "JO:SG": {
+  "date": "2026-11-11",
+  "source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+  "source_name": "Immigration & Checkpoints Authority (ICA) — visa requirements & Assessment Level lists",
+  "note": "Jordan is an Assessment Level II country for Singapore: a visa is required before travel, issued as an e-visa — the application is lodged online with ICA through a Singapore local contact or strategic partner, or through an authorised visa agent abroad (SGD 30 fee; usually decided in 3 working days), and a Letter of Introduction for Visa Application from the local contact or agent is also required. Transit is airside only. Every traveller must also submit the free SG Arrival Card online within 3 days before arrival — ICA states expressly that the card is not a visa."
  }
 }
