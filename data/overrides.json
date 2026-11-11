@@ -53989,5 +53989,60 @@
   "reason": "Settled 2026-11-11 against Moldova's Law 257 visa lists as compiled (see research-md-official.md).",
   "source": "https://mfa.gov.md/",
   "date": "2026-11-11"
+ },
+ "AZ:ME": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Montenegro's Regulation on Visa Regime as compiled (see research-me-official.md).",
+  "source": "https://www.gov.me/en/",
+  "date": "2026-11-11"
+ },
+ "BH:ME": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Montenegro's Regulation on Visa Regime as compiled (see research-me-official.md).",
+  "source": "https://www.gov.me/en/",
+  "date": "2026-11-11"
+ },
+ "BY:ME": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Montenegro's Regulation on Visa Regime as compiled (see research-me-official.md).",
+  "source": "https://www.gov.me/en/",
+  "date": "2026-11-11"
+ },
+ "NR:ME": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Montenegro's Regulation on Visa Regime as compiled (see research-me-official.md).",
+  "source": "https://www.gov.me/en/",
+  "date": "2026-11-11"
+ },
+ "QA:ME": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Montenegro's Regulation on Visa Regime as compiled (see research-me-official.md).",
+  "source": "https://www.gov.me/en/",
+  "date": "2026-11-11"
+ },
+ "RU:ME": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Montenegro's Regulation on Visa Regime as compiled (see research-me-official.md).",
+  "source": "https://www.gov.me/en/",
+  "date": "2026-11-11"
+ },
+ "SA:ME": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Montenegro's Regulation on Visa Regime as compiled (see research-me-official.md).",
+  "source": "https://www.gov.me/en/",
+  "date": "2026-11-11"
+ },
+ "TR:ME": {
+  "status": "visa required",
+  "reason": "Settled 2026-11-11 against Montenegro's Regulation on Visa Regime as compiled (see research-me-official.md).",
+  "source": "https://www.gov.me/en/",
+  "date": "2026-11-11"
+ },
+ "XK:ME": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Montenegro's Regulation on Visa Regime as compiled (see research-me-official.md).",
+  "source": "https://www.gov.me/en/",
+  "date": "2026-11-11"
  }
 }

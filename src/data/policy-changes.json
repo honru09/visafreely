@@ -1,5 +1,41 @@
 [
  {
+  "passport": "BY",
+  "destination": "ME",
+  "date": "2026-11-01",
+  "from_status": "visa free",
+  "to_status": "visa required",
+  "summary": "Montenegro withdrew visa-free entry for Belarus citizens on 1 November 2026 as it aligns its visa regime with the European Union; a visa is now required in advance.",
+  "source": "https://www.gov.me/en/"
+ },
+ {
+  "passport": "RU",
+  "destination": "ME",
+  "date": "2026-11-01",
+  "from_status": "visa free",
+  "to_status": "visa required",
+  "summary": "Montenegro withdrew visa-free entry for Russia citizens on 1 November 2026 as it aligns its visa regime with the European Union; a visa is now required in advance.",
+  "source": "https://www.gov.me/en/"
+ },
+ {
+  "passport": "SA",
+  "destination": "ME",
+  "date": "2026-11-01",
+  "from_status": "visa free",
+  "to_status": "visa required",
+  "summary": "Montenegro withdrew visa-free entry for Saudi Arabia citizens on 1 November 2026 as it aligns its visa regime with the European Union; a visa is now required in advance.",
+  "source": "https://www.gov.me/en/"
+ },
+ {
+  "passport": "TR",
+  "destination": "ME",
+  "date": "2026-11-01",
+  "from_status": "visa free",
+  "to_status": "visa required",
+  "summary": "Montenegro withdrew visa-free entry for Türkiye citizens on 1 November 2026 as it aligns its visa regime with the European Union; a visa is now required in advance.",
+  "source": "https://www.gov.me/en/"
+ },
+ {
   "date": "2026-10-31",
   "destination": "HN",
   "title": "Honduras resumes visa-free entry for British passport holders",
@@ -344,6 +380,15 @@
   "source_name": "Department of Foreign Affairs, Philippines"
  },
  {
+  "passport": "AZ",
+  "destination": "ME",
+  "date": "2026-01-15",
+  "from_status": "visa free",
+  "to_status": "visa required",
+  "summary": "Montenegro withdrew visa-free entry for Azerbaijan citizens on 15 January 2026; a visa is now required in advance.",
+  "source": "https://www.gov.me/en/"
+ },
+ {
   "date": "2026-01-02",
   "destination": "TR",
   "title": "China becomes visa-exempt for Türkiye",
@@ -487,6 +532,42 @@
   "summary": "Under a 12-month trial from 3 November 2025, passport holders of China and Pacific Islands Forum countries who travel directly from Australia on an eligible Australian visa can visit New Zealand for up to 3 months on an NZeTA instead of a Visitor Visa. The government later said eligible travellers may continue while the trial is evaluated.",
   "source": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
   "source_name": "Immigration New Zealand"
+ },
+ {
+  "passport": "AM",
+  "destination": "ME",
+  "date": "2025-10-29",
+  "from_status": "visa free",
+  "to_status": "visa required",
+  "summary": "Montenegro withdrew visa-free entry for Armenia citizens on 29 October 2025; a visa is now required in advance.",
+  "source": "https://www.gov.me/en/"
+ },
+ {
+  "passport": "EG",
+  "destination": "ME",
+  "date": "2025-10-29",
+  "from_status": "visa free",
+  "to_status": "visa required",
+  "summary": "Montenegro withdrew visa-free entry for Egypt citizens on 29 October 2025; a visa is now required in advance.",
+  "source": "https://www.gov.me/en/"
+ },
+ {
+  "passport": "KW",
+  "destination": "ME",
+  "date": "2025-10-29",
+  "from_status": "visa free",
+  "to_status": "visa required",
+  "summary": "Montenegro withdrew visa-free entry for Kuwait citizens on 29 October 2025; a visa is now required in advance.",
+  "source": "https://www.gov.me/en/"
+ },
+ {
+  "passport": "UZ",
+  "destination": "ME",
+  "date": "2025-10-29",
+  "from_status": "visa free",
+  "to_status": "visa required",
+  "summary": "Montenegro withdrew visa-free entry for Uzbekistan citizens on 29 October 2025; a visa is now required in advance.",
+  "source": "https://www.gov.me/en/"
  },
  {
   "date": "2025-10-20",
