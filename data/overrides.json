@@ -58806,5 +58806,12 @@
   "reason": "Settled 2026-11-11 against Nepal's Department of Immigration rules as compiled (see research-np-official.md).",
   "source": "https://immigration.gov.np/",
   "date": "2026-11-11"
+ },
+ "XK:SC": {
+  "status": "eta",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against the SEBS authorisation rules as compiled (see research-sc-official.md).",
+  "source": "https://seychelles.govtas.com/",
+  "date": "2026-11-11"
  }
 }
