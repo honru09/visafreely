@@ -156905,5 +156905,1193 @@
   "source": "https://www.govt.lc/",
   "source_name": "Saint Lucia visa requirements (archived official list) with IATA Timatic, as compiled",
   "note": "Afghanistan passport holders must obtain a visa for St. Lucia before travel."
+ },
+ "KN:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "St. Kitts & Nevis passport holders may enter Suriname without a visa for up to 6 months, with no entry fee."
+ },
+ "BB:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Barbados passport holders may enter Suriname without a visa for up to 6 months, with no entry fee."
+ },
+ "AG:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Antigua & Barbuda passport holders may enter Suriname without a visa for up to 6 months, with no entry fee."
+ },
+ "TT:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Trinidad & Tobago passport holders may enter Suriname without a visa for up to 6 months, with no entry fee."
+ },
+ "GY:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Guyana passport holders may enter Suriname without a visa for up to 6 months, with no entry fee."
+ },
+ "BZ:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Belize passport holders may enter Suriname without a visa for up to 6 months, with no entry fee."
+ },
+ "LC:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "St. Lucia passport holders may enter Suriname without a visa for up to 6 months, with no entry fee."
+ },
+ "VA:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Vatican City passport holders may enter Suriname without a visa for up to 6 months, with no entry fee."
+ },
+ "BS:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Bahamas passport holders may enter Suriname without a visa for up to 6 months, with no entry fee."
+ },
+ "DM:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Dominica passport holders may enter Suriname without a visa for up to 6 months, with no entry fee."
+ },
+ "VC:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "St. Vincent & Grenadines passport holders may enter Suriname without a visa for up to 6 months, with no entry fee."
+ },
+ "JM:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Jamaica passport holders may enter Suriname without a visa for up to 6 months, with no entry fee."
+ },
+ "GD:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Grenada passport holders may enter Suriname without a visa for up to 6 months, with no entry fee."
+ },
+ "LK:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Sri Lanka passport holders must obtain an e-Visa for Suriname before travel (visa requirement reimposed on 1 May 2023)."
+ },
+ "AF:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Afghanistan passport holders must obtain an e-Visa for Suriname before travel (visa requirement reimposed on 1 May 2023)."
+ },
+ "ER:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Eritrea passport holders must obtain an e-Visa for Suriname before travel (visa requirement reimposed on 1 May 2023)."
+ },
+ "GH:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Ghana passport holders must obtain an e-Visa for Suriname before travel (visa requirement reimposed on 1 May 2023)."
+ },
+ "VE:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Venezuela passport holders must obtain an e-Visa for Suriname before travel (visa requirement reimposed on 1 May 2023)."
+ },
+ "DO:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Dominican Republic passport holders must obtain an e-Visa for Suriname before travel (visa requirement reimposed on 1 May 2023). Exception: entry without a visa for up to 90 days is possible when holding a valid Schengen or US visa, on payment of the entry fee."
+ },
+ "NG:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Nigeria passport holders must obtain an e-Visa for Suriname before travel (visa requirement reimposed on 1 May 2023)."
+ },
+ "IN:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "India passport holders must obtain an e-Visa for Suriname before travel (visa requirement reimposed on 1 May 2023)."
+ },
+ "KE:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Kenya passport holders must obtain an e-Visa for Suriname before travel (visa requirement reimposed on 1 May 2023)."
+ },
+ "NP:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Nepal passport holders must obtain an e-Visa for Suriname before travel (visa requirement reimposed on 1 May 2023)."
+ },
+ "AO:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Angola passport holders must obtain an e-Visa for Suriname before travel (visa requirement reimposed on 1 May 2023)."
+ },
+ "BD:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Bangladesh passport holders must obtain an e-Visa for Suriname before travel (visa requirement reimposed on 1 May 2023)."
+ },
+ "EG:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Egypt passport holders must obtain an e-Visa for Suriname before travel (visa requirement reimposed on 1 May 2023)."
+ },
+ "CM:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Cameroon passport holders must obtain an e-Visa for Suriname before travel (visa requirement reimposed on 1 May 2023)."
+ },
+ "ZA:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "South Africa passport holders must obtain an e-Visa for Suriname before travel (visa requirement reimposed on 1 May 2023)."
+ },
+ "ZM:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Zambia passport holders must obtain an e-Visa for Suriname before travel (visa requirement reimposed on 1 May 2023)."
+ },
+ "SY:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Syria passport holders must obtain an e-Visa for Suriname before travel (visa requirement reimposed on 1 May 2023)."
+ },
+ "CU:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Cuba passport holders must obtain an e-Visa for Suriname before travel (visa requirement reimposed on 1 May 2023)."
+ },
+ "SO:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Somalia passport holders must obtain an e-Visa for Suriname before travel (visa requirement reimposed on 1 May 2023)."
+ },
+ "PK:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Pakistan passport holders must obtain an e-Visa for Suriname before travel (visa requirement reimposed on 1 May 2023)."
+ },
+ "TN:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Tunisia passport holders must obtain an e-Visa for Suriname before travel (visa requirement reimposed on 1 May 2023)."
+ },
+ "HT:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Entry and transit are refused to Haiti citizens, even when not leaving the aircraft and continuing on the same flight."
+ },
+ "CV:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Cape Verde passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "MN:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Mongolia passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "RO:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Romania passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "KH:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Cambodia passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "SN:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Senegal passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "MC:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Monaco passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "AE:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "United Arab Emirates passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "MD:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Moldova passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "NI:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Nicaragua passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "YE:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Yemen passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "AZ:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Azerbaijan passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "KR:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "South Korea passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "UY:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Uruguay passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "DJ:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Djibouti passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "NE:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Niger passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "FI:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Finland passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "CO:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Colombia passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "GQ:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Equatorial Guinea passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "SZ:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Eswatini passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "CY:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Cyprus passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "BN:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Brunei passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "CH:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Switzerland passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "FM:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Micronesia passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "MG:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Madagascar passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "SC:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Seychelles passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "SM:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "San Marino passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "SK:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Slovakia passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "FR:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "France passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "NA:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Namibia passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "ET:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Ethiopia passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "IQ:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Iraq passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "US:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "United States passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "DK:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Denmark passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "BW:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Botswana passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "BR:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Brazil passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "EE:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Estonia passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "IR:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Iran passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "BE:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Belgium passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "TL:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Timor-Leste passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "MA:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Morocco passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "RS:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Serbia passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "CL:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Chile passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "GN:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Guinea passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "HK:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Hong Kong SAR China passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "CI:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Côte d’Ivoire passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "MW:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Malawi passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "TR:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Türkiye passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "JO:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Jordan passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "LV:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Latvia passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "TZ:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Tanzania passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "HR:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Croatia passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "AT:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Austria passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "BJ:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Benin passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "PG:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Papua New Guinea passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "RU:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Russia passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "SD:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Sudan passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "SV:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "El Salvador passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "MX:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Mexico passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "EC:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Ecuador passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "NR:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Nauru passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "MR:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Mauritania passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "AR:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Argentina passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "DE:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Germany passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "RW:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Rwanda passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "TO:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Tonga passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "GT:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Guatemala passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "SS:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "South Sudan passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "XK:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Kosovo passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "KZ:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Kazakhstan passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "PL:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Poland passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "GW:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Guinea-Bissau passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "FJ:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Fiji passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "AD:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Andorra passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "GB:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "United Kingdom passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "HN:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Honduras passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "PA:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Panama passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "BG:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Bulgaria passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "KG:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Kyrgyzstan passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "SA:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Saudi Arabia passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "ES:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Spain passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "CD:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Congo - Kinshasa passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "IT:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Italy passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "NL:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Netherlands passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "SE:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Sweden passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "PS:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Palestinian Territories passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "SG:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Singapore passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "CR:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Costa Rica passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "OM:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Oman passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "GE:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Georgia passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "LB:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Lebanon passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "TM:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Turkmenistan passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "SL:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Sierra Leone passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "AM:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Armenia passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "UZ:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Uzbekistan passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "LS:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Lesotho passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "UG:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Uganda passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "MV:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Maldives passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "BH:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Bahrain passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "VU:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Vanuatu passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "TW:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Taiwan passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "GM:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Gambia passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "PW:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Palau passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "VN:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Vietnam passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "DZ:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Algeria passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "CZ:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Czechia passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "KI:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Kiribati passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "NZ:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "New Zealand passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "CG:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Congo - Brazzaville passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "JP:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Japan passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "AL:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Albania passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "KP:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "North Korea passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "BY:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Belarus passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "MM:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Myanmar (Burma) passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "PE:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Peru passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "PY:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Paraguay passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "CA:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Canada passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "TG:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Togo passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "QA:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Qatar passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "SI:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Slovenia passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "LA:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Laos passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "ID:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Indonesia passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "MY:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Malaysia passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "BT:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Bhutan passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "CN:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "China passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "LR:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Liberia passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "WS:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Samoa passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "HU:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Hungary passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "TJ:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Tajikistan passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "LT:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Lithuania passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "PH:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Philippines passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "MZ:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Mozambique passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "ME:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Montenegro passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "IE:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Ireland passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "GR:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Greece passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "GA:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Gabon passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "MH:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Marshall Islands passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "LU:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Luxembourg passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "MO:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Macao SAR China passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "LI:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Liechtenstein passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "IL:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Israel passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "LY:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Libya passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "MU:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Mauritius passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "IS:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Iceland passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "ML:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Mali passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "KW:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Kuwait passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "TH:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Thailand passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "BF:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Burkina Faso passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "NO:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Norway passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "MT:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Malta passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "BA:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Bosnia & Herzegovina passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "BI:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Burundi passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "ZW:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Zimbabwe passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "BO:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Bolivia passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "TV:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Tuvalu passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "TD:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Chad passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "AU:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Australia passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "MK:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "North Macedonia passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "PT:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Portugal passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "UA:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Ukraine passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "KM:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Comoros passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "CF:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Central African Republic passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "ST:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "São Tomé & Príncipe passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
+ },
+ "SB:SR": {
+  "date": "2026-11-11",
+  "source": "https://suriname.vfsevisa.com/",
+  "source_name": "Suriname eVisa portal / Timatic — visa exemption and entry-fee rules, as compiled",
+  "note": "Solomon Islands passport holders may enter Suriname without a visa for up to 90 days. An entry fee of USD 50 (or EUR 50) must be paid online before arrival; the fee is a payment, not a visa, and the visa exemption itself grants entry."
  }
 }

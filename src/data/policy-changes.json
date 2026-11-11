@@ -960,6 +960,195 @@
   "source_name": "DGME Costa Rica"
  },
  {
+  "passport": "AF",
+  "destination": "SR",
+  "date": "2023-05-01",
+  "from_status": "visa free",
+  "to_status": "e-visa",
+  "summary": "Suriname reimposed the visa requirement on Afghanistan citizens on 1 May 2023 after reported abuse of visa-free stays; an e-Visa is now required.",
+  "source": "https://suriname.vfsevisa.com/"
+ },
+ {
+  "passport": "AO",
+  "destination": "SR",
+  "date": "2023-05-01",
+  "from_status": "visa free",
+  "to_status": "e-visa",
+  "summary": "Suriname reimposed the visa requirement on Angola citizens on 1 May 2023 after reported abuse of visa-free stays; an e-Visa is now required.",
+  "source": "https://suriname.vfsevisa.com/"
+ },
+ {
+  "passport": "BD",
+  "destination": "SR",
+  "date": "2023-05-01",
+  "from_status": "visa free",
+  "to_status": "e-visa",
+  "summary": "Suriname reimposed the visa requirement on Bangladesh citizens on 1 May 2023 after reported abuse of visa-free stays; an e-Visa is now required.",
+  "source": "https://suriname.vfsevisa.com/"
+ },
+ {
+  "passport": "CM",
+  "destination": "SR",
+  "date": "2023-05-01",
+  "from_status": "visa free",
+  "to_status": "e-visa",
+  "summary": "Suriname reimposed the visa requirement on Cameroon citizens on 1 May 2023 after reported abuse of visa-free stays; an e-Visa is now required.",
+  "source": "https://suriname.vfsevisa.com/"
+ },
+ {
+  "passport": "CU",
+  "destination": "SR",
+  "date": "2023-05-01",
+  "from_status": "visa free",
+  "to_status": "e-visa",
+  "summary": "Suriname reimposed the visa requirement on Cuba citizens on 1 May 2023 after reported abuse of visa-free stays; an e-Visa is now required.",
+  "source": "https://suriname.vfsevisa.com/"
+ },
+ {
+  "passport": "DO",
+  "destination": "SR",
+  "date": "2023-05-01",
+  "from_status": "visa free",
+  "to_status": "e-visa",
+  "summary": "Suriname reimposed the visa requirement on Dominican Republic citizens on 1 May 2023 after reported abuse of visa-free stays; an e-Visa is now required.",
+  "source": "https://suriname.vfsevisa.com/"
+ },
+ {
+  "passport": "EG",
+  "destination": "SR",
+  "date": "2023-05-01",
+  "from_status": "visa free",
+  "to_status": "e-visa",
+  "summary": "Suriname reimposed the visa requirement on Egypt citizens on 1 May 2023 after reported abuse of visa-free stays; an e-Visa is now required.",
+  "source": "https://suriname.vfsevisa.com/"
+ },
+ {
+  "passport": "ER",
+  "destination": "SR",
+  "date": "2023-05-01",
+  "from_status": "visa free",
+  "to_status": "e-visa",
+  "summary": "Suriname reimposed the visa requirement on Eritrea citizens on 1 May 2023 after reported abuse of visa-free stays; an e-Visa is now required.",
+  "source": "https://suriname.vfsevisa.com/"
+ },
+ {
+  "passport": "GH",
+  "destination": "SR",
+  "date": "2023-05-01",
+  "from_status": "visa free",
+  "to_status": "e-visa",
+  "summary": "Suriname reimposed the visa requirement on Ghana citizens on 1 May 2023 after reported abuse of visa-free stays; an e-Visa is now required.",
+  "source": "https://suriname.vfsevisa.com/"
+ },
+ {
+  "passport": "IN",
+  "destination": "SR",
+  "date": "2023-05-01",
+  "from_status": "visa free",
+  "to_status": "e-visa",
+  "summary": "Suriname reimposed the visa requirement on India citizens on 1 May 2023 after reported abuse of visa-free stays; an e-Visa is now required.",
+  "source": "https://suriname.vfsevisa.com/"
+ },
+ {
+  "passport": "KE",
+  "destination": "SR",
+  "date": "2023-05-01",
+  "from_status": "visa free",
+  "to_status": "e-visa",
+  "summary": "Suriname reimposed the visa requirement on Kenya citizens on 1 May 2023 after reported abuse of visa-free stays; an e-Visa is now required.",
+  "source": "https://suriname.vfsevisa.com/"
+ },
+ {
+  "passport": "LK",
+  "destination": "SR",
+  "date": "2023-05-01",
+  "from_status": "visa free",
+  "to_status": "e-visa",
+  "summary": "Suriname reimposed the visa requirement on Sri Lanka citizens on 1 May 2023 after reported abuse of visa-free stays; an e-Visa is now required.",
+  "source": "https://suriname.vfsevisa.com/"
+ },
+ {
+  "passport": "NG",
+  "destination": "SR",
+  "date": "2023-05-01",
+  "from_status": "visa free",
+  "to_status": "e-visa",
+  "summary": "Suriname reimposed the visa requirement on Nigeria citizens on 1 May 2023 after reported abuse of visa-free stays; an e-Visa is now required.",
+  "source": "https://suriname.vfsevisa.com/"
+ },
+ {
+  "passport": "NP",
+  "destination": "SR",
+  "date": "2023-05-01",
+  "from_status": "visa free",
+  "to_status": "e-visa",
+  "summary": "Suriname reimposed the visa requirement on Nepal citizens on 1 May 2023 after reported abuse of visa-free stays; an e-Visa is now required.",
+  "source": "https://suriname.vfsevisa.com/"
+ },
+ {
+  "passport": "PK",
+  "destination": "SR",
+  "date": "2023-05-01",
+  "from_status": "visa free",
+  "to_status": "e-visa",
+  "summary": "Suriname reimposed the visa requirement on Pakistan citizens on 1 May 2023 after reported abuse of visa-free stays; an e-Visa is now required.",
+  "source": "https://suriname.vfsevisa.com/"
+ },
+ {
+  "passport": "SO",
+  "destination": "SR",
+  "date": "2023-05-01",
+  "from_status": "visa free",
+  "to_status": "e-visa",
+  "summary": "Suriname reimposed the visa requirement on Somalia citizens on 1 May 2023 after reported abuse of visa-free stays; an e-Visa is now required.",
+  "source": "https://suriname.vfsevisa.com/"
+ },
+ {
+  "passport": "SY",
+  "destination": "SR",
+  "date": "2023-05-01",
+  "from_status": "visa free",
+  "to_status": "e-visa",
+  "summary": "Suriname reimposed the visa requirement on Syria citizens on 1 May 2023 after reported abuse of visa-free stays; an e-Visa is now required.",
+  "source": "https://suriname.vfsevisa.com/"
+ },
+ {
+  "passport": "TN",
+  "destination": "SR",
+  "date": "2023-05-01",
+  "from_status": "visa free",
+  "to_status": "e-visa",
+  "summary": "Suriname reimposed the visa requirement on Tunisia citizens on 1 May 2023 after reported abuse of visa-free stays; an e-Visa is now required.",
+  "source": "https://suriname.vfsevisa.com/"
+ },
+ {
+  "passport": "VE",
+  "destination": "SR",
+  "date": "2023-05-01",
+  "from_status": "visa free",
+  "to_status": "e-visa",
+  "summary": "Suriname reimposed the visa requirement on Venezuela citizens on 1 May 2023 after reported abuse of visa-free stays; an e-Visa is now required.",
+  "source": "https://suriname.vfsevisa.com/"
+ },
+ {
+  "passport": "ZA",
+  "destination": "SR",
+  "date": "2023-05-01",
+  "from_status": "visa free",
+  "to_status": "e-visa",
+  "summary": "Suriname reimposed the visa requirement on South Africa citizens on 1 May 2023 after reported abuse of visa-free stays; an e-Visa is now required.",
+  "source": "https://suriname.vfsevisa.com/"
+ },
+ {
+  "passport": "ZM",
+  "destination": "SR",
+  "date": "2023-05-01",
+  "from_status": "visa free",
+  "to_status": "e-visa",
+  "summary": "Suriname reimposed the visa requirement on Zambia citizens on 1 May 2023 after reported abuse of visa-free stays; an e-Visa is now required.",
+  "source": "https://suriname.vfsevisa.com/"
+ },
+ {
   "date": "2023-04-02",
   "destination": "JP",
   "title": "Japan exempts Qatar, conditional on ePassport registration",
