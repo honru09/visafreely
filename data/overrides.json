@@ -48862,5 +48862,12 @@
   "reason": "Settled 2026-11-11 against Congo's CEMAC exemption and visa-on-arrival lists as compiled (see research-cg-official.md).",
   "source": "https://ambacongo-fr.org/",
   "date": "2026-11-11"
+ },
+ "ML:CM": {
+  "status": "visa free",
+  "days": 90,
+  "reason": "Settled 2026-11-11 against Cameroon's exemption list and e-Visa portal rules as compiled (see research-cm-official.md).",
+  "source": "https://www.evisacam.cm/",
+  "date": "2026-11-11"
  }
 }
