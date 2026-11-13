@@ -76,12 +76,12 @@ import { countries, verifiedPairDates, flagEmoji } from '../lib/data';
         margin-bottom: 4px;
       }
       .vf-field select {
-        width: 100%;
-        font: inherit; font-size: 15px; color: var(--ink);
+        width: 100%; height: 44px;
+        font: inherit; font-size: 16px; color: var(--ink);
         background: #fff;
         border: 1px solid var(--line-strong);
-        border-radius: 9px;
-        padding: 9px 10px;
+        border-radius: 12px;
+        padding: 0 12px;
         appearance: auto;
       }
       .vf-result { margin-top: 14px; min-height: 118px; }
@@ -105,7 +105,7 @@ import { countries, verifiedPairDates, flagEmoji } from '../lib/data';
       .vf-stamp.ok { color: var(--brand); font-weight: 600; }
       .vf-cta { margin-top: 10px; }
       .vf-cta a {
-        display: inline-block;
+        display: inline-flex; align-items: center; min-height: 40px;
         background: var(--brand); color: #fff; font-weight: 700; font-size: 13.5px;
         padding: 7px 14px; border-radius: 999px; text-decoration: none;
       }
@@ -113,7 +113,7 @@ import { countries, verifiedPairDates, flagEmoji } from '../lib/data';
       .vf-foot {
         margin-top: 12px; padding-top: 9px;
         border-top: 1px solid var(--line);
-        font-size: 12.5px; color: var(--muted);
+        font-size: 13px; color: var(--muted);
         display: flex; justify-content: space-between; gap: 10px; flex-wrap: wrap;
       }
       .vf-foot a { font-weight: 600; text-decoration: none; }
