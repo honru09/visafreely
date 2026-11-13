@@ -748,32 +748,73 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
         .faq-a { font-size: 15px; }
         .faq-a p { margin: 0 15px 14px; }
 
-        /* shelf: stub rail becomes a slim top strip, card ≈150–190px tall */
-        .shelf-section { padding: 16px 14px 14px; border-radius: 20px; margin: 22px 0 8px; }
+        /* shelf round 2: compact LIST rows in one container (PARAMS2.md).
+           Refero pattern (Slash transaction list / Attio compact density):
+           32px round icon well, name + one-line description, right pill CTA,
+           hairline separators — no per-card boxes or shadows on mobile. */
+        .shelf-section { padding: 14px 12px 12px; border-radius: 20px; margin: 22px 0 8px; }
         .shelf-section::before { inset: 6px; border-radius: 14px; }
-        .shelf-head h2 { font-size: 20px; }
-        .shelf-stamp svg { width: 22px; height: 22px; }
-        .shelf { gap: 9px; margin-top: 11px; }
-        .shelf .card { flex-direction: column; }
-        .shelf .stub {
-          width: auto; height: 24px; padding: 0 12px; align-items: center; justify-content: flex-start;
-          border-right: 0; border-bottom: 2px dashed var(--line-strong);
+        .shelf-head { margin: 0 2px; }
+        .shelf-head h2 { font-size: 19px; }
+        .shelf-stamp svg { width: 20px; height: 20px; }
+        .shelf {
+          gap: 0; margin-top: 9px;
+          background: var(--card); border: 1px solid var(--line);
+          border-radius: 14px; overflow: hidden;
         }
-        .shelf .stub svg { width: 16px; height: 16px; }
-        .shelf .card.featured .stub { width: auto; height: 28px; padding: 0 12px; }
-        .shelf .card.featured .stub svg { width: 18px; height: 18px; }
-        .shelf .pass-main { padding: 9px 12px 8px; }
-        .shelf .card.featured .pass-main { padding: 10px 12px 10px; }
-        .shelf .card .k { font-size: 10.5px; }
-        .partner-tag { font-size: 9px; padding: 2px 6px; }
-        .shelf .card .t { font-size: 15.5px; margin: 3px 0 2px; }
-        .shelf .card.featured .t { font-size: 17px; }
-        .shelf .card p { font-size: 13px; line-height: 1.42; margin: 2px 0 8px; }
-        .shelf .card .official-note { margin: -2px 0 8px; font-size: 12.5px; }
-        .shelf .card .visit-link { padding: 5px 12px; }
-        .shelf .card.featured .visit-link { padding: 6px 14px; }
+        .shelf .card {
+          flex-direction: row; align-items: center; gap: 10px;
+          padding: 8px 12px; background: transparent;
+          border: 0; border-bottom: 1px solid var(--line);
+          border-radius: 0; box-shadow: none;
+        }
+        .shelf .card:last-child { border-bottom: 0; }
+        .shelf--duo .card--lead { box-shadow: none; }
+        .shelf .stub {
+          width: 32px; height: 32px; padding: 0;
+          align-items: center; justify-content: center;
+          background: #eef7f2; border: 1px solid #bfe3d0; border-right: 1px solid #bfe3d0;
+          border-radius: 50%;
+        }
+        .shelf .stub svg { width: 17px; height: 17px; }
+        .shelf .pass-main {
+          flex: 1; min-width: 0; padding: 0;
+          display: grid; grid-template-columns: minmax(0, 1fr) auto;
+          grid-template-rows: auto auto auto auto;
+          column-gap: 10px; align-items: center;
+        }
+        .shelf .card .k { grid-column: 1; grid-row: 1; font-size: 9.5px; letter-spacing: .07em; line-height: 1.2; }
+        .partner-tag { margin-left: 6px; font-size: 8.5px; padding: 1px 5px; }
+        .shelf .card .t { grid-column: 1; grid-row: 2; font-size: 15px; font-weight: 700; line-height: 1.25; margin: 1px 0 0; }
+        .shelf .card p {
+          grid-column: 1; grid-row: 3; font-size: 13px; line-height: 1.35; color: var(--muted);
+          margin: 1px 0 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+        }
+        .shelf .card .visit-link {
+          grid-column: 2; grid-row: 1 / -1; align-self: center;
+          min-height: 40px; min-width: 44px; margin: 0; padding: 0 12px;
+          display: inline-flex; align-items: center; justify-content: center;
+          font-size: 0; box-shadow: none;
+        }
+        .shelf .card .visit-link .arr { font-size: 17px; }
         .visit-link { font-size: 13px; }
-        .honest-line { font-size: 12.5px; margin-top: 11px; }
+        /* featured lead row: tinted, description may wrap to two lines */
+        .shelf .card.featured { grid-column: auto; background: #eef7f2; }
+        .shelf .card.featured .stub { width: 32px; height: 32px; padding: 0; background: #dcefe2; }
+        .shelf .card.featured .stub svg { width: 18px; height: 18px; }
+        .shelf .card.featured .pass-main { padding: 0; }
+        .shelf .card.featured .t { font-size: 16px; }
+        .shelf .card.featured p:not(.official-note) {
+          white-space: normal; display: -webkit-box;
+          -webkit-line-clamp: 2; -webkit-box-orient: vertical;
+        }
+        .shelf .card .official-note,
+        .shelf .card.featured p.official-note {
+          grid-row: 4; font-size: 12.5px; color: var(--muted);
+          white-space: nowrap; overflow: hidden; text-overflow: ellipsis; display: block;
+        }
+        .shelf .card.featured .visit-link { padding: 0 14px; }
+        .honest-line { font-size: 12.5px; margin-top: 10px; }
 
         /* home + hub blocks */
         .how-grid, .contrast { gap: 10px; }
