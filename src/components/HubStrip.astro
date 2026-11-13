@@ -70,7 +70,7 @@ const { heading, sub, routes } = Astro.props;
   .hs-row:hover .hs-name { color: var(--brand); }
   .hs-flag { font-size: 16px; line-height: 1; flex: none; }
   .hs-name { font-weight: 700; font-size: 15.5px; white-space: nowrap; }
-  .hs-meta { flex: 1; min-width: 0; font-size: 13.5px; color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .hs-meta { flex: 1; min-width: 0; font-size: 13.5px; color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-variant-numeric: tabular-nums; }
   .hs-arrow { flex: none; color: var(--muted); }
   .hs-cta {
     display: inline-flex; align-items: center; gap: 6px; margin-top: 12px; min-height: 40px;
@@ -82,6 +82,7 @@ const { heading, sub, routes } = Astro.props;
   .hs-note { margin: 8px 0 0; font-size: 12.5px; color: var(--muted); }
   @media (max-width: 720px) {
     .hub-strip { padding: 14px 14px 12px; }
-    .hs-head h2 { font-size: 17.5px; }
+    .hs-head h2 { font-size: 18px; }
+    .hs-name { white-space: normal; overflow-wrap: break-word; }
   }
 </style>

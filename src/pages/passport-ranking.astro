@@ -115,8 +115,8 @@ const year = new Date().getFullYear();
   .rank-table { border-collapse: collapse; width: 100%; font-size: 15px; }
   .rank-table th, .rank-table td { padding: 0.45rem 0.6rem; border-bottom: 1px solid #e3e6ea; text-align: left; white-space: nowrap; }
   .rank-table td a { display: block; margin: -0.45rem -0.6rem; padding: 0.45rem 0.6rem; }
-  .rank-table th { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.04em; color: #5a6472; }
-  .rank-table td.num, .rank-table th.num { text-align: right; font-variant-numeric: tabular-nums; }
+  .rank-table th { font-size: 12px; text-transform: uppercase; letter-spacing: 0.08em; color: #5a6472; }
+  .rank-table td.num, .rank-table th.num { text-align: right; font-variant-numeric: tabular-nums; font-feature-settings: "tnum" 1, "ss01" 1, "zero" 1; }
   .rank-table tbody tr:hover { background: #f6f8fa; }
   /* B3: the ranking page's single commercial slot — insurance only (plan §4). */
   .rank-ins {
@@ -125,7 +125,7 @@ const year = new Date().getFullYear();
     box-shadow: var(--sh-sm); padding: 16px 18px; margin: 0 0 2rem;
   }
   .ri-main { flex: 1; min-width: 240px; }
-  .ri-k { font-size: 12px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); display: flex; align-items: center; gap: 8px; }
+  .ri-k { font-size: 12px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); display: flex; align-items: center; gap: 8px; }
   .ri-t { font-size: 17px; font-weight: 800; margin-top: 2px; }
   .ri-main p { margin: 3px 0 0; font-size: 14.5px; color: var(--ink-2); }
   .ri-cta {

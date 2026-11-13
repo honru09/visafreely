@@ -49,10 +49,11 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
       @font-face { font-family: "Inter"; src: url("/fonts/inter-600.woff2") format("woff2"); font-weight: 600; font-style: normal; font-display: swap; }
       @font-face { font-family: "Inter"; src: url("/fonts/inter-700.woff2") format("woff2"); font-weight: 700; font-style: normal; font-display: swap; }
       @font-face { font-family: "Inter"; src: url("/fonts/inter-800.woff2") format("woff2"); font-weight: 800; font-style: normal; font-display: swap; }
+      @font-face { font-family: "Inter Fallback"; src: local("Arial"), local("Helvetica Neue"), local("Liberation Sans"); size-adjust: 105.3%; ascent-override: 92%; descent-override: 22.9%; line-gap-override: 0%; }
 
       /* ================= tokens ================= */
       :root {
-        --font: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        --font: "Inter", "Inter Fallback", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
         --ink: #0a2540;
         --ink-2: #3d556e;
         --muted: #64748b;
@@ -116,7 +117,7 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
       .wordmark em { font-style: normal; color: var(--brand); }
       nav.main { display: flex; gap: 4px; font-size: 15px; margin-left: auto; }
       nav.main a {
-        color: var(--ink-2); font-weight: 550; padding: 7px 11px; border-radius: 8px; position: relative;
+        color: var(--ink-2); font-weight: 600; padding: 7px 11px; border-radius: 8px; position: relative;
       }
       nav.main a:hover { text-decoration: none; color: var(--ink); background: rgba(10,37,64,.05); }
       .check-btn {
@@ -130,11 +131,11 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
       main { padding: 28px 0 52px; }
 
       /* ================= type ================= */
-      h1 { font-size: 32px; line-height: 1.15; letter-spacing: -0.02em; font-weight: 800; margin: 0 0 10px; }
-      .h-display { font-size: clamp(34px, 6vw, 54px); line-height: 1.04; letter-spacing: -0.03em; font-weight: 800; margin: 0 0 14px; }
-      h2 { font-size: 23px; font-weight: 750; margin: 36px 0 12px; letter-spacing: -0.015em; }
-      h3 { font-size: 17px; font-weight: 700; margin: 22px 0 8px; }
-      p.lede { font-size: 18px; line-height: 1.55; color: var(--ink-2); margin: 0 0 14px; }
+      h1 { font-size: 32px; line-height: 1.15; letter-spacing: -0.02em; font-weight: 800; margin: 0 0 10px; text-wrap: balance; overflow-wrap: break-word; }
+      .h-display { font-size: clamp(34px, 6vw, 54px); line-height: 1.04; letter-spacing: -0.03em; font-weight: 800; margin: 0 0 14px; text-wrap: balance; }
+      h2 { font-size: 23px; font-weight: 800; margin: 36px 0 12px; letter-spacing: -0.015em; text-wrap: balance; overflow-wrap: break-word; }
+      h3 { font-size: 17px; font-weight: 700; margin: 22px 0 8px; text-wrap: balance; }
+      p.lede { font-size: 18px; line-height: 1.55; color: var(--ink-2); margin: 0 0 14px; text-wrap: pretty; }
       .muted { color: var(--muted); }
       .small { font-size: 13.5px; }
       .micro { font-size: 12px; text-transform: uppercase; letter-spacing: .08em; font-weight: 700; color: var(--muted); }
@@ -161,7 +162,7 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
       /* ================= chips / pills ================= */
       .chip {
         display: inline-flex; align-items: center; gap: 6px;
-        padding: 3px 11px; border-radius: 999px; font-size: 13px; font-weight: 650;
+        padding: 3px 11px; border-radius: 999px; font-size: 13px; font-weight: 700; font-variant-numeric: tabular-nums;
         border: 1px solid var(--line); background: var(--soft); white-space: nowrap; color: var(--ink-2);
       }
       .chip .g {
@@ -202,7 +203,7 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
       .ck-eyebrow { display: flex; align-items: center; gap: 8px; margin: 0 0 14px; font-size: 12px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: var(--gold-ink); --check: var(--brand); }
       .checker { display: flex; gap: 10px; flex-wrap: wrap; align-items: end; }
       .ck-field { display: flex; flex-direction: column; gap: 6px; flex: 1 1 210px; min-width: 0; }
-      .ck-field > label { font-size: 13.5px; font-weight: 650; color: var(--ink-2); }
+      .ck-field > label { font-size: 13.5px; font-weight: 700; color: var(--ink-2); }
       .ck-wrap { position: relative; }
       .ck-flag { position: absolute; left: 12px; top: 50%; transform: translateY(-50%); font-size: 17px; line-height: 1; pointer-events: none; }
       .ck-input {
@@ -228,7 +229,7 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
       .ck-option .fl { font-size: 17px; width: 24px; text-align: center; flex: none; }
       .ck-option .cd { margin-left: auto; font-size: 12px; font-weight: 700; color: var(--muted); letter-spacing: .04em; }
       .ck-option.active { background: var(--f-bg); }
-      .ck-option[aria-selected="true"] { font-weight: 650; }
+      .ck-option[aria-selected="true"] { font-weight: 700; }
       .ck-empty { padding: 10px; font-size: 14px; color: var(--muted); }
       .swap-btn {
         flex: none; width: 44px; height: 44px; border-radius: 50%; border: 1.5px solid var(--line-strong);
@@ -268,8 +269,8 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
       .js .verdict-card.enter { animation: riseIn .28s var(--ease) both; }
       .vc-main { flex: 1; min-width: 0; }
       .vc-route { font-size: 12px; text-transform: uppercase; letter-spacing: .08em; font-weight: 700; color: var(--ink-2); margin: 0 0 4px; }
-      .vc-big { font-size: 24px; font-weight: 800; letter-spacing: -0.02em; line-height: 1.2; }
-      .vc-sub { color: var(--ink-2); font-size: 15px; margin-top: 3px; }
+      .vc-big { font-size: 24px; font-weight: 800; letter-spacing: -0.02em; line-height: 1.2; text-wrap: balance; }
+      .vc-sub { color: var(--ink-2); font-size: 15px; margin-top: 3px; font-variant-numeric: tabular-nums; text-wrap: pretty; }
       .vc-actions { margin: 14px 0 0; display: flex; gap: 10px; flex-wrap: wrap; }
       .vc-seal { flex: none; text-align: center; width: 136px; }
       .vc-seal .stamp-svg { margin: 0 auto; }
@@ -311,7 +312,7 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
       .stat-tile b { display: block; font-size: 33px; font-weight: 800; letter-spacing: -0.025em; font-variant-numeric: tabular-nums; line-height: 1.1; }
       .stat-tile span { font-size: 13.5px; color: var(--muted); }
       .stat-row { display: flex; gap: 26px; flex-wrap: wrap; margin: 16px 0; }
-      .stat-row .stat b { display: block; font-size: 22px; letter-spacing: -0.01em; }
+      .stat-row .stat b { display: block; font-size: 22px; font-weight: 800; letter-spacing: -0.01em; font-variant-numeric: tabular-nums; }
       .stat-row .stat span { font-size: 13px; color: var(--muted); }
 
       /* ================= cards & grids ================= */
@@ -329,7 +330,7 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
       .route-card .rc-top { display: flex; align-items: center; gap: 8px; padding-right: 18px; }
       .route-card .rc-flag { font-size: 16px; line-height: 1; flex: none; }
       .route-card .rc-name { font-weight: 700; font-size: 15.5px; }
-      .route-card .rc-meta { display: block; font-size: 13.5px; color: var(--muted); margin-top: 3px; }
+      .route-card .rc-meta { display: block; font-size: 13.5px; color: var(--muted); margin-top: 3px; font-variant-numeric: tabular-nums; }
       .route-card .chip { margin-top: 9px; }
       .route-card .rc-arrow {
         position: absolute; right: 13px; top: 13px; color: var(--brand); opacity: 0; transform: translateX(-4px);
@@ -349,7 +350,7 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
 
       /* ================= crumbs ================= */
       .crumbs { font-size: 13.5px; color: var(--muted); margin-bottom: 14px; display: flex; gap: 7px; flex-wrap: wrap; align-items: center; }
-      .crumbs a { color: var(--ink-2); font-weight: 550; }
+      .crumbs a { color: var(--ink-2); font-weight: 600; }
       .crumbs a:hover { color: var(--brand); }
       .crumbs .sep { color: var(--line-strong); }
 
@@ -364,21 +365,21 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
       .verdict-hero.s-R { border-top-color: var(--r); background: var(--r-bg); }
       .verdict-hero.s-N { border-top-color: var(--n); background: var(--n-bg); }
       .verdict-hero .route-line { font-size: 12px; text-transform: uppercase; letter-spacing: .08em; font-weight: 700; color: var(--ink-2); margin: 0 0 6px; }
-      .verdict-hero .big { font-size: 32px; font-weight: 800; letter-spacing: -0.025em; line-height: 1.15; margin: 0 0 6px; max-width: 640px; }
-      .verdict-hero .vh-sub { color: var(--ink-2); margin: 0 0 4px; max-width: 640px; }
+      .verdict-hero .big { font-size: 32px; font-weight: 800; letter-spacing: -0.025em; line-height: 1.15; margin: 0 0 6px; max-width: 640px; text-wrap: balance; }
+      .verdict-hero .vh-sub { color: var(--ink-2); margin: 0 0 4px; max-width: 640px; font-variant-numeric: tabular-nums; text-wrap: pretty; }
       .hero-seal { position: absolute; right: 26px; top: 24px; transform: rotate(-8deg); }
       @media (max-width: 720px) { .hero-seal { display: none; } .verdict-hero .big { font-size: 26px; } }
       .fact-tiles { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-top: 17px; }
       @media (max-width: 640px) { .fact-tiles { grid-template-columns: 1fr; } }
       .fact-tile { background: rgba(255,255,255,.78); border: 1px solid var(--line); border-radius: 12px; padding: 11px 15px; }
       .fact-tile .fl { font-size: 11.5px; text-transform: uppercase; letter-spacing: .08em; font-weight: 700; color: var(--muted); }
-      .fact-tile .fv { font-weight: 650; font-size: 15.5px; margin-top: 2px; }
+      .fact-tile .fv { font-weight: 700; font-size: 15.5px; margin-top: 2px; font-variant-numeric: tabular-nums; }
 
       .seal-block { display: flex; gap: 16px; border-radius: 16px; padding: 17px 19px; margin: 14px 0; font-size: 15px; align-items: flex-start; }
       .seal-block .seal-art { flex: none; }
-      .seal-block p { margin: 0 0 4px; }
+      .seal-block p { margin: 0 0 4px; text-wrap: pretty; }
       .seal-block p:last-child { margin-bottom: 0; }
-      .seal-block .seal-title { font-weight: 750; font-size: 16px; }
+      .seal-block .seal-title { font-weight: 800; font-size: 16px; }
       .seal-block.verified { border: 1.5px solid var(--brand); background: #eef7f2; color: var(--ink); }
       .seal-block.verified .seal-art { color: var(--brand); --check: var(--brand); }
       .seal-block.pending { border: 1.5px dashed #b8b2a4; background: #f4f2ec; color: var(--ink-2); }
@@ -392,14 +393,14 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
 
       /* ================= spec grid ================= */
       table.spec { border-collapse: collapse; width: 100%; margin: 12px 0; }
-      table.spec th, table.spec td { text-align: left; padding: 9px 12px; border-bottom: 1px solid var(--line); vertical-align: top; font-size: 15px; }
+      table.spec th, table.spec td { text-align: left; padding: 9px 12px; border-bottom: 1px solid var(--line); vertical-align: top; font-size: 15px; font-variant-numeric: tabular-nums; }
       table.spec th { width: 190px; color: var(--muted); font-weight: 600; }
       .spec-card { background: var(--card); border: 1px solid var(--line); border-radius: 16px; padding: 4px 22px; margin: 12px 0; box-shadow: var(--sh-sm); }
       .spec-row { display: flex; gap: 18px; padding: 12px 6px; border-bottom: 1px solid var(--line); font-size: 15.5px; border-radius: 8px; background: transparent; transition: background-color .16s var(--ease); }
       .spec-row:last-child { border-bottom: 0; }
       .spec-row:hover { background: var(--soft); }
       .spec-row dt { flex: 0 0 190px; color: var(--muted); font-weight: 600; margin: 0; }
-      .spec-row dd { margin: 0; font-weight: 550; }
+      .spec-row dd { margin: 0; font-weight: 600; font-variant-numeric: tabular-nums; }
       @media (max-width: 640px) { .spec-row { flex-direction: column; gap: 2px; } .spec-row dt { flex: none; } }
       .source-link {
         display: inline-flex; flex-direction: column; align-items: flex-start; gap: 1px; max-width: 100%;
@@ -408,8 +409,8 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
         transition: border-color .16s var(--ease), background-color .16s var(--ease);
       }
       .source-link:hover { text-decoration: none; border-color: var(--brand); background: var(--f-bg); }
-      .source-link .src-name { display: inline-flex; align-items: center; gap: 7px; font-size: 15px; font-weight: 650; line-height: 1.35; }
-      .source-link .host { color: var(--muted); font-weight: 600; font-size: 12px; letter-spacing: .05em; text-transform: uppercase; }
+      .source-link .src-name { display: inline-flex; align-items: center; gap: 7px; font-size: 15px; font-weight: 700; line-height: 1.35; }
+      .source-link .host { color: var(--muted); font-weight: 600; font-size: 12px; letter-spacing: .08em; text-transform: uppercase; }
       .source-link svg { flex: none; color: var(--brand); transition: transform .16s var(--ease); }
       .source-link:hover svg { transform: translate(1px, -1px); }
 
@@ -423,7 +424,7 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
       ol.steps li:hover { border-color: #bfe3d0; box-shadow: var(--sh-md); }
       ol.steps li::before {
         content: counter(step); flex: none; width: 28px; height: 28px; border-radius: 50%;
-        background: var(--brand-ink); color: #fff; font-weight: 750; font-size: 14.5px; font-variant-numeric: tabular-nums;
+        background: var(--brand-ink); color: #fff; font-weight: 800; font-size: 14.5px; font-variant-numeric: tabular-nums;
         display: flex; align-items: center; justify-content: center; margin-top: 1px; position: relative; z-index: 1;
       }
       ol.steps li:not(:last-child)::after {
@@ -462,7 +463,7 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
       .js .faq-panel { grid-template-rows: 0fr; transition: grid-template-rows .32s var(--ease); }
       .js .faq-item.open .faq-panel { grid-template-rows: 1fr; }
       .faq-a { overflow: hidden; min-height: 0; color: var(--ink-2); font-size: 15.5px; }
-      .faq-a p { margin: 0 19px 16px; }
+      .faq-a p { margin: 0 19px 16px; text-wrap: pretty; }
 
       /* ================= shelf ================= */
       /* "Travel kit" panel: soft brand-tinted band with a dashed stamp-style
@@ -487,7 +488,7 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
           background: rgba(255,255,255,.96); backdrop-filter: blur(8px);
           border: 1px solid var(--line-strong); border-radius: 999px; box-shadow: var(--sh-md);
         }
-        .sticky-bar .sb-text { flex: 1; min-width: 0; font-size: 13.5px; font-weight: 650; color: var(--ink); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+        .sticky-bar .sb-text { flex: 1; min-width: 0; font-size: 13.5px; font-weight: 700; color: var(--ink); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
         .sticky-bar .sb-btn {
           flex: none; padding: 10px 16px; border-radius: 999px;
           background: var(--brand); color: #fff; font-size: 13.5px; font-weight: 700; text-decoration: none;
@@ -507,7 +508,7 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
         border-right: 2px dashed var(--line-strong);
       }
       .shelf .pass-main { flex: 1; min-width: 0; display: flex; flex-direction: column; padding: 16px 17px 17px; }
-      .shelf .card .k { display: flex; align-items: center; gap: 8px; font-size: 11.5px; text-transform: uppercase; letter-spacing: .08em; color: var(--gold-ink); font-weight: 750; }
+      .shelf .card .k { display: flex; align-items: center; gap: 8px; font-size: 11.5px; text-transform: uppercase; letter-spacing: .08em; color: var(--gold-ink); font-weight: 800; }
       .partner-tag {
         margin-left: auto; flex: none; padding: 2px 7px; border: 1px solid var(--line-strong); border-radius: 999px;
         background: #fff; color: var(--ink-2); font-size: 9.5px; font-weight: 700; letter-spacing: .09em;
@@ -538,7 +539,7 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
         border: 1px dashed var(--line-strong); border-radius: 12px;
       }
       .shelf .alt-line .alt-text { margin: 0; flex: 1; min-width: 0; font-size: 13.5px; line-height: 1.45; color: var(--ink-2); }
-      .shelf .alt-line .alt-k { font-weight: 750; color: var(--ink); }
+      .shelf .alt-line .alt-k { font-weight: 800; color: var(--ink); }
       .shelf .alt-line .partner-tag { display: inline-block; margin-left: 8px; vertical-align: 1px; }
       .shelf .alt-link { flex: none; font-weight: 700; font-size: 14px; color: var(--brand); white-space: nowrap; }
       .shelf .alt-link .arr { display: inline-block; transition: transform .16s var(--ease); }
@@ -559,9 +560,9 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
       @media (max-width: 860px) { .how-grid { grid-template-columns: 1fr; } .how-grid.cols-2 { grid-template-columns: 1fr; } }
       .how-card { background: var(--card); border: 1px solid var(--line); border-radius: 16px; padding: 19px 21px; display: flex; flex-direction: column; transition: transform .18s var(--ease), box-shadow .18s var(--ease), border-color .18s var(--ease); }
       .how-card:hover { transform: translateY(-3px); box-shadow: var(--sh-md); border-color: #bfe3d0; }
-      .how-card .num { display: inline-flex; align-items: center; justify-content: center; width: 31px; height: 31px; border-radius: 50%; background: var(--brand-ink); color: #fff; font-weight: 750; font-size: 15px; font-variant-numeric: tabular-nums; align-self: flex-start; }
+      .how-card .num { display: inline-flex; align-items: center; justify-content: center; width: 31px; height: 31px; border-radius: 50%; background: var(--brand-ink); color: #fff; font-weight: 800; font-size: 15px; font-variant-numeric: tabular-nums; align-self: flex-start; }
       .how-card h3 { margin: 11px 0 6px; }
-      .how-card p { margin: 0 0 14px; font-size: 15px; color: var(--ink-2); }
+      .how-card p { margin: 0 0 14px; font-size: 15px; color: var(--ink-2); text-wrap: pretty; }
       /* sample seal pins to the card bottom: grid stretch equalises card heights,
          margin-top:auto aligns the seal block with the shared bottom baseline */
       .how-card .seal-block { margin-top: auto; }
@@ -597,7 +598,7 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
       .legend-card:hover { transform: translateY(-2px); box-shadow: var(--sh-md); border-color: var(--line-strong); }
       .legend-card p { margin: 8px 0 0; }
       .closing-band { background: linear-gradient(125deg, var(--brand-ink), var(--brand-deep)); color: #eef6f1; border-radius: 18px; padding: 30px 26px; text-align: center; margin: 34px 0 6px; position: relative; overflow: hidden; }
-      .closing-band h2 { margin: 0 0 8px; color: #fff; }
+      .closing-band h2 { margin: 0 0 8px; color: #fff; text-wrap: balance; }
       .closing-band p { color: #c9ded2; }
       .closing-band .cb-actions { display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; margin-top: 16px; }
       .hub-hero-flex { display: flex; gap: 18px; align-items: flex-start; }
@@ -610,7 +611,7 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
       .fchip {
         display: inline-flex; align-items: center; gap: 7px; cursor: pointer; font-family: inherit;
         border: 1.5px solid var(--line-strong); background: var(--card); color: var(--ink-2);
-        border-radius: 999px; padding: 7px 15px; font-size: 14px; font-weight: 650;
+        border-radius: 999px; padding: 7px 15px; font-size: 14px; font-weight: 700;
         transition: border-color .16s var(--ease), background-color .16s var(--ease), color .16s var(--ease), transform .16s var(--ease);
       }
       .fchip:hover { border-color: var(--brand); transform: translateY(-1px); }
@@ -647,7 +648,7 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
         transition: border-color .16s var(--ease), transform .16s var(--ease), box-shadow .16s var(--ease);
       }
       .index-row:hover { text-decoration: none; border-color: var(--brand); transform: translateY(-2px); box-shadow: var(--sh-md); }
-      .index-row .ir-name { font-weight: 650; }
+      .index-row .ir-name { font-weight: 700; }
       .index-row .ir-stat { font-size: 13px; color: var(--muted); white-space: nowrap; font-variant-numeric: tabular-nums; }
 
       /* ================= changelog timeline ================= */
@@ -656,15 +657,15 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
       @media (max-width: 640px) { .timeline::before { display: none; } }
       .tl-entry { display: grid; grid-template-columns: 118px 1fr; gap: 16px; padding: 0 0 14px; }
       @media (max-width: 640px) { .tl-entry { grid-template-columns: 1fr; gap: 6px; } }
-      .tl-date { font-size: 13.5px; color: var(--muted); font-weight: 650; padding-top: 16px; font-variant-numeric: tabular-nums; }
+      .tl-date { font-size: 13.5px; color: var(--muted); font-weight: 700; padding-top: 16px; font-variant-numeric: tabular-nums; }
       @media (max-width: 640px) { .tl-date { padding-top: 0; } }
       .tl-card { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 15px 19px; position: relative; transition: transform .16s var(--ease), box-shadow .16s var(--ease), border-color .16s var(--ease); }
       .tl-card:hover { transform: translateY(-2px); box-shadow: var(--sh-md); border-color: #bfe3d0; }
       .tl-card::before { content: ""; position: absolute; left: -14.5px; top: 21px; width: 11px; height: 11px; border-radius: 50%; background: var(--brand); border: 2.5px solid var(--paper); box-shadow: 0 0 0 1.5px var(--brand); }
       @media (max-width: 640px) { .tl-card::before { display: none; } }
       .tl-card h3 { margin: 6px 0 6px; }
-      .tl-card p { margin: 4px 0; font-size: 15px; color: var(--ink-2); }
-      .pill-old, .pill-new { display: inline-block; padding: 2px 10px; border-radius: 999px; font-size: 13px; font-weight: 650; border: 1px solid; }
+      .tl-card p { margin: 4px 0; font-size: 15px; color: var(--ink-2); text-wrap: pretty; }
+      .pill-old, .pill-new { display: inline-block; padding: 2px 10px; border-radius: 999px; font-size: 13px; font-weight: 700; border: 1px solid; }
       .pill-old { color: var(--r); border-color: #f0c4c1; background: var(--r-bg); }
       .pill-new { color: var(--f); border-color: #bfe3d0; background: var(--f-bg); }
       .source-chip {
@@ -674,7 +675,7 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
       }
       a.source-chip:hover { text-decoration: none; border-color: var(--brand); background: var(--f-bg); }
       .pair-chip {
-        display: inline-block; padding: 3px 11px; border-radius: 999px; font-size: 13px; font-weight: 650;
+        display: inline-block; padding: 3px 11px; border-radius: 999px; font-size: 13px; font-weight: 700;
         border: 1px solid #bfe3d0; background: var(--f-bg); color: var(--brand-deep);
         transition: background-color .16s var(--ease);
       }
@@ -706,7 +707,7 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
       .nf .nf-seal { margin: 0 auto 2px; color: #6f6a5e; }
       .nf .nf-seal .stamp-svg { margin: 0 auto; }
       .nf .nf-code { font-size: clamp(64px, 12vw, 104px); font-weight: 800; letter-spacing: -0.04em; line-height: 1; color: var(--brand-ink); margin: 2px 0 0; font-variant-numeric: tabular-nums; }
-      .nf h1 { margin-top: 8px; }
+      .nf h1 { margin-top: 8px; text-wrap: balance; }
       .nf .lede { max-width: 520px; margin: 0 auto 18px; }
       .nf .cb-actions { display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; margin-top: 18px; }
       .nf-checker { max-width: 840px; margin: 0 auto; text-align: left; }
@@ -806,7 +807,7 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
           grid-template-rows: auto auto auto auto;
           column-gap: 10px; align-items: center;
         }
-        .shelf .card .k { grid-column: 1; grid-row: 1; font-size: 9.5px; letter-spacing: .07em; line-height: 1.2; }
+        .shelf .card .k { grid-column: 1; grid-row: 1; font-size: 9.5px; letter-spacing: .08em; line-height: 1.2; }
         .partner-tag { margin-left: 6px; font-size: 8.5px; padding: 1px 5px; }
         .shelf .card .t { grid-column: 1; grid-row: 2; font-size: 15px; font-weight: 700; line-height: 1.25; margin: 1px 0 0; }
         .shelf .card p {

@@ -28,8 +28,9 @@ import { countries, verifiedPairDates, flagEmoji } from '../lib/data';
       @font-face { font-family: "Inter"; src: url("/fonts/inter-600.woff2") format("woff2"); font-weight: 600; font-style: normal; font-display: swap; }
       @font-face { font-family: "Inter"; src: url("/fonts/inter-700.woff2") format("woff2"); font-weight: 700; font-style: normal; font-display: swap; }
       @font-face { font-family: "Inter"; src: url("/fonts/inter-800.woff2") format("woff2"); font-weight: 800; font-style: normal; font-display: swap; }
+      @font-face { font-family: "Inter Fallback"; src: local("Arial"), local("Helvetica Neue"), local("Liberation Sans"); size-adjust: 105.3%; ascent-override: 92%; descent-override: 22.9%; line-gap-override: 0%; }
       :root {
-        --font: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        --font: "Inter", "Inter Fallback", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
         --ink: #0a2540;
         --ink-2: #3d556e;
         --muted: #64748b;
