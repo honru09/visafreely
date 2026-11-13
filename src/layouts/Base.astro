@@ -199,7 +199,7 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
       .hero-note svg { flex: none; margin-top: 2px; }
 
       /* ================= checker ================= */
-      .checker-card { background: var(--card); border-radius: 18px; box-shadow: var(--sh-lg); padding: 22px; color: var(--ink); max-width: 840px; position: relative; }
+      .checker-card { background: var(--card); border-radius: 18px; box-shadow: var(--sh-lg); padding: 22px; color: var(--ink); max-width: 840px; position: relative; z-index: 1; }
       .ck-eyebrow { display: flex; align-items: center; gap: 8px; margin: 0 0 14px; font-size: 12px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: var(--gold-ink); --check: var(--brand); }
       .checker { display: flex; gap: 10px; flex-wrap: wrap; align-items: end; }
       .ck-field { display: flex; flex-direction: column; gap: 6px; flex: 1 1 210px; min-width: 0; }
@@ -221,10 +221,11 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
         position: absolute; left: 0; right: 0; top: calc(100% + 6px); z-index: 70;
         background: #fff; border: 1px solid var(--line); border-radius: 14px; box-shadow: var(--sh-lg);
         list-style: none; margin: 0; padding: 6px; max-height: 292px; overflow: auto;
-        opacity: 0; transform: translateY(4px); pointer-events: none;
-        transition: opacity .14s var(--ease), transform .14s var(--ease);
+        opacity: 0; visibility: hidden; pointer-events: none;
+        overscroll-behavior: contain; touch-action: pan-y; -webkit-overflow-scrolling: touch;
+        transition: opacity .14s var(--ease), visibility 0s linear .14s;
       }
-      .ck-wrap.open .ck-list { opacity: 1; transform: translateY(0); pointer-events: auto; }
+      .ck-wrap.open .ck-list { opacity: 1; visibility: visible; pointer-events: auto; transition: opacity .14s var(--ease); }
       .ck-option { display: flex; align-items: center; gap: 10px; padding: 8px 10px; border-radius: 9px; font-size: 15px; cursor: pointer; }
       .ck-option .fl { font-size: 17px; width: 24px; text-align: center; flex: none; }
       .ck-option .cd { margin-left: auto; font-size: 12px; font-weight: 700; color: var(--muted); letter-spacing: .04em; }
@@ -298,9 +299,16 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
       /* One-shot staggered rise: headline → lede → checker → chips → note.
          Transform/opacity only, layout is reserved, total sequence ≤ 750ms.
          Without JS nothing is hidden; reduced-motion forces final state. */
-      @keyframes heroRise { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
-      .js .hero-in { opacity: 0; animation: heroRise var(--dur-3) var(--ease) forwards; animation-delay: var(--hd, 0ms); }
-      .js .band-in > .checker-card { opacity: 0; animation: heroRise var(--dur-3) var(--ease) 150ms forwards; }
+      /* Fill must be backwards, never forwards: a forwards fill keeps the animated
+         transform alive forever (even an end state of `none` interpolates to an
+         identity transform), turning the card and the chips row into permanent
+         stacking contexts whose DOM order then paints/hit-tests above the checker's
+         dropdown where it overflows the card (bugfix 2026-11-14). With backwards
+         fill the from-frame covers the delay, and afterwards the element returns to
+         its natural styles — opacity 1, no transform, no stacking context. */
+      @keyframes heroRise { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: none; } }
+      .js .hero-in { animation: heroRise var(--dur-3) var(--ease) backwards; animation-delay: var(--hd, 0ms); }
+      .js .band-in > .checker-card { animation: heroRise var(--dur-3) var(--ease) 150ms backwards; }
 
       /* ================= stat band ================= */
       .stat-band { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin: 26px 0 6px; }
@@ -1135,7 +1143,20 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
           }
           input.addEventListener('input', function () { flagEl.textContent = ''; input.classList.remove('has-flag'); if (idx) render(); });
           input.addEventListener('focus', function () { if (idx) render(); });
-          input.addEventListener('blur', function () { setTimeout(close, 120); });
+          /* A touch-scroll of the list starts with a touch outside the input, which can
+             blur it; never let the blur timer close the list mid-gesture. Interaction
+             with the list (press or scroll, incl. momentum) keeps refreshing the hold. */
+          var holdUntil = 0;
+          function hold() { holdUntil = Date.now() + 800; }
+          list.addEventListener('pointerdown', hold);
+          list.addEventListener('touchstart', hold, { passive: true });
+          list.addEventListener('scroll', hold, { passive: true });
+          input.addEventListener('blur', function () {
+            setTimeout(function deferClose() {
+              if (Date.now() < holdUntil) setTimeout(deferClose, 400);
+              else close();
+            }, 120);
+          });
           input.addEventListener('keydown', function (ev) {
             if (!idx) return;
             if (ev.key === 'ArrowDown') { ev.preventDefault(); if (!wrap.classList.contains('open')) render(); setActive(Math.min(active + 1, current.length - 1)); }
