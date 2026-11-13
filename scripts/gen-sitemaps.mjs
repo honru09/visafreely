@@ -26,7 +26,7 @@ const urlset = (entries) =>
   `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${entries.join('\n')}\n</urlset>\n`;
 
 // Core: site pages + passport/destination hubs.
-const corePaths = ['/', '/visa/', '/passports/', '/destinations/', '/passport-ranking/',
+const corePaths = ['/', '/visa/', '/passports/', '/destinations/', '/passport-ranking/', '/map/',
   '/visa-policy-changes/', '/about/', '/changelog/', '/widget/'];
 const core = corePaths.map((p) => urlEntry(SITE + p));
 for (const c of countries) {
