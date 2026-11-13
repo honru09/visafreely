@@ -51,19 +51,19 @@ const correctionsFmt = changelogCount.toLocaleString('en-US');
   <section class="band dark">
     <div class="hero-wm" aria-hidden="true"><Stamp size={330} /></div>
     <div class="band-in">
-      <h1 class="h-display">Do you need a visa? Get the answer — and the evidence.</h1>
-      <p class="lede">
+      <h1 class="h-display hero-in" style="--hd:0ms">Do you need a visa? Get the answer — and the evidence.</h1>
+      <p class="lede hero-in" style="--hd:70ms">
         {countries.length} passports · {pairCountFmt} routes. Every answer shows when it was last
         checked against an official source — or says plainly that it hasn't been yet.
       </p>
       <Checker />
-      <div class="route-chips">
+      <div class="route-chips hero-in" style="--hd:230ms">
         <span class="rc-label">Popular routes:</span>
         {popularRoutes.map((r) => (
           <button type="button" class="route-chip" data-p={r.p.name} data-d={r.d.name}>{r.p.name} → {r.d.name}</button>
         ))}
       </div>
-      <p class="hero-note">
+      <p class="hero-note hero-in" style="--hd:300ms">
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M12 3l7 3v5c0 4.6-3 8.4-7 10-4-1.6-7-5.4-7-10V6l7-3z" stroke="currentColor" stroke-width="1.9" stroke-linejoin="round"/><path d="M9 12l2 2 4-4" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/></svg>
         <span>visafreely is a free information service, not a government agency. Every answer links to its evidence.</span>
       </p>

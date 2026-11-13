@@ -75,6 +75,7 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
         --shadow: var(--sh-md); /* round-1 alias */
         --ease: cubic-bezier(.22,.8,.3,1);
         --spring: cubic-bezier(.2,1.6,.35,1);
+        --dur-1: 150ms; --dur-2: 250ms; --dur-3: 450ms;
         --header-h: 57px;
       }
       * { box-sizing: border-box; }
@@ -291,6 +292,14 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
       /* ================= reveal ================= */
       .js [data-reveal] { opacity: 0; transform: translateY(10px); transition: opacity .45s var(--ease), transform .45s var(--ease); }
       .js [data-reveal].inview { opacity: 1; transform: none; }
+
+      /* ================= hero entrance (homepage) ================= */
+      /* One-shot staggered rise: headline → lede → checker → chips → note.
+         Transform/opacity only, layout is reserved, total sequence ≤ 750ms.
+         Without JS nothing is hidden; reduced-motion forces final state. */
+      @keyframes heroRise { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+      .js .hero-in { opacity: 0; animation: heroRise var(--dur-3) var(--ease) forwards; animation-delay: var(--hd, 0ms); }
+      .js .band-in > .checker-card { opacity: 0; animation: heroRise var(--dur-3) var(--ease) 150ms forwards; }
 
       /* ================= stat band ================= */
       .stat-band { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin: 26px 0 6px; }
@@ -682,6 +691,109 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
 
       @media (max-width: 640px) { h1 { font-size: 26px; } }
 
+      /* ================= mobile density (≤720px) ================= */
+      /* Desktop type/padding steps down to a compact phone scale; separation
+         is carried by the 1px hairline borders, so hover lifts/shadows go.
+         Parameters: design-batch-2026-11-13/PARAMS.md */
+      @media (max-width: 720px) {
+        .wrap { padding: 0 16px; }
+        main { padding: 20px 0 40px; }
+        h2 { font-size: 20px; margin: 28px 0 10px; }
+        .h-display { font-size: 30px; }
+        p.lede { font-size: 16.5px; }
+        .band { margin-top: -20px; }
+        .band-in { padding: 34px 16px 38px; }
+        .band.light .band-in { padding-top: 28px; padding-bottom: 28px; }
+        .btn { padding: 10px 18px; font-size: 14.5px; }
+
+        /* checker */
+        .checker-card { padding: 16px; border-radius: 16px; }
+        .ck-input { padding-top: 11px; padding-bottom: 11px; }
+        .checker .go-btn { padding: 11px 20px; }
+        .swap-btn { width: 40px; height: 40px; }
+        .route-chips { margin-top: 14px; gap: 7px; }
+        .route-chip { padding: 7px 10px; font-size: 13px; }
+        .verdict-card { padding: 14px 16px; gap: 12px; }
+        .vc-big { font-size: 21px; }
+        .vc-sub { font-size: 14.5px; }
+
+        /* stat band / generic cards / grids */
+        .stat-band { gap: 8px; margin: 18px 0 4px; }
+        .stat-tile { padding: 12px 14px; border-radius: 14px; }
+        .stat-tile b { font-size: 26px; }
+        .card { padding: 14px 16px; border-radius: 14px; }
+        .card-grid { gap: 10px; }
+        .route-grid { gap: 8px; }
+        .route-card { padding: 11px 13px; }
+        .route-card .rc-name { font-size: 15px; }
+        .route-card .rc-meta { font-size: 13px; }
+
+        /* pair-page blocks */
+        .verdict { padding: 14px 16px; }
+        .verdict .big { font-size: 21px; }
+        .verdict-hero { padding: 16px; }
+        .fact-tiles { gap: 8px; margin-top: 13px; }
+        .fact-tile { padding: 9px 12px; }
+        .seal-block { padding: 13px 15px; gap: 12px; font-size: 14.5px; }
+        .warn { padding: 12px 14px; font-size: 14.5px; }
+        .spec-card { padding: 4px 14px; }
+        .spec-row { font-size: 15px; padding: 10px 2px; }
+        .source-link { padding: 8px 12px; }
+        ol.steps li { padding: 12px 14px; gap: 10px; font-size: 15px; }
+        ol.steps li::before { width: 24px; height: 24px; font-size: 13px; }
+        ol.steps li:not(:last-child)::after { left: 25px; top: 40px; bottom: -26px; }
+        .checklist-card { padding: 6px 14px; }
+        ul.checklist li { margin: 0 -14px; padding: 9px 14px; font-size: 15px; }
+        .faq-q { padding: 13px 15px; font-size: 15.5px; }
+        .faq-a { font-size: 15px; }
+        .faq-a p { margin: 0 15px 14px; }
+
+        /* shelf: stub rail becomes a slim top strip, card ≈150–190px tall */
+        .shelf-section { padding: 16px 14px 14px; border-radius: 20px; margin: 22px 0 8px; }
+        .shelf-section::before { inset: 6px; border-radius: 14px; }
+        .shelf-head h2 { font-size: 20px; }
+        .shelf-stamp svg { width: 22px; height: 22px; }
+        .shelf { gap: 9px; margin-top: 11px; }
+        .shelf .card { flex-direction: column; }
+        .shelf .stub {
+          width: auto; height: 24px; padding: 0 12px; align-items: center; justify-content: flex-start;
+          border-right: 0; border-bottom: 2px dashed var(--line-strong);
+        }
+        .shelf .stub svg { width: 16px; height: 16px; }
+        .shelf .card.featured .stub { width: auto; height: 28px; padding: 0 12px; }
+        .shelf .card.featured .stub svg { width: 18px; height: 18px; }
+        .shelf .pass-main { padding: 9px 12px 8px; }
+        .shelf .card.featured .pass-main { padding: 10px 12px 10px; }
+        .shelf .card .k { font-size: 10.5px; }
+        .partner-tag { font-size: 9px; padding: 2px 6px; }
+        .shelf .card .t { font-size: 15.5px; margin: 3px 0 2px; }
+        .shelf .card.featured .t { font-size: 17px; }
+        .shelf .card p { font-size: 13px; line-height: 1.42; margin: 2px 0 8px; }
+        .shelf .card .official-note { margin: -2px 0 8px; font-size: 12.5px; }
+        .shelf .card .visit-link { padding: 5px 12px; }
+        .shelf .card.featured .visit-link { padding: 6px 14px; }
+        .visit-link { font-size: 13px; }
+        .honest-line { font-size: 12.5px; margin-top: 11px; }
+
+        /* home + hub blocks */
+        .how-grid, .contrast { gap: 10px; }
+        .how-card, .contrast-card { padding: 14px 16px; }
+        .rank-row { padding: 10px 12px; gap: 10px; }
+        .rank-medal { width: 27px; height: 27px; font-size: 13.5px; }
+        .legend-card { padding: 12px 14px; font-size: 14px; }
+        .closing-band { padding: 22px 18px; border-radius: 16px; }
+        .tl-card { padding: 12px 15px; }
+        .index-row { padding: 10px 13px; }
+        .fchip { padding: 6px 12px; font-size: 13.5px; }
+        .pill-cloud a { padding: 5px 12px; font-size: 13.5px; }
+        footer.site { padding: 30px 0 28px; }
+
+        /* hairline carries separation on touch widths: no lifts, no shadow steps */
+        .stat-tile:hover, .route-card:hover, .how-card:hover, .legend-card:hover,
+        .rank-row:hover, .tl-card:hover, .index-row:hover, .shelf .card:hover,
+        ol.steps li:hover { transform: none; box-shadow: none; }
+      }
+
       /* ================= reduced motion ================= */
       @media (prefers-reduced-motion: reduce) {
         html { scroll-behavior: auto; }
@@ -691,6 +803,7 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
           transition-duration: .01ms !important;
         }
         .js [data-reveal] { opacity: 1; transform: none; }
+        .js .hero-in, .js .band-in > .checker-card { opacity: 1 !important; animation: none !important; }
         .js .rank-rows[data-reveal] .bar i { width: var(--w) !important; }
       }
     </style>
