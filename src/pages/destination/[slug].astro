@@ -1,12 +1,17 @@
 ---
 import Base from '../../layouts/Base.astro';
+import HubStrip from '../../components/HubStrip.astro';
 import {
   countries,
   countryByCode,
   groupedForDestination,
   statusLabel,
+  verdictText,
   pairPath,
+  pairExtra,
+  easyAccessCount,
   flagEmoji,
+  data,
 } from '../../lib/data';
 
 export function getStaticPaths() {
@@ -20,6 +25,30 @@ const title = `${c.name} Visa Requirements: Who Can Enter & How`;
 const description = `Visa requirements for visiting ${c.name}: ${freeCount} passports enter visa free. Full list by requirement — visa free, on arrival, e-Visa, ETA and visa required.`;
 const others = countries.filter((x) => x.code !== c.code);
 const total = groups.reduce((n, g) => n + g.passports.length, 0);
+// B3 hub strip: passports that need paperwork (E/T/R) to enter this
+// destination. Static rule: verified pairs first, then passport strength
+// (destinations reachable without a prior application), then name.
+const stripRoutes = countries
+  .filter((x) => x.code !== c.code)
+  .map((x) => ({ x, r: (data.byPassport[x.code] || []).find((row) => row.d === c.code) }))
+  .filter((y) => y.r && (y.r.s === 'E' || y.r.s === 'T' || y.r.s === 'R'))
+  .sort((a, b) => {
+    const va = pairExtra(a.x.code, c.code).verified ? 0 : 1;
+    const vb = pairExtra(b.x.code, c.code).verified ? 0 : 1;
+    if (va !== vb) return va - vb;
+    const ea = easyAccessCount(a.x.code);
+    const eb = easyAccessCount(b.x.code);
+    if (ea !== eb) return eb - ea;
+    return a.x.name < b.x.name ? -1 : 1;
+  })
+  .slice(0, 3)
+  .map((y) => ({
+    href: pairPath(y.x, c),
+    flag: flagEmoji(y.x.code),
+    name: y.x.name,
+    meta: verdictText(y.r),
+    status: y.r.s,
+  }));
 ---
 
 <Base title={title} description={description}>
@@ -33,6 +62,12 @@ const total = groups.reduce((n, g) => n + g.passports.length, 0);
       </p>
     </div>
   </section>
+
+  <HubStrip
+    heading={`Paperwork routes into ${c.name}`}
+    sub="Holders of these passports need an application before travel. Each route page shows the official way to apply — and the done-for-you option."
+    routes={stripRoutes}
+  />
 
   <div class="stat-band five">
     <div class="stat-tile"><b>{freeCount}</b><span>passports enter visa free</span></div>

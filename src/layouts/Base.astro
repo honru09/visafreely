@@ -270,7 +270,7 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
       .vc-route { font-size: 12px; text-transform: uppercase; letter-spacing: .08em; font-weight: 700; color: var(--ink-2); margin: 0 0 4px; }
       .vc-big { font-size: 24px; font-weight: 800; letter-spacing: -0.02em; line-height: 1.2; }
       .vc-sub { color: var(--ink-2); font-size: 15px; margin-top: 3px; }
-      .vc-actions { margin: 14px 0 0; }
+      .vc-actions { margin: 14px 0 0; display: flex; gap: 10px; flex-wrap: wrap; }
       .vc-seal { flex: none; text-align: center; width: 136px; }
       .vc-seal .stamp-svg { margin: 0 auto; }
       .vc-seal-cap { display: block; font-size: 12px; font-weight: 700; color: var(--ink-2); margin-top: 6px; line-height: 1.35; }
@@ -472,7 +472,7 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
       }
       .shelf-head { position: relative; display: flex; align-items: center; gap: 10px; margin: 0 2px 2px; }
       .shelf-head h2 { margin: 0; }
-      /* Sticky mobile action bar (pair pages with a visa to obtain, R/E) */
+      /* Sticky mobile action bar (pair pages with a visa to obtain, R/E/T) */
       .sticky-bar { display: none; }
       @media (max-width: 720px) {
         .sticky-bar {
@@ -1151,6 +1151,18 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
           else if (code === 'E') verdict = 'e-Visa required before travel';
           else if (code === 'T') verdict = 'Electronic travel authorisation required';
           var key = pc.code + ':' + dc.code;
+          var CAMPAIGNS = window.__VF_CAMPAIGNS || {};
+          var offer = '';
+          if (code === 'R' || code === 'E' || code === 'T') {
+            var csid = CAMPAIGNS[key];
+            var evHref = csid ? 'https://evisas.com/?ref=visafreely&sid=' + csid : 'https://evisas.com/?ref=visafreely';
+            var evLabel = code === 'T'
+              ? 'File the ' + esc(dc.name) + ' authorisation with eVisas'
+              : code === 'E'
+                ? 'Apply for the ' + esc(dc.name) + ' e-Visa with eVisas'
+                : 'Get the ' + esc(dc.name) + ' visa handled by eVisas';
+            offer = ' <a class="btn ghost" data-offer="evisas-checker" href="' + evHref + '" rel="sponsored nofollow noopener" target="_blank">' + evLabel + ' <span class="arr">→</span></a>';
+          }
           var vDate = VERIFIED[key];
           var seal = vDate
             ? '<div class="vc-seal" style="color:var(--brand)"><div class="stamp-anim stamp-anim-pulse">' + sealSVG('verified', 96) + '</div><span class="vc-seal-cap"><span class="nw">Verified ' + esc(fmtDate(vDate)) + '</span><br/>against an official source</span></div>'
@@ -1161,7 +1173,7 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
             + '<p class="vc-route">' + esc(pc.name) + ' passport → ' + esc(dc.name) + '</p>'
             + '<div class="vc-big">' + esc(verdict) + '</div>'
             + '<div class="vc-sub">' + (days ? 'Maximum stay ' + days + ' days' : 'See the full page for stay details') + '</div>'
-            + '<p class="vc-actions"><a class="btn" href="/visa/' + pc.slug + '/' + dc.slug + '/">Full requirement page <span class="arr">→</span></a></p>'
+            + '<p class="vc-actions"><a class="btn" href="/visa/' + pc.slug + '/' + dc.slug + '/">Full requirement page <span class="arr">→</span></a>' + offer + '</p>'
             + '</div>' + seal + '</div>';
         }
         form.addEventListener('submit', function (ev) { ev.preventDefault(); if (idx) doCheck(); });

@@ -4,9 +4,11 @@
 // this component supplies the markup plus the verified-dates index.
 import Stamp from './Stamp.astro';
 import { verifiedPairDates } from '../lib/data';
+import evisasCampaigns from '../data/evisas-campaigns.json';
 ---
 
 <script is:inline define:vars={{ verifiedPairDates }}>window.__VF_VERIFIED = verifiedPairDates;</script>
+<script is:inline define:vars={{ evisasCampaigns }}>window.__VF_CAMPAIGNS = evisasCampaigns;</script>
 <div class="checker-card" id="checker" style="scroll-margin-top:76px;">
   <p class="ck-eyebrow">
     <Stamp size={17} />

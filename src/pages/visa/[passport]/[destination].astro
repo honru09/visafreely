@@ -359,9 +359,9 @@ const freePassports = countries
     </div>
   </div>
 
-  {(row.s === 'R' || row.s === 'E') && (
+  {(row.s === 'R' || row.s === 'E' || row.s === 'T') && (
     <div class="sticky-bar" role="complementary" aria-label="Visa service">
-      <span class="sb-text">{row.s === 'R' ? `Visa required for ${d.name}` : `e-Visa for ${d.name} — apply before you fly`}</span>
+      <span class="sb-text">{row.s === 'R' ? `Visa required for ${d.name}` : row.s === 'E' ? `e-Visa for ${d.name} — apply before you fly` : `Travel authorisation for ${d.name} — file it before you travel`}</span>
       <a class="sb-btn" data-offer="evisas-bar" href={evisasBarHref} rel="sponsored nofollow noopener" target="_blank">Get it handled →</a>
     </div>
   )}

@@ -83,6 +83,15 @@ const year = new Date().getFullYear();
     </table>
   </div>
 
+  <div class="rank-ins">
+    <div class="ri-main">
+      <div class="ri-k">Travel insurance<span class="partner-tag">Partner</span></div>
+      <div class="ri-t">SafetyWing</div>
+      <p>Travel medical insurance built for long and short trips, with per-day pricing and monthly subscriptions.</p>
+    </div>
+    <a class="ri-cta" data-offer="safetywing-rank" href="https://safetywing.com/nomad-insurance?referenceID=26624375&utm_source=26624375&utm_medium=Ambassador" rel="sponsored nofollow noopener" target="_blank">Visit SafetyWing <span class="arr">→</span></a>
+  </div>
+
   <h2>How the ranking is counted</h2>
   <p>
     For each passport we count, across all {destCount} destinations: <strong>visa free</strong>
@@ -108,4 +117,21 @@ const year = new Date().getFullYear();
   .rank-table th { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.04em; color: #5a6472; }
   .rank-table td.num, .rank-table th.num { text-align: right; font-variant-numeric: tabular-nums; }
   .rank-table tbody tr:hover { background: #f6f8fa; }
+  /* B3: the ranking page's single commercial slot — insurance only (plan §4). */
+  .rank-ins {
+    display: flex; align-items: center; gap: 18px; flex-wrap: wrap;
+    background: var(--card); border: 1px solid var(--line); border-radius: 16px;
+    box-shadow: var(--sh-sm); padding: 16px 18px; margin: 0 0 2rem;
+  }
+  .ri-main { flex: 1; min-width: 240px; }
+  .ri-k { font-size: 12px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); display: flex; align-items: center; gap: 8px; }
+  .ri-t { font-size: 17px; font-weight: 800; margin-top: 2px; }
+  .ri-main p { margin: 3px 0 0; font-size: 14.5px; color: var(--ink-2); }
+  .ri-cta {
+    flex: none; display: inline-flex; align-items: center; gap: 6px;
+    background: var(--brand); color: #fff; font-weight: 700; font-size: 14px;
+    padding: 8px 15px; border-radius: 999px; box-shadow: var(--sh-sm);
+    transition: background-color .16s var(--ease);
+  }
+  .ri-cta:hover { background: var(--brand-deep); text-decoration: none; }
 </style>

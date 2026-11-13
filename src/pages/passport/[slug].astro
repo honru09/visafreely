@@ -1,5 +1,6 @@
 ---
 import Base from '../../layouts/Base.astro';
+import HubStrip from '../../components/HubStrip.astro';
 import {
   countries,
   countryByCode,
@@ -10,7 +11,9 @@ import {
   statusLabel,
   verdictText,
   pairPath,
+  pairExtra,
   flagEmoji,
+  data,
 } from '../../lib/data';
 
 export function getStaticPaths() {
@@ -25,6 +28,34 @@ const title = `Visa-Free Countries for ${c.name} Passport Holders — Full List 
 const description = `Visa-free countries for ${c.name} passport holders: ${counts.F || 0} destinations need no visa at all, ${easy} are reachable without applying in advance. Full list with stay limits, visa-on-arrival and e-Visa options.`;
 const others = countries.filter((x) => x.code !== c.code);
 const total = groups.reduce((n, g) => n + g.rows.length, 0);
+// B3 hub strip: this passport's paperwork routes (E/T/R). Static rule:
+// verified pairs first, then destination reach (passports entering that
+// destination without a prior application), then name. No traffic claims.
+const inboundEasy: Record<string, number> = {};
+for (const rows of Object.values(data.byPassport)) {
+  for (const r of rows) {
+    if (r.s === 'F' || r.s === 'A' || r.s === 'T') inboundEasy[r.d] = (inboundEasy[r.d] || 0) + 1;
+  }
+}
+const stripRoutes = (data.byPassport[c.code] || [])
+  .filter((r) => r.s === 'E' || r.s === 'T' || r.s === 'R')
+  .sort((a, b) => {
+    const va = pairExtra(c.code, a.d).verified ? 0 : 1;
+    const vb = pairExtra(c.code, b.d).verified ? 0 : 1;
+    if (va !== vb) return va - vb;
+    const ea = inboundEasy[a.d] || 0;
+    const eb = inboundEasy[b.d] || 0;
+    if (ea !== eb) return eb - ea;
+    return countryByCode[a.d].name < countryByCode[b.d].name ? -1 : 1;
+  })
+  .slice(0, 3)
+  .map((r) => ({
+    href: pairPath(c, countryByCode[r.d]),
+    flag: flagEmoji(r.d),
+    name: countryByCode[r.d].name,
+    meta: verdictText(r),
+    status: r.s,
+  }));
 ---
 
 <Base title={title} description={description}>
@@ -49,6 +80,12 @@ const total = groups.reduce((n, g) => n + g.rows.length, 0);
       </div>
     </div>
   </section>
+
+  <HubStrip
+    heading={`Paperwork routes for ${c.name} passport holders`}
+    sub="These destinations need an application before travel. Each route page shows the official way to apply — and the done-for-you option."
+    routes={stripRoutes}
+  />
 
   <div class="stat-band five">
     <div class="stat-tile"><b>{counts.F || 0}</b><span>visa free</span></div>

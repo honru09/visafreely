@@ -1,0 +1,87 @@
+---
+// Hub paperwork strip (marketing plan §4, build batch B3 2026-11-13): sits
+// directly under the hero on passport and destination hub pages. Shows up to
+// three routes that need an application before travel (E/T/R), each deep-linked
+// to its pair page, plus one eVisas entry (generic ref link — the strip spans
+// several routes, so no single-route sid prefill is possible). Route choice is
+// a static, data-derived rule (verified first, then dataset reach) — see the
+// batch PROGRESS.md; no traffic numbers are claimed anywhere in the copy.
+import Stamp from './Stamp.astro';
+
+interface HubRoute {
+  href: string;
+  flag: string;
+  name: string;
+  meta: string;
+  status: string;
+}
+interface Props {
+  heading: string;
+  sub: string;
+  routes: HubRoute[];
+}
+const { heading, sub, routes } = Astro.props;
+---
+
+{routes.length > 0 && (
+<section class="hub-strip" aria-label={heading}>
+  <div class="hs-head">
+    <span class="hs-stamp" aria-hidden="true"><Stamp size={22} /></span>
+    <div>
+      <h2>{heading}</h2>
+      <p>{sub}</p>
+    </div>
+  </div>
+  <div class="hs-rows">
+    {routes.map((r) => (
+      <a class="hs-row" href={r.href}>
+        <span class={`sdot ${r.status}`} aria-hidden="true"></span>
+        <span class="hs-flag" aria-hidden="true">{r.flag}</span>
+        <span class="hs-name">{r.name}</span>
+        <span class="hs-meta">{r.meta}</span>
+        <svg class="hs-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4 12h15M13 5.5L19.5 12 13 18.5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </a>
+    ))}
+  </div>
+  <a class="hs-cta" data-offer="evisas-hub" href="https://evisas.com/?ref=visafreely" rel="sponsored nofollow noopener" target="_blank">
+    Get it handled by eVisas <span class="arr">→</span>
+  </a>
+  <p class="hs-note">Done-for-you filing for a service fee — applying yourself on the official site stays free.</p>
+</section>
+)}
+
+<style>
+  .hub-strip {
+    margin: 22px 0 4px; padding: 16px 18px 14px;
+    background: var(--card); border: 1px solid var(--line); border-radius: 16px;
+    box-shadow: var(--sh-sm);
+  }
+  .hs-head { display: flex; gap: 10px; align-items: flex-start; }
+  .hs-stamp { display: flex; flex: none; color: var(--brand); margin-top: 2px; }
+  .hs-head h2 { margin: 0; font-size: 19px; letter-spacing: -0.01em; }
+  .hs-head p { margin: 2px 0 0; font-size: 13.5px; color: var(--muted); }
+  .hs-rows { margin-top: 10px; border-top: 1px solid var(--line); }
+  .hs-row {
+    display: flex; align-items: center; gap: 9px;
+    padding: 10px 2px; border-bottom: 1px solid var(--line);
+    color: var(--ink); text-decoration: none;
+  }
+  .hs-row:hover { text-decoration: none; }
+  .hs-row:hover .hs-name { color: var(--brand); }
+  .hs-flag { font-size: 16px; line-height: 1; flex: none; }
+  .hs-name { font-weight: 700; font-size: 15.5px; white-space: nowrap; }
+  .hs-meta { flex: 1; min-width: 0; font-size: 13.5px; color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .hs-arrow { flex: none; color: var(--muted); }
+  .hs-cta {
+    display: inline-flex; align-items: center; gap: 6px; margin-top: 12px;
+    background: var(--brand); color: #fff; font-weight: 700; font-size: 14px;
+    padding: 8px 15px; border-radius: 999px; box-shadow: var(--sh-sm);
+    transition: background-color .16s var(--ease), transform .16s var(--ease);
+  }
+  .hs-cta:hover { background: var(--brand-deep); text-decoration: none; }
+  .hs-note { margin: 8px 0 0; font-size: 12.5px; color: var(--muted); }
+  @media (max-width: 720px) {
+    .hub-strip { padding: 14px 14px 12px; }
+    .hs-head h2 { font-size: 17.5px; }
+  }
+</style>
