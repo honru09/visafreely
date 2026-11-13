@@ -238,7 +238,7 @@ import { countries, verifiedPairDates, flagEmoji } from '../lib/data';
             (days ? 'Maximum stay ' + days + ' days' : 'See the full page for stay details') +
             '</div>' +
             stamp +
-            '<div class="vf-cta"><a href="' + SITE + '/visa/' + p.slug + '/' + d.slug + '/" target="_blank" rel="noopener">Full requirement page →</a></div>' +
+            '<div class="vf-cta"><a href="' + SITE + '/visa/' + p.slug + '/' + d.slug + '/?from=embed" target="_blank" rel="noopener">Full requirement page →</a></div>' +
             '</div>';
         }
         // Optional preselect: /embed/?p=JP&d=TH (2-letter codes or slugs).
@@ -275,6 +275,53 @@ import { countries, verifiedPairDates, flagEmoji } from '../lib/data';
           .catch(function () {
             hint('The checker could not load its index — please use the checker on visafreely.com.');
           });
+      })();
+    </script>
+    <script is:inline>
+      /* site-stats beacon — same shape as the main site's (Base.astro):
+         pageview on load, dwell on exit, anonymous visitor/session ids.
+         p is this frame's own path (/embed/); the referrer inside an iframe
+         is the embedding page, which is exactly the attribution B9 needs.
+         Storage can be blocked in third-party frames — every access is
+         guarded, and the beacon degrades to anonymous sends. */
+      (function () {
+        var B = 'https://honru09--site-stats-web.us-east.modal.run/track?s=visafreely';
+        function gid(k, s) {
+          try {
+            var v = s.getItem(k);
+            if (!v) {
+              v = Math.random().toString(36).slice(2) + Date.now().toString(36);
+              s.setItem(k, v);
+            }
+            return v;
+          } catch (e) {
+            return '';
+          }
+        }
+        var vid = gid('vf_vid', window.localStorage), sid = gid('vf_sid', window.sessionStorage);
+        function qs(extra) {
+          return B + '&p=' + encodeURIComponent(location.pathname) + extra +
+            (vid ? '&v=' + encodeURIComponent(vid) : '') + (sid ? '&ss=' + encodeURIComponent(sid) : '');
+        }
+        function send(u) {
+          if (navigator.sendBeacon) {
+            try { navigator.sendBeacon(u); return; } catch (e) {}
+          }
+          var i = new Image(); i.src = u;
+        }
+        send(qs('&r=' + encodeURIComponent(document.referrer || '')));
+        var t0 = Date.now(), sent = false;
+        function dwell() {
+          if (sent) return;
+          var d = Math.round((Date.now() - t0) / 1000);
+          if (d < 2) return;
+          sent = true;
+          send(qs('&e=dur&d=' + d));
+        }
+        document.addEventListener('visibilitychange', function () {
+          if (document.visibilityState === 'hidden') dwell();
+        });
+        window.addEventListener('pagehide', dwell);
       })();
     </script>
   </body>

@@ -522,6 +522,19 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
       .shelf .card.featured .t { font-size: 21px; }
       .shelf .card.featured .visit-link { padding: 10px 18px; }
       .shelf .card .official-note { margin: -6px 0 14px; font-size: 13px; color: var(--muted); }
+      /* B7-②: demoted fallback offer as a compact text line (not a card) */
+      .shelf .alt-line {
+        grid-column: 1 / -1; display: flex; align-items: center; gap: 14px;
+        padding: 11px 16px; background: rgba(255,255,255,.55);
+        border: 1px dashed var(--line-strong); border-radius: 12px;
+      }
+      .shelf .alt-line .alt-text { margin: 0; flex: 1; min-width: 0; font-size: 13.5px; line-height: 1.45; color: var(--ink-2); }
+      .shelf .alt-line .alt-k { font-weight: 750; color: var(--ink); }
+      .shelf .alt-line .partner-tag { display: inline-block; margin-left: 8px; vertical-align: 1px; }
+      .shelf .alt-link { flex: none; font-weight: 700; font-size: 14px; color: var(--brand); white-space: nowrap; }
+      .shelf .alt-link .arr { display: inline-block; transition: transform .16s var(--ease); }
+      .shelf .alt-link:hover { text-decoration: none; color: var(--brand-deep); }
+      .shelf .alt-link:hover .arr { transform: translateX(2px); }
       .shelf--duo .card--lead { order: -1; border-color: var(--brand); box-shadow: var(--sh-sm); }
       .shelf--duo .card--lead .stub { background: #d3e9da; }
       .visit-link { display: inline-flex; align-items: center; gap: 7px; font-weight: 700; font-size: 14.5px; }
@@ -815,6 +828,17 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
           white-space: nowrap; overflow: hidden; text-overflow: ellipsis; display: block;
         }
         .shelf .card.featured .visit-link { padding: 0; width: 44px; height: 44px; }
+        /* B7-② mobile: the demoted line becomes one hairline row in the list —
+           stacked (text over link) so the sentence gets full width and the
+           row stays near single-row height */
+        .shelf .alt-line {
+          flex-direction: column; align-items: stretch; gap: 0;
+          padding: 7px 12px 5px; background: transparent;
+          border: 0; border-bottom: 1px solid var(--line); border-radius: 0;
+        }
+        .shelf .alt-line .alt-text { font-size: 12.5px; line-height: 1.35; color: var(--muted); }
+        .shelf .alt-line .alt-k { color: var(--ink-2); }
+        .shelf .alt-link { align-self: flex-start; font-size: 13px; padding: 5px 6px 4px 0; }
         .honest-line { font-size: 12.5px; margin-top: 10px; }
 
         /* home + hub blocks */

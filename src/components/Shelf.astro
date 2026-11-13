@@ -60,16 +60,15 @@ const shelfClass = isVisa ? 'shelf shelf--featured' : 'shelf shelf--duo';
         <a class="visit-link" data-offer={`evisas-${pos}`} href={evisasHref} rel="sponsored nofollow noopener" target="_blank">Start with eVisas <span class="arr">→</span></a>
       </div>
     </div>
-    <div class="card">
-      <div class="stub" aria-hidden="true">
-        <svg width="26" height="26" viewBox="0 0 24 24" fill="none"><rect x="5" y="3.5" width="14" height="17" rx="2" stroke="currentColor" stroke-width="1.9"/><path d="M9 8.5h6M9 12h4" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"/><circle cx="15.8" cy="16.2" r="1.6" stroke="currentColor" stroke-width="1.9"/></svg>
-      </div>
-      <div class="pass-main">
-        <div class="k">Full-service agent<span class="partner-tag">Partner</span></div>
-        <div class="t">VisaHQ</div>
-        <p>Prefer a full done-for-you agent? VisaHQ can also prepare and submit the paperwork for this route, for a service fee.</p>
-        <a class="visit-link" data-offer={`visahq-${pos}`} href="https://www.visahq.co.uk/?a_aid=vaff18633" rel="sponsored nofollow noopener" target="_blank">Visit VisaHQ <span class="arr">→</span></a>
-      </div>
+    <!-- B7-2 (2026-11-13): VisaHQ demoted from a full card to a compact text
+         line — same href and data-offer anchor, so attribution is unchanged,
+         but the visual weight goes to the primary offer (eVisas, 45% vs 10%).
+         30-day CTR comparison runs from the deploy date; see batch PROGRESS. -->
+    <div class="alt-line">
+      <p class="alt-text">
+        <span class="alt-k">Full-service agent</span> — VisaHQ can file this route's paperwork, for a service fee.<span class="partner-tag">Partner</span>
+      </p>
+      <a class="alt-link" data-offer={`visahq-${pos}`} href="https://www.visahq.co.uk/?a_aid=vaff18633" rel="sponsored nofollow noopener" target="_blank">Visit VisaHQ <span class="arr">→</span></a>
     </div>
     )}
     {status === 'T' && (

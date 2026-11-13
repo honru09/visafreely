@@ -69,6 +69,27 @@ const stripRoutes = countries
     routes={stripRoutes}
   />
 
+  {/* Path 4 (2026-11-13): one compact insurance line under the paperwork
+      strip — staggered, not stacked: a single row, no card body. Qualitative
+      copy only; SafetyWing publishes no clean from-price (see batch-2
+      PROGRESS), so no number is shown. */}
+  <a
+    class="hub-ins"
+    data-offer="safetywing-hub"
+    href="https://safetywing.com/nomad-insurance?referenceID=26624375&utm_source=26624375&utm_medium=Ambassador"
+    rel="sponsored nofollow noopener"
+    target="_blank">
+    <span class="hub-ins-ic" aria-hidden="true">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none"><path d="M12 3.2 19 5.8v5.4c0 4.4-2.9 7.4-7 9.3-4.1-1.9-7-4.9-7-9.3V5.8Z" stroke="currentColor" stroke-width="1.9" stroke-linejoin="round"/><path d="M12 8.2v5.6M9.2 11h5.6" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"/></svg>
+    </span>
+    <span class="hub-ins-text">
+      <strong>Travel insurance for {c.name}</strong>
+      <span class="hub-ins-sub">SafetyWing — travel medical cover, priced per day or by the month</span>
+    </span>
+    <span class="partner-tag">Partner</span>
+    <svg class="hub-ins-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4 12h15M13 5.5L19.5 12 13 18.5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+  </a>
+
   <div class="stat-band five">
     <div class="stat-tile"><b>{freeCount}</b><span>passports enter visa free</span></div>
     <div class="stat-tile"><b>{countOf('A')}</b><span>visa on arrival</span></div>
@@ -110,4 +131,33 @@ const stripRoutes = countries
     ))}
     <a href="/destinations/">See all {countries.length} destinations →</a>
   </div>
+
+  <style>
+    .hub-ins {
+      display: flex; align-items: center; gap: 10px;
+      margin: 10px 0 4px; padding: 10px 14px;
+      background: var(--card); border: 1px solid var(--line); border-radius: 14px;
+      color: var(--ink); text-decoration: none; box-shadow: var(--sh-sm);
+    }
+    .hub-ins:hover { text-decoration: none; border-color: #bfe3d0; }
+    .hub-ins:hover strong { color: var(--brand); }
+    .hub-ins-ic {
+      flex: none; display: flex; align-items: center; justify-content: center;
+      width: 32px; height: 32px; border-radius: 50%;
+      background: #eef7f2; border: 1px solid #bfe3d0; color: var(--brand);
+    }
+    .hub-ins-text { flex: 1; min-width: 0; display: flex; flex-direction: column; }
+    .hub-ins-text strong { font-size: 15px; line-height: 1.25; }
+    .hub-ins-sub {
+      font-size: 13px; color: var(--muted); line-height: 1.3;
+      white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+    }
+    .hub-ins .partner-tag { margin-left: 0; }
+    .hub-ins-arrow { flex: none; color: var(--muted); }
+    @media (max-width: 720px) {
+      .hub-ins { padding: 9px 12px; gap: 9px; }
+      .hub-ins-text strong { font-size: 14.5px; }
+      .hub-ins-sub { font-size: 12.5px; }
+    }
+  </style>
 </Base>
