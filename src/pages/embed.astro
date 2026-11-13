@@ -119,6 +119,9 @@ import { countries, verifiedPairDates, flagEmoji } from '../lib/data';
       }
       .vf-foot a { font-weight: 600; text-decoration: none; }
       .vf-foot a:hover { text-decoration: underline; }
+      .vf-lic { margin-top: 8px; font-size: 12.5px; color: var(--muted); line-height: 1.45; }
+      .vf-lic a { font-weight: 600; text-decoration: none; }
+      .vf-lic a:hover { text-decoration: underline; }
     </style>
     <script is:inline define:vars={{ verifiedPairDates }}>window.__VF_VERIFIED = verifiedPairDates;</script>
   </head>
@@ -169,6 +172,11 @@ import { countries, verifiedPairDates, flagEmoji } from '../lib/data';
           — visa data checked against official sources
         </span>
         <a href="https://visafreely.com/widget/" target="_blank" rel="noopener">Get this widget</a>
+      </div>
+      <div class="vf-lic">
+        Using this checker in a commercial product? The widget is free with the attribution above
+        kept in place — for dataset licensing, API access or use without attribution, see{' '}
+        <a href="https://visafreely.com/for-business/" target="_blank" rel="noopener">licensing &amp; API</a>.
       </div>
     </div>
 

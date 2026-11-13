@@ -27,7 +27,7 @@ const urlset = (entries) =>
 
 // Core: site pages + passport/destination hubs.
 const corePaths = ['/', '/visa/', '/passports/', '/destinations/', '/passport-ranking/', '/map/', '/compare/',
-  '/visa-policy-changes/', '/about/', '/changelog/', '/widget/'];
+  '/visa-policy-changes/', '/about/', '/changelog/', '/widget/', '/for-business/'];
 const core = corePaths.map((p) => urlEntry(SITE + p));
 for (const c of countries) {
   core.push(urlEntry(`${SITE}/passport/${c.slug}/`));
