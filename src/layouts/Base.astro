@@ -441,6 +441,11 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
       ul.checklist li:last-child { border-bottom: 0; }
       ul.checklist li:hover { background: var(--soft); }
       .ck-ic { flex: none; width: 22px; height: 22px; border-radius: 50%; background: var(--f-bg); border: 1px solid #bfe3d0; color: var(--brand); display: flex; align-items: center; justify-content: center; margin-top: 1px; }
+      /* B10: factual insurance-requirement line inside the checklist */
+      ul.checklist li.ck-fact { background: #eef7f2; }
+      ul.checklist li.ck-fact:hover { background: #e4f2ea; }
+      .ck-fact .ck-src { color: var(--muted); font-size: 13.5px; }
+      .ck-fact .ck-src a { font-weight: 600; }
 
       /* ================= FAQ accordion ================= */
       .faq-item { background: var(--card); border: 1px solid var(--line); border-radius: 14px; margin: 10px 0; overflow: hidden; transition: border-color .16s var(--ease), box-shadow .16s var(--ease); }
@@ -522,6 +527,10 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
       .shelf .card.featured .t { font-size: 21px; }
       .shelf .card.featured .visit-link { padding: 10px 18px; }
       .shelf .card .official-note { margin: -6px 0 14px; font-size: 13px; color: var(--muted); }
+      /* B10: factual requirement note on the insurance card (verified destinations only) */
+      .shelf .card p.ins-note { margin: -6px 0 14px; font-size: 13px; line-height: 1.45; color: var(--ink-2); background: #eef7f2; border: 1px solid #bfe3d0; border-radius: 9px; padding: 7px 10px; }
+      /* B10: separation line under the shelf (official-scheme destinations, e.g. Qatar) */
+      .ins-cut { margin: 10px 2px 0; font-size: 12.5px; line-height: 1.45; color: var(--muted); }
       /* B7-②: demoted fallback offer as a compact text line (not a card) */
       .shelf .alt-line {
         grid-column: 1 / -1; display: flex; align-items: center; gap: 14px;
@@ -827,6 +836,14 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
         .shelf .card.featured p.official-note {
           grid-row: 4; font-size: 12.5px; color: var(--muted);
           white-space: nowrap; overflow: hidden; text-overflow: ellipsis; display: block;
+        }
+        /* B10: card requirement note takes row 4 of the mobile shelf row,
+           wrapping in full (never ellipsis-truncated like the teaser line) */
+        .shelf .card p.ins-note {
+          grid-column: 1; grid-row: 4; display: block;
+          white-space: normal; overflow: visible; text-overflow: clip;
+          background: transparent; border: 0; border-radius: 0;
+          padding: 0; margin: 2px 0 0; font-size: 12.5px; line-height: 1.35; color: var(--muted);
         }
         .shelf .card.featured .visit-link { padding: 0; width: 44px; height: 44px; }
         /* B7-② mobile: the demoted line becomes one hairline row in the list —

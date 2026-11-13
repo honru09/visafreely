@@ -13,6 +13,7 @@
 // border; cards are boarding-pass style with an icon stub, a Partner tag and a pill CTA.
 import Stamp from './Stamp.astro';
 import campaigns from '../data/evisas-campaigns.json';
+import { insuranceFor } from '../lib/insurance';
 interface Props {
   status: string;
   passportName: string;
@@ -34,6 +35,11 @@ const headings: Record<string, string> = {
 };
 const heading = headings[status] ?? 'Plan the rest of the trip';
 const shelfClass = isVisa ? 'shelf shelf--featured' : 'shelf shelf--duo';
+// B10: factual insurance-requirement annotation. cardNote exists only for
+// destinations where a general travel-medical policy can meet the rule;
+// officialOnly destinations (QA/SA/KE/TZ) get no card note, and QA adds a
+// separation line under the shelf instead (see cutNote in the data file).
+const ins = passportCode && destinationCode ? insuranceFor(destinationCode, status, passportCode) : null;
 ---
 
 {status !== 'N' && (
@@ -92,6 +98,7 @@ const shelfClass = isVisa ? 'shelf shelf--featured' : 'shelf shelf--duo';
         <div class="k">Travel insurance<span class="partner-tag">Partner</span></div>
         <div class="t">SafetyWing</div>
         <p>Travel medical insurance built for long and short trips, with per-day pricing and monthly subscriptions.</p>
+        {ins?.cardNote && <p class="ins-note">{ins.cardNote}</p>}
         <a class="visit-link" data-offer={`safetywing-${pos}`} href="https://safetywing.com/nomad-insurance?referenceID=26624375&utm_source=26624375&utm_medium=Ambassador" rel="sponsored nofollow noopener" target="_blank">Visit SafetyWing <span class="arr">→</span></a>
       </div>
     </div>
@@ -118,6 +125,7 @@ const shelfClass = isVisa ? 'shelf shelf--featured' : 'shelf shelf--duo';
       </div>
     </div>
   </div>
+  {ins?.cutNote && <p class="ins-cut">{ins.cutNote}</p>}
   <p class="honest-line">
     <svg width="15" height="15" viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="12" cy="12" r="9" stroke="currentColor" stroke-width="2"/><path d="M12 11v5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/><circle cx="12" cy="8" r="1.3" fill="currentColor"/></svg>
     <span>Free information first: everything above is the full answer. These are optional services travellers often use for this route.</span>

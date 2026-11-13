@@ -4,6 +4,7 @@ import Shelf from '../../../components/Shelf.astro';
 import evisasCampaigns from '../../../data/evisas-campaigns.json';
 import Stamp from '../../../components/Stamp.astro';
 import ShareRow from '../../../components/ShareRow.astro';
+import { insuranceFor } from '../../../lib/insurance';
 import {
   countries,
   countryByCode,
@@ -50,6 +51,7 @@ const needsVisa = row.s === 'R' || row.s === 'E';
 const shelfMode = row.s === 'N' ? 'none' : needsVisa ? 'visa' : 'general';
 const steps = STATUS_STEPS[row.s](p.name, d.name);
 const checklist = STATUS_CHECKLIST[row.s];
+const insFact = insuranceFor(d.code, row.s, p.code, row.days);
 const faq = pairFaq(p.name, d.name, row, extra);
 const title = `${p.name} Passport to ${d.name}: ${verdict} — Visa Requirements`;
 const description = `Do ${p.name} passport holders need a visa for ${d.name}? ${verdict}. Requirement details, stay limit and data verification status.`;
@@ -208,6 +210,12 @@ const freePassports = countries
           <span>{item}</span>
         </li>
       ))}
+      {insFact && (
+        <li class="ck-fact">
+          <span class="ck-ic" aria-hidden="true"><svg width="12" height="12" viewBox="0 0 24 24" fill="none"><circle cx="12" cy="12" r="9" stroke="currentColor" stroke-width="2.4"/><path d="M12 11v5" stroke="currentColor" stroke-width="2.6" stroke-linecap="round"/><circle cx="12" cy="8" r="1.6" fill="currentColor"/></svg></span>
+          <span>{insFact.note} <span class="ck-src">(<a href={insFact.sourceUrl} rel="noopener" target="_blank">{insFact.sourceName}</a>)</span></span>
+        </li>
+      )}
     </ul>
   </div>
 
