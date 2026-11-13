@@ -1,0 +1,676 @@
+---
+// Passport comparison — the "second passport delta" tool (passports.io study, ADOPT-2).
+// Pick the passport you hold (A) and one to compare (B): the page lines up every
+// destination both can be judged on and shows where B is easier, where it newly
+// opens a destination without a prior visa, and — honestly — where it is worse.
+// Everything is computed from the same dataset as the route pages; SSR renders
+// the default comparison in full, the inline script recomputes in place.
+// No shelf, no affiliate links, and nothing about how to obtain a passport.
+import Base from '../layouts/Base.astro';
+import {
+  countries,
+  countryByCode,
+  easyAccessCount,
+  passportRank,
+  statusLabel,
+  pairPath,
+  flagEmoji,
+  data,
+} from '../lib/data';
+
+const DEFAULT_A = 'CN';
+const DEFAULT_B = 'JP';
+
+// ---- Ease ladder (contract in compare-tool-2026-11-14/PROGRESS.md) ----
+// F nothing to file · A nothing before departure · T light online authorisation
+// (counted in the site's "no prior visa" metric) · E full application approved
+// before travel · R embassy application · N no admission.
+const RANK: Record<string, number> = { F: 5, A: 4, T: 3, E: 2, R: 1, N: 0 };
+const EASY = new Set(['F', 'A', 'T']);
+const SHORT: Record<string, string> = {
+  F: 'Visa free',
+  A: 'Visa on arrival',
+  E: 'e-Visa',
+  T: 'ETA',
+  R: 'Visa required',
+  N: 'No admission',
+};
+
+// ---- Per-passport status + stay-length strings, indexed by countries order ----
+// Status row: 'S' = own country, else the pair status. Days row: only F/A rows
+// carry a stay length, encoded as the index char into DAYS_TABLE ('·' = none).
+const ALPHA = '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ';
+const posByCode: Record<string, number> = Object.fromEntries(countries.map((c, i) => [c.code, i]));
+const dayValues = new Set<number>();
+for (const rows of Object.values(data.byPassport))
+  for (const r of rows) if ((r.s === 'F' || r.s === 'A') && r.days != null) dayValues.add(r.days);
+const DAYS_TABLE = [...dayValues].sort((a, b) => a - b);
+if (DAYS_TABLE.length > ALPHA.length) throw new Error('compare: days table overflows alphabet');
+
+const rows: Record<string, string> = {};
+const daysRows: Record<string, string> = {};
+for (const c of countries) {
+  const byDest = new Map((data.byPassport[c.code] || []).map((r) => [r.d, r]));
+  rows[c.code] = countries.map((d) => (d.code === c.code ? 'S' : byDest.get(d.code)?.s ?? '·')).join('');
+  daysRows[c.code] = countries
+    .map((d) => {
+      if (d.code === c.code) return '·';
+      const r = byDest.get(d.code);
+      if (!r || (r.s !== 'F' && r.s !== 'A') || r.days == null) return '·';
+      return ALPHA[DAYS_TABLE.indexOf(r.days)];
+    })
+    .join('');
+}
+// Build-time guards: the comparison must mirror the pair pages exactly, or not ship.
+const totalRows = Object.values(data.byPassport).reduce((n, r) => n + r.length, 0);
+if (totalRows !== data.pairCount) throw new Error(`compare: row total ${totalRows} != pairCount ${data.pairCount}`);
+for (const c of countries) {
+  if ((data.byPassport[c.code] || []).length !== countries.length - 1)
+    throw new Error(`compare: ${c.code} has ${(data.byPassport[c.code] || []).length} rows, expected ${countries.length - 1}`);
+  if (rows[c.code].includes('·')) throw new Error(`compare: ${c.code} status string has a gap`);
+  if (rows[c.code].length !== countries.length || daysRows[c.code].length !== countries.length)
+    throw new Error(`compare: ${c.code} row length mismatch`);
+}
+
+interface Item {
+  dest: (typeof countries)[number];
+  a: string;
+  b: string;
+  aDays: number | null;
+  bDays: number | null;
+  gain: number;
+}
+interface Group {
+  title: string;
+  items: Item[];
+  gain: number;
+  lostEasy?: boolean;
+}
+interface Delta {
+  newly: Group[];
+  easier: Group[];
+  worse: Group[];
+  nNew: number;
+  nEasier: number;
+  nWorse: number;
+  common: number;
+}
+
+function compare(aCode: string, bCode: string): Delta {
+  const rowA = rows[aCode];
+  const rowB = rows[bCode];
+  const dayA = daysRows[aCode];
+  const dayB = daysRows[bCode];
+  const daysOf = (row: string, i: number) => (row[i] === '·' ? null : DAYS_TABLE[ALPHA.indexOf(row[i])]);
+  const newlyByStatus: Record<string, Item[]> = { F: [], A: [], T: [] };
+  const easierByTrans = new Map<string, Item[]>();
+  const worseByTrans = new Map<string, Item[]>();
+  const stayUp: Item[] = [];
+  const stayDown: Item[] = [];
+  let common = 0;
+  countries.forEach((dest, i) => {
+    if (dest.code === aCode || dest.code === bCode) return;
+    common++;
+    const sa = rowA[i];
+    const sb = rowB[i];
+    const item: Item = {
+      dest,
+      a: sa,
+      b: sb,
+      aDays: daysOf(dayA, i),
+      bDays: daysOf(dayB, i),
+      gain: RANK[sb] - RANK[sa],
+    };
+    if (RANK[sb] > RANK[sa]) {
+      if (EASY.has(sb) && !EASY.has(sa)) newlyByStatus[sb].push(item);
+      else {
+        const k = `${sa}>${sb}`;
+        (easierByTrans.get(k) || easierByTrans.set(k, []).get(k)!).push(item);
+      }
+    } else if (RANK[sb] < RANK[sa]) {
+      const k = `${sa}>${sb}`;
+      (worseByTrans.get(k) || worseByTrans.set(k, []).get(k)!).push(item);
+    } else if (
+      (sa === 'F' || sa === 'A') &&
+      item.aDays != null &&
+      item.bDays != null &&
+      item.bDays !== item.aDays
+    ) {
+      (item.bDays > item.aDays ? stayUp : stayDown).push(item);
+    }
+  });
+  const byName = (x: Item, y: Item) => (x.dest.name < y.dest.name ? -1 : 1);
+  const newly: Group[] = (['F', 'A', 'T'] as const)
+    .filter((s) => newlyByStatus[s].length)
+    .map((s) => ({
+      title: s === 'F' ? 'Visa free' : s === 'A' ? 'Visa on arrival' : 'ETA',
+      items: newlyByStatus[s].sort(byName),
+      gain: 0,
+    }));
+  const transGroups = (m: Map<string, Item[]>, sign: 1 | -1): Group[] =>
+    [...m.entries()]
+      .map(([k, items]) => {
+        const [sa, sb] = k.split('>');
+        return {
+          title: `${SHORT[sa]} → ${SHORT[sb]}`,
+          items: items.sort(byName),
+          gain: (RANK[sb] - RANK[sa]) * sign,
+          lostEasy: EASY.has(sa) && !EASY.has(sb),
+        };
+      })
+      .sort((g1, g2) => g2.gain - g1.gain || g2.items.length - g1.items.length);
+  const easier = transGroups(easierByTrans, 1);
+  if (stayUp.length) easier.push({ title: 'Same access, longer stay', items: stayUp.sort(byName), gain: 0 });
+  const worseTrans = transGroups(worseByTrans, -1).sort(
+    (g1, g2) => Number(g2.lostEasy || false) - Number(g1.lostEasy || false) || g2.gain - g1.gain || g2.items.length - g1.items.length,
+  );
+  if (stayDown.length) worseTrans.push({ title: 'Same access, shorter stay', items: stayDown.sort(byName), gain: 0 });
+  const nNew = newly.reduce((n, g) => n + g.items.length, 0);
+  const nEasier = nNew + easier.reduce((n, g) => n + g.items.length, 0);
+  const nWorse = worseTrans.reduce((n, g) => n + g.items.length, 0);
+  return { newly, easier, worse: worseTrans, nNew, nEasier, nWorse, common };
+}
+
+function transText(it: Item): string {
+  if (it.a === it.b) {
+    // Longer/shorter stay at the same status.
+    return `${SHORT[it.b]} · ${it.aDays} → ${it.bDays} days`;
+  }
+  let t = `${SHORT[it.a]} → ${SHORT[it.b]}`;
+  if (it.b === 'F' && it.bDays != null) t += ` · ${it.bDays} days`;
+  if (it.b === 'A' && it.bDays != null) t += ` · up to ${it.bDays} days`;
+  return t;
+}
+
+const defA = countryByCode[DEFAULT_A];
+const defB = countryByCode[DEFAULT_B];
+const defDelta = compare(DEFAULT_A, DEFAULT_B);
+const defEasyA = easyAccessCount(DEFAULT_A);
+const defEasyB = easyAccessCount(DEFAULT_B);
+
+const payload = {
+  codes: countries.map((c) => c.code),
+  names: Object.fromEntries(countries.map((c) => [c.code, c.name])),
+  slugs: Object.fromEntries(countries.map((c) => [c.code, c.slug])),
+  ranks: passportRank,
+  easy: Object.fromEntries(countries.map((c) => [c.code, easyAccessCount(c.code)])),
+  rows,
+  daysRows,
+  daysTable: DAYS_TABLE,
+  alpha: ALPHA,
+  short: SHORT,
+  total: countries.length,
+};
+const pairCountFmt = data.pairCount.toLocaleString('en-US');
+---
+
+<Base
+  title="Compare Passports — What a Second Passport Opens Up | visafreely"
+  description={`Compare any two passports destination by destination: see exactly where the second passport is easier, where it newly opens travel without a prior visa, and where it is worse — computed from the same checked dataset as all ${pairCountFmt} route pages.`}
+>
+  <h1>Compare two passports</h1>
+  <p class="lede">
+    Choose the passport you hold and another passport, and see exactly where the second one takes you
+    that the first doesn't — and where it is worse. Every line is computed live from the same checked
+    dataset as our {pairCountFmt} route pages; each destination links to its full requirement page for
+    the compared passport.
+  </p>
+
+  <div class="checker-card cmp-card">
+    <div class="checker cmp-checker">
+      <div class="ck-field">
+        <label for="cmp-a">Your current passport</label>
+        <div class="ck-wrap" id="cmp-wrap-a">
+          <span class="ck-flag" id="cmp-flag-a" aria-hidden="true">{flagEmoji(defA.code)}</span>
+          <input
+            id="cmp-a"
+            class="ck-input has-flag"
+            value={defA.name}
+            placeholder="Start typing a country…"
+            autocomplete="off"
+            role="combobox"
+            aria-expanded="false"
+            aria-controls="cmp-list-a"
+            aria-autocomplete="list"
+          />
+          <svg class="ck-chev" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M5 9l7 7 7-7" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          <ul class="ck-list" id="cmp-list-a" role="listbox" aria-label="Current passport countries"></ul>
+        </div>
+      </div>
+      <button class="swap-btn" id="cmp-swap" type="button" aria-label="Swap the two passports">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M3 7h14M13 3l4 4-4 4M21 17H7M11 13l-4 4 4 4" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </button>
+      <div class="ck-field">
+        <label for="cmp-b">Passport to compare</label>
+        <div class="ck-wrap" id="cmp-wrap-b">
+          <span class="ck-flag" id="cmp-flag-b" aria-hidden="true">{flagEmoji(defB.code)}</span>
+          <input
+            id="cmp-b"
+            class="ck-input has-flag"
+            value={defB.name}
+            placeholder="Start typing a country…"
+            autocomplete="off"
+            role="combobox"
+            aria-expanded="false"
+            aria-controls="cmp-list-b"
+            aria-autocomplete="list"
+          />
+          <svg class="ck-chev" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M5 9l7 7 7-7" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          <ul class="ck-list" id="cmp-list-b" role="listbox" aria-label="Compared passport countries"></ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="cmp-results">
+    <p class="cmp-summary" aria-live="polite">
+      With the <b id="cs-b-name">{defB.name} passport</b> instead of the <b id="cs-a-name">{defA.name} passport</b>,
+      across the other <b class="tnum" id="cs-common">{defDelta.common}</b> destinations:
+    </p>
+    <div class="cmp-stats">
+      <div class="stat-tile"><b class="tnum" id="cs-new">{defDelta.nNew}</b><span>newly open without a prior visa</span></div>
+      <div class="stat-tile"><b class="tnum" id="cs-easier">{defDelta.nEasier}</b><span>destinations easier overall</span></div>
+      <div class="stat-tile"><b class="tnum" id="cs-worse">{defDelta.nWorse}</b><span>destinations harder</span></div>
+    </div>
+    <p class="cmp-context">
+      Background: the {defA.name} passport reaches <b class="tnum" id="cs-easy-a">{defEasyA}</b> destinations
+      without applying in advance (ranked <b class="tnum" id="cs-rank-a">#{passportRank[DEFAULT_A]}</b> of {countries.length});
+      the {defB.name} passport reaches <b class="tnum" id="cs-easy-b">{defEasyB}</b>
+      (ranked <b class="tnum" id="cs-rank-b">#{passportRank[DEFAULT_B]}</b>).
+    </p>
+
+    <div id="cmp-sections">
+      {
+        defDelta.newly.length > 0 && (
+          <section class="cmp-sec">
+            <h2>Newly open — no visa application in advance with the {defB.name} passport</h2>
+            {defDelta.newly.map((g) => (
+              <div class="cmp-group">
+                <h3>{g.title}<span class="count-pill">{g.items.length}</span></h3>
+                <div class="cmp-rows">
+                  {g.items.map((it) => (
+                    <a class="cmp-row" href={pairPath(defB, it.dest)}>
+                      <span class="fl" aria-hidden="true">{flagEmoji(it.dest.code)}</span>
+                      <span class="cmp-name">{it.dest.name}</span>
+                      <span class="cmp-trans"><span class={`sdot ${it.b}`} aria-hidden="true"></span>{transText(it)}</span>
+                    </a>
+                  ))}
+                </div>
+              </div>
+            ))}
+          </section>
+        )
+      }
+      {
+        defDelta.easier.length > 0 && (
+          <section class="cmp-sec">
+            <h2>Also easier with the {defB.name} passport</h2>
+            {defDelta.easier.map((g) => (
+              <div class="cmp-group">
+                <h3>{g.title}<span class="count-pill">{g.items.length}</span></h3>
+                <div class="cmp-rows">
+                  {g.items.map((it) => (
+                    <a class="cmp-row" href={pairPath(defB, it.dest)}>
+                      <span class="fl" aria-hidden="true">{flagEmoji(it.dest.code)}</span>
+                      <span class="cmp-name">{it.dest.name}</span>
+                      <span class="cmp-trans"><span class={`sdot ${it.b}`} aria-hidden="true"></span>{transText(it)}</span>
+                    </a>
+                  ))}
+                </div>
+              </div>
+            ))}
+          </section>
+        )
+      }
+      {
+        defDelta.worse.length > 0 && (
+          <section class="cmp-sec">
+            <h2>Harder with the {defB.name} passport</h2>
+            {defDelta.worse.map((g) => (
+              <div class="cmp-group">
+                <h3>{g.title}<span class="count-pill">{g.items.length}</span></h3>
+                <div class="cmp-rows">
+                  {g.items.map((it) => (
+                    <a class="cmp-row" href={pairPath(defB, it.dest)}>
+                      <span class="fl" aria-hidden="true">{flagEmoji(it.dest.code)}</span>
+                      <span class="cmp-name">{it.dest.name}</span>
+                      <span class="cmp-trans"><span class={`sdot ${it.b}`} aria-hidden="true"></span>{transText(it)}</span>
+                    </a>
+                  ))}
+                </div>
+              </div>
+            ))}
+          </section>
+        )
+      }
+    </div>
+    <p class="cmp-empty" id="cmp-empty" hidden>
+      That is the same passport twice — pick two different passports to see the difference.
+    </p>
+    <p class="cmp-method">
+      Compared across the {defDelta.common} destinations that are home to neither passport, on the same
+      requirement data as every route page on this site. "Without a prior visa" counts visa-free entry,
+      visa on arrival and ETAs — the same measure as the <a href="/passport-ranking/">passport ranking</a>.
+      Stay lengths are shown where the dataset records them.
+    </p>
+  </div>
+
+  <p class="cmp-more">
+    See both on the <a href="/map/">world visa map</a> · The <a href="/passport-ranking/">full passport ranking</a> ·
+    Or <a href="/#checker">check a single route</a>
+  </p>
+
+  <script is:inline define:vars={{ payload, defaultA: DEFAULT_A, defaultB: DEFAULT_B }}>
+    (function () {
+      var M = payload;
+      var RANK = { F: 5, A: 4, T: 3, E: 2, R: 1, N: 0 };
+      var EASY = { F: 1, A: 1, T: 1 };
+      var pos = {};
+      M.codes.forEach(function (c, i) { pos[c] = i; });
+      var byName = {};
+      var bySlug = {};
+      M.codes.forEach(function (c) {
+        byName[M.names[c].toLowerCase()] = c;
+        bySlug[M.slugs[c]] = c;
+      });
+      var ALL = M.codes.map(function (c) { return { code: c, name: M.names[c], slug: M.slugs[c] }; });
+
+      function esc(s) { return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;'); }
+      function flagEmoji(code) {
+        if (!/^[A-Za-z]{2}$/.test(code || '')) return '';
+        try {
+          return String.fromCodePoint.apply(null, code.toUpperCase().split('').map(function (c) { return 127397 + c.charCodeAt(0); }));
+        } catch (e) { return ''; }
+      }
+      function daysOf(row, i) {
+        var ch = row[i];
+        return ch === '·' ? null : M.daysTable[M.alpha.indexOf(ch)];
+      }
+
+      /* ---------- delta computation (mirrors the build-time compare) ---------- */
+      function compare(aCode, bCode) {
+        var rowA = M.rows[aCode], rowB = M.rows[bCode];
+        var dayA = M.daysRows[aCode], dayB = M.daysRows[bCode];
+        var newly = { F: [], A: [], T: [] };
+        var easierBy = {}, worseBy = {};
+        var stayUp = [], stayDown = [];
+        var common = 0;
+        M.codes.forEach(function (dc, i) {
+          if (dc === aCode || dc === bCode) return;
+          common++;
+          var sa = rowA[i], sb = rowB[i];
+          var it = { code: dc, a: sa, b: sb, aDays: daysOf(dayA, i), bDays: daysOf(dayB, i), gain: RANK[sb] - RANK[sa] };
+          if (RANK[sb] > RANK[sa]) {
+            if (EASY[sb] && !EASY[sa]) newly[sb].push(it);
+            else { var k1 = sa + '>' + sb; (easierBy[k1] = easierBy[k1] || []).push(it); }
+          } else if (RANK[sb] < RANK[sa]) {
+            var k2 = sa + '>' + sb; (worseBy[k2] = worseBy[k2] || []).push(it);
+          } else if ((sa === 'F' || sa === 'A') && it.aDays != null && it.bDays != null && it.bDays !== it.aDays) {
+            (it.bDays > it.aDays ? stayUp : stayDown).push(it);
+          }
+        });
+        function byNameSort(x, y) { return M.names[x.code] < M.names[y.code] ? -1 : 1; }
+        var newlyGroups = ['F', 'A', 'T'].filter(function (s) { return newly[s].length; }).map(function (s) {
+          return { title: M.short[s], items: newly[s].sort(byNameSort), gain: 0 };
+        });
+        function transGroups(map, sign) {
+          return Object.keys(map).map(function (k) {
+            var parts = k.split('>');
+            return {
+              title: M.short[parts[0]] + ' → ' + M.short[parts[1]],
+              items: map[k].sort(byNameSort),
+              gain: (RANK[parts[1]] - RANK[parts[0]]) * sign,
+              lostEasy: !!EASY[parts[0]] && !EASY[parts[1]],
+            };
+          }).sort(function (g1, g2) { return g2.gain - g1.gain || g2.items.length - g1.items.length; });
+        }
+        var easierGroups = transGroups(easierBy, 1);
+        if (stayUp.length) easierGroups.push({ title: 'Same access, longer stay', items: stayUp.sort(byNameSort), gain: 0 });
+        var worseGroups = transGroups(worseBy, -1).sort(function (g1, g2) {
+          return (g2.lostEasy ? 1 : 0) - (g1.lostEasy ? 1 : 0) || g2.gain - g1.gain || g2.items.length - g1.items.length;
+        });
+        if (stayDown.length) worseGroups.push({ title: 'Same access, shorter stay', items: stayDown.sort(byNameSort), gain: 0 });
+        var nNew = newlyGroups.reduce(function (n, g) { return n + g.items.length; }, 0);
+        var nEasier = nNew + easierGroups.reduce(function (n, g) { return n + g.items.length; }, 0);
+        var nWorse = worseGroups.reduce(function (n, g) { return n + g.items.length; }, 0);
+        return { newly: newlyGroups, easier: easierGroups, worse: worseGroups, nNew: nNew, nEasier: nEasier, nWorse: nWorse, common: common };
+      }
+
+      function transText(it) {
+        if (it.a === it.b) return M.short[it.b] + ' · ' + it.aDays + ' → ' + it.bDays + ' days';
+        var t = M.short[it.a] + ' → ' + M.short[it.b];
+        if (it.b === 'F' && it.bDays != null) t += ' · ' + it.bDays + ' days';
+        if (it.b === 'A' && it.bDays != null) t += ' · up to ' + it.bDays + ' days';
+        return t;
+      }
+      function rowHtml(it, bCode) {
+        return '<a class="cmp-row" href="/visa/' + M.slugs[bCode] + '/' + M.slugs[it.code] + '/">'
+          + '<span class="fl" aria-hidden="true">' + flagEmoji(it.code) + '</span>'
+          + '<span class="cmp-name">' + esc(M.names[it.code]) + '</span>'
+          + '<span class="cmp-trans"><span class="sdot ' + it.b + '" aria-hidden="true"></span>' + esc(transText(it)) + '</span></a>';
+      }
+      function sectionHtml(heading, groups, bCode) {
+        if (!groups.length) return '';
+        var h = '<section class="cmp-sec"><h2>' + esc(heading) + '</h2>';
+        groups.forEach(function (g) {
+          h += '<div class="cmp-group"><h3>' + esc(g.title) + '<span class="count-pill">' + g.items.length + '</span></h3><div class="cmp-rows">';
+          g.items.forEach(function (it) { h += rowHtml(it, bCode); });
+          h += '</div></div>';
+        });
+        return h + '</section>';
+      }
+
+      /* ---------- state + rendering ---------- */
+      var state = { a: defaultA, b: defaultB };
+      var sectionsEl = document.getElementById('cmp-sections');
+      var emptyEl = document.getElementById('cmp-empty');
+
+      function render() {
+        var a = state.a, b = state.b;
+        document.getElementById('cs-a-name').textContent = M.names[a] + ' passport';
+        document.getElementById('cs-b-name').textContent = M.names[b] + ' passport';
+        document.getElementById('cs-easy-a').textContent = M.easy[a];
+        document.getElementById('cs-easy-b').textContent = M.easy[b];
+        document.getElementById('cs-rank-a').textContent = '#' + M.ranks[a];
+        document.getElementById('cs-rank-b').textContent = '#' + M.ranks[b];
+        document.getElementById('cmp-results').classList.toggle('is-same', a === b);
+        if (a === b) {
+          document.getElementById('cs-common').textContent = '0';
+          document.getElementById('cs-new').textContent = '0';
+          document.getElementById('cs-easier').textContent = '0';
+          document.getElementById('cs-worse').textContent = '0';
+          sectionsEl.innerHTML = '';
+          emptyEl.hidden = false;
+          return;
+        }
+        emptyEl.hidden = true;
+        var d = compare(a, b);
+        document.getElementById('cs-common').textContent = d.common;
+        document.getElementById('cs-new').textContent = d.nNew;
+        document.getElementById('cs-easier').textContent = d.nEasier;
+        document.getElementById('cs-worse').textContent = d.nWorse;
+        sectionsEl.innerHTML =
+          sectionHtml('Newly open — no visa application in advance with the ' + M.names[b] + ' passport', d.newly, b)
+          + sectionHtml('Also easier with the ' + M.names[b] + ' passport', d.easier, b)
+          + sectionHtml('Harder with the ' + M.names[b] + ' passport', d.worse, b);
+        try { localStorage.setItem('vf_cmp', a + ':' + b); } catch (e) {}
+        try {
+          var url = new URL(location.href);
+          url.searchParams.set('a', M.slugs[a]);
+          url.searchParams.set('b', M.slugs[b]);
+          history.replaceState(null, '', url);
+        } catch (e) {}
+      }
+
+      /* ---------- comboboxes (same pattern as the route checker / map) ---------- */
+      function makeCombo(prefix, get, set) {
+        var input = document.getElementById('cmp-' + prefix);
+        var list = document.getElementById('cmp-list-' + prefix);
+        var flagEl = document.getElementById('cmp-flag-' + prefix);
+        var wrap = document.getElementById('cmp-wrap-' + prefix);
+        var active = -1;
+        var currentList = [];
+        function close() {
+          wrap.classList.remove('open');
+          input.setAttribute('aria-expanded', 'false');
+          input.removeAttribute('aria-activedescendant');
+          active = -1;
+          // Free text that was never chosen snaps back to the current selection.
+          if (input.value !== M.names[get()]) input.value = M.names[get()];
+        }
+        function renderList() {
+          var q = input.value.trim().toLowerCase();
+          var starts = [], contains = [];
+          for (var i = 0; i < ALL.length; i++) {
+            var n = ALL[i].name.toLowerCase();
+            if (n.indexOf(q) === 0) starts.push(ALL[i]);
+            else if (q && n.indexOf(q) >= 0) contains.push(ALL[i]);
+          }
+          currentList = q ? starts.concat(contains) : ALL;
+          if (!currentList.length) {
+            list.innerHTML = '<li class="ck-empty">No country matches — try another spelling.</li>';
+          } else {
+            list.innerHTML = currentList.map(function (c, i) {
+              return '<li class="ck-option" role="option" id="cmp-list-' + prefix + '-o' + i + '" data-name="' + esc(c.name) + '" aria-selected="false">'
+                + '<span class="fl">' + flagEmoji(c.code) + '</span>' + esc(c.name)
+                + '<span class="cd">' + esc(c.code) + '</span></li>';
+            }).join('');
+          }
+          wrap.classList.add('open');
+          input.setAttribute('aria-expanded', 'true');
+          active = -1;
+        }
+        function setActive(i) {
+          var opts = list.querySelectorAll('.ck-option');
+          opts.forEach(function (o, j) { o.classList.toggle('active', j === i); });
+          active = i;
+          if (i >= 0 && opts[i]) { input.setAttribute('aria-activedescendant', opts[i].id); opts[i].scrollIntoView({ block: 'nearest' }); }
+          else input.removeAttribute('aria-activedescendant');
+        }
+        function choose(c) {
+          set(c.code);
+          input.value = c.name;
+          var f = flagEmoji(c.code);
+          flagEl.textContent = f;
+          input.classList.toggle('has-flag', !!f);
+          close();
+          render();
+        }
+        input.addEventListener('input', function () { flagEl.textContent = ''; input.classList.remove('has-flag'); renderList(); });
+        input.addEventListener('focus', function () { combos.forEach(function (cb) { if (cb !== api) cb.close(); }); renderList(); });
+        // Choosing an option leaves focus in the field with the list closed;
+        // a fresh tap on the still-focused field must reopen it (no new focus event fires).
+        input.addEventListener('click', function () { if (!wrap.classList.contains('open')) renderList(); });
+        /* BUG-001 hold: a touch-scroll of the list must never let the blur timer close it mid-gesture. */
+        var holdUntil = 0;
+        function hold() { holdUntil = Date.now() + 800; }
+        list.addEventListener('pointerdown', hold);
+        list.addEventListener('touchstart', hold, { passive: true });
+        list.addEventListener('scroll', hold, { passive: true });
+        input.addEventListener('blur', function () {
+          setTimeout(function deferClose() {
+            if (Date.now() < holdUntil) setTimeout(deferClose, 400);
+            else close();
+          }, 120);
+        });
+        input.addEventListener('keydown', function (ev) {
+          if (ev.key === 'ArrowDown') { ev.preventDefault(); if (!wrap.classList.contains('open')) renderList(); setActive(Math.min(active + 1, currentList.length - 1)); }
+          else if (ev.key === 'ArrowUp') { ev.preventDefault(); setActive(Math.max(active - 1, 0)); }
+          else if (ev.key === 'Enter' && wrap.classList.contains('open') && active >= 0 && currentList[active]) { ev.preventDefault(); choose(currentList[active]); }
+          else if (ev.key === 'Escape') { close(); }
+        });
+        list.addEventListener('mousedown', function (ev) {
+          var li = ev.target.closest ? ev.target.closest('.ck-option') : null;
+          if (!li) return;
+          ev.preventDefault();
+          var code = byName[li.getAttribute('data-name').toLowerCase()];
+          if (code) choose({ code: code, name: M.names[code], slug: M.slugs[code] });
+        });
+        var api = { close: close, choose: choose, input: input, flagEl: flagEl };
+        return api;
+      }
+      var combos = [];
+      var comboA = makeCombo('a', function () { return state.a; }, function (code) { state.a = code; });
+      var comboB = makeCombo('b', function () { return state.b; }, function (code) { state.b = code; });
+      combos.push(comboA, comboB);
+
+      var swapBtn = document.getElementById('cmp-swap');
+      swapBtn.addEventListener('click', function () {
+        var t = state.a; state.a = state.b; state.b = t;
+        [comboA, comboB].forEach(function (cb, i) {
+          var code = i === 0 ? state.a : state.b;
+          cb.input.value = M.names[code];
+          cb.flagEl.textContent = flagEmoji(code);
+          cb.input.classList.add('has-flag');
+          cb.close();
+        });
+        swapBtn.classList.toggle('flip');
+        render();
+      });
+
+      /* ---------- initial selection: ?a=&b= win, then the last-used pair ---------- */
+      var initA = null, initB = null;
+      try {
+        var sp = new URL(location.href).searchParams;
+        if (sp.get('a') && bySlug[sp.get('a')]) initA = bySlug[sp.get('a')];
+        if (sp.get('b') && bySlug[sp.get('b')]) initB = bySlug[sp.get('b')];
+      } catch (e) {}
+      if (!initA && !initB) {
+        try {
+          var saved = (localStorage.getItem('vf_cmp') || '').split(':');
+          if (saved.length === 2 && M.rows[saved[0]] && M.rows[saved[1]]) { initA = saved[0]; initB = saved[1]; }
+        } catch (e) {}
+      }
+      if ((initA && initA !== state.a) || (initB && initB !== state.b)) {
+        if (initA) state.a = initA;
+        if (initB) state.b = initB;
+        [comboA, comboB].forEach(function (cb, i) {
+          var code = i === 0 ? state.a : state.b;
+          cb.input.value = M.names[code];
+          cb.flagEl.textContent = flagEmoji(code);
+        });
+        render();
+      }
+    })();
+  </script>
+
+  <style>
+    .cmp-card { max-width: 880px; margin-top: 20px; }
+    .cmp-checker { align-items: end; }
+    .cmp-card .ck-wrap.open { z-index: 80; }
+    .cmp-summary { font-size: 16.5px; margin: 22px 0 12px; }
+    .cmp-summary b { font-weight: 800; }
+    .cmp-stats { display: flex; flex-wrap: wrap; gap: 10px; }
+    .cmp-context { font-size: 14.5px; color: var(--ink-2); margin: 12px 0 4px; }
+    .cmp-sec { margin-top: 30px; }
+    .cmp-group { margin-top: 18px; }
+    .cmp-group h3 { display: flex; align-items: center; margin: 0 0 8px; }
+    .cmp-rows {
+      background: var(--card); border: 1px solid var(--line); border-radius: 14px; overflow: hidden;
+    }
+    .cmp-row {
+      display: flex; align-items: center; gap: 10px; min-height: 44px; flex-wrap: wrap;
+      padding: 7px 14px; color: var(--ink); text-decoration: none; font-size: 15px;
+    }
+    .cmp-row + .cmp-row { border-top: 1px solid var(--line); }
+    .cmp-row:hover { background: var(--soft); }
+    .cmp-row .fl { font-size: 17px; width: 24px; text-align: center; flex: none; }
+    .cmp-name { font-weight: 600; flex: 1 1 auto; min-width: 0; overflow-wrap: break-word; }
+    .cmp-trans {
+      display: inline-flex; align-items: center; gap: 7px; flex: none; margin-left: auto;
+      font-size: 13.5px; font-weight: 600; color: var(--ink-2); text-align: right;
+    }
+    #cmp-results.is-same .cmp-summary,
+    #cmp-results.is-same .cmp-stats,
+    #cmp-results.is-same .cmp-context { display: none; }
+    @media (max-width: 720px) {
+      .cmp-trans { font-size: 12.5px; }
+    }
+    .cmp-empty {
+      margin-top: 22px; padding: 16px 18px; border: 1px dashed var(--line-strong);
+      border-radius: 14px; font-size: 15px; color: var(--ink-2); background: var(--soft);
+    }
+    .cmp-method { font-size: 13.5px; color: var(--muted); margin-top: 26px; max-width: 760px; }
+    .cmp-more { margin-top: 30px; font-size: 15px; }
+  </style>
+</Base>
