@@ -69,6 +69,7 @@ export function faqL(
   row: PairRow,
   extra: PairExtra,
   vintage: string,
+  dEn: string,
 ): { q: string; a: string }[] {
   if (locale === 'en') return pairFaq(p, d, row, extra);
   const T = i18nT(locale);
@@ -82,9 +83,50 @@ export function faqL(
   const a3 = extra.verified
     ? T('pair_faq3_a_yes', { date: formatDateL(locale, extra.verified), source: extra.source_name ?? '' })
     : T('pair_faq3_a_no', { vintage });
-  return [
+  const out = [
     { q: T('pair_faq1_q', { p, d }), a: a1 },
     { q: T('pair_faq2_q', { p, d }), a: a2 },
     { q: T('pair_faq3_q'), a: a3 },
   ];
+  // SEO L10 query-style additions (2026-11-14) — localized counterparts of
+  // the pairFaq() additions in lib/data.ts, phrased the way each locale
+  // actually searches. Facts only: the honest fee line, this page's own
+  // checklist, and the data layer's valid_until for expiring policies.
+  const adds: { q: string; a: string }[] = [];
+  if (row.s === 'E' || row.s === 'R' || row.s === 'A') {
+    adds.push({
+      q: T('l10_fee_q', { p, d }),
+      a: extra.source_name
+        ? T('l10_fee_a_src', { d, source: extra.source_name })
+        : T('l10_fee_a', { d }),
+    });
+  }
+  if (row.s === 'E' || row.s === 'R') {
+    adds.push({
+      q: T(row.s === 'E' ? 'l10_doc_q_e' : 'l10_doc_q_r', { p, d }),
+      a: T('l10_doc_a', { items: checklistL(locale, row.s).join('; ') }),
+    });
+  }
+  if (extra.valid_until) {
+    adds.push({
+      q: T('l10_until_q', { p, d }),
+      a: T('l10_until_a', { date: formatDateL(locale, extra.valid_until) }),
+    });
+  }
+  // Mixed-language mention: at most one per page, woven into the first
+  // L10 answer — travellers often search the route by its English name.
+  if (adds.length) {
+    const enPhrase: Record<string, string> = {
+      E: 'e-Visa',
+      T: 'ETA',
+      A: 'visa on arrival',
+      R: 'visa',
+      F: 'visa-free entry',
+      N: 'entry rules',
+    };
+    adds[0].a +=
+      (locale === 'th' ? ' ' : '') + T('l10_mix', { route: `${dEn} ${enPhrase[row.s]}` });
+    out.push(...adds);
+  }
+  return out;
 }

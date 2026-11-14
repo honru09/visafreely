@@ -99,11 +99,14 @@ function affectedRoutes(e: Change): RouteLink[] {
 const entries = (policyChanges as Change[])
   .slice()
   .sort((a, b) => (a.date < b.date ? 1 : -1))
-  .map((e) => {
+  .map((e, i) => {
     const dc = countryByCode[e.destination];
     const lt = policyTextL(locale, e);
     return {
       ...e,
+      // SEO L10: stable per-entry anchor so the ItemList structured data
+      // (and any external link) can point at one specific change.
+      anchor: `chg-${e.date}-${e.destination.toLowerCase()}${e.passport ? `-${e.passport.toLowerCase()}` : ''}-${i}`,
       titleL: lt.title,
       summaryL: lt.summary,
       destName: dc ? nm(dc) : e.destination,
@@ -119,6 +122,29 @@ const alertStr = {
   sending: T('form_sending'),
 };
 const shareUrl = `https://visafreely.com${localeByCode[locale].prefix ? `/${localeByCode[locale].prefix}` : ''}/visa-policy-changes/`;
+// SEO L10 (2026-11-14): ItemList over every tracked change (each item
+// deep-links to its on-page anchor) + BreadcrumbList.
+const itemListLd = {
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  name: T('pc_h1'),
+  numberOfItems: entries.length,
+  itemListElement: entries.map((e, i) => ({
+    '@type': 'ListItem',
+    position: i + 1,
+    name: e.titleL,
+    url: `${shareUrl}#${e.anchor}`,
+  })),
+};
+const absUrl = (p: string) => new URL(href(p), Astro.site).href;
+const breadcrumbLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: T('l10_crumb_home'), item: absUrl('/') },
+    { '@type': 'ListItem', position: 2, name: T('pc_h1'), item: absUrl('/visa-policy-changes/') },
+  ],
+};
 ---
 
 <Base title={T('pc_title')} description={T('pc_desc')} locale={locale}>
@@ -142,7 +168,7 @@ const shareUrl = `https://visafreely.com${localeByCode[locale].prefix ? `/${loca
 
   <div class="timeline">
     {entries.map((e) => (
-      <article class="tl-entry">
+      <article class="tl-entry" id={e.anchor}>
         <div class="tl-date">{formatDateL(locale, e.date)}</div>
         <div class="tl-card">
           {e.destHref
@@ -245,4 +271,6 @@ const shareUrl = `https://visafreely.com${localeByCode[locale].prefix ? `/${loca
     }
   </style>
   <ExploreStrip locale={locale} items={[{ key: 'explore_check', href: href('/#checker') }, { key: 'feat_map', href: href('/map/') }, { key: 'feat_ranking', href: href('/passport-ranking/') }]} />
+  <script type="application/ld+json" set:html={JSON.stringify(itemListLd)} />
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbLd)} />
 </Base>

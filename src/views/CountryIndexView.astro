@@ -64,6 +64,16 @@ letters.sort();
 
 const title = T(isP ? 'idxp_title' : 'idxd_title');
 const description = T(isP ? 'idxp_desc' : 'idxd_desc');
+// SEO L10 breadcrumb (2026-11-14).
+const absUrl = (p: string) => new URL(href(p), Astro.site).href;
+const breadcrumbLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: T('l10_crumb_home'), item: absUrl('/') },
+    { '@type': 'ListItem', position: 2, name: T(isP ? 'idxp_h1' : 'idxd_h1'), item: absUrl(isP ? '/passports/' : '/destinations/') },
+  ],
+};
 ---
 
 <Base title={title} description={description} locale={locale}>
@@ -89,4 +99,5 @@ const description = T(isP ? 'idxp_desc' : 'idxd_desc');
       </div>
     </section>
   ))}
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbLd)} />
 </Base>

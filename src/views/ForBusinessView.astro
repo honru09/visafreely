@@ -23,6 +23,16 @@ const pairFmt = data.pairCount.toLocaleString('en-US');
 const verifiedFmt = verifiedCount.toLocaleString('en-US');
 const changeCount = (policyChanges as unknown[]).length;
 const fbStr = { ok: T('fb_ok'), bad: T('pc_alert_bad'), err: T('fb_err'), sending: T('form_sending') };
+// SEO L10 breadcrumb (2026-11-14).
+const absUrl = (p: string) => new URL(href(p), Astro.site).href;
+const breadcrumbLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: T('l10_crumb_home'), item: absUrl('/') },
+    { '@type': 'ListItem', position: 2, name: T('fb_h1'), item: absUrl('/for-business/') },
+  ],
+};
 ---
 
 <Base
@@ -194,4 +204,5 @@ const fbStr = { ok: T('fb_ok'), bad: T('pc_alert_bad'), err: T('fb_err'), sendin
     #fb-status { grid-column: 1 / -1; margin: 0; color: var(--brand-deep); font-size: 14.5px; }
   </style>
   <ExploreStrip locale={locale} items={[{ key: 'explore_check', href: href('/#checker') }, { key: 'feat_map', href: href('/map/') }, { key: 'feat_compare', href: href('/compare/') }]} />
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbLd)} />
 </Base>

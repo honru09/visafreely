@@ -75,7 +75,7 @@ const insFactEntry = insuranceFor(d.code, row.s, p.code, row.days);
 const insFact = insFactEntry
   ? { note: insuranceTextL(locale, insFactEntry, 'note') as string, sourceUrl: insFactEntry.sourceUrl, sourceName: insFactEntry.sourceName }
   : null;
-const faq = faqL(locale, pName, dName, row, extra, data.vintage);
+const faq = faqL(locale, pName, dName, row, extra, data.vintage, d.name);
 const title = T('pair_title', { p: pName, d: dName, verdict });
 const description = T('pair_desc', { p: pName, d: dName, verdict });
 const statusColor = STATUS_COLOR[row.s];

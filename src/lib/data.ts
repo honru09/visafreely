@@ -324,9 +324,38 @@ export function pairFaq(
   const a3 = extra.verified
     ? `Yes — last verified on ${extra.verified} against an official source: ${extra.source_name}.`
     : `Not yet. This pair is from the passport-index dataset (${data.vintage} snapshot) and has not yet been individually verified against an official source.`;
-  return [
+  const out = [
     { q: `Do ${p} citizens need a visa for ${d}?`, a: a1 },
     { q: `How long can ${p} citizens stay in ${d}?`, a: a2 },
     { q: 'Has this requirement been verified?', a: a3 },
   ];
+  // SEO L10 query-style additions (2026-11-14): the questions travellers
+  // actually type, answered from this page's facts only. Fees get the
+  // honest line (the dataset carries no fee figures); documents restate
+  // this page's own checklist; a policy end date is answered with the
+  // data layer's valid_until.
+  if (row.s === 'E' || row.s === 'R' || row.s === 'A') {
+    out.push({
+      q: `How much does a ${d} visa cost for ${p} citizens?`,
+      a: extra.source_name
+        ? `We don't publish a fee figure for this route, because there is no single official number that stays fixed: the fee is set by ${d}'s official application channel and can change without notice. Check the current fee with ${extra.source_name}, the official source behind this page, before you apply.`
+        : `We don't publish a fee figure for this route, because there is no single official number that stays fixed: the fee is set by ${d}'s official application channel and can change without notice. Check the current fee on the official channel before you apply.`,
+    });
+  }
+  if (row.s === 'E' || row.s === 'R') {
+    out.push({
+      q:
+        row.s === 'E'
+          ? `What documents do ${p} citizens need for a ${d} e-Visa?`
+          : `What documents do ${p} citizens need for a ${d} visa?`,
+      a: `The checklist for this route is: ${STATUS_CHECKLIST[row.s].join('; ')}.`,
+    });
+  }
+  if (extra.valid_until) {
+    out.push({
+      q: `How long will ${d}'s current entry policy for ${p} citizens last?`,
+      a: `The rule shown here is currently announced to run until ${formatDateLong(extra.valid_until)}. It may be extended or replaced — check again before travelling after that date.`,
+    });
+  }
+  return out;
 }

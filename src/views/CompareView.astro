@@ -240,6 +240,16 @@ const payload = {
   },
 };
 const pairCountFmt = data.pairCount.toLocaleString('en-US');
+// SEO L10 breadcrumb (2026-11-14).
+const absUrl = (p: string) => new URL(href(p), Astro.site).href;
+const breadcrumbLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: T('l10_crumb_home'), item: absUrl('/') },
+    { '@type': 'ListItem', position: 2, name: T('cmp_h1'), item: absUrl('/compare/') },
+  ],
+};
 ---
 
 <Base
@@ -792,4 +802,5 @@ const pairCountFmt = data.pairCount.toLocaleString('en-US');
     }
   </style>
   <ExploreStrip locale={locale} items={[{ key: 'feat_map', href: href('/map/') }, { key: 'feat_ranking', href: href('/passport-ranking/') }, { key: 'explore_check', href: href('/#checker') }]} />
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbLd)} />
 </Base>

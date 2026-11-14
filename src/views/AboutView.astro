@@ -28,6 +28,16 @@ const ve = countryByCode['VE'];
 const exVerified = pairExtra('JP', 'TH');
 const exPending = pairExtra('ZW', 'VE');
 const fmt = (iso: string) => formatDateL(locale, iso);
+// SEO L10 breadcrumb (2026-11-14).
+const absUrl = (p: string) => new URL(href(p), Astro.site).href;
+const breadcrumbLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: T('l10_crumb_home'), item: absUrl('/') },
+    { '@type': 'ListItem', position: 2, name: T('ab_h1'), item: absUrl('/about/') },
+  ],
+};
 ---
 
 <Base title={T('ab_title')} description={T('ab_desc')} locale={locale}>
@@ -141,4 +151,5 @@ const fmt = (iso: string) => formatDateL(locale, iso);
     {T('ab_widget_a')}<a href={href('/widget/')}>{T('ab_widget_link')}</a>{T('ab_widget_b')}
   </p>
   <ExploreStrip locale={locale} items={[{ key: 'explore_check', href: href('/#checker') }, { key: 'feat_map', href: href('/map/') }, { key: 'feat_compare', href: href('/compare/') }]} />
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbLd)} />
 </Base>
