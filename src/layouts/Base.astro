@@ -1573,7 +1573,98 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
           });
       })();
     </script>
-    <script>(function(){var B="https://honru09--site-stats-web.us-east.modal.run/track?s=visafreely";function sget(k,s){try{return s.getItem(k);}catch(e){return null;}}function sput(k,v,s){try{s.setItem(k,v);}catch(e){}}if(/[?&]vf_internal=1/.test(location.search))sput("vf_internal","1",window.localStorage);var INT=sget("vf_internal",window.localStorage)==="1";function gid(k,s){try{var v=s.getItem(k);if(!v){v=Math.random().toString(36).slice(2)+Date.now().toString(36);s.setItem(k,v);}return v;}catch(e){return "";}}var vid=gid("vf_vid",window.localStorage),sid=gid("vf_sid",window.sessionStorage);var vc=0;try{vc=parseInt(sget("vf_vc",window.localStorage)||"0",10)||0;if(!sget("vf_counted",window.sessionStorage)){vc+=1;sput("vf_vc",String(vc),window.localStorage);sput("vf_counted","1",window.sessionStorage);}}catch(e){}function qs(extra){return B+"&p="+encodeURIComponent(location.pathname)+extra+(vid?"&v="+encodeURIComponent(vid):"")+(sid?"&ss="+encodeURIComponent(sid):"")+(INT?"&int=1":"");}function send(u){if(navigator.sendBeacon){try{navigator.sendBeacon(u);return;}catch(e){}}var i=new Image();i.src=u;}var prof="&l="+encodeURIComponent(navigator.language||"")+"&tz="+encodeURIComponent((Intl.DateTimeFormat().resolvedOptions().timeZone)||"")+"&sw="+encodeURIComponent(screen.width+"x"+screen.height)+"&vw="+window.innerWidth+"&dpr="+(window.devicePixelRatio||1)+"&hc="+(navigator.hardwareConcurrency||0)+"&tch="+(("ontouchstart" in window)?1:0)+"&vc="+vc;try{var cnx=navigator.connection;if(cnx&&cnx.effectiveType)prof+="&cn="+encodeURIComponent(cnx.effectiveType);}catch(e){}send(qs("&r="+encodeURIComponent(document.referrer||"")+prof));var t0=Date.now(),sent=false,maxsd=0;function updSd(){var h=document.documentElement;var p=h.scrollHeight>0?Math.round(100*((window.scrollY||0)+window.innerHeight)/h.scrollHeight):100;if(p>maxsd)maxsd=Math.min(100,p);}window.addEventListener("scroll",updSd,{passive:true});updSd();function dwell(){if(sent)return;var d=Math.round((Date.now()-t0)/1000);if(d<2)return;sent=true;updSd();send(qs("&e=dur&d="+d+"&sd="+maxsd));}document.addEventListener("visibilitychange",function(){if(document.visibilityState==="hidden")dwell();});window.addEventListener("pagehide",dwell);if("IntersectionObserver" in window){var seen=new WeakSet();var io=new IntersectionObserver(function(es){es.forEach(function(en){if(en.isIntersecting&&!seen.has(en.target)){seen.add(en.target);send(qs("&e=imp&o="+encodeURIComponent(en.target.getAttribute('data-offer'))));io.unobserve(en.target);}});},{threshold:0.4});document.querySelectorAll('a[data-offer]').forEach(function(a){io.observe(a);});}document.addEventListener('click',function(e){var a=e.target&&e.target.closest?e.target.closest('a[data-offer]'):null;if(!a)return;send(qs("&e=click&o="+encodeURIComponent(a.getAttribute('data-offer'))));},true);})();</script>
+    <!-- PostHog product analytics (2026-11-14), beside the self-built
+         beacon below. Internal traffic loads nothing at all: the same
+         INT rule as the beacon (?vf_internal=1 or the stored flag). -->
+    <script>
+      (function () {
+        try {
+          if (/[?&]vf_internal=1/.test(location.search)) localStorage.setItem('vf_internal', '1');
+          if (localStorage.getItem('vf_internal') === '1') return;
+        } catch (e) {}
+        !function(t,e){var o,n,p,r;e.__SV||(window.posthog=e,e._i=[],e.init=function(i,s,a){function g(t,e){var o=e.split(".");2==o.length&&(t=t[o[0]],e=o[1]),t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}}(p=t.createElement("script")).type="text/javascript",p.crossOrigin="anonymous",p.async=!0,p.src=s.api_host.replace(".i.posthog.com","-assets.i.posthog.com")+"/static/array.js",(r=t.getElementsByTagName("script")[0]).parentNode.insertBefore(p,r);var u=e;for(void 0!==a?u=e[a]=[]:a="posthog",u.people=u.people||[],u.toString=function(t){var e="posthog";return"posthog"!==a&&(e+="."+a),t||(e+=" (stub)"),e},u.people.toString=function(){return u.toString(1)+".people (stub)"},o="init capture register register_once register_for_session unregister unregister_for_session getFeatureFlag getFeatureFlagPayload isFeatureEnabled reloadFeatureFlags updateEarlyAccessFeatureEnrollment getEarlyAccessFeatures on onFeatureFlags onSessionId getSurveys getActiveMatchingSurveys renderSurvey canRenderSurvey getNextSurveyStep identify setPersonProperties group resetGroups setPersonPropertiesForFlags resetPersonPropertiesForFlags setGroupPropertiesForFlags resetGroupPropertiesForFlags reset get_distinct_id getGroups get_session_id get_session_replay_url alias set_config startSessionRecording stopSessionRecording sessionRecordingStarted captureException loadToolbar get_property getPageviewId capturePageview".split(" "),n=0;n<o.length;n++)g(u,o[n]);e._i.push([i,s,a])},e.__SV=1)}(document,window.posthog||[]);
+        // Path facts, mirroring the stats backend's own parsing: the
+        // locale segment is stripped first, then the path is classified
+        // (the backend's _site_lang / _page_type / _pair_parts rules).
+        var VF_LOCALES = ['zh-hans', 'zh-hant', 'ja', 'ko', 'th'];
+        var seg = location.pathname.split('/').filter(Boolean);
+        var siteLang = 'en';
+        if (seg.length && VF_LOCALES.indexOf(seg[0]) >= 0) { siteLang = seg[0]; seg = seg.slice(1); }
+        var pageType = 'other', pairP = null, pairD = null;
+        if (seg.length === 0) pageType = 'home';
+        else if (seg[0] === 'visa' && seg.length === 3) { pageType = 'pair'; pairP = seg[1]; pairD = seg[2]; }
+        else if (seg[0] === 'passport' && seg.length === 2) pageType = 'passport_hub';
+        else if (seg[0] === 'destination' && seg.length === 2) pageType = 'destination_hub';
+        else if (seg[0] === 'passports' || seg[0] === 'destinations') pageType = 'index';
+        posthog.init('phc_AbEKdebZCGgWC64ajfmBTRLrcNiVPZhxiP3kCGhjQofE', {
+          api_host: 'https://us.i.posthog.com',
+          autocapture: true,
+          capture_pageview: true,
+          session_recording: { maskAllInputs: true },
+        });
+        var superProps = { site_lang: siteLang, page_type: pageType };
+        if (pairP) { superProps.passport = pairP; superProps.destination = pairD; }
+        posthog.register(superProps);
+        try {
+          var vfVid = localStorage.getItem('vf_vid');
+          if (vfVid) posthog.identify(vfVid);
+        } catch (e) {}
+        // affiliate_click — offer anchors across the site.
+        document.addEventListener('click', function (e) {
+          var a = e.target && e.target.closest ? e.target.closest('a[data-offer]') : null;
+          if (!a) return;
+          var p = { offer: a.getAttribute('data-offer'), path: location.pathname, page_type: pageType };
+          if (pairP) { p.passport = pairP; p.destination = pairD; }
+          posthog.capture('affiliate_click', p);
+        }, true);
+        // email_subscribe — fire only when a POST to the stats
+        // /subscribe endpoint resolves ok; the request body is never read.
+        var nativeFetch = window.fetch;
+        if (typeof nativeFetch === 'function') {
+          window.fetch = function (input, init) {
+            var url = typeof input === 'string' ? input : (input && input.url) || '';
+            var method = (init && init.method) || (typeof input !== 'string' && input && input.method) || 'GET';
+            var result = nativeFetch.apply(this, arguments);
+            if (url.indexOf('/subscribe') >= 0 && String(method).toUpperCase() === 'POST') {
+              result.then(function (res) {
+                if (res && res.ok) posthog.capture('email_subscribe', { page: location.pathname, locale: siteLang });
+              }).catch(function () {});
+            }
+            return result;
+          };
+        }
+        // language_switch — from the switcher's current locale.
+        document.addEventListener('click', function (e) {
+          var a = e.target && e.target.closest ? e.target.closest('a[data-locale]') : null;
+          if (!a || !a.closest('[data-lang-switch]')) return;
+          var root = document.querySelector('[data-lang-switch]');
+          var from = root ? root.getAttribute('data-current') : null;
+          var to = a.getAttribute('data-locale');
+          if (from && to && to !== from) posthog.capture('language_switch', { from: from, to: to });
+        }, true);
+        // site_search — a country suggestion is chosen in any picker
+        // (Enter with an active option, or pointer selection). The
+        // pickers select on mousedown and preventDefault it, which
+        // swallows the click event — so the pointer path listens to
+        // mousedown in the capture phase, before the picker consumes it.
+        document.addEventListener('mousedown', function (e) {
+          var li = e.target && e.target.closest ? e.target.closest('li.ck-option') : null;
+          if (!li) return;
+          var list = li.parentElement;
+          var input = list && list.id ? document.querySelector('input[aria-controls="' + list.id + '"]') : null;
+          if (input && input.value) posthog.capture('site_search', { query: input.value, site_lang: siteLang });
+        }, true);
+        document.addEventListener('keydown', function (e) {
+          if (e.key !== 'Enter') return;
+          var input = e.target;
+          if (!input || !input.getAttribute || !input.getAttribute('aria-controls')) return;
+          var list = document.getElementById(input.getAttribute('aria-controls'));
+          if (!list || !list.querySelector('.ck-option.active')) return;
+          if (input.value) posthog.capture('site_search', { query: input.value, site_lang: siteLang });
+        }, true);
+      })();
+    </script>
+    <script>(function(){var B="https://honru09--site-stats-web.us-east.modal.run/track?s=visafreely";function sget(k,s){try{return s.getItem(k);}catch(e){return null;}}function sput(k,v,s){try{s.setItem(k,v);}catch(e){}}if(/[?&]vf_internal=1/.test(location.search))sput("vf_internal","1",window.localStorage);var INT=sget("vf_internal",window.localStorage)==="1";function gid(k,s){try{var v=s.getItem(k);if(!v){v=Math.random().toString(36).slice(2)+Date.now().toString(36);s.setItem(k,v);}return v;}catch(e){return "";}}var vid=gid("vf_vid",window.localStorage),sid=gid("vf_sid",window.sessionStorage);var vc=0;try{vc=parseInt(sget("vf_vc",window.localStorage)||"0",10)||0;if(!sget("vf_counted",window.sessionStorage)){vc+=1;sput("vf_vc",String(vc),window.localStorage);sput("vf_counted","1",window.sessionStorage);}}catch(e){}function qs(extra){return B+"&p="+encodeURIComponent(location.pathname)+extra+(vid?"&v="+encodeURIComponent(vid):"")+(sid?"&ss="+encodeURIComponent(sid):"")+(INT?"&int=1":"");}function send(u){if(navigator.sendBeacon){try{navigator.sendBeacon(u);return;}catch(e){}}var i=new Image();i.src=u;}var prof="&l="+encodeURIComponent(navigator.language||"")+"&tz="+encodeURIComponent((Intl.DateTimeFormat().resolvedOptions().timeZone)||"")+"&sw="+encodeURIComponent(screen.width+"x"+screen.height)+"&vw="+window.innerWidth+"&dpr="+(window.devicePixelRatio||1)+"&hc="+(navigator.hardwareConcurrency||0)+"&tch="+(("ontouchstart" in window)?1:0)+"&vc="+vc;try{var cnx=navigator.connection;if(cnx&&cnx.effectiveType)prof+="&cn="+encodeURIComponent(cnx.effectiveType);}catch(e){}send(qs("&r="+encodeURIComponent(document.referrer||"")+prof));var acc=0,visSince=document.visibilityState==="hidden"?0:Date.now(),sent=false,maxsd=0;function updSd(){var h=document.documentElement;var p=h.scrollHeight>0?Math.round(100*((window.scrollY||0)+window.innerHeight)/h.scrollHeight):100;if(p>maxsd)maxsd=Math.min(100,p);}window.addEventListener("scroll",updSd,{passive:true});updSd();function dwell(){if(sent)return;var t=acc+(visSince?Date.now()-visSince:0);var d=Math.round(t/1000);if(d<2)return;sent=true;updSd();send(qs("&e=dur&d="+d+"&sd="+maxsd));}document.addEventListener("visibilitychange",function(){if(document.visibilityState==="hidden"){if(visSince){acc+=Date.now()-visSince;visSince=0;}}else if(!visSince){visSince=Date.now();}});window.addEventListener("pagehide",dwell);if("IntersectionObserver" in window){var seen=new WeakSet();var io=new IntersectionObserver(function(es){es.forEach(function(en){if(en.isIntersecting&&!seen.has(en.target)){seen.add(en.target);send(qs("&e=imp&o="+encodeURIComponent(en.target.getAttribute('data-offer'))));io.unobserve(en.target);}});},{threshold:0.4});document.querySelectorAll('a[data-offer]').forEach(function(a){io.observe(a);});if("MutationObserver" in window){var mo=new MutationObserver(function(ms){ms.forEach(function(m){m.addedNodes.forEach(function(n){if(n.nodeType!==1)return;if(n.matches&&n.matches("a[data-offer]"))io.observe(n);if(n.querySelectorAll)n.querySelectorAll("a[data-offer]").forEach(function(a){io.observe(a);});});});});mo.observe(document.body,{childList:true,subtree:true});}}var lastClk=new WeakMap();document.addEventListener('click',function(e){var a=e.target&&e.target.closest?e.target.closest('a[data-offer]'):null;if(!a)return;var now=Date.now(),prev=lastClk.get(a)||0;if(now-prev<800)return;lastClk.set(a,now);send(qs("&e=click&o="+encodeURIComponent(a.getAttribute('data-offer'))));},true);if(!INT){document.addEventListener("click",function(e){var de=document.documentElement;var sw=de.scrollWidth||1,sh=de.scrollHeight||1;var cx=Math.max(0,Math.min(100,Math.round(e.pageX/sw*100)));var cy=Math.max(0,Math.min(100,Math.round(e.pageY/sh*100)));send(qs("&e=hit&cx="+cx+"&cy="+cy));},true);}})();</script>
   </body>
 </html>
 
