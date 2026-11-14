@@ -217,6 +217,7 @@ const payload = {
   alpha: ALPHA,
   short: SHORT,
   total: countries.length,
+  locale,
   str: {
     nameTpl: T('home_name_passport', { name: '{name}' }),
     ctxA: T('cmp_ctx_a', { a: '{a}' }),
@@ -323,7 +324,7 @@ const pairCountFmt = data.pairCount.toLocaleString('en-US');
                 <h3>{g.title}<span class="count-pill">{g.items.length}</span></h3>
                 <div class="cmp-rows">
                   {g.items.map((it) => (
-                    <a class="cmp-row" href={pairPath(defB, it.dest)}>
+                    <a class="cmp-row" href={href(pairPath(defB, it.dest))}>
                       <span class="fl" aria-hidden="true">{flagEmoji(it.dest.code)}</span>
                       <span class="cmp-name">{nm(it.dest)}</span>
                       <span class="cmp-trans"><span class={`sdot ${it.b}`} aria-hidden="true"></span>{transText(it)}</span>
@@ -344,7 +345,7 @@ const pairCountFmt = data.pairCount.toLocaleString('en-US');
                 <h3>{g.title}<span class="count-pill">{g.items.length}</span></h3>
                 <div class="cmp-rows">
                   {g.items.map((it) => (
-                    <a class="cmp-row" href={pairPath(defB, it.dest)}>
+                    <a class="cmp-row" href={href(pairPath(defB, it.dest))}>
                       <span class="fl" aria-hidden="true">{flagEmoji(it.dest.code)}</span>
                       <span class="cmp-name">{nm(it.dest)}</span>
                       <span class="cmp-trans"><span class={`sdot ${it.b}`} aria-hidden="true"></span>{transText(it)}</span>
@@ -365,7 +366,7 @@ const pairCountFmt = data.pairCount.toLocaleString('en-US');
                 <h3>{g.title}<span class="count-pill">{g.items.length}</span></h3>
                 <div class="cmp-rows">
                   {g.items.map((it) => (
-                    <a class="cmp-row" href={pairPath(defB, it.dest)}>
+                    <a class="cmp-row" href={href(pairPath(defB, it.dest))}>
                       <span class="fl" aria-hidden="true">{flagEmoji(it.dest.code)}</span>
                       <span class="cmp-name">{nm(it.dest)}</span>
                       <span class="cmp-trans"><span class={`sdot ${it.b}`} aria-hidden="true"></span>{transText(it)}</span>
@@ -393,6 +394,23 @@ const pairCountFmt = data.pairCount.toLocaleString('en-US');
   <script is:inline define:vars={{ payload, defaultA: DEFAULT_A, defaultB: DEFAULT_B }}>
     (function () {
       var M = payload;
+      /* P0 (2026-11-14): row links prefer the localized pair page when
+         the route is launched for this locale (wave-A set), else the
+         English pair page — same availability manifest the language
+         switcher consults. Re-renders once the manifest arrives so
+         first-paint rows upgrade in place. */
+      var AVAIL = null;
+      var availReady = fetch('/i18n-availability.json')
+        .then(function (r) { return r.json(); })
+        .then(function (j) { AVAIL = j; })
+        .catch(function () {});
+      function pairHref(pslug, dslug) {
+        var en = '/visa/' + pslug + '/' + dslug + '/';
+        if (M.locale === 'en' || !AVAIL) return en;
+        var locs = AVAIL[en];
+        return locs && locs.indexOf(M.locale) >= 0 ? '/' + M.locale + en : en;
+      }
+      availReady.then(function () { try { render(); } catch (e) {} });
       var RANK = { F: 5, A: 4, T: 3, E: 2, R: 1, N: 0 };
       var EASY = { F: 1, A: 1, T: 1 };
       var pos = {};
@@ -477,7 +495,7 @@ const pairCountFmt = data.pairCount.toLocaleString('en-US');
         return t;
       }
       function rowHtml(it, bCode) {
-        return '<a class="cmp-row" href="/visa/' + M.slugs[bCode] + '/' + M.slugs[it.code] + '/">'
+        return '<a class="cmp-row" href="' + pairHref(M.slugs[bCode], M.slugs[it.code]) + '">'
           + '<span class="fl" aria-hidden="true">' + flagEmoji(it.code) + '</span>'
           + '<span class="cmp-name">' + esc(M.names[it.code]) + '</span>'
           + '<span class="cmp-trans"><span class="sdot ' + it.b + '" aria-hidden="true"></span>' + esc(transText(it)) + '</span></a>';

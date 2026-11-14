@@ -144,6 +144,22 @@ const PAYLOAD = {
 
     var idx = null;
     var byName = {};
+    /* P0 (2026-11-14): the full-page button prefers the localized pair
+       page when the route is launched for this locale (wave-A set) and
+       falls back to the English pair page otherwise. Reuses the
+       availability manifest — the same file the language switcher
+       consults; no second route list is maintained. */
+    var AVAIL = null;
+    var availReady = fetch('/i18n-availability.json')
+      .then(function (r) { return r.json(); })
+      .then(function (j) { AVAIL = j; })
+      .catch(function () {});
+    function pairHref(pslug, dslug) {
+      var en = '/visa/' + pslug + '/' + dslug + '/';
+      if (PAYLOAD.locale === 'en' || !AVAIL) return en;
+      var locs = AVAIL[en];
+      return locs && locs.indexOf(PAYLOAD.locale) >= 0 ? '/' + PAYLOAD.locale + en : en;
+    }
     function attachCombo(input, list, flagEl) {
       var wrap = input.parentElement;
       var active = -1;
@@ -249,7 +265,8 @@ const PAYLOAD = {
       }
       return prefix || contains;
     }
-    function doCheck() {
+    async function doCheck() {
+      if (PAYLOAD.locale !== 'en' && !AVAIL) { try { await availReady; } catch (e) {} }
       var pc = resolve(inP), dc = resolve(inD);
       out.hidden = false;
       if (!pc || !dc) {
@@ -291,7 +308,7 @@ const PAYLOAD = {
         + '<p class="vc-route">' + esc(fill(STR.route, { p: disp(pc), d: disp(dc) })) + '</p>'
         + '<div class="vc-big">' + esc(verdict) + '</div>'
         + '<div class="vc-sub">' + (days ? esc(fill(STR.stay, { days: days })) : STR.staySee) + '</div>'
-        + '<p class="vc-actions"><a class="btn" href="/visa/' + pc.slug + '/' + dc.slug + '/">' + STR.fullPage + ' <span class="arr">→</span></a>' + offer + '</p>'
+        + '<p class="vc-actions"><a class="btn" href="' + pairHref(pc.slug, dc.slug) + '">' + STR.fullPage + ' <span class="arr">→</span></a>' + offer + '</p>'
         + '</div>' + seal + '</div>';
     }
     form.addEventListener('submit', function (ev) { ev.preventDefault(); if (idx) doCheck(); });

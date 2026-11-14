@@ -110,7 +110,14 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
                 if (p.indexOf(suggestData.hubPrefixes[i]) === 0) { hit = true; break; }
               }
             }
-            var target = hit ? '/' + pref + (p === '/' ? '/' : p) : '/' + pref + '/';
+            /* P0 (2026-11-14, user real-device report): a miss must NOT
+               bounce to the locale home. Pair deep links and any other
+               non-core/hub path were reached by an explicit in-site click;
+               the click intent wins over the stored preference, so replay
+               only ever fires for core/hub landings and otherwise leaves
+               the English page exactly as it is. */
+            if (!hit) return;
+            var target = '/' + pref + (p === '/' ? '/' : p);
             if (target !== p) location.replace(target + location.search + location.hash);
           } catch (e) {}
         })();
