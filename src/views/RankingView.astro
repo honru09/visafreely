@@ -12,6 +12,7 @@ import {
 } from '../lib/data';
 import { t as i18nT, countryName, hrefFor, type LocaleCode } from '../i18n/locales';
 import availabilityRaw from '../i18n/availability.json';
+import policyChangesRaw from '../data/policy-changes.json';
 
 interface Props {
   locale: LocaleCode;
@@ -41,6 +42,9 @@ const rows = passportsByEasy.map((r) => {
     verified: verifiedByPassport[r.c.code] || 0,
   };
 });
+const latestVerified = Object.values(extras).reduce(
+  (m, e) => (e.verified && e.verified > m ? e.verified : m), '');
+const policyChangeCount = (policyChangesRaw as unknown[]).length;
 const destCount = countries.length - 1;
 const totalRoutes = countries.length * destCount;
 const totalRoutesFmt = totalRoutes.toLocaleString('en-US');
@@ -109,6 +113,18 @@ const year = new Date().getFullYear();
   <p>
     {T('rank_how2_a')}<a href={href('/visa-policy-changes/')}>{T('rank_how2_link1')}</a>{T('rank_how2_b')}<a href="/changelog/">{T('rank_how2_link2')}</a>{T('rank_how2_c')}
   </p>
+  <h2>{T('rank_method_h2')}</h2>
+  <p>{T('rank_method_sources')}</p>
+  <p>{T('rank_method_process', { verified: verifiedCount.toLocaleString('en-US'), routes: totalRoutesFmt })}</p>
+  <p>{T('rank_method_updates', { changes: policyChangeCount })}</p>
+
+  <h2 id="dataset">{T('rank_data_h2')}</h2>
+  <p>{T('rank_data_p')}</p>
+  <p class="rank-data-btns">
+    <a href="/data/visa-requirements.csv" download>{T('rank_data_all_btn', { routes: totalRoutesFmt })}</a>
+    <a href="/data/visa-requirements-verified.csv" download>{T('rank_data_verified_btn')}</a>
+  </p>
+  <p class="muted small">{T('rank_data_license', { date: latestVerified })}</p>
   <ExploreStrip locale={locale} items={[{ key: 'feat_map', href: href('/map/') }, { key: 'feat_compare', href: href('/compare/') }, { key: 'explore_check', href: href('/#checker') }]} />
 </Base>
 
@@ -136,4 +152,11 @@ const year = new Date().getFullYear();
     transition: background-color .16s var(--ease);
   }
   .ri-cta:hover { background: var(--brand-deep); text-decoration: none; }
+  .rank-data-btns { display: flex; gap: 10px; flex-wrap: wrap; margin: 14px 0 8px; }
+  .rank-data-btns a {
+    display: inline-flex; align-items: center; min-height: 44px; padding: 10px 18px;
+    border-radius: 999px; background: var(--brand); color: #fff; font-weight: 650;
+    font-size: 15px; text-decoration: none;
+  }
+  .rank-data-btns a:last-child { background: var(--surface); color: var(--brand-ink); border: 1.5px solid var(--line); }
 </style>
