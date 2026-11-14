@@ -234,6 +234,9 @@ const pairCountFmt = data.pairCount.toLocaleString('en-US');
             aria-autocomplete="list"
           />
           <svg class="ck-chev" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M5 9l7 7 7-7" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          <button type="button" class="ck-clear" id="cmp-clear-a" aria-label="Clear passport search" tabindex="-1">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg>
+          </button>
           <ul class="ck-list" id="cmp-list-a" role="listbox" aria-label="Current passport countries"></ul>
         </div>
       </div>
@@ -256,6 +259,9 @@ const pairCountFmt = data.pairCount.toLocaleString('en-US');
             aria-autocomplete="list"
           />
           <svg class="ck-chev" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M5 9l7 7 7-7" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          <button type="button" class="ck-clear" id="cmp-clear-b" aria-label="Clear passport search" tabindex="-1">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg>
+          </button>
           <ul class="ck-list" id="cmp-list-b" role="listbox" aria-label="Compared passport countries"></ul>
         </div>
       </div>
@@ -508,8 +514,37 @@ const pairCountFmt = data.pairCount.toLocaleString('en-US');
         var list = document.getElementById('cmp-list-' + prefix);
         var flagEl = document.getElementById('cmp-flag-' + prefix);
         var wrap = document.getElementById('cmp-wrap-' + prefix);
+        var clearBtn = document.getElementById('cmp-clear-' + prefix);
         var active = -1;
         var currentList = [];
+        /* Selector-fix (2026-11-14): on open, select the shown name so typing
+           replaces it; the × clears the text and opens the full list without
+           changing the compared passport until a new one is chosen. */
+        function syncClear() { wrap.classList.toggle('ck-has-text', input.value.length > 0); }
+        function maybeSelectAll() {
+          if (input.value !== M.names[get()]) return;
+          try { input.select(); } catch (e) {}
+          try { input.setSelectionRange(0, input.value.length); } catch (e) {}
+          // WebKit applies the tap caret after the focus/click handlers run,
+          // wiping the selection — re-apply once the gesture task has settled.
+          setTimeout(function () {
+            if (document.activeElement === input && input.value === M.names[get()]
+                && (input.selectionStart !== 0 || input.selectionEnd !== input.value.length)) {
+              try { input.select(); } catch (e) {}
+              try { input.setSelectionRange(0, input.value.length); } catch (e) {}
+            }
+          }, 0);
+        }
+        function doClear() {
+          input.value = '';
+          flagEl.textContent = '';
+          input.classList.remove('has-flag');
+          renderList();
+          syncClear();
+          input.focus();
+        }
+        clearBtn.addEventListener('pointerdown', function (ev) { ev.preventDefault(); doClear(); });
+        clearBtn.addEventListener('click', function (ev) { ev.preventDefault(); if (input.value) doClear(); });
         function close() {
           wrap.classList.remove('open');
           input.setAttribute('aria-expanded', 'false');
@@ -517,9 +552,12 @@ const pairCountFmt = data.pairCount.toLocaleString('en-US');
           active = -1;
           // Free text that was never chosen snaps back to the current selection.
           if (input.value !== M.names[get()]) input.value = M.names[get()];
+          syncClear();
         }
         function renderList() {
           var q = input.value.trim().toLowerCase();
+          // An untouched selected name is a label, not a query: show the full list.
+          if (q === M.names[get()].toLowerCase()) q = '';
           var starts = [], contains = [];
           for (var i = 0; i < ALL.length; i++) {
             var n = ALL[i].name.toLowerCase();
@@ -556,11 +594,11 @@ const pairCountFmt = data.pairCount.toLocaleString('en-US');
           close();
           render();
         }
-        input.addEventListener('input', function () { flagEl.textContent = ''; input.classList.remove('has-flag'); renderList(); });
-        input.addEventListener('focus', function () { combos.forEach(function (cb) { if (cb !== api) cb.close(); }); renderList(); });
+        input.addEventListener('input', function () { flagEl.textContent = ''; input.classList.remove('has-flag'); renderList(); syncClear(); });
+        input.addEventListener('focus', function () { combos.forEach(function (cb) { if (cb !== api) cb.close(); }); renderList(); maybeSelectAll(); });
         // Choosing an option leaves focus in the field with the list closed;
         // a fresh tap on the still-focused field must reopen it (no new focus event fires).
-        input.addEventListener('click', function () { if (!wrap.classList.contains('open')) renderList(); });
+        input.addEventListener('click', function () { if (!wrap.classList.contains('open')) { renderList(); maybeSelectAll(); } });
         /* BUG-001 hold: a touch-scroll of the list must never let the blur timer close it mid-gesture. */
         var holdUntil = 0;
         function hold() { holdUntil = Date.now() + 800; }
@@ -586,7 +624,8 @@ const pairCountFmt = data.pairCount.toLocaleString('en-US');
           var code = byName[li.getAttribute('data-name').toLowerCase()];
           if (code) choose({ code: code, name: M.names[code], slug: M.slugs[code] });
         });
-        var api = { close: close, choose: choose, input: input, flagEl: flagEl };
+        syncClear();
+        var api = { close: close, choose: choose, input: input, flagEl: flagEl, sync: syncClear };
         return api;
       }
       var combos = [];

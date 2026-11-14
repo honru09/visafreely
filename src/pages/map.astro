@@ -57,6 +57,10 @@ const payload = {
   labels: Object.fromEntries(STATUS_ORDER.map((s) => [s, statusLabel(s)])),
   total: countries.length,
 };
+// Popular-passport quick chips under the picker (selector-fix 2026-11-14):
+// ranking head + main source markets — most visitors tap instead of typing.
+const QUICK = ['US', 'GB', 'JP', 'CN', 'DE', 'FR', 'AU', 'SG'];
+
 const pairCountFmt = data.pairCount.toLocaleString('en-US');
 ---
 
@@ -88,7 +92,17 @@ const pairCountFmt = data.pairCount.toLocaleString('en-US');
         aria-autocomplete="list"
       />
       <svg class="ck-chev" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M5 9l7 7 7-7" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      <button type="button" class="ck-clear" id="map-clear" aria-label="Clear passport search" tabindex="-1">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg>
+      </button>
       <ul class="ck-list" id="map-list" role="listbox" aria-label="Passport countries"></ul>
+    </div>
+    <div class="map-quick" role="group" aria-label="Popular passports">
+      {QUICK.map((qc) => (
+        <button type="button" class={`mq-chip${qc === DEFAULT_CODE ? ' active' : ''}`} data-qc={qc} aria-pressed={qc === DEFAULT_CODE ? 'true' : 'false'}>
+          <span aria-hidden="true">{flagEmoji(qc)}</span>{countryByCode[qc].name}
+        </button>
+      ))}
     </div>
   </div>
 
@@ -247,6 +261,11 @@ const pairCountFmt = data.pairCount.toLocaleString('en-US');
         var hub = document.getElementById('map-hub-link');
         hub.setAttribute('href', '/passport/' + pslug + '/');
         hub.textContent = M.names[code] + ' passport page';
+        document.querySelectorAll('.mq-chip').forEach(function (chip) {
+          var on = chip.getAttribute('data-qc') === code;
+          chip.classList.toggle('active', on);
+          chip.setAttribute('aria-pressed', on ? 'true' : 'false');
+        });
         readout.textContent = 'Showing the ' + M.names[code] + ' passport.';
         try { localStorage.setItem('vf_map_p', code); } catch (e) {}
         try {
@@ -287,6 +306,8 @@ const pairCountFmt = data.pairCount.toLocaleString('en-US');
       }
       function render() {
         var q = input.value.trim().toLowerCase();
+        // An untouched selected name is a label, not a query: show the full list.
+        if (q === M.names[current].toLowerCase()) q = '';
         var starts = [], contains = [];
         for (var i = 0; i < ALL.length; i++) {
           var n = ALL[i].name.toLowerCase();
@@ -320,10 +341,44 @@ const pairCountFmt = data.pairCount.toLocaleString('en-US');
         flagEl.textContent = f;
         input.classList.toggle('has-flag', !!f);
         close();
+        syncClear();
         applyPassport(c.code);
       }
-      input.addEventListener('input', function () { flagEl.textContent = ''; input.classList.remove('has-flag'); render(); });
-      input.addEventListener('focus', function () { render(); });
+      /* Selector-fix (2026-11-14): the field opens showing the selected name.
+         On open, select it all so typing replaces it — no manual deleting.
+         The × button clears the text and opens the full list; neither changes
+         the applied passport until a new one is chosen (same rule as typing). */
+      var clearBtn = document.getElementById('map-clear');
+      function syncClear() { wrap.classList.toggle('ck-has-text', input.value.length > 0); }
+      function maybeSelectAll() {
+        if (input.value !== M.names[current]) return;
+        try { input.select(); } catch (e) {}
+        try { input.setSelectionRange(0, input.value.length); } catch (e) {}
+        // WebKit applies the tap caret after the focus/click handlers run,
+        // wiping the selection — re-apply once the gesture task has settled.
+        setTimeout(function () {
+          if (document.activeElement === input && input.value === M.names[current]
+              && (input.selectionStart !== 0 || input.selectionEnd !== input.value.length)) {
+            try { input.select(); } catch (e) {}
+            try { input.setSelectionRange(0, input.value.length); } catch (e) {}
+          }
+        }, 0);
+      }
+      function doClear() {
+        input.value = '';
+        flagEl.textContent = '';
+        input.classList.remove('has-flag');
+        render();
+        syncClear();
+        input.focus();
+      }
+      clearBtn.addEventListener('pointerdown', function (ev) { ev.preventDefault(); doClear(); });
+      clearBtn.addEventListener('click', function (ev) { ev.preventDefault(); if (input.value) doClear(); });
+      input.addEventListener('input', function () { flagEl.textContent = ''; input.classList.remove('has-flag'); render(); syncClear(); });
+      input.addEventListener('focus', function () { render(); maybeSelectAll(); });
+      // After a choice the field keeps focus with the list closed; a fresh tap
+      // must reopen it (no new focus event fires) — and re-select the name.
+      input.addEventListener('click', function () { if (!wrap.classList.contains('open')) { render(); maybeSelectAll(); } });
       /* BUG-001 hold: a touch-scroll of the list must never let the blur timer close it mid-gesture. */
       var holdUntil = 0;
       function hold() { holdUntil = Date.now() + 800; }
@@ -350,6 +405,14 @@ const pairCountFmt = data.pairCount.toLocaleString('en-US');
         if (code) choose({ code: code, name: M.names[code], slug: M.slugs[code] });
       });
 
+      /* ---------- popular-passport quick chips ---------- */
+      document.querySelectorAll('.mq-chip').forEach(function (chip) {
+        chip.addEventListener('click', function () {
+          var code = chip.getAttribute('data-qc');
+          if (code && M.rows[code]) choose({ code: code, name: M.names[code], slug: M.slugs[code] });
+        });
+      });
+
       /* ---------- initial selection: ?p= wins, then the last-used passport ---------- */
       var initial = null;
       try {
@@ -368,6 +431,7 @@ const pairCountFmt = data.pairCount.toLocaleString('en-US');
         flagEl.textContent = flagEmoji(initial);
         applyPassport(initial);
       }
+      syncClear();
     })();
   </script>
 
@@ -378,6 +442,15 @@ const pairCountFmt = data.pairCount.toLocaleString('en-US');
       letter-spacing: .08em; text-transform: uppercase; color: var(--gold-ink);
     }
     .map-wrap { max-width: 520px; }
+    .map-quick { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px; }
+    .mq-chip {
+      display: inline-flex; align-items: center; gap: 7px; min-height: 40px;
+      padding: 6px 13px; border: 1px solid var(--line); border-radius: 999px;
+      background: var(--card); color: var(--ink); font: inherit;
+      font-size: 14px; font-weight: 600; cursor: pointer; touch-action: manipulation;
+    }
+    .mq-chip:hover { border-color: var(--line-strong); }
+    .mq-chip.active { border-color: var(--brand); background: var(--f-bg); font-weight: 700; }
     .map-summary { font-size: 16.5px; margin: 14px 0 2px; }
     .map-summary b { font-weight: 800; }
     .map-hint { font-size: 13.5px; color: var(--muted); margin: 0 0 12px; }

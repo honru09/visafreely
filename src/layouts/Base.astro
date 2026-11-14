@@ -217,6 +217,18 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
       .ck-input:focus { outline: none; border-color: var(--brand); box-shadow: 0 0 0 3px rgba(11,110,79,.18); }
       .ck-chev { position: absolute; right: 11px; top: 50%; transform: translateY(-50%); color: var(--muted); pointer-events: none; transition: transform .2s var(--ease); }
       .ck-wrap.open .ck-chev { transform: translateY(-50%) rotate(180deg); }
+      /* Clear (×) button inside a combobox field — rendered only by pages that
+         opt in (map / compare); the route checker's fields carry no button and
+         its wraps never get .ck-has-text, so these rules stay inert there. */
+      .ck-clear {
+        position: absolute; right: 30px; top: 50%; transform: translateY(-50%); z-index: 2;
+        width: 40px; height: 40px; padding: 0; border: none; border-radius: 50%;
+        background: transparent; color: var(--muted); cursor: pointer;
+        display: none; align-items: center; justify-content: center; touch-action: manipulation;
+      }
+      .ck-wrap.ck-has-text .ck-clear { display: flex; }
+      .ck-clear:hover { color: var(--ink); background: var(--soft); }
+      .ck-wrap.ck-has-text .ck-input { padding-right: 74px; }
       .ck-list {
         position: absolute; left: 0; right: 0; top: calc(100% + 6px); z-index: 70;
         background: #fff; border: 1px solid var(--line); border-radius: 14px; box-shadow: var(--sh-lg);
