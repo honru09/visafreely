@@ -5,8 +5,8 @@
 // unchanged; other locales render frozen message templates with localized
 // country names. Facts (status, days, dates, thresholds) always come from
 // the data layer. The per-pair verification note (extra.note) is a data
-// record and stays in its source language this wave (batch-3 data layer,
-// same scoped partial as the policy-change entries in batch 1).
+// record; batch 3 renders it through pair-note-text (sidecar translations
+// for the wave-A route set), English keeps the data-layer original.
 import Base from '../layouts/Base.astro';
 import Shelf from '../components/Shelf.astro';
 import evisasCampaigns from '../data/evisas-campaigns.json';
@@ -38,6 +38,7 @@ import {
 } from '../i18n/locales';
 import { meaningL, stepsL, checklistL, applyBeforeL, basisL, maxStayL, faqL } from '../i18n/pair-text';
 import { insuranceTextL } from '../i18n/insurance-text';
+import { pairNoteL } from '../i18n/pair-note-text';
 import availabilityRaw from '../i18n/availability.json';
 
 interface Props {
@@ -57,6 +58,7 @@ const fmtDate = (iso: string) => (locale === 'en' ? formatDateLong(iso) : format
 const barSid = (evisasCampaigns as Record<string, string>)[`${p.code}:${d.code}`];
 const evisasBarHref = barSid ? `https://evisas.com/?ref=visafreely&sid=${barSid}` : 'https://evisas.com/?ref=visafreely';
 const extra = pairExtra(p.code, d.code);
+const noteL = pairNoteL(locale, p.code, d.code, extra.note);
 const verdict = locale === 'en' ? verdictText(row) : verdictTextL(locale, row);
 const label = locale === 'en' ? statusLabel(row.s) : statusLabelL(locale, row.s);
 const glyph = STATUS_GLYPH[row.s] || '✓';
@@ -179,7 +181,7 @@ const subStr = {
               {sourceHost && <span class="host">{sourceHost}</span>}
             </a>
           </p>
-          {extra.note && <p>{extra.note}</p>}
+          {extra.note && <p>{noteL}</p>}
           {extra.changed && (
             <p>
               {T('pair_seal_changed_a', { date: fmtDate(extra.changed) })}<a href={href('/changelog/')}>{T('pair_seal_changed_link')}</a>{T('pair_seal_changed_b')}
@@ -197,7 +199,7 @@ const subStr = {
           <p>
             {T('pair_seal_pending_a', { vintage: data.vintage })}{extra.overridden ? T('pair_seal_pending_corr') : ''}{T('pair_seal_pending_b')}<a href={href('/about/')}>{T('pair_seal_pending_link')}</a>{T('pair_seal_pending_c')}
           </p>
-          {extra.note && <p>{T('pair_note_prefix')}{extra.note}</p>}
+          {extra.note && <p>{T('pair_note_prefix')}{noteL}</p>}
           {extra.changed && <p>{T('pair_seal_changed2', { date: fmtDate(extra.changed) })}</p>}
         </div>
       </div>

@@ -21,6 +21,7 @@ import {
   localeByCode,
   type LocaleCode,
 } from '../i18n/locales';
+import { policyTextL } from '../i18n/policy-text';
 import availabilityRaw from '../i18n/availability.json';
 
 interface Props {
@@ -99,8 +100,11 @@ const entries = (policyChanges as Change[])
   .sort((a, b) => (a.date < b.date ? 1 : -1))
   .map((e) => {
     const dc = countryByCode[e.destination];
+    const lt = policyTextL(locale, e);
     return {
       ...e,
+      titleL: lt.title,
+      summaryL: lt.summary,
       destName: dc ? nm(dc) : e.destination,
       destHref: dc ? href(`/destination/${dc.slug}/`) : null,
       host: sourceHost(e.source) || '',
@@ -143,8 +147,8 @@ const shareUrl = `https://visafreely.com${localeByCode[locale].prefix ? `/${loca
           {e.destHref
             ? <a class="pair-chip" href={e.destHref}>{T('pc_chip_rules', { name: e.destName })}</a>
             : <span class="pair-chip">{e.destName}</span>}
-          <h3>{e.title}</h3>
-          <p>{e.summary}</p>
+          <h3>{e.titleL}</h3>
+          <p>{e.summaryL}</p>
           {e.routes.length > 0 && (
             <div class="tl-routes">
               <span class="tl-routes-label">{T('pc_affected')}</span>
