@@ -1,0 +1,137 @@
+---
+// Widget landing page (QA-003: locale-parameterized; was English-only).
+// The snippet and the live demo point at the reader's own locale embed, so
+// a localized blog embeds a checker that speaks its language.
+import Base from '../layouts/Base.astro';
+import { t as i18nT, hrefFor, localeByCode, type LocaleCode } from '../i18n/locales';
+import availabilityRaw from '../i18n/availability.json';
+
+interface Props {
+  locale: LocaleCode;
+}
+const { locale } = Astro.props;
+const T = i18nT(locale);
+const availability = availabilityRaw as Record<string, string[]>;
+const href = (p: string) => hrefFor(locale, p, availability);
+const selfDef = localeByCode[locale];
+const prefix = selfDef.prefix ? `/${selfDef.prefix}` : '';
+
+const snippet =
+  `<iframe src="https://visafreely.com${prefix}/embed/" title="${T('wg_snippet_title')}" width="100%" height="430" style="border:0;width:100%;max-width:560px" loading="lazy"></iframe>`;
+const copyStr = { copy: T('wg_copy'), copied: T('wg_copied') };
+---
+
+<Base title={T('wg_title')} description={T('wg_desc')} locale={locale}>
+  <h1>{T('wg_h1')}</h1>
+  <p class="lede">
+    {T('wg_lede')}
+  </p>
+
+  <h2>{T('wg_try_h2')}</h2>
+  <p>{T('wg_try_p')}</p>
+  <iframe
+    class="widget-demo"
+    src={`${prefix}/embed/?p=JP&d=TH`}
+    title={T('wg_iframe_title')}
+    loading="lazy"></iframe>
+
+  <h2>{T('wg_add_h2')}</h2>
+  <p>
+    {T('wg_add_p')}
+  </p>
+  <div class="snippet-box">
+    <textarea id="widget-snippet" readonly rows="4" spellcheck="false">{snippet}</textarea>
+    <button type="button" class="copy-btn" id="widget-copy">{T('wg_copy')}</button>
+  </div>
+  <p class="small muted">
+    {T('wg_note')}
+  </p>
+
+  <h2>{T('wg_good_h2')}</h2>
+  <div class="card">
+    <ul style="margin:0; padding-left:20px;">
+      <li>
+        <strong>{T('wg_li1_strong')}</strong>{T('wg_li1')}
+      </li>
+      <li>
+        <strong>{T('wg_li2_strong')}</strong>{T('wg_li2')}
+      </li>
+      <li>
+        <strong>{T('wg_li3_strong')}</strong>{T('wg_li3_a')}<code>?p=JP&amp;d=TH</code>{T('wg_li3_b')}
+      </li>
+      <li>
+        <strong>{T('wg_li4_strong')}</strong>{T('wg_li4')}
+      </li>
+    </ul>
+  </div>
+  <p>
+    {T('wg_q_a')} <a href={href('/about/')}>{T('wg_q_link')}</a>{T('wg_q_b')}
+  </p>
+
+  <style>
+    .widget-demo {
+      border: 0;
+      width: 100%;
+      max-width: 560px;
+      height: 430px;
+      display: block;
+      background: transparent;
+    }
+    .snippet-box {
+      display: flex;
+      gap: 10px;
+      align-items: flex-start;
+      flex-wrap: wrap;
+      margin: 12px 0 6px;
+    }
+    .snippet-box textarea {
+      flex: 1 1 420px;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-size: 13px;
+      line-height: 1.55;
+      color: var(--ink);
+      background: var(--soft);
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      padding: 12px 14px;
+      resize: vertical;
+    }
+    .copy-btn {
+      background: var(--brand);
+      color: #fff;
+      font: inherit;
+      font-weight: 700;
+      font-size: 14.5px;
+      padding: 10px 18px;
+      border: 0;
+      border-radius: 999px;
+      cursor: pointer;
+      white-space: nowrap;
+    }
+    .copy-btn:hover { background: var(--brand-deep); }
+  </style>
+  <script is:inline define:vars={{ copyStr }}>
+    (function () {
+      var btn = document.getElementById('widget-copy');
+      var box = document.getElementById('widget-snippet');
+      if (!btn || !box) return;
+      btn.addEventListener('click', function () {
+        function done() {
+          btn.textContent = copyStr.copied;
+          setTimeout(function () { btn.textContent = copyStr.copy; }, 2000);
+        }
+        if (navigator.clipboard && navigator.clipboard.writeText) {
+          navigator.clipboard.writeText(box.value).then(done, function () {
+            box.select();
+            document.execCommand('copy');
+            done();
+          });
+        } else {
+          box.select();
+          document.execCommand('copy');
+          done();
+        }
+      });
+    })();
+  </script>
+</Base>

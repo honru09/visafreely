@@ -21,7 +21,7 @@ const href = (p: string) => hrefFor(locale, p, availability);
 const pairFmt = data.pairCount.toLocaleString('en-US');
 const verifiedFmt = verifiedCount.toLocaleString('en-US');
 const changeCount = (policyChanges as unknown[]).length;
-const fbStr = { ok: T('fb_ok'), bad: T('pc_alert_bad'), err: T('fb_err') };
+const fbStr = { ok: T('fb_ok'), bad: T('pc_alert_bad'), err: T('fb_err'), sending: T('form_sending') };
 ---
 
 <Base
@@ -46,7 +46,7 @@ const fbStr = { ok: T('fb_ok'), bad: T('pc_alert_bad'), err: T('fb_err') };
       <strong>{T('fb_li3_strong', { changes: changeCount })}</strong>{T('fb_li3_b')}<a href={href('/visa-policy-changes/')}>{T('fb_li3_link')}</a>{T('fb_li3_c')}
     </li>
     <li>
-      {T('fb_li4_a')}<a href="/widget/">{T('fb_li4_link1')}</a>{T('fb_li4_b')}<a href={href('/compare/')}>{T('fb_li4_link2')}</a>{T('fb_li4_c')}
+      {T('fb_li4_a')}<a href={href('/widget/')}>{T('fb_li4_link1')}</a>{T('fb_li4_b')}<a href={href('/compare/')}>{T('fb_li4_link2')}</a>{T('fb_li4_c')}
     </li>
   </ul>
 
@@ -63,7 +63,7 @@ const fbStr = { ok: T('fb_ok'), bad: T('pc_alert_bad'), err: T('fb_err') };
     <section class="fb-card">
       <h3>{T('fb_card3_t')}</h3>
       <p>
-        {T('fb_card3_a')}<a href="/widget/">{T('fb_card3_link')}</a>{T('fb_card3_b')}
+        {T('fb_card3_a')}<a href={href('/widget/')}>{T('fb_card3_link')}</a>{T('fb_card3_b')}
       </p>
     </section>
   </div>
@@ -119,6 +119,8 @@ const fbStr = { ok: T('fb_ok'), bad: T('pc_alert_bad'), err: T('fb_err') };
       if (!form) return;
       form.addEventListener('submit', function (e) {
         e.preventDefault();
+        var btn = form.querySelector('button');
+        if (btn.disabled) return;
         var email = document.getElementById('fb-email').value.trim();
         var company = document.getElementById('fb-company').value.trim();
         var use = document.getElementById('fb-use').value.trim();
@@ -131,21 +133,30 @@ const fbStr = { ok: T('fb_ok'), bad: T('pc_alert_bad'), err: T('fb_err') };
         if (company) parts.push('company=' + encodeURIComponent(company));
         if (use) parts.push('use=' + encodeURIComponent(use));
         if (parts.length) route = (route + '?' + parts.join('&')).slice(0, 200);
+        // QA-001: same pending-state + keepalive treatment as the alert form.
+        var origLabel = btn.textContent;
+        btn.disabled = true;
+        btn.textContent = fbStr.sending;
+        status.hidden = false;
+        status.textContent = fbStr.sending;
         fetch('https://honru09--site-stats-web.us-east.modal.run/subscribe', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
+          keepalive: true,
           body: JSON.stringify({ site: 'visafreely', email: email, route: route })
         }).then(function (r) {
-          status.hidden = false;
           if (r.ok) {
             status.textContent = fbStr.ok;
-            form.querySelector('button').disabled = true;
+            btn.textContent = origLabel;
           } else {
             status.textContent = fbStr.bad;
+            btn.disabled = false;
+            btn.textContent = origLabel;
           }
         }).catch(function () {
-          status.hidden = false;
           status.textContent = fbStr.err;
+          btn.disabled = false;
+          btn.textContent = origLabel;
         });
       });
     })();

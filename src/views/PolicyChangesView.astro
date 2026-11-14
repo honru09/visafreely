@@ -111,6 +111,7 @@ const alertStr = {
   ok: T('pc_alert_ok'),
   bad: T('pc_alert_bad'),
   err: T('pc_alert_err'),
+  sending: T('form_sending'),
 };
 const shareUrl = `https://visafreely.com${localeByCode[locale].prefix ? `/${localeByCode[locale].prefix}` : ''}/visa-policy-changes/`;
 ---
@@ -131,7 +132,7 @@ const shareUrl = `https://visafreely.com${localeByCode[locale].prefix ? `/${loca
     locale={locale}
   />
   <p class="muted small">
-    {T('pc_reuse_a')}<a href="/widget/">{T('pc_reuse_link1')}</a>{T('pc_reuse_b')}<a href="https://github.com/honru09/visa-requirements-dataset" rel="noopener" target="_blank">{T('pc_reuse_link2')}</a>{T('pc_reuse_c')}
+    {T('pc_reuse_a')}<a href={href('/widget/')}>{T('pc_reuse_link1')}</a>{T('pc_reuse_b')}<a href="https://github.com/honru09/visa-requirements-dataset" rel="noopener" target="_blank">{T('pc_reuse_link2')}</a>{T('pc_reuse_c')}
   </p>
 
   <div class="timeline">
@@ -184,23 +185,36 @@ const shareUrl = `https://visafreely.com${localeByCode[locale].prefix ? `/${loca
         if (!form) return;
         form.addEventListener('submit', function (e) {
           e.preventDefault();
+          var btn = form.querySelector('button');
+          if (btn.disabled) return;
           var email = document.getElementById('route-alert-email').value.trim();
           var status = document.getElementById('route-alert-status');
+          var origLabel = btn.textContent;
+          // QA-001: enter the pending state immediately and keep the request
+          // alive across navigation, so a slow (cold-start) response can no
+          // longer be lost silently when the reader taps away.
+          btn.disabled = true;
+          btn.textContent = alertStr.sending;
+          status.hidden = false;
+          status.textContent = alertStr.sending;
           fetch('https://honru09--site-stats-web.us-east.modal.run/subscribe', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
+            keepalive: true,
             body: JSON.stringify({ site: 'visafreely', email: email, route: location.pathname })
           }).then(function (r) {
-            status.hidden = false;
             if (r.ok) {
               status.textContent = alertStr.ok;
-              form.querySelector('button').disabled = true;
+              btn.textContent = origLabel;
             } else {
               status.textContent = alertStr.bad;
+              btn.disabled = false;
+              btn.textContent = origLabel;
             }
           }).catch(function () {
-            status.hidden = false;
             status.textContent = alertStr.err;
+            btn.disabled = false;
+            btn.textContent = origLabel;
           });
         });
       })();

@@ -49,7 +49,9 @@ const fmt = (iso: string) => formatDateL(locale, iso);
       <p class="seal-title">
         {T('ab_seal_v_a', { date: exVerified.verified ? fmt(exVerified.verified) : '' })} <a href={exVerified.source} rel="noopener" target="_blank">{exVerified.source_name}</a>{T('ab_seal_v_b')}
       </p>
-      {exVerified.note && <p>{exVerified.note}</p>}
+      {/* QA-010: the two pinned examples carry localized notes (message
+          catalogue) outside English; English keeps the data-layer original. */}
+      {exVerified.note && <p>{locale === 'en' ? exVerified.note : T('ab_ex1_note')}</p>}
       {exVerified.changed && (
         <p>
           {T('ab_changed_a', { date: fmt(exVerified.changed) })}<a href="/changelog/">{T('ab_changed_link')}</a>{T('ab_changed_b')}
@@ -71,7 +73,7 @@ const fmt = (iso: string) => formatDateL(locale, iso);
       <p>
         {T('ab_seal2_a', { vintage: data.vintage })}{exPending.overridden ? T('ab_seal2_override') : ''}{T('ab_seal2_b')}<a href={href('/about/')}>{T('ab_seal2_link')}</a>{T('ab_seal2_c')}
       </p>
-      {exPending.note && <p>{T('ab_note_prefix')}{exPending.note}</p>}
+      {exPending.note && <p>{T('ab_note_prefix')}{locale === 'en' ? exPending.note : T('ab_ex2_note')}</p>}
       {exPending.changed && <p>{T('ab_changed2', { date: fmt(exPending.changed) })}</p>}
     </div>
   </div>
@@ -135,6 +137,6 @@ const fmt = (iso: string) => formatDateL(locale, iso);
 
   <h2>{T('ab_widget_h2')}</h2>
   <p>
-    {T('ab_widget_a')}<a href="/widget/">{T('ab_widget_link')}</a>{T('ab_widget_b')}
+    {T('ab_widget_a')}<a href={href('/widget/')}>{T('ab_widget_link')}</a>{T('ab_widget_b')}
   </p>
 </Base>

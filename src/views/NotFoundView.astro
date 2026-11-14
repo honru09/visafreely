@@ -14,7 +14,7 @@ const availability = availabilityRaw as Record<string, string[]>;
 const href = (p: string) => hrefFor(locale, p, availability);
 ---
 
-<Base title={T('nf_title')} description={T('nf_desc')} locale={locale}>
+<Base title={T('nf_title')} description={T('nf_desc')} locale={locale} notFound={locale === 'en'}>
   <div class="nf">
     <div class="nf-seal" aria-hidden="true">
       <Stamp variant="seal" state="pending" size={112} />

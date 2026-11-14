@@ -1,0 +1,388 @@
+---
+// Embeddable visa-requirements checker — designed to be iframed by third-party
+// blogs and travel sites (see /widget/ for the copy-paste snippet). Chrome-light
+// on purpose: no site header/footer, just the checker card on a transparent
+// background so it sits cleanly inside other people's pages.
+// Data layer is the site's own: country options are rendered from lib/data at
+// build time, verified dates ship via the same __VF_VERIFIED map the homepage
+// Checker uses, and lookups run against the same /check.json index.
+// QA-003: locale-parameterized (was an English-only page). Copy comes from
+// the message catalogue; country names from the frozen glossary; verdict and
+// stamp strings reuse the checker keys so wording stays in lockstep with the
+// homepage checker in every language.
+import Stamp from '../components/Stamp.astro';
+import { countries, verifiedPairDates, flagEmoji, STATUS_ORDER } from '../lib/data';
+import {
+  t as i18nT,
+  countryName,
+  statusLabelL,
+  localeByCode,
+  type LocaleCode,
+} from '../i18n/locales';
+
+interface Props {
+  locale: LocaleCode;
+}
+const { locale } = Astro.props;
+const T = i18nT(locale);
+const selfDef = localeByCode[locale];
+const prefix = selfDef.prefix ? `/${selfDef.prefix}` : '';
+const nm = (c: (typeof countries)[number]) => countryName(locale, c);
+
+const PAYLOAD = {
+  locale,
+  str: {
+    hint: T('em_hint'),
+    loading: T('em_loading'),
+    nodata: T('em_nodata'),
+    ownBig: T('em_own_big'),
+    ownSub: T('em_own_sub'),
+    route: T('em_route', { p: '{p}', d: '{d}' }),
+    verdictF: T('verdict_f_days', { days: '{days}' }),
+    verdictA: T('verdict_a_days', { days: '{days}' }),
+    verdictE: T('verdict_e'),
+    verdictT: T('verdict_t'),
+    stay: T('ck_stay', { days: '{days}' }),
+    staySee: T('ck_stay_see'),
+    capVerified: T('ck_cap_verified', { date: '{date}' }),
+    capSource: T('ck_cap_source'),
+    capDatasetA: T('ck_cap_dataset_a'),
+    capDatasetB: T('ck_cap_dataset_b'),
+    cta: T('em_cta'),
+    loadErr: T('em_load_err'),
+  },
+  status: Object.fromEntries(STATUS_ORDER.map((k) => [k, statusLabelL(locale, k)])),
+};
+---
+
+<!doctype html>
+<html lang={selfDef.htmlLang}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{T('em_title')}</title>
+    <meta name="description" content={T('em_desc')} />
+    <meta name="robots" content="noindex, nofollow" />
+    <link rel="icon" href="/favicon.ico" sizes="any" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <style>
+      @font-face { font-family: "Inter"; src: url("/fonts/inter-400.woff2") format("woff2"); font-weight: 400; font-style: normal; font-display: swap; }
+      @font-face { font-family: "Inter"; src: url("/fonts/inter-600.woff2") format("woff2"); font-weight: 600; font-style: normal; font-display: swap; }
+      @font-face { font-family: "Inter"; src: url("/fonts/inter-700.woff2") format("woff2"); font-weight: 700; font-style: normal; font-display: swap; }
+      @font-face { font-family: "Inter"; src: url("/fonts/inter-800.woff2") format("woff2"); font-weight: 800; font-style: normal; font-display: swap; }
+      @font-face { font-family: "Inter Fallback"; src: local("Arial"), local("Helvetica Neue"), local("Liberation Sans"); size-adjust: 105.3%; ascent-override: 92%; descent-override: 22.9%; line-gap-override: 0%; }
+      :root {
+        --font: "Inter", "Inter Fallback", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        --ink: #0a2540;
+        --ink-2: #3d556e;
+        --muted: #64748b;
+        --card: #ffffff;
+        --line: #e6e1d4;
+        --line-strong: #d5cfbc;
+        --brand: #0b6e4f;
+        --brand-deep: #083f2e;
+        --f: #0b6e4f; --a: #0e7490; --e: #b45309; --t: #6d28d9; --r: #b3261e; --n: #57534e;
+        --f-bg: #e9f6ef; --a-bg: #e6f4f8; --e-bg: #fdf3e3; --t-bg: #f1eafd; --r-bg: #fdeceb; --n-bg: #f0efed;
+      }
+      * { box-sizing: border-box; }
+      html, body { margin: 0; padding: 0; }
+      body {
+        font-family: var(--font);
+        color: var(--ink);
+        background: transparent;
+        line-height: 1.5;
+        font-size: 15px;
+        -webkit-font-smoothing: antialiased;
+      }
+      a { color: var(--brand); }
+      :focus-visible { outline: 2px solid var(--brand); outline-offset: 2px; border-radius: 4px; }
+      .vf-card {
+        background: var(--card);
+        border: 1px solid var(--line);
+        border-radius: 14px;
+        padding: 16px 18px 12px;
+        max-width: 560px;
+        margin: 0 auto;
+      }
+      .vf-head {
+        display: flex; align-items: center; gap: 8px;
+        color: var(--ink);
+        margin-bottom: 12px;
+      }
+      .vf-head .vf-mark { color: var(--brand-deep); display: flex; }
+      .vf-head strong { font-size: 15.5px; font-weight: 800; letter-spacing: -0.01em; }
+      .vf-head span { color: var(--muted); font-size: 13px; margin-left: auto; white-space: nowrap; }
+      .vf-fields { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+      @media (max-width: 430px) { .vf-fields { grid-template-columns: 1fr; } }
+      .vf-field label {
+        display: block; font-size: 12.5px; font-weight: 600; color: var(--ink-2);
+        margin-bottom: 4px;
+      }
+      .vf-field select {
+        width: 100%; height: 44px;
+        font: inherit; font-size: 16px; color: var(--ink);
+        background: #fff;
+        border: 1px solid var(--line-strong);
+        border-radius: 12px;
+        padding: 0 12px;
+        appearance: auto;
+      }
+      .vf-result { margin-top: 14px; min-height: 118px; }
+      .vf-hint { color: var(--muted); font-size: 14px; padding: 14px 2px; }
+      .vf-verdict {
+        border: 1px solid var(--line);
+        border-left: 5px solid var(--muted);
+        border-radius: 10px;
+        padding: 12px 14px;
+      }
+      .vf-verdict.s-F { border-left-color: var(--f); background: var(--f-bg); }
+      .vf-verdict.s-A { border-left-color: var(--a); background: var(--a-bg); }
+      .vf-verdict.s-E { border-left-color: var(--e); background: var(--e-bg); }
+      .vf-verdict.s-T { border-left-color: var(--t); background: var(--t-bg); }
+      .vf-verdict.s-R { border-left-color: var(--r); background: var(--r-bg); }
+      .vf-verdict.s-N { border-left-color: var(--n); background: var(--n-bg); }
+      .vf-route { margin: 0 0 2px; font-size: 13px; color: var(--ink-2); font-weight: 600; }
+      .vf-big { font-size: 20px; font-weight: 800; letter-spacing: -0.01em; line-height: 1.25; }
+      .vf-sub { font-size: 13.5px; color: var(--ink-2); margin-top: 2px; }
+      .vf-stamp { font-size: 12.5px; color: var(--muted); margin-top: 8px; }
+      .vf-stamp.ok { color: var(--brand); font-weight: 600; }
+      .vf-cta { margin-top: 10px; }
+      .vf-cta a {
+        display: inline-flex; align-items: center; min-height: 40px;
+        background: var(--brand); color: #fff; font-weight: 700; font-size: 13.5px;
+        padding: 7px 14px; border-radius: 999px; text-decoration: none;
+      }
+      .vf-cta a:hover { background: var(--brand-deep); }
+      .vf-foot {
+        margin-top: 12px; padding-top: 9px;
+        border-top: 1px solid var(--line);
+        font-size: 13px; color: var(--muted);
+        display: flex; justify-content: space-between; gap: 10px; flex-wrap: wrap;
+      }
+      .vf-foot a { font-weight: 600; text-decoration: none; }
+      .vf-foot a:hover { text-decoration: underline; }
+      .vf-lic { margin-top: 8px; font-size: 12.5px; color: var(--muted); line-height: 1.45; }
+      .vf-lic a { font-weight: 600; text-decoration: none; }
+      .vf-lic a:hover { text-decoration: underline; }
+    </style>
+    <script is:inline define:vars={{ verifiedPairDates }}>window.__VF_VERIFIED = verifiedPairDates;</script>
+  </head>
+  <body>
+    <div class="vf-card">
+      <div class="vf-head">
+        <span class="vf-mark"><Stamp size={22} /></span>
+        <strong>{T('em_head')}</strong>
+        <span>{T('em_count', { count: countries.length })}</span>
+      </div>
+      <form id="vf-form" aria-label={T('em_head')}>
+        <div class="vf-fields">
+          <div class="vf-field">
+            <label for="vf-passport">{T('em_from_label')}</label>
+            <select id="vf-passport">
+              <option value="">{T('em_choose_p')}</option>
+              {
+                countries.map((c) => (
+                  <option value={c.code} data-slug={c.slug} data-name={nm(c)}>
+                    {flagEmoji(c.code)} {nm(c)}
+                  </option>
+                ))
+              }
+            </select>
+          </div>
+          <div class="vf-field">
+            <label for="vf-destination">{T('em_to_label')}</label>
+            <select id="vf-destination">
+              <option value="">{T('em_choose_d')}</option>
+              {
+                countries.map((c) => (
+                  <option value={c.code} data-slug={c.slug} data-name={nm(c)}>
+                    {flagEmoji(c.code)} {nm(c)}
+                  </option>
+                ))
+              }
+            </select>
+          </div>
+        </div>
+      </form>
+      <div class="vf-result" id="vf-result" aria-live="polite">
+        <p class="vf-hint">{T('em_hint')}</p>
+      </div>
+      <div class="vf-foot">
+        <span>
+          {T('em_powered_a')}{' '}
+          <a href={`https://visafreely.com${prefix}/`} target="_blank" rel="noopener">VisaFreely</a>{' '}
+          {T('em_powered_b')}
+        </span>
+        <a href={`https://visafreely.com${prefix}/widget/`} target="_blank" rel="noopener">{T('em_get')}</a>
+      </div>
+      <div class="vf-lic">
+        {T('em_lic_a')}{' '}
+        <a href={`https://visafreely.com${prefix}/for-business/`} target="_blank" rel="noopener">{T('em_lic_link')}</a>{T('em_lic_b')}
+      </div>
+    </div>
+
+    <script is:inline define:vars={{ PAYLOAD }}>
+      (function () {
+        var selP = document.getElementById('vf-passport');
+        var selD = document.getElementById('vf-destination');
+        var out = document.getElementById('vf-result');
+        var VERIFIED = window.__VF_VERIFIED || {};
+        var SITE = 'https://visafreely.com';
+        var STR = PAYLOAD.str;
+        var STATUS = PAYLOAD.status;
+        var MONTHS_EN = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+        var TH_MONTHS = ['มกราคม', 'กุมภาพันธ์', 'มีนาคม', 'เมษายน', 'พฤษภาคม', 'มิถุนายน', 'กรกฎาคม', 'สิงหาคม', 'กันยายน', 'ตุลาคม', 'พฤศจิกายน', 'ธันวาคม'];
+        var idx = null;
+        function esc(s) {
+          return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+        }
+        function fill(template, vars) {
+          return template.replace(/\{(\w+)\}/g, function (_, k) { return vars[k] != null ? vars[k] : ''; });
+        }
+        function fmtDate(iso) {
+          var m = /^(\d{4})-(\d{2})-(\d{2})$/.exec(iso || '');
+          if (!m) return iso;
+          if (PAYLOAD.locale === 'ko') return parseInt(m[1], 10) + '년 ' + parseInt(m[2], 10) + '월 ' + parseInt(m[3], 10) + '일';
+          if (PAYLOAD.locale === 'th') return parseInt(m[3], 10) + ' ' + TH_MONTHS[parseInt(m[2], 10) - 1] + ' ' + parseInt(m[1], 10);
+          if (PAYLOAD.locale === 'en') return parseInt(m[3], 10) + ' ' + MONTHS_EN[parseInt(m[2], 10) - 1] + ' ' + m[1];
+          return parseInt(m[1], 10) + '年' + parseInt(m[2], 10) + '月' + parseInt(m[3], 10) + '日';
+        }
+        function chosen(sel) {
+          var o = sel.options[sel.selectedIndex];
+          if (!o || !o.value) return null;
+          return { code: o.value, slug: o.getAttribute('data-slug'), name: o.getAttribute('data-name') };
+        }
+        function hint(msg) {
+          out.innerHTML = '<p class="vf-hint">' + esc(msg) + '</p>';
+        }
+        function check() {
+          var p = chosen(selP), d = chosen(selD);
+          if (!p || !d) {
+            hint(STR.hint);
+            return;
+          }
+          if (p.code === d.code) {
+            out.innerHTML =
+              '<div class="vf-verdict"><p class="vf-route">' + esc(fill(STR.route, { p: p.name, d: d.name })) + '</p>' +
+              '<div class="vf-big">' + esc(STR.ownBig) + '</div>' +
+              '<div class="vf-sub">' + esc(STR.ownSub) + '</div></div>';
+            return;
+          }
+          if (!idx) {
+            hint(STR.loading);
+            return;
+          }
+          var row = (idx.rows[p.code] || []).find(function (r) {
+            return idx.countries[r[0]].code === d.code;
+          });
+          if (!row) {
+            hint(STR.nodata);
+            return;
+          }
+          var code = row[1], days = row[2];
+          var verdict = STATUS[code];
+          if (code === 'F' && days) verdict = fill(STR.verdictF, { days: days });
+          else if (code === 'A' && days) verdict = fill(STR.verdictA, { days: days });
+          else if (code === 'E') verdict = STR.verdictE;
+          else if (code === 'T') verdict = STR.verdictT;
+          var vDate = VERIFIED[p.code + ':' + d.code];
+          var stamp = vDate
+            ? '<div class="vf-stamp ok">✓ ' + esc(fill(STR.capVerified, { date: fmtDate(vDate) })) + ' ' + esc(STR.capSource) + '</div>'
+            : '<div class="vf-stamp">' + esc(STR.capDatasetA) + ' ' + esc(STR.capDatasetB) + '</div>';
+          out.innerHTML =
+            '<div class="vf-verdict s-' + code + '">' +
+            '<p class="vf-route">' + esc(fill(STR.route, { p: p.name, d: d.name })) + '</p>' +
+            '<div class="vf-big">' + esc(verdict) + '</div>' +
+            '<div class="vf-sub">' +
+            (days ? esc(fill(STR.stay, { days: days })) : esc(STR.staySee)) +
+            '</div>' +
+            stamp +
+            '<div class="vf-cta"><a href="' + SITE + '/visa/' + p.slug + '/' + d.slug + '/?from=embed" target="_blank" rel="noopener">' + esc(STR.cta) + '</a></div>' +
+            '</div>';
+        }
+        // Optional preselect: /embed/?p=JP&d=TH (2-letter codes or slugs).
+        (function preselect() {
+          var q = new URLSearchParams(location.search);
+          function set(sel, want) {
+            if (!want) return;
+            want = want.toLowerCase();
+            for (var i = 0; i < sel.options.length; i++) {
+              var o = sel.options[i];
+              if (o.value.toLowerCase() === want || (o.getAttribute('data-slug') || '') === want) {
+                sel.selectedIndex = i;
+                return;
+              }
+            }
+          }
+          set(selP, q.get('p'));
+          set(selD, q.get('d'));
+        })();
+        selP.addEventListener('change', check);
+        selD.addEventListener('change', check);
+        document.getElementById('vf-form').addEventListener('submit', function (ev) {
+          ev.preventDefault();
+          check();
+        });
+        fetch('/check.json')
+          .then(function (r) {
+            return r.json();
+          })
+          .then(function (data) {
+            idx = data;
+            check();
+          })
+          .catch(function () {
+            hint(STR.loadErr);
+          });
+      })();
+    </script>
+    <script is:inline>
+      /* site-stats beacon — same shape as the main site's (Base.astro):
+         pageview on load, dwell on exit, anonymous visitor/session ids.
+         p is this frame's own path (/embed/ or a locale variant); the
+         referrer inside an iframe is the embedding page, which is exactly
+         the attribution B9 needs. Storage can be blocked in third-party
+         frames — every access is guarded, and the beacon degrades to
+         anonymous sends. */
+      (function () {
+        var B = 'https://honru09--site-stats-web.us-east.modal.run/track?s=visafreely';
+        function gid(k, s) {
+          try {
+            var v = s.getItem(k);
+            if (!v) {
+              v = Math.random().toString(36).slice(2) + Date.now().toString(36);
+              s.setItem(k, v);
+            }
+            return v;
+          } catch (e) {
+            return '';
+          }
+        }
+        var vid = gid('vf_vid', window.localStorage), sid = gid('vf_sid', window.sessionStorage);
+        function qs(extra) {
+          return B + '&p=' + encodeURIComponent(location.pathname) + extra +
+            (vid ? '&v=' + encodeURIComponent(vid) : '') + (sid ? '&ss=' + encodeURIComponent(sid) : '');
+        }
+        function send(u) {
+          if (navigator.sendBeacon) {
+            try { navigator.sendBeacon(u); return; } catch (e) {}
+          }
+          var i = new Image(); i.src = u;
+        }
+        send(qs('&r=' + encodeURIComponent(document.referrer || '')));
+        var t0 = Date.now(), sent = false;
+        function dwell() {
+          if (sent) return;
+          var d = Math.round((Date.now() - t0) / 1000);
+          if (d < 2) return;
+          sent = true;
+          send(qs('&e=dur&d=' + d));
+        }
+        document.addEventListener('visibilitychange', function () {
+          if (document.visibilityState === 'hidden') dwell();
+        });
+        window.addEventListener('pagehide', dwell);
+      })();
+    </script>
+  </body>
+</html>

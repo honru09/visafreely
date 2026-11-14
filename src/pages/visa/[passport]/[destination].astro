@@ -143,7 +143,7 @@ const freePassports = countries
         </div>
         <div>
           <p class="seal-title">
-            Verified — last checked {formatDateLong(extra.verified)} against an official source
+            Last checked {formatDateLong(extra.verified)} against an official source
           </p>
           <p>
             <a class="source-link" href={extra.source} rel="noopener" target="_blank">
@@ -340,23 +340,35 @@ const freePassports = countries
         if (!form) return;
         form.addEventListener('submit', function (e) {
           e.preventDefault();
+          var btn = form.querySelector('button');
+          if (btn.disabled) return;
           var email = document.getElementById('route-alert-email').value.trim();
           var status = document.getElementById('route-alert-status');
+          var origLabel = btn.textContent;
+          // QA-001: pending state immediately + keepalive, so a slow
+          // (cold-start) response survives the reader tapping away.
+          btn.disabled = true;
+          btn.textContent = 'Adding you…';
+          status.hidden = false;
+          status.textContent = 'Adding you…';
           fetch('https://honru09--site-stats-web.us-east.modal.run/subscribe', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
+            keepalive: true,
             body: JSON.stringify({ site: 'visafreely', email: email, route: location.pathname })
           }).then(function (r) {
-            status.hidden = false;
             if (r.ok) {
               status.textContent = 'You are on the list — we will email you if this route changes.';
-              form.querySelector('button').disabled = true;
+              btn.textContent = origLabel;
             } else {
               status.textContent = 'That email did not go through — please check it and try again.';
+              btn.disabled = false;
+              btn.textContent = origLabel;
             }
           }).catch(function () {
-            status.hidden = false;
             status.textContent = 'Could not reach the signup service — please try again later.';
+            btn.disabled = false;
+            btn.textContent = origLabel;
           });
         });
       })();

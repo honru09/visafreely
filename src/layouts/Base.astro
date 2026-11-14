@@ -20,9 +20,13 @@ interface Props {
   title: string;
   description: string;
   locale?: LocaleCode;
+  /** Root 404 only: forward locale-prefixed bad URLs to that locale's 404. */
+  notFound?: boolean;
 }
 const { title, description } = Astro.props;
 const locale: LocaleCode = Astro.props.locale ?? 'en';
+const notFound = Astro.props.notFound ?? false;
+const nfPrefixes = LAUNCHED_LOCALES.filter((l) => l.code !== 'en').map((l) => l.prefix);
 const T = i18nT(locale);
 const availability = availabilityRaw as Record<string, string[]>;
 const { path: basePath } = stripLocale(Astro.url.pathname);
@@ -70,6 +74,24 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
         ))}
         <link rel="alternate" hreflang="x-default" href={xDefaultHref} />
       </>
+    )}
+    {notFound && locale === 'en' && (
+      <script is:inline define:vars={{ nfPrefixes }}>
+        /* QA-002: GitHub Pages serves this single root 404 for every bad
+           URL. A bad URL under a launched locale prefix is forwarded to
+           that locale's own 404 page (a real built page), so readers land
+           in their language instead of the English fallback. Runs before
+           the preference-replay script below so the URL's own language
+           wins over a stored preference. */
+        (function () {
+          try {
+            var seg = location.pathname.split('/')[1];
+            if (nfPrefixes.indexOf(seg) >= 0) {
+              location.replace('/' + seg + '/404/' + location.search + location.hash);
+            }
+          } catch (e) {}
+        })();
+      </script>
     )}
     {locale === 'en' && (
       <script is:inline define:vars={{ suggestData }}>
@@ -177,7 +199,7 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
       }
       header.site.scrolled { background: var(--paper); box-shadow: 0 10px 30px -14px rgba(10,37,64,.28); }
       .header-in { display: flex; align-items: center; gap: 26px; height: calc(var(--header-h) - 1px); }
-      .brand { display: flex; align-items: center; gap: 10px; color: var(--ink); --check: var(--brand); border-radius: 8px; }
+      .brand { display: flex; align-items: center; gap: 10px; color: var(--ink); --check: var(--brand); border-radius: 8px; padding-block: 3px; margin-block: -3px; }
       .brand:hover { text-decoration: none; }
       .brand .stamp-svg { transition: transform .3s var(--ease); }
       .brand:hover .stamp-svg { transform: rotate(-3deg) scale(1.05); }
@@ -185,7 +207,7 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
       .wordmark em { font-style: normal; color: var(--brand); }
       nav.main { display: flex; gap: 4px; font-size: 15px; margin-left: auto; }
       nav.main a {
-        color: var(--ink-2); font-weight: 600; padding: 7px 11px; border-radius: 8px; position: relative;
+        color: var(--ink-2); font-weight: 600; padding: 9px 11px; border-radius: 8px; position: relative;
       }
       nav.main a:hover { text-decoration: none; color: var(--ink); background: rgba(10,37,64,.05); }
       .check-btn {
@@ -445,7 +467,7 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
       .pill-cloud { display: flex; flex-wrap: wrap; gap: 8px; margin: 10px 0; }
       .pill-cloud a {
         border: 1px solid var(--line); background: var(--card); color: var(--ink-2);
-        border-radius: 999px; padding: 5px 14px; font-size: 14px;
+        border-radius: 999px; padding: 11px 14px; font-size: 14px;
         transition: border-color .16s var(--ease), color .16s var(--ease), transform .16s var(--ease);
       }
       .pill-cloud a:hover { border-color: var(--brand); color: var(--brand); text-decoration: none; transform: translateY(-1px); }
@@ -455,7 +477,17 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
 
       /* ================= crumbs ================= */
       .crumbs { font-size: 13.5px; color: var(--muted); margin-bottom: 14px; display: flex; gap: 7px; flex-wrap: wrap; align-items: center; }
-      .crumbs a { color: var(--ink-2); font-weight: 600; }
+      .crumbs a { color: var(--ink-2); font-weight: 600; padding-block: 9px; margin-block: -9px; }
+      /* ============ touch targets (QA-004) ============
+         Inline text links: vertical padding grows only the hit area; the
+         matching negative margin leaves layout (line pitch, spacing)
+         untouched, so prose looks exactly as before but taps land on a
+         >=40px-tall target. List-type links (footer columns) instead get
+         real box height — see the footer rules below. */
+      main p a:not([class]), main li a:not([class]),
+      .trustbar .tb-in a, footer.site .f-legal a {
+        padding-block: 12px; margin-block: -12px;
+      }
       .crumbs a:hover { color: var(--brand); }
       .crumbs .sep { color: var(--line-strong); }
 
@@ -593,7 +625,11 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
           background: rgba(255,255,255,.96); backdrop-filter: blur(8px);
           border: 1px solid var(--line-strong); border-radius: 999px; box-shadow: var(--sh-md);
         }
-        .sticky-bar .sb-text { flex: 1; min-width: 0; font-size: 13.5px; font-weight: 700; color: var(--ink); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+        /* QA-012: the route name must stay readable — wrap to two lines at a
+           slightly smaller size instead of truncating mid-word ("United S…").
+           One-line routes keep the original bar height; two-line bars still
+           fit the 74px body padding reserved below. */
+        .sticky-bar .sb-text { flex: 1; min-width: 0; font-size: 13px; font-weight: 700; color: var(--ink); line-height: 1.3; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
         .sticky-bar .sb-btn {
           flex: none; padding: 10px 16px; border-radius: 999px;
           background: var(--brand); color: #fff; font-size: 13.5px; font-weight: 700; text-decoration: none;
@@ -646,7 +682,7 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
       .shelf .alt-line .alt-text { margin: 0; flex: 1; min-width: 0; font-size: 13.5px; line-height: 1.45; color: var(--ink-2); }
       .shelf .alt-line .alt-k { font-weight: 800; color: var(--ink); }
       .shelf .alt-line .partner-tag { display: inline-block; margin-left: 8px; vertical-align: 1px; }
-      .shelf .alt-link { flex: none; font-weight: 700; font-size: 14px; color: var(--brand); white-space: nowrap; }
+      .shelf .alt-link { flex: none; font-weight: 700; font-size: 14px; color: var(--brand); white-space: nowrap; padding-block: 5px; margin-block: -5px; }
       .shelf .alt-link .arr { display: inline-block; transition: transform .16s var(--ease); }
       .shelf .alt-link:hover { text-decoration: none; color: var(--brand-deep); }
       .shelf .alt-link:hover .arr { transform: translateX(2px); }
@@ -710,7 +746,7 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
       .rank-medal { flex: 0 0 auto; width: 31px; height: 31px; aspect-ratio: 1 / 1; padding: 0; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 14.5px; background: var(--soft); border: 1px solid var(--line-strong); color: var(--ink-2); font-variant-numeric: tabular-nums; }
       .rank-medal.top { background: #faf0cd; border: 1.5px solid var(--gold); color: #7a5d08; box-shadow: inset 0 0 0 2.5px #fff8e1; }
       .rank-medal.big { width: 58px; height: 58px; aspect-ratio: 1 / 1; font-size: 19px; border-width: 2px; box-shadow: inset 0 0 0 3px var(--paper); }
-      .rank-row .rr-name { font-weight: 700; flex: none; }
+      .rank-row .rr-name { font-weight: 700; flex: none; padding-block: 7px; margin-block: -7px; }
       .rank-row .rr-name::after { content: ""; position: absolute; inset: 0; }
       .rank-row .bar { flex: 1; height: 8px; border-radius: 999px; background: var(--soft); border: 1px solid var(--line); overflow: hidden; min-width: 60px; }
       .rank-row .bar i { display: block; height: 100%; background: linear-gradient(90deg, var(--brand), #149a73); border-radius: 999px; transition: width 1s var(--ease); }
@@ -760,7 +796,7 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
         display: flex; flex-wrap: wrap; gap: 4px; padding: 9px 0; border-bottom: 1px solid var(--line); margin-bottom: 6px;
       }
       .letter-jump a {
-        min-width: 31px; text-align: center; padding: 4px 7px; border-radius: 9px;
+        min-width: 31px; text-align: center; padding: 8px 7px; border-radius: 9px;
         font-size: 14px; font-weight: 700; color: var(--ink-2); background: var(--card); border: 1px solid var(--line);
         transition: border-color .16s var(--ease), color .16s var(--ease), background-color .16s var(--ease);
       }
@@ -822,8 +858,8 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
       footer.site .wordmark { color: #fff; font-size: 24px; }
       footer.site .wordmark em { color: #35b586; }
       footer.site h4 { font-size: 12px; text-transform: uppercase; letter-spacing: .08em; color: #fff; margin: 6px 0 10px; }
-      footer.site ul { list-style: none; padding: 0; margin: 0; display: grid; gap: 7px; }
-      footer.site ul a { color: #aec6ba; transition: color .16s var(--ease); }
+      footer.site ul { list-style: none; padding: 0; margin: 0; display: grid; gap: 2px; }
+      footer.site ul a { display: block; padding: 10px 0; color: #aec6ba; transition: color .16s var(--ease); }
       footer.site ul a:hover { color: #fff; }
       .f-brand p { margin: 12px 0 0; max-width: 300px; line-height: 1.6; }
       .f-legal { border-top: 1px solid rgba(255,255,255,.14); margin: 26px 0 0; padding-top: 17px; font-size: 13.5px; color: #8fae9f; }
@@ -984,7 +1020,7 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
         }
         .shelf .alt-line .alt-text { font-size: 12.5px; line-height: 1.35; color: var(--muted); }
         .shelf .alt-line .alt-k { color: var(--ink-2); }
-        .shelf .alt-link { align-self: flex-start; font-size: 13px; padding: 5px 6px 4px 0; }
+        .shelf .alt-link { align-self: flex-start; font-size: 13px; padding: 12px 6px 11px 0; margin-block: -7px; }
         /* shelf dedup: quick rows join the same white list container,
            hairline-separated like the top rows, just shorter */
         .shelf .qrow {
@@ -1010,7 +1046,7 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
         .fchip { padding: 9px 12px; font-size: 13.5px; min-height: 40px; }
         .pair-chip { display: inline-flex; align-items: center; min-height: 40px; }
         .source-chip { align-items: center; min-height: 40px; }
-        .pill-cloud a { padding: 5px 12px; font-size: 13.5px; }
+        .pill-cloud a { padding: 11px 12px; font-size: 13.5px; }
         footer.site { padding: 30px 0 28px; }
 
         /* hairline carries separation on touch widths: no lifts, no shadow steps */
@@ -1423,7 +1459,7 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
           }
           var vDate = VERIFIED[key];
           var seal = vDate
-            ? '<div class="vc-seal" style="color:var(--brand)"><div class="stamp-anim stamp-anim-pulse">' + sealSVG('verified', 96) + '</div><span class="vc-seal-cap"><span class="nw">Verified ' + esc(fmtDate(vDate)) + '</span><br/>against an official source</span></div>'
+            ? '<div class="vc-seal" style="color:var(--brand)"><div class="stamp-anim stamp-anim-pulse">' + sealSVG('verified', 96) + '</div><span class="vc-seal-cap"><span class="nw">' + esc(fmtDate(vDate)) + '</span><br/>against an official source</span></div>'
             : '<div class="vc-seal" style="color:#6f6a5e">' + sealSVG('pending', 96) + '<span class="vc-seal-cap">Dataset value —<br/>not yet individually verified</span></div>';
           out.innerHTML =
             '<div class="verdict-card enter s-' + code + '">'
