@@ -213,6 +213,7 @@
   "home_rank_h2": "Most powerful passports right now",
   "home_rank_sub": "Ranked by the number of destinations reachable without applying for a visa in advance (visa free + visa on arrival + ETA; an e-Visa is applied for ahead, so it is not counted here).",
   "home_rank_count": "{easy} without a prior visa · {free} fully visa free",
+  "home_rank_count_short": "{easy} destinations",
   "home_pop_passports_h2": "Popular passports",
   "home_name_passport": "{name} passport",
   "home_pop_dests_h2": "Popular destinations",

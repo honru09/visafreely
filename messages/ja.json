@@ -213,6 +213,7 @@
   "home_rank_h2": "いま最も強いパスポート",
   "home_rank_sub": "事前にビザを申請せずに行ける渡航先の数で順位付け（ビザ免除＋到着ビザ＋ETA。電子ビザは事前申請なのでここでは数えません）。",
   "home_rank_count": "事前ビザなし{easy}件 · 完全ビザ免除{free}件",
+  "home_rank_count_short": "{easy} か国・地域",
   "home_pop_passports_h2": "人気のパスポート",
   "home_name_passport": "{name}のパスポート",
   "home_pop_dests_h2": "人気の渡航先",

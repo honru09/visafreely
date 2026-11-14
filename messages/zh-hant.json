@@ -213,6 +213,7 @@
   "home_rank_h2": "目前最強的護照",
   "home_rank_sub": "按無需提前申請簽證即可到達的目的地數量排名（免簽 + 落地簽 + ETA；電子簽需要提前申請，不計入）。",
   "home_rank_count": "{easy} 個無需提前辦簽證 · {free} 個完全免簽",
+  "home_rank_count_short": "{easy} 個目的地",
   "home_pop_passports_h2": "熱門護照",
   "home_name_passport": "{name}護照",
   "home_pop_dests_h2": "熱門目的地",

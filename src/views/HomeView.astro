@@ -145,7 +145,7 @@ const correctionsFmt = changelogCount.toLocaleString('en-US');
         <span class={`rank-medal${i < 3 ? ' top' : ''}`}>{i + 1}</span>
         <a class="rr-name" href={href(`/passport/${r.c.slug}/`)}>{nm(r.c)}</a>
         <span class="bar" aria-hidden="true"><i style={`--w:${barPct(r.easy)}%;width:var(--w)`}></i></span>
-        <span class="rr-count">{T('home_rank_count', { easy: r.easy, free: r.free })}</span>
+        <span class="rr-count"><span class="rrc-full">{T('home_rank_count', { easy: r.easy, free: r.free })}</span><span class="rrc-short">{T('home_rank_count_short', { easy: r.easy })}</span></span>
       </div>
     ))}
   </div>

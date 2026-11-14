@@ -765,7 +765,21 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
       .js .rank-rows[data-reveal] .bar i { width: 0 !important; }
       .js .rank-rows[data-reveal].inview .bar i { width: var(--w) !important; }
       .rank-row .rr-count { flex: none; font-size: 14px; color: var(--muted); font-variant-numeric: tabular-nums; text-align: right; }
-      @media (max-width: 560px) { .rank-row .rr-count { display: none; } }
+      .rank-row .rrc-short { display: none; }
+      /* Rank count on mobile (2026-11-14, user order): the count used to
+         be display:none under 560px, leaving bare bars on phones. Rows
+         now wrap to two lines — medal + name + short count (right) on
+         line 1, the bar full-width on line 2. Desktop is unchanged:
+         full count text and bar stay on one line. Note the bar width is
+         a stretched rank scale (barPct), not proportional to the count;
+         with the number on screen the bar is a visual ordering aid. */
+      @media (max-width: 560px) {
+        .rank-row { flex-wrap: wrap; row-gap: 8px; }
+        .rank-row .rr-count { order: 3; margin-left: auto; }
+        .rank-row .rrc-full { display: none; }
+        .rank-row .rrc-short { display: inline; }
+        .rank-row .bar { order: 4; flex: 1 1 100%; }
+      }
       .legend-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin: 12px 0; }
       @media (max-width: 860px) { .legend-grid { grid-template-columns: repeat(2, 1fr); } }
       @media (max-width: 560px) { .legend-grid { grid-template-columns: 1fr; } }

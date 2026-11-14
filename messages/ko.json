@@ -213,6 +213,7 @@
   "home_rank_h2": "지금 가장 강력한 여권",
   "home_rank_sub": "사전에 비자를 신청하지 않고 갈 수 있는 목적지 수 기준 순위입니다(무비자 + 도착 비자 + ETA; 전자 비자는 사전 신청이므로 여기에 세지 않습니다).",
   "home_rank_count": "사전 비자 없이 {easy}곳 · 완전 무비자 {free}곳",
+  "home_rank_count_short": "사전 비자 없이 {easy}개국",
   "home_pop_passports_h2": "인기 여권",
   "home_name_passport": "{name} 여권",
   "home_pop_dests_h2": "인기 목적지",
