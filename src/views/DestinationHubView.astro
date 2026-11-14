@@ -4,6 +4,7 @@ import ExploreStrip from '../components/ExploreStrip.astro';
 import HubStrip from '../components/HubStrip.astro';
 import DestinationGuide from '../components/DestinationGuide.astro';
 import guidesRaw from '../data/destination-guides.json';
+import flightCodesRaw from '../data/flight-codes.json';
 import {
   countries,
   countryByCode,
@@ -43,6 +44,16 @@ const description = T('hubd_desc', { name: nm(c), free: freeCount });
 const others = countries.filter((x) => x.code !== c.code);
 // SEO L4 depth pilot (English only): full guide for piloted destinations.
 const guide = locale === 'en' ? (guidesRaw as Record<string, any>)[c.code] : undefined;
+// B8 flights row (Travelpayouts / Aviasales): deep link through
+// tp.media with the account marker; target is the Aviasales
+// destination search for the country's gateway city code
+// (src/data/flight-codes.json; destinations without a flightable
+// city fall back to the Aviasales home search, still tracked).
+const flyCity = (flightCodesRaw as Record<string, { city: string }>)[c.code];
+const flyTarget = flyCity
+  ? `https://www.aviasales.com/search/to/${flyCity.city}`
+  : 'https://www.aviasales.com/';
+const flyHref = `https://tp.media/r?campaign_id=100&marker=805269&p=4114&trs=600404&u=${encodeURIComponent(flyTarget)}`;
 const total = groups.reduce((n, g) => n + g.passports.length, 0);
 // B3 hub strip: passports that need paperwork (E/T/R) to enter this
 // destination. Static rule: verified pairs first, then passport strength
@@ -92,6 +103,25 @@ const stripRoutes = countries
       strip — staggered, not stacked: a single row, no card body. Qualitative
       copy only; SafetyWing publishes no clean from-price (see batch-2
       PROGRESS), so no number is shown. */}
+  {/* B8: one compact flights row, directly above the insurance row —
+      the hub's two money rows sit together under the route strip. */}
+  <a
+    class="hub-ins"
+    data-offer="aviasales-hub"
+    href={flyHref}
+    rel="sponsored nofollow noopener"
+    target="_blank">
+    <span class="hub-ins-ic" aria-hidden="true">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none"><path d="M10.5 13.5 3 11l1.5-1.5L11 11l4.2-4.2c.6-.6 1.6-.6 2.1 0 .6.6.6 1.5 0 2.1L13.5 13l.8 5.3-1.8-1.5-1.2 1.2.5 2-1.7-1-1.7 1 .5-2-1.2-1.2-1.8 1.5.8-5.3z" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/></svg>
+    </span>
+    <span class="hub-ins-text">
+      <strong>{T('hub_fly_title', { name: nm(c) })}</strong>
+      <span class="hub-ins-sub">{T('hub_fly_sub')}</span>
+    </span>
+    <span class="partner-tag">{T('partner_tag')}</span>
+    <svg class="hub-ins-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4 12h15M13 5.5L19.5 12 13 18.5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+  </a>
+
   <a
     class="hub-ins"
     data-offer="safetywing-hub"

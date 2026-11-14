@@ -1,0 +1,774 @@
+{
+ "AE": {
+  "city": "DXB",
+  "name": "Dubai"
+ },
+ "AF": {
+  "city": "KBL",
+  "name": "Kabul"
+ },
+ "AG": {
+  "city": "ANU",
+  "name": "Saint John's"
+ },
+ "AL": {
+  "city": "TIA",
+  "name": "Tirana"
+ },
+ "AM": {
+  "city": "EVN",
+  "name": "Yerevan"
+ },
+ "AO": {
+  "city": "LAD",
+  "name": "Luanda"
+ },
+ "AR": {
+  "city": "BUE",
+  "name": "Buenos Aires"
+ },
+ "AT": {
+  "city": "VIE",
+  "name": "Vienna"
+ },
+ "AU": {
+  "city": "SYD",
+  "name": "Sydney"
+ },
+ "AZ": {
+  "city": "BAK",
+  "name": "Baku"
+ },
+ "BA": {
+  "city": "SJJ",
+  "name": "Sarajevo"
+ },
+ "BB": {
+  "city": "BGI",
+  "name": "Bridgetown"
+ },
+ "BD": {
+  "city": "DAC",
+  "name": "Dhaka"
+ },
+ "BE": {
+  "city": "BRU",
+  "name": "Brussels"
+ },
+ "BF": {
+  "city": "OUA",
+  "name": "Ouagadougou"
+ },
+ "BG": {
+  "city": "SOF",
+  "name": "Sofia"
+ },
+ "BH": {
+  "city": "BAH",
+  "name": "Manama"
+ },
+ "BI": {
+  "city": "BJM",
+  "name": "Bujumbura"
+ },
+ "BJ": {
+  "city": "COO",
+  "name": "Cotonou"
+ },
+ "BN": {
+  "city": "BWN",
+  "name": "Bandar Seri Begawan"
+ },
+ "BO": {
+  "city": "SRE",
+  "name": "Sucre"
+ },
+ "BR": {
+  "city": "SAO",
+  "name": "Sao Paulo"
+ },
+ "BS": {
+  "city": "NAS",
+  "name": "Nassau"
+ },
+ "BT": {
+  "city": "PBH",
+  "name": "Paro"
+ },
+ "BW": {
+  "city": "GBE",
+  "name": "Gaborone"
+ },
+ "BY": {
+  "city": "MSQ",
+  "name": "Minsk"
+ },
+ "BZ": {
+  "city": "BZE",
+  "name": "Belize City"
+ },
+ "CA": {
+  "city": "YTO",
+  "name": "Toronto"
+ },
+ "CD": {
+  "city": "FIH",
+  "name": "Kinshasa"
+ },
+ "CF": {
+  "city": "BGF",
+  "name": "Bangui"
+ },
+ "CG": {
+  "city": "BZV",
+  "name": "Brazzaville"
+ },
+ "CH": {
+  "city": "ZRH",
+  "name": "Zurich"
+ },
+ "CI": {
+  "city": "ABJ",
+  "name": "Abidjan"
+ },
+ "CL": {
+  "city": "SCL",
+  "name": "Santiago"
+ },
+ "CM": {
+  "city": "DLA",
+  "name": "Douala"
+ },
+ "CN": {
+  "city": "BJS",
+  "name": "Beijing"
+ },
+ "CO": {
+  "city": "BOG",
+  "name": "Bogota"
+ },
+ "CR": {
+  "city": "SJO",
+  "name": "San Jose"
+ },
+ "CU": {
+  "city": "HAV",
+  "name": "Havana"
+ },
+ "CV": {
+  "city": "RAI",
+  "name": "Praia"
+ },
+ "CY": {
+  "city": "LCA",
+  "name": "Larnaca"
+ },
+ "CZ": {
+  "city": "PRG",
+  "name": "Prague"
+ },
+ "DE": {
+  "city": "BER",
+  "name": "Berlin"
+ },
+ "DJ": {
+  "city": "JIB",
+  "name": "Djibouti"
+ },
+ "DK": {
+  "city": "CPH",
+  "name": "Copenhagen"
+ },
+ "DM": {
+  "city": "DOM",
+  "name": "Dominica"
+ },
+ "DO": {
+  "city": "SDQ",
+  "name": "Santo Domingo"
+ },
+ "DZ": {
+  "city": "ALG",
+  "name": "Algiers"
+ },
+ "EC": {
+  "city": "UIO",
+  "name": "Quito"
+ },
+ "EE": {
+  "city": "TLL",
+  "name": "Tallinn"
+ },
+ "EG": {
+  "city": "CAI",
+  "name": "Cairo"
+ },
+ "ER": {
+  "city": "ASM",
+  "name": "Asmara"
+ },
+ "ES": {
+  "city": "MAD",
+  "name": "Madrid"
+ },
+ "ET": {
+  "city": "ADD",
+  "name": "Addis Ababa"
+ },
+ "FI": {
+  "city": "HEL",
+  "name": "Helsinki"
+ },
+ "FJ": {
+  "city": "NAN",
+  "name": "Nadi"
+ },
+ "FM": {
+  "city": "PNI",
+  "name": "Pohnpei"
+ },
+ "FR": {
+  "city": "PAR",
+  "name": "Paris"
+ },
+ "GA": {
+  "city": "LBV",
+  "name": "Libreville"
+ },
+ "GB": {
+  "city": "LON",
+  "name": "London"
+ },
+ "GD": {
+  "city": "GND",
+  "name": "St. George's"
+ },
+ "GE": {
+  "city": "TBS",
+  "name": "Tbilisi"
+ },
+ "GH": {
+  "city": "ACC",
+  "name": "Accra"
+ },
+ "GM": {
+  "city": "BJL",
+  "name": "Banjul"
+ },
+ "GN": {
+  "city": "CKY",
+  "name": "Conakry"
+ },
+ "GQ": {
+  "city": "SSG",
+  "name": "Malabo"
+ },
+ "GR": {
+  "city": "ATH",
+  "name": "Athens"
+ },
+ "GT": {
+  "city": "GUA",
+  "name": "Guatemala City"
+ },
+ "GW": {
+  "city": "OXB",
+  "name": "Bissau"
+ },
+ "GY": {
+  "city": "OGL",
+  "name": "Georgetown"
+ },
+ "HK": {
+  "city": "HKG",
+  "name": "Hong Kong"
+ },
+ "HN": {
+  "city": "TGU",
+  "name": "Tegucigalpa"
+ },
+ "HR": {
+  "city": "ZAG",
+  "name": "Zagreb"
+ },
+ "HT": {
+  "city": "PAP",
+  "name": "Port-au-Prince"
+ },
+ "HU": {
+  "city": "BUD",
+  "name": "Budapest"
+ },
+ "ID": {
+  "city": "JKT",
+  "name": "Jakarta"
+ },
+ "IE": {
+  "city": "DUB",
+  "name": "Dublin"
+ },
+ "IL": {
+  "city": "TLV",
+  "name": "Tel Aviv Yafo"
+ },
+ "IN": {
+  "city": "DEL",
+  "name": "New Delhi"
+ },
+ "IQ": {
+  "city": "BGW",
+  "name": "Baghdad"
+ },
+ "IR": {
+  "city": "THR",
+  "name": "Tehran"
+ },
+ "IS": {
+  "city": "REK",
+  "name": "Reykjavik"
+ },
+ "IT": {
+  "city": "ROM",
+  "name": "Rome"
+ },
+ "JM": {
+  "city": "MBJ",
+  "name": "Montego Bay"
+ },
+ "JO": {
+  "city": "AMM",
+  "name": "Amman"
+ },
+ "JP": {
+  "city": "TYO",
+  "name": "Tokyo"
+ },
+ "KE": {
+  "city": "NBO",
+  "name": "Nairobi"
+ },
+ "KG": {
+  "city": "BSZ",
+  "name": "Bishkek"
+ },
+ "KH": {
+  "city": "PNH",
+  "name": "Phnom Penh"
+ },
+ "KI": {
+  "city": "TRW",
+  "name": "Tarawa"
+ },
+ "KM": {
+  "city": "HAH",
+  "name": "Moroni"
+ },
+ "KN": {
+  "city": "SKB",
+  "name": "Basseterre"
+ },
+ "KP": {
+  "city": "FNJ",
+  "name": "Pyongyang"
+ },
+ "KR": {
+  "city": "SEL",
+  "name": "Seoul"
+ },
+ "KW": {
+  "city": "KWI",
+  "name": "Kuwait City"
+ },
+ "KZ": {
+  "city": "ALA",
+  "name": "Almaty"
+ },
+ "LA": {
+  "city": "VTE",
+  "name": "Vientiane"
+ },
+ "LB": {
+  "city": "BEY",
+  "name": "Beirut"
+ },
+ "LC": {
+  "city": "SLU",
+  "name": "Castries"
+ },
+ "LK": {
+  "city": "CMB",
+  "name": "Colombo"
+ },
+ "LR": {
+  "city": "MLW",
+  "name": "Monrovia"
+ },
+ "LS": {
+  "city": "MSU",
+  "name": "Maseru"
+ },
+ "LT": {
+  "city": "VNO",
+  "name": "Vilnius"
+ },
+ "LU": {
+  "city": "LUX",
+  "name": "Luxembourg"
+ },
+ "LV": {
+  "city": "RIX",
+  "name": "Riga"
+ },
+ "LY": {
+  "city": "MJI",
+  "name": "Tripoli"
+ },
+ "MA": {
+  "city": "CMN",
+  "name": "Casablanca"
+ },
+ "MD": {
+  "city": "RMO",
+  "name": "Chisinau"
+ },
+ "ME": {
+  "city": "TGD",
+  "name": "Podgorica"
+ },
+ "MG": {
+  "city": "TNR",
+  "name": "Antananarivo"
+ },
+ "MH": {
+  "city": "MAJ",
+  "name": "Majuro"
+ },
+ "MK": {
+  "city": "SKP",
+  "name": "Skopje"
+ },
+ "ML": {
+  "city": "BKO",
+  "name": "Bamako"
+ },
+ "MM": {
+  "city": "RGN",
+  "name": "Yangon"
+ },
+ "MN": {
+  "city": "UBN",
+  "name": "Ulaanbaatar"
+ },
+ "MO": {
+  "city": "MFM",
+  "name": "Macau"
+ },
+ "MR": {
+  "city": "NKC",
+  "name": "Nouakchott"
+ },
+ "MT": {
+  "city": "MLA",
+  "name": "Malta"
+ },
+ "MU": {
+  "city": "MRU",
+  "name": "Mauritius"
+ },
+ "MV": {
+  "city": "MLE",
+  "name": "Male"
+ },
+ "MW": {
+  "city": "LLW",
+  "name": "Lilongwe"
+ },
+ "MX": {
+  "city": "MEX",
+  "name": "Mexico City"
+ },
+ "MY": {
+  "city": "KUL",
+  "name": "Kuala Lumpur"
+ },
+ "MZ": {
+  "city": "MPM",
+  "name": "Maputo"
+ },
+ "NA": {
+  "city": "WDH",
+  "name": "Windhoek"
+ },
+ "NE": {
+  "city": "NIM",
+  "name": "Niamey"
+ },
+ "NG": {
+  "city": "LOS",
+  "name": "Lagos"
+ },
+ "NI": {
+  "city": "MGA",
+  "name": "Managua"
+ },
+ "NL": {
+  "city": "AMS",
+  "name": "Amsterdam"
+ },
+ "NO": {
+  "city": "OSL",
+  "name": "Oslo"
+ },
+ "NP": {
+  "city": "KTM",
+  "name": "Kathmandu"
+ },
+ "NR": {
+  "city": "INU",
+  "name": "Nauru Island"
+ },
+ "NZ": {
+  "city": "AKL",
+  "name": "Auckland"
+ },
+ "OM": {
+  "city": "MCT",
+  "name": "Muscat"
+ },
+ "PA": {
+  "city": "PTY",
+  "name": "Panama City"
+ },
+ "PE": {
+  "city": "LIM",
+  "name": "Lima"
+ },
+ "PG": {
+  "city": "POM",
+  "name": "Port Moresby"
+ },
+ "PH": {
+  "city": "MNL",
+  "name": "Manila"
+ },
+ "PK": {
+  "city": "ISB",
+  "name": "Islamabad"
+ },
+ "PL": {
+  "city": "WAW",
+  "name": "Warsaw"
+ },
+ "PT": {
+  "city": "LIS",
+  "name": "Lisbon"
+ },
+ "PW": {
+  "city": "ROR",
+  "name": "Koror"
+ },
+ "PY": {
+  "city": "ASU",
+  "name": "Asuncion"
+ },
+ "QA": {
+  "city": "DOH",
+  "name": "Doha"
+ },
+ "RO": {
+  "city": "BUH",
+  "name": "Bucharest"
+ },
+ "RS": {
+  "city": "BEG",
+  "name": "Belgrade"
+ },
+ "RU": {
+  "city": "MOW",
+  "name": "Moscow"
+ },
+ "RW": {
+  "city": "KGL",
+  "name": "Kigali"
+ },
+ "SA": {
+  "city": "RUH",
+  "name": "Riyadh"
+ },
+ "SB": {
+  "city": "HIR",
+  "name": "Honiara"
+ },
+ "SC": {
+  "city": "SEZ",
+  "name": "Mahe"
+ },
+ "SD": {
+  "city": "KRT",
+  "name": "Khartoum"
+ },
+ "SE": {
+  "city": "STO",
+  "name": "Stockholm"
+ },
+ "SG": {
+  "city": "SIN",
+  "name": "Singapore"
+ },
+ "SI": {
+  "city": "LJU",
+  "name": "Ljubljana"
+ },
+ "SK": {
+  "city": "BTS",
+  "name": "Bratislava"
+ },
+ "SL": {
+  "city": "FNA",
+  "name": "Freetown"
+ },
+ "SN": {
+  "city": "DKR",
+  "name": "Dakar"
+ },
+ "SO": {
+  "city": "MGQ",
+  "name": "Mogadishu"
+ },
+ "SR": {
+  "city": "PBM",
+  "name": "Paramaribo"
+ },
+ "SS": {
+  "city": "JUB",
+  "name": "Juba"
+ },
+ "ST": {
+  "city": "TMS",
+  "name": "Sao Tome Island"
+ },
+ "SV": {
+  "city": "SAL",
+  "name": "San Salvador"
+ },
+ "SY": {
+  "city": "DAM",
+  "name": "Damascus"
+ },
+ "SZ": {
+  "city": "MTS",
+  "name": "Manzini"
+ },
+ "TD": {
+  "city": "NDJ",
+  "name": "N'Djamena"
+ },
+ "TG": {
+  "city": "LFW",
+  "name": "Lome"
+ },
+ "TH": {
+  "city": "BKK",
+  "name": "Bangkok"
+ },
+ "TJ": {
+  "city": "DYU",
+  "name": "Dushanbe"
+ },
+ "TL": {
+  "city": "DIL",
+  "name": "Dili"
+ },
+ "TM": {
+  "city": "ASB",
+  "name": "Ashgabat"
+ },
+ "TN": {
+  "city": "TUN",
+  "name": "Tunis"
+ },
+ "TO": {
+  "city": "TBU",
+  "name": "Nuku'alofa"
+ },
+ "TR": {
+  "city": "IST",
+  "name": "Istanbul"
+ },
+ "TT": {
+  "city": "POS",
+  "name": "Port Of Spain"
+ },
+ "TV": {
+  "city": "FUN",
+  "name": "Funafuti Atoll"
+ },
+ "TW": {
+  "city": "TPE",
+  "name": "Taipei"
+ },
+ "TZ": {
+  "city": "DAR",
+  "name": "Dar Es Salaam"
+ },
+ "UA": {
+  "city": "IEV",
+  "name": "Kyiv"
+ },
+ "UG": {
+  "city": "EBB",
+  "name": "Entebbe"
+ },
+ "US": {
+  "city": "NYC",
+  "name": "New York"
+ },
+ "UY": {
+  "city": "MVD",
+  "name": "Montevideo"
+ },
+ "UZ": {
+  "city": "TAS",
+  "name": "Tashkent"
+ },
+ "VC": {
+  "city": "SVD",
+  "name": "St Vincent"
+ },
+ "VE": {
+  "city": "CCS",
+  "name": "Caracas"
+ },
+ "VN": {
+  "city": "SGN",
+  "name": "Ho Chi Minh City"
+ },
+ "VU": {
+  "city": "VLI",
+  "name": "Port Vila"
+ },
+ "WS": {
+  "city": "APW",
+  "name": "Apia"
+ },
+ "XK": {
+  "city": "PRN",
+  "name": "Pristina"
+ },
+ "YE": {
+  "city": "SAH",
+  "name": "Sanaa"
+ },
+ "ZA": {
+  "city": "JNB",
+  "name": "Johannesburg"
+ },
+ "ZM": {
+  "city": "LUN",
+  "name": "Lusaka"
+ },
+ "ZW": {
+  "city": "HRE",
+  "name": "Harare"
+ }
+}

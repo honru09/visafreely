@@ -18,6 +18,8 @@
   "header_check_short": "查询",
   "footer_h_explore": "探索",
   "explore_h": "继续探索",
+  "hub_fly_title": "飞往{name}的航班",
+  "hub_fly_sub": "在 Aviasales 比较票价",
   "explore_check": "查询一条路线",
   "footer_h_track": "追踪与站点",
   "header_check_btn": "查一条路线",
