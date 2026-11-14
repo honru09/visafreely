@@ -87,7 +87,7 @@ function affectedRoutes(e: Change): RouteLink[] {
     out.push({ code: y.x.code, name: y.x.name, row: y.r! });
   }
   return out.map((o) => ({
-    href: pairPath(countryByCode[o.code], dc),
+    href: href(pairPath(countryByCode[o.code], dc)),
     flag: flagEmoji(o.code),
     name: nm(countryByCode[o.code]),
     meta: verdictTextL(locale, o.row),

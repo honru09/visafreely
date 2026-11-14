@@ -64,7 +64,7 @@ const stripRoutes = (data.byPassport[c.code] || [])
   })
   .slice(0, 3)
   .map((r) => ({
-    href: pairPath(c, countryByCode[r.d]),
+    href: href(pairPath(c, countryByCode[r.d])),
     flag: flagEmoji(r.d),
     name: nm(countryByCode[r.d]),
     meta: verdictTextL(locale, r),
@@ -124,7 +124,7 @@ const stripRoutes = (data.byPassport[c.code] || [])
         <h2>{statusLabelL(locale, g.code)}<span class="count-pill">{g.rows.length}</span></h2>
         <div class="route-grid">
           {g.rows.map((r) => (
-            <a class="route-card" href={pairPath(c, countryByCode[r.d])}>
+            <a class="route-card" href={href(pairPath(c, countryByCode[r.d]))}>
               <span class="rc-top"><span class="rc-flag" aria-hidden="true">{flagEmoji(r.d)}</span><span class={`sdot ${g.code}`}></span><span class="rc-name">{nm(countryByCode[r.d])}</span></span>
               <span class="rc-meta">{verdictTextL(locale, r)}</span>
               <svg class="rc-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4 12h15M13 5.5L19.5 12 13 18.5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>

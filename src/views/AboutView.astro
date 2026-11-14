@@ -60,7 +60,7 @@ const fmt = (iso: string) => formatDateL(locale, iso);
     </div>
   </div>
   <p class="small muted">
-    {T('ab_live_a')}<a href={pairPath(jp, th)}>{T('ab_live_link', { p: countryName(locale, jp), d: countryName(locale, th) })}</a>{T('ab_live1_b')}
+    {T('ab_live_a')}<a href={href(pairPath(jp, th))}>{T('ab_live_link', { p: countryName(locale, jp), d: countryName(locale, th) })}</a>{T('ab_live1_b')}
   </p>
 
   <p class="micro" style="margin:18px 0 6px;">{T('ab_stamp2_label')}</p>
@@ -78,7 +78,7 @@ const fmt = (iso: string) => formatDateL(locale, iso);
     </div>
   </div>
   <p class="small muted">
-    {T('ab_live_a')}<a href={pairPath(zw, ve)}>{T('ab_live_link', { p: countryName(locale, zw), d: countryName(locale, ve) })}</a>{T('ab_live2_b')}
+    {T('ab_live_a')}<a href={href(pairPath(zw, ve))}>{T('ab_live_link', { p: countryName(locale, zw), d: countryName(locale, ve) })}</a>{T('ab_live2_b')}
   </p>
 
   <h2>{T('ab_how_h2')}</h2>

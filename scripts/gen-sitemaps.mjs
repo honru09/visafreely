@@ -58,22 +58,53 @@ for (const p of countries) {
 }
 flush();
 
-// Localized core sitemaps (i18n batch 0): one per launched non-default
-// locale, holding exactly the paths the availability manifest lists for
-// that locale (core surfaces + hubs; pair pages join in batch 2). URLs
-// strictly mirror built pages — a locale with no pages gets no sitemap.
+// Localized sitemaps (i18n batch 0; pair shards added in batch 2 wave A):
+// one core file per launched non-default locale holding the non-pair paths
+// the availability manifest lists for it, plus pair shards
+// (sitemap-pairs-<loc>-N.xml, 10k chunks, lastmod = verified date, same
+// rule as the English pair shards). URLs strictly mirror built pages — a
+// locale with no pages gets no sitemap.
 const launched = JSON.parse(readFileSync('src/i18n/launched.json', 'utf8'));
 const availability = JSON.parse(readFileSync('src/i18n/availability.json', 'utf8'));
+const codeOfSlug = Object.fromEntries(countries.map((c) => [c.slug, c.code]));
 const localeFiles = [];
 for (const loc of launched) {
   if (loc === 'en') continue;
-  const entries = Object.entries(availability)
+  const paths = Object.entries(availability)
     .filter(([, locs]) => locs.includes(loc))
-    .map(([p]) => urlEntry(`${SITE}/${loc}${p}`));
-  const name = `sitemap-${loc}-core.xml`;
-  writeFileSync(`dist/${name}`, urlset(entries));
-  localeFiles.push(name);
-  console.log(`sitemaps: ${name} urls=${entries.length}`);
+    .map(([p]) => p)
+    .sort();
+  // A pair path is exactly /visa/<pslug>/<dslug>/ (3 segments); the visa
+  // index /visa/ itself is a core surface.
+  const isPair = (p) => {
+    const s = p.split('/').filter(Boolean);
+    return s.length === 3 && s[0] === 'visa';
+  };
+  const coreEntries = paths.filter((p) => !isPair(p))
+    .map((p) => urlEntry(`${SITE}/${loc}${p}`));
+  const coreName = `sitemap-${loc}-core.xml`;
+  writeFileSync(`dist/${coreName}`, urlset(coreEntries));
+  localeFiles.push(coreName);
+  console.log(`sitemaps: ${coreName} urls=${coreEntries.length}`);
+  const pairPaths = paths.filter(isPair);
+  let pbuf = [];
+  let pidx = 0;
+  const pflush = () => {
+    if (!pbuf.length) return;
+    const name = `sitemap-pairs-${loc}-${pidx}.xml`;
+    pidx += 1;
+    writeFileSync(`dist/${name}`, urlset(pbuf));
+    localeFiles.push(name);
+    console.log(`sitemaps: ${name} urls=${pbuf.length}`);
+    pbuf = [];
+  };
+  for (const p of pairPaths) {
+    const seg = p.split('/').filter(Boolean); // ['visa', pslug, dslug]
+    const v = ver[`${codeOfSlug[seg[1]]}:${codeOfSlug[seg[2]]}`];
+    pbuf.push(urlEntry(`${SITE}/${loc}${p}`, v ? v.date : null));
+    if (pbuf.length >= CHUNK) pflush();
+  }
+  pflush();
 }
 
 // Index (same filename GSC/Bing already track).

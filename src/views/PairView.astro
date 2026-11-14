@@ -1,0 +1,402 @@
+---
+// Pair page view (wave A localized): one view renders every locale's pair
+// pages; the per-locale page files are thin shells. English delegates to
+// the original lib/data generators (pair-text.ts), so English output is
+// unchanged; other locales render frozen message templates with localized
+// country names. Facts (status, days, dates, thresholds) always come from
+// the data layer. The per-pair verification note (extra.note) is a data
+// record and stays in its source language this wave (batch-3 data layer,
+// same scoped partial as the policy-change entries in batch 1).
+import Base from '../layouts/Base.astro';
+import Shelf from '../components/Shelf.astro';
+import evisasCampaigns from '../data/evisas-campaigns.json';
+import Stamp from '../components/Stamp.astro';
+import ShareRow from '../components/ShareRow.astro';
+import { insuranceFor } from '../lib/insurance';
+import {
+  countries,
+  countryByCode,
+  pairExtra,
+  verdictText,
+  statusLabel,
+  pairPath,
+  STATUS_GLYPH,
+  STATUS_COLOR,
+  formatDateLong,
+  data,
+  type Country,
+  type PairRow,
+} from '../lib/data';
+import {
+  t as i18nT,
+  countryName,
+  statusLabelL,
+  verdictTextL,
+  formatDateL,
+  hrefFor,
+  type LocaleCode,
+} from '../i18n/locales';
+import { meaningL, stepsL, checklistL, applyBeforeL, basisL, maxStayL, faqL } from '../i18n/pair-text';
+import { insuranceTextL } from '../i18n/insurance-text';
+import availabilityRaw from '../i18n/availability.json';
+
+interface Props {
+  locale: LocaleCode;
+  p: Country;
+  d: Country;
+  row: PairRow;
+}
+const { locale, p, d, row } = Astro.props;
+const T = i18nT(locale);
+const availability = availabilityRaw as Record<string, string[]>;
+const href = (path: string) => hrefFor(locale, path, availability);
+const pName = countryName(locale, p);
+const dName = countryName(locale, d);
+const fmtDate = (iso: string) => (locale === 'en' ? formatDateLong(iso) : formatDateL(locale, iso));
+
+const barSid = (evisasCampaigns as Record<string, string>)[`${p.code}:${d.code}`];
+const evisasBarHref = barSid ? `https://evisas.com/?ref=visafreely&sid=${barSid}` : 'https://evisas.com/?ref=visafreely';
+const extra = pairExtra(p.code, d.code);
+const verdict = locale === 'en' ? verdictText(row) : verdictTextL(locale, row);
+const label = locale === 'en' ? statusLabel(row.s) : statusLabelL(locale, row.s);
+const glyph = STATUS_GLYPH[row.s] || '✓';
+const meaning = meaningL(locale, row.s, pName, dName);
+const needsVisa = row.s === 'R' || row.s === 'E';
+const steps = stepsL(locale, row.s, pName, dName);
+const checklist = checklistL(locale, row.s);
+const insFactEntry = insuranceFor(d.code, row.s, p.code, row.days);
+const insFact = insFactEntry
+  ? { note: insuranceTextL(locale, insFactEntry, 'note') as string, sourceUrl: insFactEntry.sourceUrl, sourceName: insFactEntry.sourceName }
+  : null;
+const faq = faqL(locale, pName, dName, row, extra, data.vintage);
+const title = T('pair_title', { p: pName, d: dName, verdict });
+const description = T('pair_desc', { p: pName, d: dName, verdict });
+const statusColor = STATUS_COLOR[row.s];
+let sourceHost = '';
+try { sourceHost = extra.source ? new URL(extra.source).hostname.replace(/^www\./, '') : ''; } catch { sourceHost = ''; }
+
+const urlFor = (path: string) => new URL(href(path), Astro.site).href;
+const breadcrumbLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: T('nav_passports'), item: urlFor('/passports/') },
+    { '@type': 'ListItem', position: 2, name: T('pair_crumb_passport', { p: pName }), item: urlFor(`/passport/${p.slug}/`) },
+    { '@type': 'ListItem', position: 3, name: dName, item: urlFor(pairPath(p, d)) },
+  ],
+};
+const faqLd = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faq.map((f) => ({
+    '@type': 'Question',
+    name: f.q,
+    acceptedAnswer: { '@type': 'Answer', text: f.a },
+  })),
+};
+
+// Related pairs: same passport, same status, other destinations (alphabetical, up to 10)
+const sameStatus = (data.byPassport[p.code] || [])
+  .filter((r) => r.s === row.s && r.d !== d.code)
+  .slice(0, 10);
+// Same destination, visa-free passports sample (up to 10)
+const freePassports = countries
+  .filter((c) => c.code !== p.code)
+  .map((c) => ({ c, r: (data.byPassport[c.code] || []).find((x) => x.d === d.code) }))
+  .filter((x) => x.r && x.r.s === 'F')
+  .slice(0, 10);
+const relVerdict = (r: PairRow) => (locale === 'en' ? verdictText(r) : verdictTextL(locale, r));
+
+const subStr = {
+  sending: T('form_sending'),
+  ok: T('pair_sub_ok'),
+  bad: T('pc_alert_bad'),
+  err: T('pc_alert_err'),
+};
+---
+
+<Base title={title} description={description} locale={locale}>
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbLd)} />
+  <script type="application/ld+json" set:html={JSON.stringify(faqLd)} />
+
+  <nav class="crumbs" aria-label={T('pair_crumb_label')}>
+    <a href={href('/passports/')}>{T('nav_passports')}</a><span class="sep">›</span>
+    <a href={href(`/passport/${p.slug}/`)}>{T('pair_crumb_passport', { p: pName })}</a><span class="sep">›</span>
+    <span>{dName}</span>
+  </nav>
+
+  <h1>{T('pair_h1', { p: pName, d: dName })}</h1>
+
+  <div class={`verdict-hero s-${row.s}`}>
+    <div class="hero-seal" aria-hidden="true">
+      <Stamp variant="seal" state={extra.verified ? 'verified' : 'pending'} size={96} ink={statusColor} />
+    </div>
+    <p class="route-line">{T('pair_h1', { p: pName, d: dName })}</p>
+    <div class="big">{verdict}</div>
+    <p class="vh-sub">
+      {T('pair_hero_sub', { p: pName, d: dName })}
+    </p>
+    <span class={`chip ${row.s}`}><span class="g"><i>{glyph}</i></span>{label}</span>
+    <div class="fact-tiles">
+      <div class="fact-tile">
+        <div class="fl">{T('pair_fl_stay')}</div>
+        <div class="fv">{maxStayL(locale, row)}</div>
+      </div>
+      <div class="fact-tile">
+        <div class="fl">{T('pair_fl_apply')}</div>
+        <div class="fv">{applyBeforeL(locale, row.s)}</div>
+      </div>
+      <div class="fact-tile">
+        <div class="fl">{T('pair_fl_basis')}</div>
+        <div class="fv">{basisL(locale, row.s)}</div>
+      </div>
+    </div>
+  </div>
+
+  <ShareRow
+    url={urlFor(pairPath(p, d))}
+    text={T('pair_share_text', { p: pName, d: dName, verdict })}
+    label={T('pair_share_label')}
+    locale={locale}
+  />
+
+  {
+    extra.verified ? (
+      <div class="seal-block verified" data-reveal>
+        <div class="seal-art" aria-hidden="true">
+          <Stamp variant="seal" size={64} />
+        </div>
+        <div>
+          <p class="seal-title">
+            {T('pair_seal_title', { date: fmtDate(extra.verified) })}
+          </p>
+          <p>
+            <a class="source-link" href={extra.source} rel="noopener" target="_blank">
+              <span class="src-name">
+                {extra.source_name}
+                <svg width="13" height="13" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M7 17L17 7M9.5 7H17v7.5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+              </span>
+              {sourceHost && <span class="host">{sourceHost}</span>}
+            </a>
+          </p>
+          {extra.note && <p>{extra.note}</p>}
+          {extra.changed && (
+            <p>
+              {T('pair_seal_changed_a', { date: fmtDate(extra.changed) })}<a href={href('/changelog/')}>{T('pair_seal_changed_link')}</a>{T('pair_seal_changed_b')}
+            </p>
+          )}
+        </div>
+      </div>
+    ) : (
+      <div class="seal-block pending" data-reveal>
+        <div class="seal-art" aria-hidden="true">
+          <Stamp variant="seal" state="pending" size={64} />
+        </div>
+        <div>
+          <p class="seal-title">{T('pair_seal_pending_title')}</p>
+          <p>
+            {T('pair_seal_pending_a', { vintage: data.vintage })}{extra.overridden ? T('pair_seal_pending_corr') : ''}{T('pair_seal_pending_b')}<a href={href('/about/')}>{T('pair_seal_pending_link')}</a>{T('pair_seal_pending_c')}
+          </p>
+          {extra.note && <p>{T('pair_note_prefix')}{extra.note}</p>}
+          {extra.changed && <p>{T('pair_seal_changed2', { date: fmtDate(extra.changed) })}</p>}
+        </div>
+      </div>
+    )
+  }
+
+  {
+    extra.valid_until && (
+      <div class="warn">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="12" cy="12" r="9" stroke="currentColor" stroke-width="2"/><path d="M12 7v5.5l3.8 2.3" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        <span>
+          <strong>{T('pair_warn_strong')}</strong> {T('pair_warn_body', { date: fmtDate(extra.valid_until) })}
+        </span>
+      </div>
+    )
+  }
+
+  <Shelf status={row.s} passportName={pName} destinationName={dName} passportCode={p.code} destinationCode={d.code} pos="top" locale={locale} />
+
+  <h2>{T('pair_h_steps')}</h2>
+  <ol class="steps" data-reveal>
+    {steps.map((s) => <li><span><strong>{s.t}.</strong> {s.b}</span></li>)}
+  </ol>
+
+  <h2>{T('pair_h_checklist')}</h2>
+  <div class="checklist-card">
+    <ul class="checklist">
+      {checklist.map((item) => (
+        <li>
+          <span class="ck-ic" aria-hidden="true"><svg width="12" height="12" viewBox="0 0 24 24" fill="none"><path d="M4.5 12.5l5 5L19.5 7" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+          <span>{item}</span>
+        </li>
+      ))}
+      {insFact && (
+        <li class="ck-fact">
+          <span class="ck-ic" aria-hidden="true"><svg width="12" height="12" viewBox="0 0 24 24" fill="none"><circle cx="12" cy="12" r="9" stroke="currentColor" stroke-width="2.4"/><path d="M12 11v5" stroke="currentColor" stroke-width="2.6" stroke-linecap="round"/><circle cx="12" cy="8" r="1.6" fill="currentColor"/></svg></span>
+          <span>{insFact.note} <span class="ck-src">(<a href={insFact.sourceUrl} rel="noopener" target="_blank">{insFact.sourceName}</a>)</span></span>
+        </li>
+      )}
+    </ul>
+  </div>
+
+  <Shelf status={row.s} passportName={pName} destinationName={dName} passportCode={p.code} destinationCode={d.code} pos="bottom" locale={locale} />
+
+  <h2>{T('pair_h_spec')}</h2>
+  <div class="spec-card">
+    <dl style="margin:0;">
+      <div class="spec-row">
+        <dt>{T('pair_spec_req')}</dt>
+        <dd><span class={`chip ${row.s}`}><span class="g"><i>{glyph}</i></span>{label}</span></dd>
+      </div>
+      <div class="spec-row">
+        <dt>{T('pair_spec_stay')}</dt>
+        <dd>{maxStayL(locale, row)}</dd>
+      </div>
+      <div class="spec-row">
+        <dt>{T('pair_spec_apply')}</dt>
+        <dd>{applyBeforeL(locale, row.s)}</dd>
+      </div>
+      {
+        extra.verified && (
+          <div class="spec-row">
+            <dt>{T('pair_spec_evidence')}</dt>
+            <dd>
+              {T('pair_spec_evidence_val', { date: fmtDate(extra.verified) })}
+              <a href={extra.source} rel="noopener" target="_blank">{extra.source_name}</a>
+            </dd>
+          </div>
+        )
+      }
+    </dl>
+  </div>
+
+  <div class="narrow">
+    <h2>{T('pair_h_meaning')}</h2>
+    <p>{meaning}</p>
+    <p>
+      {T('pair_meaning_generic')}
+    </p>
+    {
+      row.s === 'F' && (
+        <p>
+          <strong>{T('pair_formfree_strong')}</strong> {T('pair_formfree_body')}
+        </p>
+      )
+    }
+  </div>
+
+  <h2>{T('pair_h_faq')}</h2>
+  {faq.map((f, i) => (
+    <div class={`faq-item${i === 0 ? ' open' : ''}`}>
+      <h3 style="margin:0;">
+        <button class="faq-q" aria-expanded={i === 0 ? 'true' : 'false'}>
+          <span>{f.q}</span>
+          <svg class="chev" width="17" height="17" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M5 9l7 7 7-7" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </button>
+      </h3>
+      <div class="faq-panel">
+        <div class="faq-a"><p>{f.a}</p></div>
+      </div>
+    </div>
+  ))}
+
+  {
+    sameStatus.length > 0 && (
+      <>
+        <h2>{T('pair_h_more', { p: pName })}</h2>
+        <div class="route-grid">
+          {sameStatus.map((r) => (
+            <a class="route-card" href={href(pairPath(p, countryByCode[r.d]))}>
+              <span class="rc-top"><span class={`sdot ${r.s}`}></span><span class="rc-name">{countryName(locale, countryByCode[r.d])}</span></span>
+              <span class="rc-meta">{relVerdict(r)}</span>
+              <svg class="rc-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4 12h15M13 5.5L19.5 12 13 18.5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            </a>
+          ))}
+        </div>
+      </>
+    )
+  }
+  {
+    freePassports.length > 0 && (
+      <>
+        <h2>{T('pair_h_whoelse', { d: dName })}</h2>
+        <div class="route-grid">
+          {freePassports.map((x) => (
+            <a class="route-card" href={href(pairPath(x.c, d))}>
+              <span class="rc-top"><span class="sdot F"></span><span class="rc-name">{countryName(locale, x.c)}</span></span>
+              <span class="rc-meta">{relVerdict(x.r)}</span>
+              <svg class="rc-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4 12h15M13 5.5L19.5 12 13 18.5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            </a>
+          ))}
+        </div>
+      </>
+    )
+  }
+
+  <div class="closing-band">
+    <h2>{T('pair_cb_h')}</h2>
+    <p style="max-width:560px;margin:0 auto;">
+      {T('pair_cb_p')}
+    </p>
+    <form id="route-alert-form" style="margin:20px auto 0;max-width:520px;">
+      <label for="route-alert-email" style="display:block;font-weight:600;color:#fff;margin-bottom:8px;">{T('pair_sub_label')}</label>
+      <div style="display:flex;gap:8px;justify-content:center;flex-wrap:wrap;">
+        <input id="route-alert-email" type="email" required placeholder="you@example.com" autocomplete="email"
+          style="flex:1 1 240px;max-width:340px;padding:11px 14px;border-radius:10px;border:1px solid rgba(255,255,255,.35);background:rgba(255,255,255,.1);color:#fff;font-size:15px;" />
+        <button type="submit" class="btn on-dark" style="cursor:pointer;">{T('pair_sub_btn')}</button>
+      </div>
+      <p id="route-alert-status" hidden style="margin:10px auto 0;color:#bfe3cd;font-size:14px;"></p>
+    </form>
+    <script is:inline define:vars={{ subStr }}>
+      (function () {
+        var form = document.getElementById('route-alert-form');
+        if (!form) return;
+        form.addEventListener('submit', function (e) {
+          e.preventDefault();
+          var btn = form.querySelector('button');
+          if (btn.disabled) return;
+          var email = document.getElementById('route-alert-email').value.trim();
+          var status = document.getElementById('route-alert-status');
+          var origLabel = btn.textContent;
+          // QA-001: pending state immediately + keepalive, so a slow
+          // (cold-start) response survives the reader tapping away.
+          btn.disabled = true;
+          btn.textContent = subStr.sending;
+          status.hidden = false;
+          status.textContent = subStr.sending;
+          fetch('https://honru09--site-stats-web.us-east.modal.run/subscribe', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            keepalive: true,
+            body: JSON.stringify({ site: 'visafreely', email: email, route: location.pathname })
+          }).then(function (r) {
+            if (r.ok) {
+              status.textContent = subStr.ok;
+              btn.textContent = origLabel;
+            } else {
+              status.textContent = subStr.bad;
+              btn.disabled = false;
+              btn.textContent = origLabel;
+            }
+          }).catch(function () {
+            status.textContent = subStr.err;
+            btn.disabled = false;
+            btn.textContent = origLabel;
+          });
+        });
+      })();
+    </script>
+    <div class="cb-actions">
+      <a class="btn on-dark" href={href('/visa-policy-changes/')}>{T('pair_cb_btn1')}</a>
+      <a class="btn ghost-on-dark" href={href('/widget/')}>{T('pair_cb_btn2')}</a>
+    </div>
+  </div>
+
+  {(row.s === 'R' || row.s === 'E' || row.s === 'T') && (
+    <div class="sticky-bar" role="complementary" aria-label="Visa service">
+      <span class="sb-text">{row.s === 'R' ? T('pair_bar_r', { d: dName }) : row.s === 'E' ? T('pair_bar_e', { d: dName }) : T('pair_bar_t', { d: dName })}</span>
+      <a class="sb-btn" data-offer="evisas-bar" href={evisasBarHref} rel="sponsored nofollow noopener" target="_blank">{T('pair_bar_btn')}</a>
+    </div>
+  )}
+</Base>

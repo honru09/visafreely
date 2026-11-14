@@ -1,0 +1,31 @@
+---
+import PairView from '../../../../views/PairView.astro';
+import { countries, countryByCode, data } from '../../../../lib/data';
+import pairRoutes from '../../../../i18n/pair-routes.json';
+import pairLaunched from '../../../../i18n/pair-launched.json';
+
+// Wave A: localized pair pages exist only for the shared selected route
+// set, and only once this locale has been activated in pair-launched.json
+// (one locale per batch; the availability manifest reads the same file,
+// so hreflang clusters and the switcher never point at unbuilt pages).
+export function getStaticPaths() {
+  if (!(pairLaunched as string[]).includes('zh-hant')) return [];
+  const set = new Set(pairRoutes as string[]);
+  const paths = [];
+  for (const p of countries) {
+    for (const row of data.byPassport[p.code] || []) {
+      if (!set.has(p.code + ':' + row.d)) continue;
+      const d = countryByCode[row.d];
+      paths.push({
+        params: { passport: p.slug, destination: d.slug },
+        props: { p, d, row },
+      });
+    }
+  }
+  return paths;
+}
+
+const { p, d, row } = Astro.props;
+---
+
+<PairView locale='zh-hant' p={p} d={d} row={row} />

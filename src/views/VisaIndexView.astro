@@ -35,7 +35,7 @@ const popularRoutes = [
   <h2>{T('visa_popular_h2')}</h2>
   <div class="index-rows">
     {popularRoutes.map((r) => (
-      <a class="index-row" href={pairPath(r.p, r.d)}>
+      <a class="index-row" href={href(pairPath(r.p, r.d))}>
         <span class="ir-name">{nm(r.p)} → {nm(r.d)}</span>
         <span class="ir-stat">{T('visa_row_stat')}</span>
       </a>
