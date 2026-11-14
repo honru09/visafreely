@@ -728,5 +728,22 @@
   "l10_rank_q2": "How is this passport ranking calculated?",
   "l10_rank_a2": "Passports are ranked by how many of the {dests} destinations their holders can enter without a prior application. Ties share the same rank, and every requirement in the table is checked against official government sources.",
   "l10_rank_q3": "How often is this ranking updated?",
-  "l10_rank_a3": "The underlying data is re-checked against official sources as rules change, and every change is logged on the policy-change tracker — {changes} changes are recorded there so far."
+  "l10_rank_a3": "The underlying data is re-checked against official sources as rules change, and every change is logged on the policy-change tracker — {changes} changes are recorded there so far.",
+  "wg_preset_p": "Passport",
+  "wg_preset_d": "Destination",
+  "wg_preset_hint": "Pick a preset route — the preview and the snippet below update to match.",
+  "wg_attr_h2": "The one condition: a small credit line",
+  "wg_attr_p": "The widget carries one small line at its foot — “Powered by VisaFreely” — linking back to this site. It is part of the widget; please don't remove or hide it. Everything else is your call: where it sits, how wide it is, and how long you keep it.",
+  "wg_shots_h2": "What it looks like in an article",
+  "wg_shots_cap": "The checker inside a sample travel article — desktop first, then phone. Its page background is transparent and the card is white, so it sits cleanly on light or dark pages.",
+  "wg_data_h2": "The data behind it",
+  "wg_data_p_a": "The widget runs on the same index as this site: 39,000+ passport–destination pairs, every entry checked against an official government source and reviewed at least weekly. Rule changes are published on our ",
+  "wg_data_tracker": "policy-change tracker",
+  "wg_data_p_b": " as they happen. If you or a reader spot an error, email us and we will fix it and show our source.",
+  "wg_fit_h2": "Sizing and languages",
+  "wg_fit_p": "The frame is fluid: it fills its column up to 560px wide and 430px tall, and stays usable down to about 300px. Language follows the page you take the snippet from: use the language switcher at the top of this page and both the demo and the snippet switch with it — six languages in all.",
+  "wg_contact_h2": "Talk to us",
+  "wg_contact_a": "Sizing help, embed problems, or a data correction: write to ",
+  "wg_contact_b": ". A person reads it.",
+  "wg_remove_p": "Changed your mind? Just delete the snippet. No notice needed, and nothing breaks on your page."
 }

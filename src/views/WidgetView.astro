@@ -4,7 +4,8 @@
 // a localized blog embeds a checker that speaks its language.
 import Base from '../layouts/Base.astro';
 import ExploreStrip from '../components/ExploreStrip.astro';
-import { t as i18nT, hrefFor, localeByCode, type LocaleCode } from '../i18n/locales';
+import { t as i18nT, hrefFor, localeByCode, countryName, type LocaleCode } from '../i18n/locales';
+import { countries } from '../lib/data';
 import availabilityRaw from '../i18n/availability.json';
 
 interface Props {
@@ -17,9 +18,20 @@ const href = (p: string) => hrefFor(locale, p, availability);
 const selfDef = localeByCode[locale];
 const prefix = selfDef.prefix ? `/${selfDef.prefix}` : '';
 
-const snippet =
-  `<iframe src="https://visafreely.com${prefix}/embed/" title="${T('wg_snippet_title')}" width="100%" height="430" style="border:0;width:100%;max-width:560px" loading="lazy"></iframe>`;
+// One-step embed (EMBED-KIT 2026-11-14): preset selects drive both the
+// live demo iframe and the snippet, so what the reader tests is exactly
+// what they copy. Defaults match the long-standing demo route JP -> TH.
+const presetCountries = [...countries].sort((a, b) =>
+  countryName(locale, a).localeCompare(countryName(locale, b), locale));
+const snippetFor = (p: string, d: string) =>
+  `<iframe src="https://visafreely.com${prefix}/embed/?p=${p}&d=${d}" title="${T('wg_snippet_title')}" width="100%" height="430" style="border:0;width:100%;max-width:560px" loading="lazy"></iframe>`;
+const snippet = snippetFor('JP', 'TH');
 const copyStr = { copy: T('wg_copy'), copied: T('wg_copied') };
+const presetCfg = {
+  base: `https://visafreely.com${prefix}/embed/`,
+  demoBase: `${prefix}/embed/`,
+  title: T('wg_snippet_title'),
+};
 // SEO L10 breadcrumb (2026-11-14).
 const absUrl = (p: string) => new URL(href(p), Astro.site).href;
 const breadcrumbLd = {
@@ -40,8 +52,24 @@ const breadcrumbLd = {
 
   <h2>{T('wg_try_h2')}</h2>
   <p>{T('wg_try_p')}</p>
+  <div class="preset-row">
+    <label>
+      <span>{T('wg_preset_p')}</span>
+      <select id="wg-preset-p">
+        {presetCountries.map((c) => <option value={c.code} selected={c.code === 'JP'}>{countryName(locale, c)}</option>)}
+      </select>
+    </label>
+    <label>
+      <span>{T('wg_preset_d')}</span>
+      <select id="wg-preset-d">
+        {presetCountries.map((c) => <option value={c.code} selected={c.code === 'TH'}>{countryName(locale, c)}</option>)}
+      </select>
+    </label>
+  </div>
+  <p class="small muted">{T('wg_preset_hint')}</p>
   <iframe
     class="widget-demo"
+    id="widget-demo"
     src={`${prefix}/embed/?p=JP&d=TH`}
     title={T('wg_iframe_title')}
     loading="lazy"></iframe>
@@ -57,6 +85,23 @@ const breadcrumbLd = {
   <p class="small muted">
     {T('wg_note')}
   </p>
+
+  <h2>{T('wg_shots_h2')}</h2>
+  <img
+    class="wg-shot"
+    src="/images/widget-article-desktop.png"
+    width="1280"
+    height="1000"
+    loading="lazy"
+    alt={T('wg_shots_h2')} />
+  <img
+    class="wg-shot wg-shot-mobile"
+    src="/images/widget-article-mobile.png"
+    width="390"
+    height="844"
+    loading="lazy"
+    alt={T('wg_shots_h2')} />
+  <p class="small muted">{T('wg_shots_cap')}</p>
 
   <h2>{T('wg_good_h2')}</h2>
   <div class="card">
@@ -78,6 +123,23 @@ const breadcrumbLd = {
   <p>
     {T('wg_q_a')} <a href={href('/about/')}>{T('wg_q_link')}</a>{T('wg_q_b')}
   </p>
+
+  <h2>{T('wg_attr_h2')}</h2>
+  <p>{T('wg_attr_p')}</p>
+
+  <h2>{T('wg_data_h2')}</h2>
+  <p>
+    {T('wg_data_p_a')}<a href={href('/policy-changes/')}>{T('wg_data_tracker')}</a>{T('wg_data_p_b')}
+  </p>
+
+  <h2>{T('wg_fit_h2')}</h2>
+  <p>{T('wg_fit_p')}</p>
+
+  <h2>{T('wg_contact_h2')}</h2>
+  <p>
+    {T('wg_contact_a')}<a href="mailto:partners@visafreely.com">partners@visafreely.com</a>{T('wg_contact_b')}
+  </p>
+  <p>{T('wg_remove_p')}</p>
 
   <style>
     .widget-demo {
@@ -120,11 +182,60 @@ const breadcrumbLd = {
       white-space: nowrap;
     }
     .copy-btn:hover { background: var(--brand-deep); }
+    .preset-row {
+      display: flex;
+      gap: 12px;
+      flex-wrap: wrap;
+      margin: 10px 0 4px;
+    }
+    .preset-row label {
+      display: flex;
+      flex-direction: column;
+      gap: 5px;
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--muted, #5b6472);
+    }
+    .preset-row select {
+      font: inherit;
+      font-size: 15px;
+      font-weight: 400;
+      color: var(--ink);
+      background: var(--soft);
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      padding: 8px 10px;
+      min-width: 180px;
+    }
+    .wg-shot {
+      width: 100%;
+      height: auto;
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      display: block;
+      margin: 12px 0;
+    }
+    .wg-shot-mobile { max-width: 320px; }
   </style>
-  <script is:inline define:vars={{ copyStr }}>
+  <script is:inline define:vars={{ copyStr, presetCfg }}>
     (function () {
       var btn = document.getElementById('widget-copy');
       var box = document.getElementById('widget-snippet');
+      var demo = document.getElementById('widget-demo');
+      var selP = document.getElementById('wg-preset-p');
+      var selD = document.getElementById('wg-preset-d');
+      function applyPreset() {
+        if (!selP || !selD) return;
+        var q = '?p=' + encodeURIComponent(selP.value) + '&d=' + encodeURIComponent(selD.value);
+        if (demo) demo.src = presetCfg.demoBase + q;
+        if (box) {
+          box.value =
+            '<iframe src="' + presetCfg.base + q + '" title="' + presetCfg.title +
+            '" width="100%" height="430" style="border:0;width:100%;max-width:560px" loading="lazy"></iframe>';
+        }
+      }
+      if (selP) selP.addEventListener('change', applyPreset);
+      if (selD) selD.addEventListener('change', applyPreset);
       if (!btn || !box) return;
       btn.addEventListener('click', function () {
         function done() {
