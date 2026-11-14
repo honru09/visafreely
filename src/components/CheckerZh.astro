@@ -160,6 +160,19 @@ const PAYLOAD = {
       var locs = AVAIL[en];
       return locs && locs.indexOf(PAYLOAD.locale) >= 0 ? '/' + PAYLOAD.locale + en : en;
     }
+    function normQ(s) {
+      return (s || '').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+        .replace(/[^a-z0-9\u4e00-\u9fff\u3040-\u30ff\uac00-\ud7a3\u0e00-\u0e7f]/g, '');
+    }
+    function akaHit(a, qn, prefix) {
+      if (!a || !qn) return false;
+      var ts = a.split('|');
+      for (var k = 0; k < ts.length; k++) {
+        var ix = ts[k].indexOf(qn);
+        if (prefix ? ix === 0 : ix >= 0) return true;
+      }
+      return false;
+    }
     function attachCombo(input, list, flagEl) {
       var wrap = input.parentElement;
       var active = -1;
@@ -172,13 +185,14 @@ const PAYLOAD = {
       }
       function render() {
         var q = input.value.trim().toLowerCase();
+        var qn = normQ(q);
         var all = idx.countries;
         var starts = [], contains = [];
         for (var i = 0; i < all.length; i++) {
           var nz = disp(all[i]).toLowerCase();
           var ne = all[i].name.toLowerCase();
-          if (nz.indexOf(q) === 0 || ne.indexOf(q) === 0) starts.push(all[i]);
-          else if (q && (nz.indexOf(q) >= 0 || ne.indexOf(q) >= 0)) contains.push(all[i]);
+          if (nz.indexOf(q) === 0 || ne.indexOf(q) === 0 || akaHit(all[i].a, qn, true)) starts.push(all[i]);
+          else if (q && (nz.indexOf(q) >= 0 || ne.indexOf(q) >= 0 || akaHit(all[i].a, qn, false))) contains.push(all[i]);
         }
         current = q ? starts.concat(contains) : all;
         if (!current.length) {

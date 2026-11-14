@@ -18,6 +18,7 @@ const root = join(dirname(fileURLToPath(import.meta.url)), '..');
 const read = (p) => JSON.parse(readFileSync(join(root, p), 'utf8'));
 
 const seed = read('data/seed-source.json');
+const countryAliases = read('src/data/country-aliases.json');
 const overrides = read('data/overrides.json');
 const verified = read('data/verified.json');
 const changelogExtra = read('data/changelog-extra.json');
@@ -146,7 +147,7 @@ for (const [p, row] of Object.entries(byPassport)) {
 writeFileSync(
   join(root, 'public/check.json'),
   JSON.stringify({
-    countries: countries.map((c) => ({ code: c.code, name: c.name, slug: c.slug })),
+    countries: countries.map((c) => ({ code: c.code, name: c.name, slug: c.slug, a: countryAliases[c.code] || '' })),
     status: Object.fromEntries(Object.entries(STATUS).map(([, v]) => [v.code, v.label])),
     rows: checkRows,
   })

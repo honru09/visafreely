@@ -32,6 +32,7 @@ import {
   type LocaleCode,
 } from '../i18n/locales';
 import availabilityRaw from '../i18n/availability.json';
+import aliasesRaw from '../data/country-aliases.json';
 
 interface Props {
   locale: LocaleCode;
@@ -74,6 +75,7 @@ const offMap = countries.filter((c) => !(world.paths as Record<string, string>)[
 const payload = {
   codes: countries.map((c) => c.code),
   names: Object.fromEntries(countries.map((c) => [c.code, nm(c)])),
+  aka: aliasesRaw,
   slugs: Object.fromEntries(countries.map((c) => [c.code, c.slug])),
   ranks: passportRank,
   rows,
@@ -225,7 +227,20 @@ const pairCountFmt = data.pairCount.toLocaleString('en-US');
         byName[M.names[c].toLowerCase()] = c;
         bySlug[M.slugs[c]] = c;
       });
-      var ALL = M.codes.map(function (c) { return { code: c, name: M.names[c], slug: M.slugs[c] }; });
+      var ALL = M.codes.map(function (c) { return { code: c, name: M.names[c], slug: M.slugs[c], a: M.aka[c] || '' }; });
+      function normQ(s) {
+        return (s || '').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+          .replace(/[^a-z0-9\u4e00-\u9fff\u3040-\u30ff\uac00-\ud7a3\u0e00-\u0e7f]/g, '');
+      }
+      function akaHit(a, qn, prefix) {
+        if (!a || !qn) return false;
+        var ts = a.split('|');
+        for (var k = 0; k < ts.length; k++) {
+          var ix = ts[k].indexOf(qn);
+          if (prefix ? ix === 0 : ix >= 0) return true;
+        }
+        return false;
+      }
 
       var input = document.getElementById('map-passport');
       var list = document.getElementById('map-list');
@@ -356,13 +371,14 @@ const pairCountFmt = data.pairCount.toLocaleString('en-US');
       }
       function render() {
         var q = input.value.trim().toLowerCase();
+        var qn = normQ(q);
         // An untouched selected name is a label, not a query: show the full list.
         if (q === M.names[current].toLowerCase()) q = '';
         var starts = [], contains = [];
         for (var i = 0; i < ALL.length; i++) {
           var n = ALL[i].name.toLowerCase();
-          if (n.indexOf(q) === 0) starts.push(ALL[i]);
-          else if (q && n.indexOf(q) >= 0) contains.push(ALL[i]);
+          if (n.indexOf(q) === 0 || akaHit(ALL[i].a, qn, true)) starts.push(ALL[i]);
+          else if (q && (n.indexOf(q) >= 0 || akaHit(ALL[i].a, qn, false))) contains.push(ALL[i]);
         }
         currentList = q ? starts.concat(contains) : ALL;
         if (!currentList.length) {
