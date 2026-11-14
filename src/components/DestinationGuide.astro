@@ -1,0 +1,103 @@
+---
+// DestinationGuide — the L4 depth block (SEO pilot, Morocco + Cape
+// Verde, English only). Renders the full "guide" form for one
+// destination: every entry route with who / stay / fee / processing /
+// documents, plus extension and overstay, from the curated, sourced
+// data file src/data/destination-guides.json. Facts carry their
+// official sources and the date they were checked; figures the
+// official sources do not publish are stated as unpublished rather
+// than filled in.
+interface GuideRoute {
+  id: string;
+  name: string;
+  who: string;
+  stay: string;
+  fee: string;
+  processing: string;
+  documents: string[];
+  notes: string;
+}
+interface Guide {
+  checked: string;
+  routes: GuideRoute[];
+  extension: string;
+  overstay: string;
+  portal: { name: string; url: string };
+  sources: { name: string; url: string }[];
+}
+interface Props {
+  name: string;
+  guide: Guide;
+}
+const { name, guide } = Astro.props;
+const checkedFmt = new Date(guide.checked + 'T00:00:00Z').toLocaleDateString('en-GB', {
+  day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC',
+});
+---
+
+<section class="dest-guide" id="guide" aria-label={`${name} visa guide`}>
+  <h2>{name} visas, in full: routes, fees, documents</h2>
+  <p class="dg-lede">
+    Every way in, with the figures that decide a trip — what it costs, how long it takes,
+    what to upload. Checked {checkedFmt} against the official sources listed at the end.
+    The table further down still gives the answer passport by passport.
+  </p>
+  {guide.routes.map((r) => (
+    <article class="dg-route">
+      <h3>{r.name}</h3>
+      <dl class="dg-facts">
+        <div><dt>Who</dt><dd>{r.who}</dd></div>
+        <div><dt>Stay</dt><dd>{r.stay}</dd></div>
+        <div><dt>Fee</dt><dd>{r.fee}</dd></div>
+        <div><dt>Processing</dt><dd>{r.processing}</dd></div>
+        <div>
+          <dt>Documents</dt>
+          <dd>
+            <ul class="dg-docs">
+              {r.documents.map((d) => <li>{d}</li>)}
+            </ul>
+          </dd>
+        </div>
+      </dl>
+      {r.notes && <p class="dg-notes">{r.notes}</p>}
+    </article>
+  ))}
+  <div class="dg-extra">
+    <h3>Staying longer</h3>
+    <p>{guide.extension}</p>
+    <h3>Overstaying</h3>
+    <p>{guide.overstay}</p>
+  </div>
+  <p class="dg-portal">
+    Official portal: <a href={guide.portal.url} rel="noopener" target="_blank">{guide.portal.name}</a>
+  </p>
+  <p class="dg-sources">
+    Sources: {guide.sources.map((s, i) => (
+      <>{i > 0 && ' · '}<a href={s.url} rel="noopener" target="_blank">{s.name}</a></>
+    ))}
+  </p>
+</section>
+
+<style>
+  .dest-guide { margin: 36px 0 8px; }
+  .dest-guide > h2 { margin-bottom: 8px; }
+  .dg-lede { color: var(--muted); max-width: 68ch; margin: 0 0 20px; }
+  .dg-route {
+    border: 1.5px solid var(--line); border-radius: var(--radius);
+    background: var(--surface); padding: 18px 20px; margin: 0 0 14px;
+  }
+  .dg-route h3 { margin: 0 0 10px; font-size: 17.5px; }
+  .dg-facts { display: grid; gap: 8px; margin: 0; }
+  .dg-facts > div { display: grid; grid-template-columns: 104px 1fr; gap: 10px; }
+  .dg-facts dt { font-weight: 700; color: var(--brand-ink); font-size: 13.5px; text-transform: uppercase; letter-spacing: .04em; padding-top: 2px; }
+  .dg-facts dd { margin: 0; font-size: 15px; }
+  .dg-docs { margin: 0; padding-left: 18px; display: grid; gap: 3px; }
+  .dg-notes { margin: 12px 0 0; font-size: 14.5px; color: var(--muted); }
+  .dg-extra h3 { margin: 20px 0 6px; font-size: 16.5px; }
+  .dg-extra p { margin: 0; max-width: 68ch; }
+  .dg-portal { margin: 18px 0 4px; font-weight: 600; }
+  .dg-sources { font-size: 13.5px; color: var(--muted); margin: 0; }
+  @media (max-width: 560px) {
+    .dg-facts > div { grid-template-columns: 1fr; gap: 2px; }
+  }
+</style>

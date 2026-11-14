@@ -9,6 +9,7 @@
 // for the wave-A route set), English keeps the data-layer original.
 import Base from '../layouts/Base.astro';
 import Shelf from '../components/Shelf.astro';
+import guidesRaw from '../data/destination-guides.json';
 import evisasCampaigns from '../data/evisas-campaigns.json';
 import Stamp from '../components/Stamp.astro';
 import ShareRow from '../components/ShareRow.astro';
@@ -59,6 +60,9 @@ const fmtDate = (iso: string) => (locale === 'en' ? formatDateLong(iso) : format
 const barSid = (evisasCampaigns as Record<string, string>)[`${p.code}:${d.code}`];
 const evisasBarHref = barSid ? `https://evisas.com/?ref=visafreely&sid=${barSid}` : 'https://evisas.com/?ref=visafreely';
 const extra = pairExtra(p.code, d.code);
+// SEO L4 depth pilot (English only): the guide route matching this pair's status.
+const guideBook = locale === 'en' ? (guidesRaw as Record<string, any>)[d.code] : undefined;
+const guideRoute = guideBook ? guideBook.routes.find((r: any) => r.statuses.includes(row.s)) : undefined;
 const noteL = pairNoteL(locale, p.code, d.code, extra.note);
 const verdict = locale === 'en' ? verdictText(row) : verdictTextL(locale, row);
 const label = locale === 'en' ? statusLabel(row.s) : statusLabelL(locale, row.s);
@@ -288,6 +292,28 @@ const subStr = {
       )
     }
   </div>
+
+  {guideRoute && (
+    <div class="spec-card guide-box">
+      <h2 style="margin-top:0;">Fees, timing and documents for this route</h2>
+      <dl style="margin:0;">
+        <div class="spec-row"><dt>Fee</dt><dd>{guideRoute.fee}</dd></div>
+        <div class="spec-row"><dt>Processing</dt><dd>{guideRoute.processing}</dd></div>
+        <div class="spec-row"><dt>Stay</dt><dd>{guideRoute.stay}</dd></div>
+        <div class="spec-row">
+          <dt>Documents</dt>
+          <dd>
+            <ul style="margin:0;padding-left:18px;display:grid;gap:3px;">
+              {guideRoute.documents.map((doc: string) => <li>{doc}</li>)}
+            </ul>
+          </dd>
+        </div>
+      </dl>
+      <p style="margin:12px 0 0;">
+        <a href={href(`/destination/${d.slug}/#guide`)}>The full {dName} guide — every route, checked against official sources</a>
+      </p>
+    </div>
+  )}
 
   <h2>{T('pair_h_faq')}</h2>
   {faq.map((f, i) => (

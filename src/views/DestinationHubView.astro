@@ -2,6 +2,8 @@
 import Base from '../layouts/Base.astro';
 import ExploreStrip from '../components/ExploreStrip.astro';
 import HubStrip from '../components/HubStrip.astro';
+import DestinationGuide from '../components/DestinationGuide.astro';
+import guidesRaw from '../data/destination-guides.json';
 import {
   countries,
   countryByCode,
@@ -39,6 +41,8 @@ const freeCount = countOf('F');
 const title = T('hubd_title', { name: nm(c) });
 const description = T('hubd_desc', { name: nm(c), free: freeCount });
 const others = countries.filter((x) => x.code !== c.code);
+// SEO L4 depth pilot (English only): full guide for piloted destinations.
+const guide = locale === 'en' ? (guidesRaw as Record<string, any>)[c.code] : undefined;
 const total = groups.reduce((n, g) => n + g.passports.length, 0);
 // B3 hub strip: passports that need paperwork (E/T/R) to enter this
 // destination. Static rule: verified pairs first, then passport strength
@@ -112,6 +116,8 @@ const stripRoutes = countries
     <div class="stat-tile"><b>{countOf('T')}</b><span>{T('tile_t')}</span></div>
     <div class="stat-tile"><b>{countOf('R')}</b><span>{T('tile_r')}</span></div>
   </div>
+
+  {guide && <DestinationGuide name={nm(c)} guide={guide} />}
 
   <div data-filter-root>
     <div class="filter-chips" role="group" aria-label={T('hub_filter_pass')}>
