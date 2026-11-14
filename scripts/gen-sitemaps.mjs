@@ -4,34 +4,90 @@
  * Emits into dist/:
  *  - sitemap-index.xml   (references the files below; same name GSC already has)
  *  - sitemap-core.xml    (home, hubs and site pages — the link-graph roots)
- *  - sitemap-pairs-N.xml (pair pages in 10k chunks, <lastmod> = the pair's
- *                         verified date where one exists)
- * The plugin's sitemap-0.xml is removed so only the segmented set is served.
+ *  - sitemap-pairs-N.xml (pair pages in 10k chunks)
  *
- * Data sources mirror the page routes: src/data/site-data.json (slugs),
- * data/verified.json (per-pair verification dates).
+ * lastmod discipline (SEO L1, 2026-11-14): a <lastmod> is written ONLY
+ * when it comes from the data layer — never the build date.
+ *  - pair page:        the pair's own verified date (data/verified.json)
+ *  - passport hub:     newest verified date among that passport's pairs
+ *  - destination hub:  newest verified date among pairs into it
+ *  - /passport-ranking/: newest verified date overall (pure data function)
+ *  - /visa-policy-changes/: newest policy-tracker entry date
+ *  - /changelog/:      newest changelog entry date
+ *  - everything else:  no lastmod (no honest date exists)
+ * Index entries carry the max lastmod of their shard's dated entries,
+ * or no lastmod when the shard has none.
  */
 import { readFileSync, writeFileSync, rmSync, existsSync } from 'node:fs';
 
 const SITE = 'https://visafreely.com';
 const sd = JSON.parse(readFileSync('src/data/site-data.json', 'utf8'));
 const ver = JSON.parse(readFileSync('data/verified.json', 'utf8'));
+const policy = JSON.parse(readFileSync('src/data/policy-changes.json', 'utf8'));
+const changelog = JSON.parse(readFileSync('src/data/changelog.json', 'utf8'));
 const countries = sd.countries; // [{code, name, slug}]
 const slugOf = Object.fromEntries(countries.map((c) => [c.code, c.slug]));
 
 const esc = (s) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+const maxDate = (a, b) => (a && b ? (a > b ? a : b) : a || b || null);
 const urlEntry = (loc, lastmod) =>
   `  <url><loc>${esc(loc)}</loc>${lastmod ? `<lastmod>${lastmod}</lastmod>` : ''}</url>`;
 const urlset = (entries) =>
   `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${entries.join('\n')}\n</urlset>\n`;
 
+// ---- real dates from the data layer ----
+let globalMax = null;
+const maxByPassport = {};
+const maxByDestination = {};
+for (const [key, v] of Object.entries(ver)) {
+  if (!v || !v.date) continue;
+  const [pc, dc] = key.split(':');
+  globalMax = maxDate(globalMax, v.date);
+  maxByPassport[pc] = maxDate(maxByPassport[pc], v.date);
+  maxByDestination[dc] = maxDate(maxByDestination[dc], v.date);
+}
+const policyLatest = (Array.isArray(policy) ? policy : policy.entries)
+  .reduce((m, e) => maxDate(m, e.date), null);
+const changelogLatest = (Array.isArray(changelog) ? changelog : changelog.entries)
+  .reduce((m, e) => maxDate(m, e.date), null);
+
+function coreDateFor(path) {
+  if (path === '/passport-ranking/') return globalMax;
+  if (path === '/visa-policy-changes/') return policyLatest;
+  if (path === '/changelog/') return changelogLatest;
+  let m = path.match(/^\/passport\/([^/]+)\/$/);
+  if (m) {
+    const c = countries.find((x) => x.slug === m[1]);
+    return c ? maxByPassport[c.code] || null : null;
+  }
+  m = path.match(/^\/destination\/([^/]+)\/$/);
+  if (m) {
+    const c = countries.find((x) => x.slug === m[1]);
+    return c ? maxByDestination[c.code] || null : null;
+  }
+  return null;
+}
+
+// shard name -> max lastmod inside it (for the index)
+const shardMax = {};
+const noteShard = (name, date) => { shardMax[name] = maxDate(shardMax[name], date); };
+
 // Core: site pages + passport/destination hubs.
 const corePaths = ['/', '/visa/', '/passports/', '/destinations/', '/passport-ranking/', '/map/', '/compare/',
   '/visa-policy-changes/', '/about/', '/changelog/', '/widget/', '/for-business/'];
-const core = corePaths.map((p) => urlEntry(SITE + p));
+const core = [];
+for (const p of corePaths) {
+  const dte = coreDateFor(p);
+  core.push(urlEntry(SITE + p, dte));
+  noteShard('sitemap-core.xml', dte);
+}
 for (const c of countries) {
-  core.push(urlEntry(`${SITE}/passport/${c.slug}/`));
-  core.push(urlEntry(`${SITE}/destination/${c.slug}/`));
+  const pd = maxByPassport[c.code] || null;
+  core.push(urlEntry(`${SITE}/passport/${c.slug}/`, pd));
+  noteShard('sitemap-core.xml', pd);
+  const dd = maxByDestination[c.code] || null;
+  core.push(urlEntry(`${SITE}/destination/${c.slug}/`, dd));
+  noteShard('sitemap-core.xml', dd);
 }
 writeFileSync('dist/sitemap-core.xml', urlset(core));
 
@@ -51,7 +107,9 @@ for (const p of countries) {
   for (const d of countries) {
     if (p.code === d.code) continue;
     const v = ver[`${p.code}:${d.code}`];
-    buf.push(urlEntry(`${SITE}/visa/${p.slug}/${d.slug}/`, v ? v.date : null));
+    const dte = v ? v.date : null;
+    buf.push(urlEntry(`${SITE}/visa/${p.slug}/${d.slug}/`, dte));
+    noteShard(`sitemap-pairs-${pairFiles.length}.xml`, dte);
     n += 1;
     if (buf.length >= CHUNK) flush();
   }
@@ -61,9 +119,7 @@ flush();
 // Localized sitemaps (i18n batch 0; pair shards added in batch 2 wave A):
 // one core file per launched non-default locale holding the non-pair paths
 // the availability manifest lists for it, plus pair shards
-// (sitemap-pairs-<loc>-N.xml, 10k chunks, lastmod = verified date, same
-// rule as the English pair shards). URLs strictly mirror built pages — a
-// locale with no pages gets no sitemap.
+// (sitemap-pairs-<loc>-N.xml, 10k chunks). Same lastmod rules as English.
 const launched = JSON.parse(readFileSync('src/i18n/launched.json', 'utf8'));
 const availability = JSON.parse(readFileSync('src/i18n/availability.json', 'utf8'));
 const codeOfSlug = Object.fromEntries(countries.map((c) => [c.slug, c.code]));
@@ -74,15 +130,17 @@ for (const loc of launched) {
     .filter(([, locs]) => locs.includes(loc))
     .map(([p]) => p)
     .sort();
-  // A pair path is exactly /visa/<pslug>/<dslug>/ (3 segments); the visa
-  // index /visa/ itself is a core surface.
   const isPair = (p) => {
     const s = p.split('/').filter(Boolean);
     return s.length === 3 && s[0] === 'visa';
   };
-  const coreEntries = paths.filter((p) => !isPair(p))
-    .map((p) => urlEntry(`${SITE}/${loc}${p}`));
   const coreName = `sitemap-${loc}-core.xml`;
+  const coreEntries = paths.filter((p) => !isPair(p))
+    .map((p) => {
+      const dte = coreDateFor(p);
+      noteShard(coreName, dte);
+      return urlEntry(`${SITE}/${loc}${p}`, dte);
+    });
   writeFileSync(`dist/${coreName}`, urlset(coreEntries));
   localeFiles.push(coreName);
   console.log(`sitemaps: ${coreName} urls=${coreEntries.length}`);
@@ -101,20 +159,22 @@ for (const loc of launched) {
   for (const p of pairPaths) {
     const seg = p.split('/').filter(Boolean); // ['visa', pslug, dslug]
     const v = ver[`${codeOfSlug[seg[1]]}:${codeOfSlug[seg[2]]}`];
-    pbuf.push(urlEntry(`${SITE}/${loc}${p}`, v ? v.date : null));
+    const dte = v ? v.date : null;
+    pbuf.push(urlEntry(`${SITE}/${loc}${p}`, dte));
+    noteShard(`sitemap-pairs-${loc}-${pidx}.xml`, dte);
     if (pbuf.length >= CHUNK) pflush();
   }
   pflush();
 }
 
-// Index (same filename GSC/Bing already track).
-const today = new Date().toISOString().slice(0, 10);
+// Index (same filename GSC/Bing already track). Per-shard lastmod = the
+// newest real content date inside the shard — never the build date.
 const indexEntries = ['sitemap-core.xml', ...localeFiles, ...pairFiles]
-  .map((f) => `  <sitemap><loc>${SITE}/${f}</loc><lastmod>${today}</lastmod></sitemap>`);
+  .map((f) => `  <sitemap><loc>${SITE}/${f}</loc>${shardMax[f] ? `<lastmod>${shardMax[f]}</lastmod>` : ''}</sitemap>`);
 writeFileSync('dist/sitemap-index.xml',
   `<?xml version="1.0" encoding="UTF-8"?>\n<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${indexEntries.join('\n')}\n</sitemapindex>\n`);
 
 // Drop the plugin's monolith so it cannot compete.
 if (existsSync('dist/sitemap-0.xml')) rmSync('dist/sitemap-0.xml');
 
-console.log(`sitemaps: core=${core.length} pairs=${n} files=${pairFiles.length + 1}+index`);
+console.log(`sitemaps: core=${core.length} pairs=${n} files=${pairFiles.length + 1}+index globalMax=${globalMax} policyLatest=${policyLatest} changelogLatest=${changelogLatest}`);
