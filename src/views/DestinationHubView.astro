@@ -181,8 +181,8 @@ const stripRoutes = countries
     </div>
 
     {groups.map((g) => (
-      <section data-status={g.code}>
-        <h2>{statusLabelL(locale, g.code)}<span class="count-pill">{g.passports.length}</span></h2>
+      <details class="dgroup" data-status={g.code} open={g.code === 'F'}>
+        <summary><h2>{statusLabelL(locale, g.code)}<span class="count-pill">{g.passports.length}</span></h2><svg class="dchev" width="17" height="17" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M5 9l7 7 7-7" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></summary>
         <div class="route-grid">
           {g.passports.map((x) => (
             <a class="route-card" href={href(pairPath(countryByCode[x.p], c))}>
@@ -192,7 +192,7 @@ const stripRoutes = countries
             </a>
           ))}
         </div>
-      </section>
+      </details>
     ))}
   </div>
 

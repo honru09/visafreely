@@ -115,6 +115,19 @@ const entries = (policyChanges as Change[])
       routes: affectedRoutes(e),
     };
   });
+// Density batch (2026-11-15): group the timeline by month, newest first;
+// only the latest month renders expanded. Entry data itself is untouched.
+const monthGroups: { key: string; label: string; items: typeof entries }[] = [];
+for (const e of entries) {
+  const key = e.date.slice(0, 7);
+  let g = monthGroups.find((x) => x.key === key);
+  if (!g) {
+    const label = new Intl.DateTimeFormat(localeByCode[locale].hreflang, { year: 'numeric', month: 'long', timeZone: 'UTC' }).format(new Date(`${e.date}T00:00:00Z`));
+    g = { key, label, items: [] };
+    monthGroups.push(g);
+  }
+  g.items.push(e);
+}
 const alertStr = {
   ok: T('pc_alert_ok'),
   bad: T('pc_alert_bad'),
@@ -167,7 +180,10 @@ const breadcrumbLd = {
   </p>
 
   <div class="timeline">
-    {entries.map((e) => (
+    {monthGroups.map((g, gi) => (
+      <details class="dgroup tl-month" open={gi === 0}>
+        <summary><h2>{g.label}</h2><span class="count-pill">{g.items.length}</span><svg class="dchev" width="17" height="17" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M5 9l7 7 7-7" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></summary>
+        {g.items.map((e) => (
       <article class="tl-entry" id={e.anchor}>
         <div class="tl-date">{formatDateL(locale, e.date)}</div>
         <div class="tl-card">
@@ -193,8 +209,21 @@ const breadcrumbLd = {
           </p>
         </div>
       </article>
+        ))}
+      </details>
     ))}
   </div>
+
+  <script is:inline>
+    (function () {
+      try {
+        if (location.hash) {
+          var t = document.querySelector(location.hash);
+          if (t) { var d = t.closest('details'); if (d) d.open = true; }
+        }
+      } catch (e) {}
+    })();
+  </script>
 
   <div class="closing-band">
     <h2>{T('pc_alert_h2')}</h2>

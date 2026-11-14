@@ -330,8 +330,8 @@ const breadcrumbLd = {
     <div id="cmp-sections">
       {
         defDelta.newly.length > 0 && (
-          <section class="cmp-sec">
-            <h2>{T('cmp_h_newly', { b: nm(defB) })}</h2>
+          <details class="cmp-sec dgroup">
+            <summary><h2>{T('cmp_h_newly', { b: nm(defB) })}</h2><span class="count-pill">{defDelta.newly.reduce((n, g) => n + g.items.length, 0)}</span><svg class="dchev" width="17" height="17" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M5 9l7 7 7-7" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></summary>
             {defDelta.newly.map((g) => (
               <div class="cmp-group">
                 <h3>{g.title}<span class="count-pill">{g.items.length}</span></h3>
@@ -346,13 +346,13 @@ const breadcrumbLd = {
                 </div>
               </div>
             ))}
-          </section>
+          </details>
         )
       }
       {
         defDelta.easier.length > 0 && (
-          <section class="cmp-sec">
-            <h2>{T('cmp_h_easier', { b: nm(defB) })}</h2>
+          <details class="cmp-sec dgroup" open>
+            <summary><h2>{T('cmp_h_easier', { b: nm(defB) })}</h2><span class="count-pill">{defDelta.easier.reduce((n, g) => n + g.items.length, 0)}</span><svg class="dchev" width="17" height="17" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M5 9l7 7 7-7" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></summary>
             {defDelta.easier.map((g) => (
               <div class="cmp-group">
                 <h3>{g.title}<span class="count-pill">{g.items.length}</span></h3>
@@ -367,13 +367,13 @@ const breadcrumbLd = {
                 </div>
               </div>
             ))}
-          </section>
+          </details>
         )
       }
       {
         defDelta.worse.length > 0 && (
-          <section class="cmp-sec">
-            <h2>{T('cmp_h_worse', { b: nm(defB) })}</h2>
+          <details class="cmp-sec dgroup">
+            <summary><h2>{T('cmp_h_worse', { b: nm(defB) })}</h2><span class="count-pill">{defDelta.worse.reduce((n, g) => n + g.items.length, 0)}</span><svg class="dchev" width="17" height="17" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M5 9l7 7 7-7" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></summary>
             {defDelta.worse.map((g) => (
               <div class="cmp-group">
                 <h3>{g.title}<span class="count-pill">{g.items.length}</span></h3>
@@ -388,7 +388,7 @@ const breadcrumbLd = {
                 </div>
               </div>
             ))}
-          </section>
+          </details>
         )
       }
     </div>
@@ -522,15 +522,17 @@ const breadcrumbLd = {
           + '<span class="cmp-name">' + esc(M.names[it.code]) + '</span>'
           + '<span class="cmp-trans"><span class="sdot ' + it.b + '" aria-hidden="true"></span>' + esc(transText(it)) + '</span></a>';
       }
-      function sectionHtml(heading, groups, bCode) {
+      var CHEVJS = '<svg class="dchev" width="17" height="17" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M5 9l7 7 7-7" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>';
+      function sectionHtml(heading, groups, bCode, open) {
         if (!groups.length) return '';
-        var h = '<section class="cmp-sec"><h2>' + esc(heading) + '</h2>';
+        var total = groups.reduce(function (n, g) { return n + g.items.length; }, 0);
+        var h = '<details class="cmp-sec dgroup"' + (open ? ' open' : '') + '><summary><h2>' + esc(heading) + '</h2><span class="count-pill">' + total + '</span>' + CHEVJS + '</summary>';
         groups.forEach(function (g) {
           h += '<div class="cmp-group"><h3>' + esc(g.title) + '<span class="count-pill">' + g.items.length + '</span></h3><div class="cmp-rows">';
           g.items.forEach(function (it) { h += rowHtml(it, bCode); });
           h += '</div></div>';
         });
-        return h + '</section>';
+        return h + '</details>';
       }
 
       /* ---------- state + rendering ---------- */
@@ -568,9 +570,9 @@ const breadcrumbLd = {
         document.getElementById('cs-easier').textContent = d.nEasier;
         document.getElementById('cs-worse').textContent = d.nWorse;
         sectionsEl.innerHTML =
-          sectionHtml(fill(M.str.hNewly, { b: M.names[b] }), d.newly, b)
-          + sectionHtml(fill(M.str.hEasier, { b: M.names[b] }), d.easier, b)
-          + sectionHtml(fill(M.str.hWorse, { b: M.names[b] }), d.worse, b);
+          sectionHtml(fill(M.str.hNewly, { b: M.names[b] }), d.newly, b, false)
+          + sectionHtml(fill(M.str.hEasier, { b: M.names[b] }), d.easier, b, true)
+          + sectionHtml(fill(M.str.hWorse, { b: M.names[b] }), d.worse, b, false);
         try { localStorage.setItem('vf_cmp', a + ':' + b); } catch (e) {}
         try {
           var url = new URL(location.href);
@@ -771,8 +773,8 @@ const breadcrumbLd = {
        rules live in this global block, anchored under #cmp-sections so
        they cannot leak to other pages, and they style the server-rendered
        first paint and every JS re-render identically. */
-    #cmp-sections .cmp-sec { margin-top: 30px; }
-    #cmp-sections .cmp-group { margin-top: 18px; }
+    #cmp-sections .cmp-sec { margin-top: 22px; }
+    #cmp-sections .cmp-group { margin-top: 14px; }
     #cmp-sections .cmp-group h3 { display: flex; align-items: center; margin: 0 0 8px; }
     #cmp-sections .cmp-rows {
       background: var(--card); border: 1px solid var(--line); border-radius: 14px; overflow: hidden;
