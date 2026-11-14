@@ -89,6 +89,30 @@ const correctionsFmt = changelogCount.toLocaleString('en-US');
     <div class="stat-tile"><b>{correctionsFmt}</b><span>{T('home_stat_corrections')}</span></div>
   </div>
 
+  <h2>{T('home_tools_h2')}</h2>
+  <div class="route-grid">
+    <a class="route-card" href={href('/map/')}>
+      <span class="rc-top"><span class="rc-name">{T('feat_map')}</span></span>
+      <span class="rc-meta">{T('home_tools_map_line')}</span>
+      <svg class="rc-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4 12h15M13 5.5L19.5 12 13 18.5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    </a>
+    <a class="route-card" href={href('/compare/')}>
+      <span class="rc-top"><span class="rc-name">{T('feat_compare')}</span></span>
+      <span class="rc-meta">{T('home_tools_compare_line')}</span>
+      <svg class="rc-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4 12h15M13 5.5L19.5 12 13 18.5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    </a>
+    <a class="route-card" href={href('/passport-ranking/')}>
+      <span class="rc-top"><span class="rc-name">{T('feat_ranking')}</span></span>
+      <span class="rc-meta">{T('home_tools_ranking_line')}</span>
+      <svg class="rc-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4 12h15M13 5.5L19.5 12 13 18.5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    </a>
+    <a class="route-card" href={href('/visa-policy-changes/')}>
+      <span class="rc-top"><span class="rc-name">{T('feat_policy')}</span></span>
+      <span class="rc-meta">{T('home_tools_policy_line')}</span>
+      <svg class="rc-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4 12h15M13 5.5L19.5 12 13 18.5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    </a>
+  </div>
+
   <h2>{T('home_how_h2')}</h2>
   <div class="how-grid">
     <div class="how-card">
@@ -149,7 +173,7 @@ const correctionsFmt = changelogCount.toLocaleString('en-US');
       </div>
     ))}
   </div>
-  <p style="margin-top:14px;font-size:15px;"><a href={href('/map/')}>{T('home_map_link')} <span class="arr" aria-hidden="true">→</span></a></p>
+  <p class="rank-links" style="margin-top:14px;font-size:15px;display:flex;gap:22px;flex-wrap:wrap;"><a href={href('/passport-ranking/')}>{T('home_rank_full_link')} <span class="arr" aria-hidden="true">→</span></a><a href={href('/map/')}>{T('home_map_link')} <span class="arr" aria-hidden="true">→</span></a></p>
 
   <h2>{T('home_pop_passports_h2')}</h2>
   <div class="route-grid">
@@ -197,6 +221,11 @@ const correctionsFmt = changelogCount.toLocaleString('en-US');
     <a class="route-card" href="https://github.com/honru09/visa-requirements-dataset" rel="noopener" target="_blank">
       <span class="rc-top"><span class="rc-name">{T('home_dataset_name')}</span></span>
       <span class="rc-meta">{T('home_dataset_meta')}</span>
+      <svg class="rc-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4 12h15M13 5.5L19.5 12 13 18.5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    </a>
+    <a class="route-card" href={href('/for-business/')}>
+      <span class="rc-top"><span class="rc-name">{T('feat_business')}</span></span>
+      <span class="rc-meta">{T('home_business_meta')}</span>
       <svg class="rc-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4 12h15M13 5.5L19.5 12 13 18.5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
     </a>
   </div>
