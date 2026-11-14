@@ -880,7 +880,7 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
       .trustbar a { color: #9fd8bc; font-weight: 600; }
       .trustbar a:hover { color: #fff; }
       footer.site { background: var(--deep); color: #aec6ba; padding: 38px 0 34px; font-size: 14px; --check: #35b586; }
-      .footer-grid { display: grid; grid-template-columns: 1.5fr 1fr 1fr 1fr; gap: 26px; }
+      .footer-grid { display: grid; grid-template-columns: 1.4fr 1fr 1fr 1fr 1fr; gap: 26px; }
       @media (max-width: 860px) { .footer-grid { grid-template-columns: 1fr 1fr; } }
       @media (max-width: 480px) { .footer-grid { grid-template-columns: 1fr 1fr; gap: 20px; } .footer-grid > :first-child { grid-column: 1 / -1; } }
       footer.site .brand { color: #fff; }
@@ -1223,16 +1223,24 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
               <li><a href={href('/destinations/')}>{T('footer_all_destinations')}</a></li>
             </ul>
           </nav>
-          <nav aria-label={T('footer_nav_about')}>
-            <h4>visafreely</h4>
+          <nav aria-label={T('footer_h_explore')}>
+            <h4>{T('footer_h_explore')}</h4>
             <ul>
+              <li><a href={href('/passports/')}>{T('footer_all_passports')}</a></li>
+              <li><a href={href('/destinations/')}>{T('footer_all_destinations')}</a></li>
+              <li><a href={href('/map/')}>{T('feat_map')}</a></li>
+              <li><a href={href('/passport-ranking/')}>{T('feat_ranking')}</a></li>
+              <li><a href={href('/compare/')}>{T('feat_compare')}</a></li>
+            </ul>
+          </nav>
+          <nav aria-label={T('footer_h_track')}>
+            <h4>{T('footer_h_track')}</h4>
+            <ul>
+              <li><a href={href('/visa-policy-changes/')}>{T('feat_policy')}</a></li>
               <li><a href={href('/about/')}>{T('footer_about_data')}</a></li>
-              <li><a href={href('/visa-policy-changes/')}>{T('footer_visa_policy_changes')}</a></li>
-              <li><a href={href('/passport-ranking/')}>{T('footer_passport_ranking')}</a></li>
-              <li><a href="/changelog/">{T('footer_changelog')}</a></li>
-              <li><a href="/widget/">{T('footer_embed')}</a></li>
-              <li><a href={href('/for-business/')}>{T('footer_licensing')}</a></li>
-              <li><a href={href('/#checker')}>{T('footer_check_route')}</a></li>
+              <li><a href={href('/widget/')}>{T('feat_widget')}</a></li>
+              <li><a href={href('/for-business/')}>{T('feat_business')}</a></li>
+              <li><a href="/changelog/">{T('nav_changelog')}</a></li>
             </ul>
           </nav>
         </div>
