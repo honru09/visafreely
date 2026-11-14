@@ -218,7 +218,12 @@ const payload = {
   short: SHORT,
   total: countries.length,
   str: {
-    suffix: T('map_name_suffix'),
+    nameTpl: T('home_name_passport', { name: '{name}' }),
+    ctxA: T('cmp_ctx_a', { a: '{a}' }),
+    ctxB: T('cmp_ctx_b'),
+    ctxC: T('cmp_ctx_c', { b: '{b}', total: '{total}' }),
+    ctxD: T('cmp_ctx_d'),
+    ctxE: T('cmp_ctx_e'),
     stayUp: T('cmp_stay_up'),
     stayDown: T('cmp_stay_down'),
     stayTrans: T('cmp_stay_trans', { a: '{a}', b: '{b}' }),
@@ -305,7 +310,7 @@ const pairCountFmt = data.pairCount.toLocaleString('en-US');
       <div class="stat-tile"><b class="tnum" id="cs-worse">{defDelta.nWorse}</b><span>{T('cmp_stat_worse')}</span></div>
     </div>
     <p class="cmp-context">
-      {T('cmp_ctx_a', { a: nm(defA), b: nm(defB) })}<b class="tnum" id="cs-easy-a">{defEasyA}</b>{T('cmp_ctx_b', { a: nm(defA), b: nm(defB) })}<b class="tnum" id="cs-rank-a">#{passportRank[DEFAULT_A]}</b>{T('cmp_ctx_c', { a: nm(defA), b: nm(defB), total: countries.length })}<b class="tnum" id="cs-easy-b">{defEasyB}</b>{T('cmp_ctx_d', { a: nm(defA), b: nm(defB) })}<b class="tnum" id="cs-rank-b">#{passportRank[DEFAULT_B]}</b>{T('cmp_ctx_e')}
+      <span id="cs-ctx-a">{T('cmp_ctx_a', { a: nm(defA), b: nm(defB) })}</span><b class="tnum" id="cs-easy-a">{defEasyA}</b><span id="cs-ctx-b">{T('cmp_ctx_b', { a: nm(defA), b: nm(defB) })}</span><b class="tnum" id="cs-rank-a">#{passportRank[DEFAULT_A]}</b><span id="cs-ctx-c">{T('cmp_ctx_c', { a: nm(defA), b: nm(defB), total: countries.length })}</span><b class="tnum" id="cs-easy-b">{defEasyB}</b><span id="cs-ctx-d">{T('cmp_ctx_d', { a: nm(defA), b: nm(defB) })}</span><b class="tnum" id="cs-rank-b">#{passportRank[DEFAULT_B]}</b><span id="cs-ctx-e">{T('cmp_ctx_e')}</span>
     </p>
 
     <div id="cmp-sections">
@@ -495,12 +500,17 @@ const pairCountFmt = data.pairCount.toLocaleString('en-US');
 
       function render() {
         var a = state.a, b = state.b;
-        document.getElementById('cs-a-name').textContent = M.names[a] + M.str.suffix;
-        document.getElementById('cs-b-name').textContent = M.names[b] + M.str.suffix;
+        document.getElementById('cs-a-name').textContent = fill(M.str.nameTpl, { name: M.names[a] });
+        document.getElementById('cs-b-name').textContent = fill(M.str.nameTpl, { name: M.names[b] });
         document.getElementById('cs-easy-a').textContent = M.easy[a];
         document.getElementById('cs-easy-b').textContent = M.easy[b];
         document.getElementById('cs-rank-a').textContent = '#' + M.ranks[a];
         document.getElementById('cs-rank-b').textContent = '#' + M.ranks[b];
+        document.getElementById('cs-ctx-a').textContent = fill(M.str.ctxA, { a: M.names[a] });
+        document.getElementById('cs-ctx-b').textContent = M.str.ctxB;
+        document.getElementById('cs-ctx-c').textContent = fill(M.str.ctxC, { b: M.names[b], total: M.total });
+        document.getElementById('cs-ctx-d').textContent = M.str.ctxD;
+        document.getElementById('cs-ctx-e').textContent = M.str.ctxE;
         document.getElementById('cmp-results').classList.toggle('is-same', a === b);
         if (a === b) {
           document.getElementById('cs-common').textContent = '0';

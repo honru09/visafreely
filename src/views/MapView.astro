@@ -85,8 +85,8 @@ const payload = {
     titleSelf: T('map_title_self', { name: '{name}' }),
     titleStatus: T('map_title_status', { name: '{name}', label: '{label}' }),
     readout: T('map_readout', { name: '{name}' }),
-    suffix: T('map_name_suffix'),
-    pageSuffix: T('map_page_suffix'),
+    nameTpl: T('home_name_passport', { name: '{name}' }),
+    pageTpl: T('map_more_page', { name: '{name}' }),
     empty: T('ck_empty'),
   },
 };
@@ -286,13 +286,13 @@ const pairCountFmt = data.pairCount.toLocaleString('en-US');
           if (dot) dot.setAttribute('class', 'sdot ' + st);
         });
         document.getElementById('ms-flag').textContent = flagEmoji(code);
-        document.getElementById('ms-name').textContent = M.names[code] + M.str.suffix;
+        document.getElementById('ms-name').textContent = fill(M.str.nameTpl, { name: M.names[code] });
         document.getElementById('ms-easy').textContent = easyOf(row);
         document.getElementById('ms-rank').textContent = '#' + M.ranks[code];
         document.getElementById('chips-passport').textContent = M.names[code];
         var hub = document.getElementById('map-hub-link');
         hub.setAttribute('href', M.hubBase + pslug + '/');
-        hub.textContent = M.names[code] + M.str.pageSuffix;
+        hub.textContent = fill(M.str.pageTpl, { name: M.names[code] });
         document.querySelectorAll('.mq-chip').forEach(function (chip) {
           var on = chip.getAttribute('data-qc') === code;
           chip.classList.toggle('active', on);
