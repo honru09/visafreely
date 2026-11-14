@@ -744,36 +744,52 @@ const pairCountFmt = data.pairCount.toLocaleString('en-US');
     .cmp-summary b { font-weight: 800; }
     .cmp-stats { display: flex; flex-wrap: wrap; gap: 10px; }
     .cmp-context { font-size: 14.5px; color: var(--ink-2); margin: 12px 0 4px; }
-    .cmp-sec { margin-top: 30px; }
-    .cmp-group { margin-top: 18px; }
-    .cmp-group h3 { display: flex; align-items: center; margin: 0 0 8px; }
-    .cmp-rows {
-      background: var(--card); border: 1px solid var(--line); border-radius: 14px; overflow: hidden;
-    }
-    .cmp-row {
-      display: flex; align-items: center; gap: 10px; min-height: 44px; flex-wrap: wrap;
-      padding: 7px 14px; color: var(--ink); text-decoration: none; font-size: 15px;
-    }
-    .cmp-row + .cmp-row { border-top: 1px solid var(--line); }
-    .cmp-row:hover { background: var(--soft); }
-    .cmp-row .fl { font-size: 17px; width: 24px; text-align: center; flex: none; }
-    .cmp-name { font-weight: 600; flex: 1 1 auto; min-width: 0; overflow-wrap: break-word; }
-    .cmp-trans {
-      display: inline-flex; align-items: center; gap: 7px; flex: none; margin-left: auto;
-      font-size: 13.5px; font-weight: 600; color: var(--ink-2); text-align: right;
-    }
     #cmp-results.is-same .cmp-summary,
     #cmp-results.is-same .cmp-stats,
     #cmp-results.is-same .cmp-context { display: none; }
-    @media (max-width: 720px) {
-      .cmp-trans { font-size: 12.5px; }
-    }
     .cmp-empty {
       margin-top: 22px; padding: 16px 18px; border: 1px dashed var(--line-strong);
       border-radius: 14px; font-size: 15px; color: var(--ink-2); background: var(--soft);
     }
     .cmp-method { font-size: 13.5px; color: var(--muted); margin-top: 26px; max-width: 760px; }
     .cmp-more { margin-top: 30px; font-size: 15px; }
+  </style>
+
+  <style is:global>
+    /* BUG-004: #cmp-sections is rebuilt by client JS (innerHTML), so the
+       rows it contains can never carry Astro's scoped-style hash. Their
+       rules live in this global block, anchored under #cmp-sections so
+       they cannot leak to other pages, and they style the server-rendered
+       first paint and every JS re-render identically. */
+    #cmp-sections .cmp-sec { margin-top: 30px; }
+    #cmp-sections .cmp-group { margin-top: 18px; }
+    #cmp-sections .cmp-group h3 { display: flex; align-items: center; margin: 0 0 8px; }
+    #cmp-sections .cmp-rows {
+      background: var(--card); border: 1px solid var(--line); border-radius: 14px; overflow: hidden;
+    }
+    #cmp-sections .cmp-row {
+      display: flex; align-items: center; gap: 10px; min-height: 44px; flex-wrap: wrap;
+      padding: 7px 14px; color: var(--ink); text-decoration: none; font-size: 15px;
+    }
+    #cmp-sections .cmp-row + .cmp-row { border-top: 1px solid var(--line); }
+    #cmp-sections .cmp-row:hover { background: var(--soft); }
+    #cmp-sections .cmp-row .fl { font-size: 17px; width: 24px; text-align: center; flex: none; }
+    #cmp-sections .cmp-name { font-weight: 600; flex: 1 1 auto; min-width: 0; overflow-wrap: break-word; }
+    #cmp-sections .cmp-trans {
+      display: inline-flex; align-items: center; gap: 7px; flex: none; margin-left: auto;
+      font-size: 13.5px; font-weight: 600; color: var(--ink-2); text-align: right;
+    }
+    @media (max-width: 720px) {
+      #cmp-sections .cmp-trans { font-size: 12.5px; }
+    }
+    @media (max-width: 560px) {
+      /* Uniform two-line row on narrow screens: the transition note takes
+         its own line, indented 34px (flag 24px + gap 10px) so it aligns
+         under the country name — never a ragged half-line. */
+      #cmp-sections .cmp-trans {
+        flex: 1 1 100%; margin-left: 0; padding-left: 34px; text-align: left;
+      }
+    }
   </style>
   <ExploreStrip locale={locale} items={[{ key: 'feat_map', href: href('/map/') }, { key: 'feat_ranking', href: href('/passport-ranking/') }, { key: 'explore_check', href: href('/#checker') }]} />
 </Base>
