@@ -36,7 +36,7 @@ for (const loc of settings.locales) {
 const glossary = JSON.parse(readFileSync('src/i18n/glossary.json', 'utf8'));
 const sd = JSON.parse(readFileSync('src/data/site-data.json', 'utf8'));
 let zhNames = {};
-for (const gLoc of ['zh-hans', 'ja', 'ko']) {
+for (const gLoc of ['zh-hans', 'ja', 'ko', 'th']) {
   const names = glossary[gLoc]?.countries || {};
   if (gLoc === 'zh-hans') zhNames = names;
   for (const c of sd.countries) {

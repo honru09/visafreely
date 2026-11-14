@@ -104,10 +104,12 @@ const PAYLOAD = {
     var STR = PAYLOAD.str;
     var VERIFIED = window.__VF_VERIFIED || {};
     function disp(c) { return NAMES[c.code] || c.name; }
+    var TH_MONTHS = ['มกราคม', 'กุมภาพันธ์', 'มีนาคม', 'เมษายน', 'พฤษภาคม', 'มิถุนายน', 'กรกฎาคม', 'สิงหาคม', 'กันยายน', 'ตุลาคม', 'พฤศจิกายน', 'ธันวาคม'];
     function fmtDate(iso) {
       var m = /^(\d{4})-(\d{2})-(\d{2})$/.exec(iso || '');
       if (!m) return iso;
       if (PAYLOAD.locale === 'ko') return parseInt(m[1], 10) + '년 ' + parseInt(m[2], 10) + '월 ' + parseInt(m[3], 10) + '일';
+      if (PAYLOAD.locale === 'th') return parseInt(m[3], 10) + ' ' + TH_MONTHS[parseInt(m[2], 10) - 1] + ' ' + parseInt(m[1], 10);
       return parseInt(m[1], 10) + '年' + parseInt(m[2], 10) + '月' + parseInt(m[3], 10) + '日';
     }
     function esc(s) { return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;'); }

@@ -5,6 +5,7 @@ import { t as i18nT, countryName, hrefFor, type LocaleCode } from '../i18n/local
 import { pinyinInitial } from '../i18n/pinyin';
 import { jaRow } from '../i18n/japanese';
 import { koInitial } from '../i18n/korean';
+import { thInitial } from '../i18n/thai';
 import availabilityRaw from '../i18n/availability.json';
 
 interface Props {
@@ -22,7 +23,9 @@ const isP = kind === 'passports';
 // original behaviour, byte for byte. zh-Hans: collator order on the
 // glossary names, grouped by pinyin initial. ja: collator order on the
 // glossary names, grouped by gojuuon row. ko: collator order on the
-// glossary names, grouped by initial jamo.
+// glossary names, grouped by initial jamo. th: collator order on the
+// glossary names, grouped by initial consonant (preposed vowels belong
+// to the consonant that carries them).
 const sorted =
   locale === 'zh-hans'
     ? [...countries].sort((a, b) => new Intl.Collator('zh-Hans').compare(nm(a), nm(b)))
@@ -30,7 +33,9 @@ const sorted =
       ? [...countries].sort((a, b) => new Intl.Collator('ja').compare(nm(a), nm(b)))
       : locale === 'ko'
         ? [...countries].sort((a, b) => new Intl.Collator('ko').compare(nm(a), nm(b)))
-        : [...countries].sort((a, b) => (a.name < b.name ? -1 : 1));
+        : locale === 'th'
+          ? [...countries].sort((a, b) => new Intl.Collator('th').compare(nm(a), nm(b)))
+          : [...countries].sort((a, b) => (a.name < b.name ? -1 : 1));
 const letterOf = (c: Country) =>
   locale === 'zh-hans'
     ? pinyinInitial(nm(c).charAt(0))
@@ -38,7 +43,9 @@ const letterOf = (c: Country) =>
       ? jaRow(nm(c))
       : locale === 'ko'
         ? koInitial(nm(c))
-        : c.name.charAt(0).toUpperCase();
+        : locale === 'th'
+          ? thInitial(nm(c))
+          : c.name.charAt(0).toUpperCase();
 const letters: string[] = [];
 const byLetter = new Map<string, typeof sorted>();
 for (const c of sorted) {

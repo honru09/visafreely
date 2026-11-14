@@ -103,7 +103,13 @@ export function verdictTextL(locale: LocaleCode, row: PairRow): string {
   return statusLabelL(locale, row.s);
 }
 
-/** "25 Oct 2026" / "2026年10月25日" (zh and ja share the 年月日 form) / "2026년 10월 25일" (ko, PLAN §7). */
+const THAI_MONTHS = [
+  'มกราคม', 'กุมภาพันธ์', 'มีนาคม', 'เมษายน', 'พฤษภาคม', 'มิถุนายน',
+  'กรกฎาคม', 'สิงหาคม', 'กันยายน', 'ตุลาคม', 'พฤศจิกายน', 'ธันวาคม',
+];
+
+/** "25 Oct 2026" / "2026年10月25日" (zh and ja share the 年月日 form) / "2026년 10월 25일" (ko, PLAN §7)
+ *  / "25 ตุลาคม 2026" (th: Thai month name + Gregorian year — never Buddhist Era, PLAN §7). */
 export function formatDateL(locale: LocaleCode, iso: string): string {
   if (locale === 'zh-hans' || locale === 'ja') {
     const mm = /^(\d{4})-(\d{2})-(\d{2})$/.exec(iso || '');
@@ -113,6 +119,11 @@ export function formatDateL(locale: LocaleCode, iso: string): string {
   if (locale === 'ko') {
     const mm = /^(\d{4})-(\d{2})-(\d{2})$/.exec(iso || '');
     if (mm) return `${parseInt(mm[1], 10)}년 ${parseInt(mm[2], 10)}월 ${parseInt(mm[3], 10)}일`;
+    return iso;
+  }
+  if (locale === 'th') {
+    const mm = /^(\d{4})-(\d{2})-(\d{2})$/.exec(iso || '');
+    if (mm) return `${parseInt(mm[3], 10)} ${THAI_MONTHS[parseInt(mm[2], 10) - 1]} ${parseInt(mm[1], 10)}`;
     return iso;
   }
   return formatDateLong(iso);
