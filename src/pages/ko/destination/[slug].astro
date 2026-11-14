@@ -1,0 +1,11 @@
+---
+import DestinationHubView from '../../../views/DestinationHubView.astro';
+import { countries } from '../../../lib/data';
+
+export function getStaticPaths() {
+  return countries.map((c) => ({ params: { slug: c.slug }, props: { c } }));
+}
+const { c } = Astro.props;
+---
+
+<DestinationHubView locale="ko" c={c} />

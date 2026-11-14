@@ -18,6 +18,7 @@ const { locale } = Astro.props;
 const T = i18nT(locale);
 
 const PAYLOAD = {
+  locale,
   names: Object.fromEntries(countries.map((c) => [c.code, countryName(locale, c)])),
   status: Object.fromEntries(STATUS_ORDER.map((k) => [k, statusLabelL(locale, k)])),
   str: {
@@ -106,6 +107,7 @@ const PAYLOAD = {
     function fmtDate(iso) {
       var m = /^(\d{4})-(\d{2})-(\d{2})$/.exec(iso || '');
       if (!m) return iso;
+      if (PAYLOAD.locale === 'ko') return parseInt(m[1], 10) + '년 ' + parseInt(m[2], 10) + '월 ' + parseInt(m[3], 10) + '일';
       return parseInt(m[1], 10) + '年' + parseInt(m[2], 10) + '月' + parseInt(m[3], 10) + '日';
     }
     function esc(s) { return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;'); }

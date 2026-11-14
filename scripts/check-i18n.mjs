@@ -2,8 +2,8 @@
 /* i18n catalogue gate (TOOLING §6): every locale file must carry exactly
  * the base locale's key set, and every key's {placeholder} set must match
  * the base locale's — a missing key or a renamed placeholder fails the
- * build instead of shipping a half-translated page. Also asserts the
- * frozen glossary's zh-hans country table covers every dataset country.
+ * build instead of shipping a half-translated page. Also asserts each
+ * launched non-en glossary country table covers every dataset country.
  */
 import { readFileSync } from 'node:fs';
 
@@ -36,7 +36,7 @@ for (const loc of settings.locales) {
 const glossary = JSON.parse(readFileSync('src/i18n/glossary.json', 'utf8'));
 const sd = JSON.parse(readFileSync('src/data/site-data.json', 'utf8'));
 let zhNames = {};
-for (const gLoc of ['zh-hans', 'ja']) {
+for (const gLoc of ['zh-hans', 'ja', 'ko']) {
   const names = glossary[gLoc]?.countries || {};
   if (gLoc === 'zh-hans') zhNames = names;
   for (const c of sd.countries) {
