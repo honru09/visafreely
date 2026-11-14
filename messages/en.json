@@ -19,6 +19,8 @@
   "footer_h_explore": "Explore",
   "explore_h": "Keep exploring",
   "hub_fly_title": "Flights to {name}",
+  "visa_dir_more_h": "More popular routes",
+  "rank_routes_cap": "Popular destinations:",
   "hub_fly_sub": "Compare fares on Aviasales",
   "explore_check": "Check a route",
   "footer_h_track": "Track & site",
@@ -700,5 +702,6 @@
   "shelf_ta_p": "eVisas can file the electronic travel authorisation for you, if you would rather not use the official form yourself.",
   "shelf_wn_cta": "Visit World Nomads",
   "shelf_wn_k": "Adventure travel insurance",
-  "shelf_wn_p": "Cover for 200+ adventure activities, gear and trip cancellation — and you can buy or extend a policy while you are already travelling."
+  "shelf_wn_p": "Cover for 200+ adventure activities, gear and trip cancellation — and you can buy or extend a policy while you are already travelling.",
+  "feat_checker": "Visa checker"
 }

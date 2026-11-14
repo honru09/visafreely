@@ -14,7 +14,9 @@ import {
   STATUS_BLURB,
   STATUS_GLYPH,
   data,
+  pairPath,
 } from '../lib/data';
+import { gridRanked } from '../lib/head-routes';
 import {
   t as i18nT,
   countryName,
@@ -55,6 +57,7 @@ const popularRoutes = [
 ]
   .map(([ps, ds]) => ({ p: countryBySlug[ps], d: countryBySlug[ds] }))
   .filter((r) => r.p && r.d);
+const homeRoutes = gridRanked.slice(0, 12);
 const pairCountFmt = data.pairCount.toLocaleString('en-US');
 const verifiedFmt = verifiedCount.toLocaleString('en-US');
 const correctionsFmt = changelogCount.toLocaleString('en-US');
@@ -192,6 +195,17 @@ const correctionsFmt = changelogCount.toLocaleString('en-US');
       <a class="route-card" href={href(`/destination/${c.slug}/`)}>
         <span class="rc-top"><span class="rc-name">{nm(c)}</span></span>
         <span class="rc-meta">{T('home_pop_dest_meta2', { count: visaFreePassportCount(c.code) })}</span>
+        <svg class="rc-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4 12h15M13 5.5L19.5 12 13 18.5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </a>
+    ))}
+  </div>
+
+  <h2>{T('visa_popular_h2')}</h2>
+  <div class="route-grid">
+    {homeRoutes.map((r) => (
+      <a class="route-card" href={href(pairPath(r.p, r.d))}>
+        <span class="rc-top"><span class="rc-name">{nm(r.p)} → {nm(r.d)}</span></span>
+        <span class="rc-meta">{statusLabelL(locale, r.row.s)}</span>
         <svg class="rc-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4 12h15M13 5.5L19.5 12 13 18.5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
       </a>
     ))}

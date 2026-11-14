@@ -7,7 +7,7 @@
 // message-catalog strings. The full-page link points at the English pair
 // page (pair pages are batch 2).
 import Stamp from './Stamp.astro';
-import { verifiedPairDates, countries, STATUS_ORDER } from '../lib/data';
+import { countries, STATUS_ORDER } from '../lib/data';
 import evisasCampaigns from '../data/evisas-campaigns.json';
 import { t as i18nT, countryName, statusLabelL, type LocaleCode } from '../i18n/locales';
 
@@ -51,7 +51,7 @@ const PAYLOAD = {
 };
 ---
 
-<script is:inline define:vars={{ verifiedPairDates }}>window.__VF_VERIFIED = verifiedPairDates;</script>
+
 <script is:inline define:vars={{ evisasCampaigns }}>window.__VF_CAMPAIGNS = evisasCampaigns;</script>
 <div class="checker-card" id="checker" style="scroll-margin-top:76px;">
   <p class="ck-eyebrow">
@@ -102,7 +102,25 @@ const PAYLOAD = {
     var NAMES = PAYLOAD.names;
     var STATUS = PAYLOAD.status;
     var STR = PAYLOAD.str;
-    var VERIFIED = window.__VF_VERIFIED || {};
+    // Verified dates arrive per-passport from /verified/<PC>.json
+    // (fetched on the first check for that passport) — the full map is
+    // no longer inlined into the page (L3 home slimming).
+    var VERIFIED = {};
+    var vShards = {};
+    var vPromises = {};
+    function loadVerifiedShard(pc) {
+      if (vShards[pc]) return Promise.resolve();
+      if (!vPromises[pc]) {
+        vPromises[pc] = fetch('/verified/' + pc + '.json')
+          .then(function (r) { return r.ok ? r.json() : {}; })
+          .catch(function () { return {}; })
+          .then(function (j) {
+            for (var k in j) VERIFIED[k] = j[k];
+            vShards[pc] = true;
+          });
+      }
+      return vPromises[pc];
+    }
     function disp(c) { return NAMES[c.code] || c.name; }
     var TH_MONTHS = ['มกราคม', 'กุมภาพันธ์', 'มีนาคม', 'เมษายน', 'พฤษภาคม', 'มิถุนายน', 'กรกฎาคม', 'สิงหาคม', 'กันยายน', 'ตุลาคม', 'พฤศจิกายน', 'ธันวาคม'];
     function fmtDate(iso) {
@@ -293,6 +311,7 @@ const PAYLOAD = {
       }
       var row = (idx.rows[pc.code] || []).find(function (r) { return idx.countries[r[0]].code === dc.code; });
       if (!row) { out.innerHTML = '<div class="verdict-card"><div class="vc-main"><div class="vc-big">' + STR.noData + '</div></div></div>'; return; }
+      try { await loadVerifiedShard(pc.code); } catch (e) {}
       var code = row[1], days = row[2];
       var verdict = STATUS[code];
       if (code === 'F' && days) verdict = fill(STR.verdictF, { days: days });

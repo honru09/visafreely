@@ -1226,6 +1226,7 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
           <nav aria-label={T('footer_h_explore')}>
             <h4>{T('footer_h_explore')}</h4>
             <ul>
+              <li><a href={href('/visa/')}>{T('feat_checker')}</a></li>
               <li><a href={href('/passports/')}>{T('footer_all_passports')}</a></li>
               <li><a href={href('/destinations/')}>{T('footer_all_destinations')}</a></li>
               <li><a href={href('/map/')}>{T('feat_map')}</a></li>
@@ -1319,7 +1320,27 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
         var flagD = document.getElementById('ck-flag-d');
         var out = document.getElementById('ck-result');
         var swap = document.getElementById('ck-swap');
-        var VERIFIED = window.__VF_VERIFIED || {};
+        // Verified dates arrive per-passport from /verified/<PC>.json
+        // (fetched on the first check for that passport) — the full map
+        // is no longer inlined into the page (L3 home slimming).
+        var VERIFIED = {};
+        var vShards = {};
+        var vWaiters = {};
+        function loadVerifiedShard(pc, cb) {
+          if (vShards[pc]) { cb(); return; }
+          if (vWaiters[pc]) { vWaiters[pc].push(cb); return; }
+          vWaiters[pc] = [cb];
+          fetch('/verified/' + pc + '.json')
+            .then(function (r) { return r.ok ? r.json() : {}; })
+            .catch(function () { return {}; })
+            .then(function (j) {
+              for (var k in j) VERIFIED[k] = j[k];
+              vShards[pc] = true;
+              var ws = vWaiters[pc] || [];
+              delete vWaiters[pc];
+              ws.forEach(function (f) { f(); });
+            });
+        }
         var MONTHS = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
         function fmtDate(iso) {
           var m = /^(\d{4})-(\d{2})-(\d{2})$/.exec(iso || '');
@@ -1477,6 +1498,11 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
           return prefix || contains;
         }
         function doCheck() {
+          var pc0 = resolve(inP);
+          if (!pc0) { renderCheck(); return; }
+          loadVerifiedShard(pc0.code, renderCheck);
+        }
+        function renderCheck() {
           var pc = resolve(inP), dc = resolve(inD);
           out.hidden = false;
           if (!pc || !dc) {

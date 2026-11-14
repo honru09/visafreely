@@ -153,6 +153,24 @@ writeFileSync(
   })
 );
 
+// Verified-date shards for the checker (L3 home slimming): the full
+// 39k-pair date map used to be inlined into every checker page
+// (~826 KB of HTML). Now the checker lazily fetches only the selected
+// passport's shard (/verified/<PC>.json, ~4 KB) when a check runs.
+import { mkdirSync } from 'node:fs';
+{
+  const shards = {};
+  for (const [k, e] of Object.entries(extras)) {
+    if (!e.verified) continue;
+    const pc = k.split(':')[0];
+    (shards[pc] ||= {})[k] = e.verified;
+  }
+  mkdirSync(join(root, 'public/verified'), { recursive: true });
+  for (const [pc, m] of Object.entries(shards)) {
+    writeFileSync(join(root, 'public/verified', pc + '.json'), JSON.stringify(m));
+  }
+}
+
 const verifiedCount = Object.values(extras).filter((e) => e.verified).length;
 console.log(
   `countries=${countries.length} pairs=${siteData.pairCount} overrides=${Object.keys(overrides).length} verified=${verifiedCount} changelog=${changelog.length}`

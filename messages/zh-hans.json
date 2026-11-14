@@ -19,6 +19,8 @@
   "footer_h_explore": "探索",
   "explore_h": "继续探索",
   "hub_fly_title": "飞往{name}的航班",
+  "visa_dir_more_h": "更多热门路线",
+  "rank_routes_cap": "热门目的地：",
   "hub_fly_sub": "在 Aviasales 比较票价",
   "explore_check": "查询一条路线",
   "footer_h_track": "追踪与站点",
@@ -700,5 +702,6 @@
   "shelf_ta_p": "如果你不想自己填官方表格，eVisas 可以代你提交电子旅行授权。",
   "shelf_wn_cta": "访问 World Nomads",
   "shelf_wn_k": "探险旅行保险",
-  "shelf_wn_p": "覆盖 200 多种探险活动、装备与行程取消——已经在路上也能投保或续保。"
+  "shelf_wn_p": "覆盖 200 多种探险活动、装备与行程取消——已经在路上也能投保或续保。",
+  "feat_checker": "签证查询"
 }

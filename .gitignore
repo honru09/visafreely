@@ -4,4 +4,5 @@ dist/
 src/paraglide/
 src/i18n/availability.json
 public/i18n-availability.json
+public/verified/
 project.inlang/cache/

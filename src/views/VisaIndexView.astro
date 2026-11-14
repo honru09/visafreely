@@ -1,8 +1,9 @@
 ---
 import Base from '../layouts/Base.astro';
 import RouteChecker from '../components/RouteChecker.astro';
-import { countryBySlug, pairPath, type Country } from '../lib/data';
-import { t as i18nT, countryName, hrefFor, type LocaleCode } from '../i18n/locales';
+import { pairPath, type Country } from '../lib/data';
+import { gridByPassport, topHeadRoutes } from '../lib/head-routes';
+import { t as i18nT, countryName, statusLabelL, hrefFor, type LocaleCode } from '../i18n/locales';
 import availabilityRaw from '../i18n/availability.json';
 
 interface Props {
@@ -14,16 +15,14 @@ const availability = availabilityRaw as Record<string, string[]>;
 const href = (p: string) => hrefFor(locale, p, availability);
 const nm = (c: Country) => countryName(locale, c);
 
-const popularRoutes = [
-  ['japan', 'thailand'],
-  ['united-states', 'japan'],
-  ['china', 'singapore'],
-  ['united-states', 'united-kingdom'],
-  ['germany', 'thailand'],
-  ['australia', 'indonesia'],
-]
-  .map(([ps, ds]) => ({ p: countryBySlug[ps], d: countryBySlug[ds] }))
-  .filter((r) => r.p && r.d);
+// Head-route directory (indexation batch): the wave-A head set's
+// core grid — nine audience passports x 14 hot destinations — plus the
+// next 240 head routes by score, all as static links from this
+// depth-1 page so the head pairs sit two clicks from home.
+const gridKeys = new Set(
+  gridByPassport.flatMap((g) => g.routes.map((r) => `${r.p.code}:${r.d.code}`)),
+);
+const moreRoutes = topHeadRoutes(240, gridKeys);
 ---
 
 <Base title={T('visa_title')} description={T('visa_desc')} locale={locale}>
@@ -33,11 +32,23 @@ const popularRoutes = [
   </p>
   <RouteChecker locale={locale} />
   <h2>{T('visa_popular_h2')}</h2>
+  {gridByPassport.map((g) => (
+    <h3 style="margin:22px 0 8px;font-size:17px;"><a href={href(`/passport/${g.p.slug}/`)}>{nm(g.p)}</a></h3>
+    <div class="index-rows">
+      {g.routes.map((r) => (
+        <a class="index-row" href={href(pairPath(r.p, r.d))}>
+          <span class="ir-name">{nm(r.p)} → {nm(r.d)}</span>
+          <span class="ir-stat">{statusLabelL(locale, r.row.s)}</span>
+        </a>
+      ))}
+    </div>
+  ))}
+  <h2>{T('visa_dir_more_h')}</h2>
   <div class="index-rows">
-    {popularRoutes.map((r) => (
+    {moreRoutes.map((r) => (
       <a class="index-row" href={href(pairPath(r.p, r.d))}>
         <span class="ir-name">{nm(r.p)} → {nm(r.d)}</span>
-        <span class="ir-stat">{T('visa_row_stat')}</span>
+        <span class="ir-stat">{statusLabelL(locale, r.row.s)}</span>
       </a>
     ))}
   </div>

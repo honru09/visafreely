@@ -19,6 +19,8 @@
   "footer_h_explore": "探索",
   "explore_h": "さらに探索",
   "hub_fly_title": "{name}へのフライト",
+  "visa_dir_more_h": "その他の人気ルート",
+  "rank_routes_cap": "人気の目的地：",
   "hub_fly_sub": "Aviasalesで運賃を比較",
   "explore_check": "ルートを確認",
   "footer_h_track": "変更の追跡とサイト",
@@ -700,5 +702,6 @@
   "shelf_ta_p": "公式フォームを自分で入力したくない場合は、eVisas が電子渡航認証の提出を代行します。",
   "shelf_wn_cta": "World Nomads を見る",
   "shelf_wn_k": "アドベンチャー旅行保険",
-  "shelf_wn_p": "200種類以上のアクティビティ、携行品、旅程キャンセルをカバー ― すでに出発した後でも加入・延長できます。"
+  "shelf_wn_p": "200種類以上のアクティビティ、携行品、旅程キャンセルをカバー ― すでに出発した後でも加入・延長できます。",
+  "feat_checker": "ビザチェッカー"
 }
