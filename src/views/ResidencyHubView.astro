@@ -1,0 +1,131 @@
+---
+// Residency hub (batch 1, 2026-11-14): the vertical's front door — a
+// comparison table of the published routes, grouped open / closed,
+// every figure from src/data/residency-routes.json with its verified
+// date. The table is the comparison (PLAN section 1).
+import Base from '../layouts/Base.astro';
+import { flagEmoji, formatDateLong } from '../lib/data';
+import {
+  closedRoutes,
+  familyTotalText,
+  fmtMoney,
+  minThreshold,
+  openRoutes,
+  residencyDisclaimer,
+  routePath,
+  RESIDENCY_VERIFIED_DATE,
+} from '../lib/residency';
+
+const verifiedLong = formatDateLong(RESIDENCY_VERIFIED_DATE);
+const openSorted = [...openRoutes].sort(
+  (a, b) => (minThreshold(a) ?? 0) - (minThreshold(b) ?? 0),
+);
+const title = 'Residency & citizenship by investment — verified programme figures | VisaFreely';
+const description = `Investment citizenship and residence programmes with thresholds, government fees and status checked against official sources on ${verifiedLong} — closed programmes included and marked closed.`;
+const absUrl = (p: string) => new URL(p, Astro.site).href;
+const breadcrumbLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: absUrl('/') },
+    { '@type': 'ListItem', position: 2, name: 'Residency & citizenship', item: absUrl('/residency/') },
+  ],
+};
+---
+
+<Base title={title} description={description} locale="en">
+  <section class="band light">
+    <div class="band-in">
+      <h1>Residency &amp; citizenship by investment</h1>
+      <p class="lede">
+        Programme thresholds, government fees and status — every figure on
+        these pages is taken from an official source and carries the date it
+        was checked. Where officials publish no figure, the page says so
+        instead of guessing.
+      </p>
+      <p class="muted">Data verified {verifiedLong} · Official sources only</p>
+    </div>
+  </section>
+
+  <div class="band-in res-body">
+    <h2>Open programmes</h2>
+    <div class="res-table-wrap">
+    <table class="res-table">
+      <thead>
+        <tr>
+          <th scope="col">Programme</th>
+          <th scope="col">Minimum (single)</th>
+          <th scope="col">Family of 4 — government total</th>
+          <th scope="col">Processing (official)</th>
+        </tr>
+      </thead>
+      <tbody>
+        {
+          openSorted.map((r) => (
+            <tr>
+              <td>
+                <a href={routePath(r)}>
+                  <span aria-hidden="true">{flagEmoji(r.code)}</span> {r.country} —{' '}
+                  {r.type === 'cbi' ? 'Citizenship by investment' : 'Residence by investment'}
+                </a>
+              </td>
+              <td class="res-amt">{fmtMoney(minThreshold(r) ?? 0, r.currency)}</td>
+              <td>{familyTotalText(r)}</td>
+              <td>{r.processing_time}</td>
+            </tr>
+          ))
+        }
+      </tbody>
+    </table>
+    </div>
+
+    <h2>Closed programmes</h2>
+    <p>
+      Closed programmes stay published as archives — clearly marked — because
+      out-of-date sources keep selling them as available.
+    </p>
+    <div class="res-cards">
+      {
+        closedRoutes.map((r) => (
+          <a class="res-card" href={routePath(r)}>
+            <span>
+              <span aria-hidden="true">{flagEmoji(r.code)}</span>{' '}
+              <strong>
+                {r.country} — {r.type === 'cbi' ? 'Citizenship by investment' : 'Golden visa'}
+              </strong>
+            </span>
+            <span class="res-badge closed">
+              Closed{r.status_date ? ` — ${formatDateLong(r.status_date)}` : ''}
+            </span>
+          </a>
+        ))
+      }
+    </div>
+
+    <h2>How to read these pages</h2>
+    <p>
+      Each route page leads with the nine decision figures — minimum
+      investment, the government-side total for a family of four, the fee
+      breakdown, processing time, residence requirement, the path to
+      permanent residence and citizenship, dual-citizenship rules and
+      restricted nationalities. Where two official sources disagree, both
+      are shown in a dedicated section instead of being silently averaged.
+    </p>
+
+    <p class="res-disclaimer">{residencyDisclaimer(verifiedLong)}</p>
+  </div>
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbLd)} />
+</Base>
+
+<style>
+  .res-body { padding-top: 10px; padding-bottom: 30px; }
+  .res-table-wrap { overflow-x: auto; margin: 10px 0 18px; }
+  .res-table { width: 100%; border-collapse: collapse; min-width: 520px; }
+  .res-table th, .res-table td { text-align: left; padding: 9px 12px; border-bottom: 1px solid var(--line); vertical-align: top; }
+  .res-amt { font-weight: 700; white-space: nowrap; }
+  .res-cards { display: grid; gap: 10px; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); margin: 10px 0 16px; }
+  .res-card { display: flex; flex-direction: column; gap: 6px; padding: 14px 16px; background: var(--card); border: 1px solid var(--line); border-radius: 14px; color: var(--ink); text-decoration: none; }
+  .res-badge { align-self: flex-start; font-weight: 700; font-size: 13px; padding: 4px 12px; border-radius: 999px; }
+  .res-badge.closed { background: #fbe7e7; color: #9c1c1c; border: 1px solid #f0b4b4; }
+  .res-disclaimer { margin-top: 26px; padding: 12px 16px; background: var(--card); border: 1px solid var(--line); border-radius: 12px; color: var(--muted); font-size: 13.5px; max-width: 85ch; }
+</style>

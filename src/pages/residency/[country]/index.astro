@@ -1,0 +1,15 @@
+---
+import ResidencyCountryView from '../../../views/ResidencyCountryView.astro';
+import { countryByCode } from '../../../lib/data';
+import { publishedCountries } from '../../../lib/residency';
+
+export function getStaticPaths() {
+  return publishedCountries.map((code) => ({
+    params: { country: countryByCode[code].slug },
+    props: { c: countryByCode[code] },
+  }));
+}
+const { c } = Astro.props;
+---
+
+<ResidencyCountryView c={c} />

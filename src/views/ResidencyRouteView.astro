@@ -1,0 +1,280 @@
+---
+// Residency route page (batch 1, 2026-11-14) — PLAN section 1 template:
+// decision fields first, every figure rendered from
+// src/data/residency-routes.json at build time, official sources beside
+// every claim, closed programmes presented as unmistakable archives.
+import Base from '../layouts/Base.astro';
+import {
+  countryByCode,
+  easyAccessCount,
+  flagEmoji,
+  formatDateLong,
+} from '../lib/data';
+import {
+  decisionRows,
+  familyTotalText,
+  fmtMoney,
+  minThreshold,
+  openRoutes,
+  relatedRoutes,
+  residencyDisclaimer,
+  routePath,
+  RESIDENCY_VERIFIED_DATE,
+  type ResidencyRoute,
+} from '../lib/residency';
+
+interface Props {
+  route: ResidencyRoute;
+}
+const { route: r } = Astro.props;
+const c = countryByCode[r.code];
+const easy = easyAccessCount(r.code);
+const verifiedLong = formatDateLong(RESIDENCY_VERIFIED_DATE);
+const closed = r.status === 'closed';
+const min = minThreshold(r);
+const typeLabel =
+  r.type === 'cbi' ? 'Citizenship by investment' : 'Residence by investment';
+const title = closed
+  ? `${r.country} Golden Visa — closed ${formatDateLong(r.status_date || '')} | VisaFreely`
+  : `${r.country} ${typeLabel} — from ${min != null ? fmtMoney(min, r.currency) : ''} | VisaFreely`;
+const description = closed
+  ? `The ${r.country} investor residence programme closed on ${formatDateLong(r.status_date || '')}. What the law says, the historical thresholds, and the transitional rules — from the official gazette.`
+  : `${r.country} ${r.programme}: minimum investment, government fees, family-of-4 total, processing time and rules — every figure checked against official sources on ${verifiedLong}.`;
+const rows = closed ? [] : decisionRows(r);
+const related = closed ? openRoutes : relatedRoutes(r);
+const absUrl = (p: string) => new URL(p, Astro.site).href;
+const breadcrumbLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: absUrl('/') },
+    { '@type': 'ListItem', position: 2, name: 'Residency & citizenship', item: absUrl('/residency/') },
+    { '@type': 'ListItem', position: 3, name: r.country, item: absUrl(`/residency/${c.slug}/`) },
+    { '@type': 'ListItem', position: 4, name: r.programme, item: absUrl(routePath(r)) },
+  ],
+};
+const hostOf = (u: string) => {
+  try {
+    return new URL(u).hostname.replace(/^www\./, '');
+  } catch {
+    return u;
+  }
+};
+---
+
+<Base title={title} description={description} locale="en">
+  <section class="band light">
+    <div class="band-in">
+      <div class="crumbs">
+        <a href="/residency/">Residency &amp; citizenship</a> /
+        <a href={`/residency/${c.slug}/`}>{r.country}</a>
+      </div>
+      <h1>
+        <span aria-hidden="true">{flagEmoji(r.code)}</span>
+        {r.country} — {r.programme}
+      </h1>
+      <p class="res-badges">
+        {
+          closed ? (
+            <span class="res-badge closed">
+              Closed{r.status_date ? ` — ${formatDateLong(r.status_date)}` : ''}
+            </span>
+          ) : (
+            <span class="res-badge open">Open</span>
+          )
+        }
+        <span class="res-stamp">Data verified {verifiedLong} · Official sources</span>
+      </p>
+      {r.legal_basis && <p class="muted">Legal basis: {r.legal_basis}</p>}
+    </div>
+  </section>
+
+  <div class="band-in res-body">
+    {
+      closed ? (
+        <>
+          <div class="res-closed-box">
+            <h2>This programme is closed</h2>
+            <p>
+              No new applications have been possible since{' '}
+              {formatDateLong(r.status_date || '')}. This page is kept as an
+              archive because out-of-date sources still present the programme
+              as available.
+            </p>
+          </div>
+          {r.status_note && <p class="res-note">{r.status_note}</p>}
+          {r.historical_thresholds && (
+            <>
+              <h2>Historical thresholds — no longer available</h2>
+              <p>{r.historical_thresholds}</p>
+            </>
+          )}
+          {r.residence_requirement && (
+            <>
+              <h2>Existing holders</h2>
+              <p>{r.residence_requirement}</p>
+            </>
+          )}
+        </>
+      ) : (
+        <>
+          {r.status_note && <p class="res-note">{r.status_note}</p>}
+
+          <h2>The decision figures</h2>
+          <div class="res-table-wrap">
+          <table class="res-table">
+            <tbody>
+              {rows.map((row) => (
+                <tr>
+                  <th scope="row">{row.label}</th>
+                  <td>{row.value}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+
+          </div>
+
+          <h2>Investment options</h2>
+          <div class="res-table-wrap">
+          <table class="res-table res-table-wide">
+            <thead>
+              <tr>
+                <th scope="col">Option</th>
+                <th scope="col">Amount</th>
+                <th scope="col">Notes</th>
+              </tr>
+            </thead>
+            <tbody>
+              {r.options.map((o) => (
+                <tr>
+                  <td>
+                    {o.name}
+                    {o.basis ? <span class="muted"> — {o.basis}</span> : null}
+                  </td>
+                  <td class="res-amt">{fmtMoney(o.amount, o.currency)}</td>
+                  <td>{o.notes || ''}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+          </div>
+          {r.family_total_basis && (
+            <p class="muted small">
+              How the family-of-4 total is built: {r.family_total_basis}. It
+              covers the investment plus official government fees only — agent
+              and legal fees are not included.
+            </p>
+          )}
+
+          {r.documents.length > 0 && (
+            <>
+              <h2>Documents and application channel</h2>
+              <ul class="res-docs">
+                {r.documents.map((d) => (
+                  <li>{d}</li>
+                ))}
+              </ul>
+            </>
+          )}
+
+          {r.conflicts.length > 0 && (
+            <>
+              <h2>Where official sources disagree</h2>
+              {r.conflicts.map((x) => (
+                <p class="res-conflict">{x}</p>
+              ))}
+            </>
+          )}
+        </>
+      )
+    }
+
+    <h2>{closed ? 'The Spain passport itself' : 'What this passport reaches'}</h2>
+    <p>
+      Holders of a {r.country} passport can enter <strong>{easy} destinations</strong>
+      without applying in advance (visa-free, visa on arrival or an electronic
+      authorisation), out of {Object.keys(countryByCode).length - 1} destinations
+      in our index.
+      {
+        closed
+          ? ' That standing belongs to the passport itself and is unrelated to this closed programme.'
+          : ''
+      }
+    </p>
+    <p>
+      <a href={`/passport/${c.slug}/`}>See everywhere the {r.country} passport reaches →</a>
+      {' · '}
+      <a href={`/compare/?a=${c.slug}`}>Compare this passport →</a>
+    </p>
+
+    <h2>Official sources</h2>
+    <ul class="res-sources">
+      {
+        r.sources.map((s) => (
+          <li>
+            <a href={s} target="_blank" rel="noopener">
+              {hostOf(s)}
+            </a>
+            <span class="muted small"> — {s}</span>
+          </li>
+        ))
+      }
+    </ul>
+    <p class="muted small">Every figure on this page was checked against these official sources on {verifiedLong}.</p>
+
+    <h2>{closed ? 'Open programmes' : 'Related routes'}</h2>
+    <div class="res-cards">
+      {
+        related.map((x) => (
+          <a class="res-card" href={routePath(x)}>
+            <span class="rc-top">
+              <span aria-hidden="true">{flagEmoji(x.code)}</span>
+              <strong>
+                {x.country} — {x.type === 'cbi' ? 'Citizenship by investment' : 'Residence by investment'}
+              </strong>
+            </span>
+            <span class="muted">
+              {x.status === 'closed'
+                ? `Closed ${formatDateLong(x.status_date || '')}`
+                : `From ${fmtMoney(minThreshold(x) ?? 0, x.currency)} · family of 4 ${familyTotalText(x)}`}
+            </span>
+          </a>
+        ))
+      }
+    </div>
+    <p>
+      <a href={`/residency/${c.slug}/`}>All routes for {r.country} →</a>
+      {' · '}
+      <a href="/residency/">All residency &amp; citizenship routes →</a>
+    </p>
+
+    <p class="res-disclaimer">{residencyDisclaimer(verifiedLong)}</p>
+  </div>
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbLd)} />
+</Base>
+
+<style>
+  .res-badges { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+  .res-badge { font-weight: 700; font-size: 13px; padding: 4px 12px; border-radius: 999px; }
+  .res-badge.open { background: #e3f4ea; color: #14663a; border: 1px solid #a9d8bd; }
+  .res-badge.closed { background: #fbe7e7; color: #9c1c1c; border: 1px solid #f0b4b4; font-size: 15px; padding: 6px 14px; }
+  .res-stamp { color: var(--muted); font-size: 13.5px; }
+  .res-body { padding-top: 10px; padding-bottom: 30px; }
+  .res-note { max-width: 75ch; }
+  .res-closed-box { border: 2px solid #d64545; background: #fdf1f1; border-radius: 16px; padding: 16px 20px; margin: 14px 0; }
+  .res-closed-box h2 { margin-top: 0; color: #9c1c1c; }
+  .res-table-wrap { overflow-x: auto; margin: 10px 0 18px; }
+  .res-table { width: 100%; border-collapse: collapse; }
+  .res-table-wide { min-width: 520px; }
+  .res-sources li { overflow-wrap: anywhere; }
+  .res-table th, .res-table td { text-align: left; padding: 9px 12px; border-bottom: 1px solid var(--line); vertical-align: top; }
+  .res-table th[scope='row'] { width: 34%; color: var(--muted); font-weight: 600; }
+  .res-amt { font-weight: 700; white-space: nowrap; }
+  .res-docs li { margin: 4px 0; }
+  .res-conflict { border-left: 4px solid #e0a800; background: #fdf6e0; padding: 10px 14px; border-radius: 0 12px 12px 0; max-width: 85ch; }
+  .res-sources { font-size: 14px; }
+  .res-cards { display: grid; gap: 10px; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); margin: 10px 0 16px; }
+  .res-card { display: flex; flex-direction: column; gap: 6px; padding: 14px 16px; background: var(--card); border: 1px solid var(--line); border-radius: 14px; color: var(--ink); text-decoration: none; }
+  .res-disclaimer { margin-top: 26px; padding: 12px 16px; background: var(--card); border: 1px solid var(--line); border-radius: 12px; color: var(--muted); font-size: 13.5px; max-width: 85ch; }
+</style>

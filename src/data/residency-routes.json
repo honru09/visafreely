@@ -1,0 +1,2259 @@
+{
+  "meta": {
+    "vertical": "visafreely residency & citizenship vertical v1",
+    "verified_date": "2026-11-14",
+    "standard": "Official first-hand sources only (government programme sites, official gazettes, statutes). Intermediary figures never settle a field. Conflicts between official sources are recorded in 'conflicts'. Fields with no official source are null with a note in 'unverified'.",
+    "family_basis": "Family of 4 = main applicant + spouse + 2 young children (below each programme's due-diligence fee age). 'government_total_family4' = investment + official government fees only; excludes agent/legal fees.",
+    "easy_access_definition": "visafreely dataset easyAccessCount = visa-free (F) + visa-on-arrival (A) + ETA (T) destinations, e-visa excluded; computed from the 2026-11-14 dataset snapshot — MUST be recomputed from build-time regenerated data before publishing.",
+    "ratings": {
+      "verified": "All seven decision fields (status, thresholds, government fees, processing time, residence requirement, path to PR/citizenship, dual citizenship) have an official source; disclosed conflicts count as verified with notes.",
+      "partial": "One or more decision fields lack an official source; the gaps are listed in 'unverified' and in VERIFIED-ROUTES.md."
+    },
+    "route_count": 19,
+    "batch0": {
+      "completed": "2026-11-14",
+      "summary": "All 13 phase-1 gap items closed: settled from official primary sources, confirmed officially-unpublished, dual-reported by design (UAE 5-vs-10), or deferred by adjudication (Jordan - out of v1). Verified routes 5 -> 13; partial 14 -> 6 (incl. Jordan). Phase-1 errata are recorded in VERIFIED-ROUTES.md (batch-0 errata section).",
+      "verified_count": 13,
+      "partial_count": 6,
+      "routes_in_v1": 18
+    }
+  },
+  "routes": [
+    {
+      "id": "antigua-cbi",
+      "country": "Antigua and Barbuda",
+      "code": "AG",
+      "type": "cbi",
+      "programme": "Citizenship by Investment (CIU)",
+      "status": "open",
+      "status_note": "Current prices under the Citizenship By Investment (Amendment) Regulations 2024.",
+      "legal_basis": "Citizenship by Investment Act and Regulations, as amended 2024",
+      "options": [
+        {
+          "name": "National Development Fund (NDF) contribution",
+          "amount": 230000,
+          "currency": "USD",
+          "basis": "per application, any family size"
+        },
+        {
+          "name": "Real estate",
+          "amount": 300000,
+          "currency": "USD",
+          "notes": "Hold 5 years"
+        },
+        {
+          "name": "Business investment (sole)",
+          "amount": 1500000,
+          "currency": "USD"
+        },
+        {
+          "name": "Business investment (joint, per person)",
+          "amount": 400000,
+          "currency": "USD",
+          "notes": "Joint total >= 5,000,000"
+        },
+        {
+          "name": "University of the West Indies Fund",
+          "amount": 260000,
+          "currency": "USD",
+          "notes": "Families of 6+ only; includes processing fee"
+        }
+      ],
+      "gov_fees": "Processing: USD 10,000 single / 20,000 family up to 4 / +10,000 per extra person. Due diligence: main 8,500; spouse 5,000; child 0-11 free, 12-17 2,000; dependant 18-30 4,000; parent 55+ 4,000. Passport fee 300/person.",
+      "government_total_single": 248800,
+      "government_total_family4": 264700,
+      "currency": "USD",
+      "family_total_basis": "NDF route; family of 4 with 2 children under 12 (268,700 if children are 12-17)",
+      "processing_time": "Not published by the CIU anywhere on cip.gov.ag (searched 2026-11-14: How to Apply, all option pages, Schedule of Fees). Intermediary figures of 90-120 days have no official text - do not publish.",
+      "residence_requirement": "No pre-application visit. After grant: spend at least 5 days in Antigua and Barbuda within 5 calendar years, or citizenship may be revoked without refund.",
+      "time_to_pr": null,
+      "time_to_citizenship": "Immediate (direct registration as citizen; no residence stage)",
+      "passport_validity": "5 years; renewal conditional on the 5-day stay",
+      "dual_citizenship": "Allowed. Constitution of Antigua and Barbuda s.115 (headed 'Dual citizenship', Cap. 23): a citizen who also holds another citizenship is not deprived of Antiguan citizenship, refused registration, or required to renounce either citizenship, and may not be refused an Antiguan passport for holding another. cip.gov.ag itself carries no dual-citizenship statement.",
+      "restricted_nationalities": "No current official list is published. The only list on cip.gov.ag is the Cabinet list of 2014-12-11 (Iran, Afghanistan, Iraq, North Korea, Somalia, Yemen), republished in a CIU notice of 2016-04-12, with an exception for those nationals lawfully permanently resident in Canada, the US or the UK. Intermediary lists adding Sudan, Russia and Belarus are NOT confirmed on any official page (searched 2026-11-14) and must not be used.",
+      "documents": [
+        "Licensed-agent submission",
+        "Police certificates (18+, countries of 6+ months residence since age 18, issued <3 months)",
+        "Medical certificate incl. HIV test",
+        "Birth certificate",
+        "Certified colour passport copies"
+      ],
+      "easy_access_count": 132,
+      "rating": "partial",
+      "unverified": [
+        "Official processing time - confirmed not published (2026-11-14)",
+        "Current restricted-nationality list - confirmed not published; only the 2014/2016 list exists on cip.gov.ag",
+        "Interview fee - absent from the official Schedule of Fees; intermediary USD 1,500 figure unconfirmed"
+      ],
+      "conflicts": [
+        "Official fee schedule prints spouse due diligence as USD 75,000 in the business-investment table vs 5,000 in three other tables on the same page — official typo, reported both, 5,000 treated as intended value pending CIU confirmation (Schedule re-read 2026-11-14: still not corrected.)",
+        "Interview fee: intermediary reports of a USD 1,500 interview fee from 2023-12-15 have no official text - the Schedule of Fees (re-read 2026-11-14) contains no interview-fee entry; not included in the totals."
+      ],
+      "sources": [
+        "https://cip.gov.ag/citizenship/",
+        "https://cip.gov.ag/investment-options/ndf/",
+        "https://cip.gov.ag/investment-options/real-estate/",
+        "https://cip.gov.ag/investment-options/business-investment/",
+        "https://cip.gov.ag/investment-options/uwi-fund/",
+        "https://cip.gov.ag/schedule-of-fees/",
+        "https://cip.gov.ag/citizenship/antigua-and-barbuda-passport/",
+        "https://cip.gov.ag/how-to-apply/police-certificates/",
+        "https://cip.gov.ag/statement-by-sir-ronald-sanders/",
+        "https://laws.gov.ag/wp-content/uploads/2018/08/cap-23.pdf"
+      ],
+      "rating_note": "Batch 0 (2026-11-14): dual citizenship settled at constitutional level (s.115); processing time, the current restricted list and the interview fee are all confirmed absent from official publication - pages must render them as 'not officially published'. Remains partial because three decision fields carry no official value.",
+      "field_sources": {
+        "status": {
+          "source": "https://cip.gov.ag/investment-options/ndf/",
+          "verified": "2026-11-14"
+        },
+        "options": {
+          "source": "https://cip.gov.ag/investment-options/ndf/",
+          "verified": "2026-11-14"
+        },
+        "gov_fees": {
+          "source": "https://cip.gov.ag/schedule-of-fees/",
+          "verified": "2026-11-14"
+        },
+        "totals": {
+          "source": "https://cip.gov.ag/schedule-of-fees/",
+          "verified": "2026-11-14"
+        },
+        "processing_time": {
+          "source": null,
+          "verified": "2026-11-14",
+          "note": "Confirmed not published on cip.gov.ag (searched 2026-11-14)."
+        },
+        "residence_requirement": {
+          "source": "https://cip.gov.ag/investment-options/ndf/",
+          "verified": "2026-11-14",
+          "note": "5-day presence rule, NDF page."
+        },
+        "time_to_citizenship": {
+          "source": "https://cip.gov.ag/how-to-apply/police-certificates/",
+          "verified": "2026-11-14",
+          "note": "Citizenship is granted directly on approval."
+        },
+        "dual_citizenship": {
+          "source": "https://laws.gov.ag/wp-content/uploads/2018/08/cap-23.pdf",
+          "verified": "2026-11-14",
+          "note": "Constitution s.115."
+        },
+        "restricted_nationalities": {
+          "source": null,
+          "verified": "2026-11-14",
+          "note": "Current list confirmed not published; 2014/2016 list on cip.gov.ag is outdated."
+        }
+      }
+    },
+    {
+      "id": "dominica-cbi",
+      "country": "Dominica",
+      "code": "DM",
+      "type": "cbi",
+      "programme": "Citizenship by Investment (CBIU)",
+      "status": "open",
+      "status_note": "Citizenship by Investment Regulations 2024; Caribbean MOA USD 200,000 floor from 2024-07-01. The USD 100,000 figure shown by passports.io is stale.",
+      "legal_basis": "Citizenship by Investment Regulations 2024",
+      "options": [
+        {
+          "name": "Economic Diversification Fund (EDF) contribution — single",
+          "amount": 200000,
+          "currency": "USD"
+        },
+        {
+          "name": "EDF contribution — main applicant + up to 3 dependants",
+          "amount": 250000,
+          "currency": "USD",
+          "notes": "Additional dependant: +25,000 (under 18) / +40,000 (18+)"
+        },
+        {
+          "name": "Government-approved real estate",
+          "amount": 200000,
+          "currency": "USD",
+          "notes": "Hold 3 years (5 if resold to another CBI applicant)"
+        }
+      ],
+      "gov_fees": "EDF route: processing 1,000/application; due diligence main 7,500, dependant 16+ 4,000; naturalisation certificate 500/person; mandatory interview 1,000 (unit disputed, see conflicts). Real-estate route government fee on approval: 75,000 single / 100,000 main + up to 3 dependants / +25,000 (<18) / +40,000 (18+).",
+      "government_total_single": 210000,
+      "government_total_family4": 266500,
+      "currency": "USD",
+      "family_total_basis": "EDF route; interview fee counted per person aged 16+",
+      "processing_time": "Approval in principle typically 3-4 months; overall about 3-6 months (CBIU FAQ/how-to-apply)",
+      "residence_requirement": "None, before or after grant; mandatory interview for 16+ is virtual",
+      "time_to_pr": null,
+      "time_to_citizenship": "Immediate on approval and payment",
+      "passport_validity": "10 years adults, 5 years minors",
+      "dual_citizenship": "Allowed — explicitly stated by the CBIU",
+      "restricted_nationalities": "Banned: Belarus, Russia, Northern Iraq (incl. named Kurdish-region cities). Suspended: Yemen (government circular 2024-01-15). Conditionally refused: Iran, North Korea, Sudan (unless 10+ years non-resident, no substantial assets, no business ties; enhanced due diligence may apply).",
+      "documents": [
+        "Authorised Agent only (no direct applications)",
+        "Passport (6+ months validity)",
+        "Proof of funds / bank statements",
+        "Certified birth certificate",
+        "Police certificates (birth country, residence country, countries of 6+ months in last 10 years)",
+        "Medical form incl. blood/urine/HIV tests",
+        "Proof of investment"
+      ],
+      "easy_access_count": 122,
+      "rating": "verified",
+      "unverified": [],
+      "conflicts": [
+        "Interview fee unit: EDF page says 'per interview' (per person 16+), how-to-apply page says 'per application' — both official, reported both"
+      ],
+      "sources": [
+        "https://www.cbiu.gov.dm/investment-options/economic-diversification-fund/",
+        "https://www.cbiu.gov.dm/investment-options/real-estate/",
+        "https://www.cbiu.gov.dm/dominica-citizenship/how-to-apply/",
+        "https://www.cbiu.gov.dm/faqs/",
+        "https://www.cbiu.gov.dm/dominica-citizenship/banned-nationalities/",
+        "https://www.cbiu.gov.dm/news/is-dual-citizenship-allowed-in-dominica-everything-you-need-to-know/"
+      ],
+      "field_sources": {
+        "status": {
+          "source": "https://www.cbiu.gov.dm/investment-options/economic-diversification-fund/",
+          "verified": "2026-11-14"
+        },
+        "options": {
+          "source": "https://www.cbiu.gov.dm/investment-options/economic-diversification-fund/",
+          "verified": "2026-11-14"
+        },
+        "gov_fees": {
+          "source": null,
+          "verified": "2026-11-14"
+        },
+        "totals": {
+          "source": null,
+          "verified": "2026-11-14"
+        },
+        "processing_time": {
+          "source": "https://www.cbiu.gov.dm/dominica-citizenship/how-to-apply/",
+          "verified": "2026-11-14"
+        },
+        "residence_requirement": {
+          "source": null,
+          "verified": "2026-11-14"
+        },
+        "time_to_citizenship": {
+          "source": "https://www.cbiu.gov.dm/investment-options/economic-diversification-fund/",
+          "verified": "2026-11-14",
+          "note": "Citizenship is granted directly on approval."
+        },
+        "dual_citizenship": {
+          "source": "https://www.cbiu.gov.dm/investment-options/economic-diversification-fund/",
+          "verified": "2026-11-14"
+        },
+        "restricted_nationalities": {
+          "source": null,
+          "verified": "2026-11-14"
+        }
+      }
+    },
+    {
+      "id": "grenada-cbi",
+      "country": "Grenada",
+      "code": "GD",
+      "type": "cbi",
+      "programme": "Citizenship by Investment (IMA Grenada)",
+      "status": "open",
+      "status_note": "Unit renamed CIU -> IMA Grenada on 2024-03-20. Current prices from 2024-07-01 (SRO No. 12 of 2024; IMA Circular No. 2 of 2024). The old cbi.gov.gd site is obsolete.",
+      "legal_basis": "Citizenship by Investment Act 2013 regulations, SRO No. 12 of 2024 and SRO No. 21 of 2025",
+      "options": [
+        {
+          "name": "National Transformation Fund (NTF) contribution",
+          "amount": 235000,
+          "currency": "USD",
+          "basis": "single applicant or family of up to 4",
+          "notes": "Of this, 200,000 goes to government and up to 35,000 is agent commission (Circular text). Additional dependant +25,000 (specific categories 50,000); sibling +75,000"
+        },
+        {
+          "name": "Approved project (real estate) — full unit",
+          "amount": 350000,
+          "currency": "USD",
+          "notes": "Plus government contribution 50,000 (main + up to 3 dependants) Holding period: the investment must not be disposed of until 5 years from the grant of citizenship (CBI Act s.11(3), inserted by Act No. 3 of 2019); only after that may it be resold to a subsequent CBI applicant."
+        },
+        {
+          "name": "Approved project — tourism accommodation share",
+          "amount": 270000,
+          "currency": "USD",
+          "notes": "Unit total >= 440,000, may be shared by 2+ investors; plus government contribution 50,000 Holding period: as for full units - 5 years from the grant of citizenship (CBI Act s.11(3))."
+        }
+      ],
+      "gov_fees": "Application 1,500/person; due diligence 5,000 per person 17+; processing 1,500 per person 17+ / 500 under 17; interview 1,000 per person 17+. Passport and oath fees not verified in official text (excluded from totals).",
+      "government_total_single": 244000,
+      "government_total_family4": 257000,
+      "currency": "USD",
+      "family_total_basis": "NTF route, excluding passport/oath fees (not officially verified)",
+      "processing_time": "Approved within 60 business days of submission, subject to a satisfactory due diligence check and the funds being received (IMA FAQ, read verbatim 2026-11-14).",
+      "residence_requirement": "None currently; interview is online. ECCIRA's proposed 30-day standard is not in force.",
+      "time_to_pr": null,
+      "time_to_citizenship": "Immediate (NTF route; a PR-first variant also exists)",
+      "passport_validity": "10 years for adults (10-year ePassport since 2024-07-01; official consular fee US$350); 5 years for under-18s (US$250). The IMA FAQ still states all passports are valid for five years - stale, superseded.",
+      "dual_citizenship": "Allowed under Grenadian law (IMA FAQ wording; page re-check pending)",
+      "restricted_nationalities": "Persons residing in Iran, North Korea, Russia, Belarus, Sudan, Yemen, Afghanistan cannot apply (IMA Circular No. 1 of 2024, from 2024-04-01). Exception: persons born in Iran/Sudan/Yemen/Afghanistan who left before adulthood and hold 10+ years of PR or valid visas in CA/UK/Schengen/US/AU/NZ/SA/UAE with no economic ties to the restricted country.",
+      "documents": [
+        "Medical practitioner's certificate",
+        "Police certificate",
+        "Main applicant 18+, good health, lawful source of funds",
+        "Agent submission only"
+      ],
+      "easy_access_count": 128,
+      "rating": "verified",
+      "unverified": [
+        "CBI-specific passport and oath fees - not published by the IMA (agent claims of a US$20 vs US$500 oath fee conflict and are not adopted). General consular passport fees apply (see passport_validity)."
+      ],
+      "conflicts": [
+        "Due diligence presentation: fee table lists 5,000 + 1,000 interview separately; IMA FAQ merges them as 6,000 for applicants 17+",
+        "Passport validity (resolved 2026-11-14): the IMA FAQ's 'all Grenadian passports are valid for five years' is stale - official consular price lists (Miami consulate; US embassy, July 2024) set a 10-year ePassport for 18+ from 2024-07-01 (US$350) and 5 years for under-18s (US$250).",
+        "Due diligence fee - IMA internal inconsistency: the FAQ fees section states US$6,000 (applicants 17+), while the statutory fee table / SRO No. 12 of 2024 states US$5,000 with the US$1,000 interview fee listed separately; the FAQ figure appears to bundle the interview fee. The fee table governs; the FAQ is unreliable on fees."
+      ],
+      "sources": [
+        "https://imagrenada.gd/news/grenada-cbi-unveils-its-new-name-and-brand/",
+        "https://imagrenada.gd/wp-content/uploads/2024/07/Update-to-Circular-No.-2-Minimum-Investment-Threshold-July-3-2024.pdf",
+        "https://imagrenada.gd/becoming-a-citizen/",
+        "https://imagrenada.gd/wp-content/uploads/2026/06/S.R.O.-21-of-2025-Grenada-Citizenship-by-Investment-Amendment-Regulations.pdf",
+        "https://imagrenada.gd/faqs/",
+        "https://www.grenadaconsulatemiami.com/consular-services/nationals/",
+        "https://grenadaparliament.gd/wp-content/uploads/2021/08/Act-No.-15-of-2013-Grenada-Citizenship-by-Investment-Act.pdf"
+      ],
+      "rating_note": "Upgraded in batch 0 (2026-11-14): the IMA FAQ was located and read - the 60-business-day approval and dual citizenship are now verbatim official text; the passport-validity conflict is resolved (adults 10 years); the 5-year real-estate holding period is settled from the Act. Only the CBI-specific passport/oath fees remain unpublished, ancillary to the seven decision fields.",
+      "field_sources": {
+        "status": {
+          "source": "https://imagrenada.gd/news/grenada-cbi-unveils-its-new-name-and-brand/",
+          "verified": "2026-11-14"
+        },
+        "options": {
+          "source": null,
+          "verified": "2026-11-14"
+        },
+        "gov_fees": {
+          "source": null,
+          "verified": "2026-11-14",
+          "note": "Fee table / SRO govern; IMA FAQ fee figures conflict (see conflicts)."
+        },
+        "totals": {
+          "source": null,
+          "verified": "2026-11-14"
+        },
+        "processing_time": {
+          "source": "https://imagrenada.gd/faqs/",
+          "verified": "2026-11-14",
+          "note": "60 business days, verbatim."
+        },
+        "residence_requirement": {
+          "source": "https://imagrenada.gd/news/grenada-cbi-unveils-its-new-name-and-brand/",
+          "verified": "2026-11-14"
+        },
+        "time_to_citizenship": {
+          "source": "https://imagrenada.gd/news/grenada-cbi-unveils-its-new-name-and-brand/",
+          "verified": "2026-11-14",
+          "note": "Citizenship is granted directly on approval."
+        },
+        "dual_citizenship": {
+          "source": "https://imagrenada.gd/faqs/",
+          "verified": "2026-11-14",
+          "note": "Verbatim: Grenada allows dual citizenship, no renunciation."
+        },
+        "restricted_nationalities": {
+          "source": null,
+          "verified": "2026-11-14",
+          "note": "IMA Circular No. 1 of 2024 list as recorded in phase 1."
+        }
+      }
+    },
+    {
+      "id": "st-kitts-cbi",
+      "country": "St. Kitts and Nevis",
+      "code": "KN",
+      "type": "cbi",
+      "programme": "Citizenship by Investment (CIU)",
+      "status": "open",
+      "status_note": "Current prices under SRO No. 20 of 2024 (gazetted 2024-07-08). An older CIU page still shows superseded SISC tiers and a 400,000 real-estate figure — not used.",
+      "legal_basis": "Citizenship by Investment Regulations, SRO No. 20 of 2024; post-approval fees amended by SRO No. 1 of 2026",
+      "options": [
+        {
+          "name": "Sustainable Island State Contribution (SISC)",
+          "amount": 250000,
+          "currency": "USD",
+          "basis": "main applicant or family of up to 4",
+          "notes": "Additional dependant +25,000 (under 18) / +50,000 (18+)"
+        },
+        {
+          "name": "Public Benefit Option",
+          "amount": 250000,
+          "currency": "USD",
+          "basis": "main applicant or family of up to 4"
+        },
+        {
+          "name": "Developer's Real Estate (Approved Development)",
+          "amount": 325000,
+          "currency": "USD",
+          "notes": "Resaleable after 7 years"
+        },
+        {
+          "name": "Private Real Estate — condo unit/share",
+          "amount": 325000,
+          "currency": "USD",
+          "notes": "Hold at least 7 years"
+        },
+        {
+          "name": "Private Real Estate — single-family home",
+          "amount": 600000,
+          "currency": "USD",
+          "notes": "Hold at least 7 years"
+        }
+      ],
+      "gov_fees": "Due diligence: main 10,000; spouse and each dependant 16+ 7,500 (SRO 20/2024 Reg. 24). Application fee 250/applicant (Reg. 25). Post-approval fee applies to real-estate and PBO routes only — see conflicts. Passport fee not published in the sources read.",
+      "government_total_single": 260250,
+      "government_total_family4": 268500,
+      "currency": "USD",
+      "family_total_basis": "SISC route, excluding passport fee (not officially published)",
+      "processing_time": "120-180 days from the Unit's acknowledgment of submission (SISC page)",
+      "residence_requirement": "None ('No mandatory travel or residency requirements'); main-applicant interview may be virtual",
+      "time_to_pr": null,
+      "time_to_citizenship": "Immediate; lifetime citizenship",
+      "passport_validity": null,
+      "dual_citizenship": "Allowed — explicitly stated on the CIU CBI options page",
+      "restricted_nationalities": "Applications not accepted from citizens of Afghanistan, Belarus, Iran, Iraq, North Korea, Russia (CIU eligibility page)",
+      "documents": [
+        "Authorised Agent submission on prescribed forms",
+        "Biometric/fingerprint collection as part of due diligence",
+        "Main applicant 18+, qualifying investment, due-diligence and financial checks"
+      ],
+      "easy_access_count": 136,
+      "rating": "verified",
+      "unverified": [
+        "Passport fee",
+        "Passport validity period (not stated on CIU pages read)"
+      ],
+      "conflicts": [
+        "Post-approval fee: CIU web pages list per-person rates (main 25,000 / spouse 15,000 / dependant under 18 10,000 / 18+ 15,000), but SRO No. 1 of 2026 (2026-01-16) replaced Reg. 26 with a flat 25,000 (main, or main + spouse + up to 2 dependants, or main + up to 3 dependants), +25,000 per extra dependant under 18 / +50,000 18+. The regulation governs for 2026 applications; the website lags."
+      ],
+      "sources": [
+        "https://ciu.gov.kn/wp-content/uploads/2025/01/sro-20-of-2024.pdf",
+        "https://ciu.gov.kn/wp-content/uploads/2026/01/SRO-1-OF-2026.pdf",
+        "https://ciu.gov.kn/cbi-options/",
+        "https://ciu.gov.kn/sustainable-island-state-contribution/",
+        "https://ciu.gov.kn/public-benefit-option/",
+        "https://ciu.gov.kn/real-estate-investment/",
+        "https://ciu.gov.kn/private-real-estate-sale/",
+        "https://ciu.gov.kn/eligibility-criteria/"
+      ],
+      "field_sources": {
+        "status": {
+          "source": "https://ciu.gov.kn/wp-content/uploads/2025/01/sro-20-of-2024.pdf",
+          "verified": "2026-11-14"
+        },
+        "options": {
+          "source": "https://ciu.gov.kn/sustainable-island-state-contribution/",
+          "verified": "2026-11-14"
+        },
+        "gov_fees": {
+          "source": "https://ciu.gov.kn/sustainable-island-state-contribution/",
+          "verified": "2026-11-14"
+        },
+        "totals": {
+          "source": "https://ciu.gov.kn/sustainable-island-state-contribution/",
+          "verified": "2026-11-14"
+        },
+        "processing_time": {
+          "source": null,
+          "verified": "2026-11-14"
+        },
+        "residence_requirement": {
+          "source": null,
+          "verified": "2026-11-14"
+        },
+        "time_to_citizenship": {
+          "source": "https://ciu.gov.kn/wp-content/uploads/2025/01/sro-20-of-2024.pdf",
+          "verified": "2026-11-14",
+          "note": "Citizenship is granted directly on approval."
+        },
+        "dual_citizenship": {
+          "source": null,
+          "verified": "2026-11-14"
+        },
+        "restricted_nationalities": {
+          "source": "https://ciu.gov.kn/wp-content/uploads/2025/01/sro-20-of-2024.pdf",
+          "verified": "2026-11-14",
+          "note": "CIU announcements (Russia/Belarus suspension and published ineligible list)."
+        }
+      }
+    },
+    {
+      "id": "st-lucia-cbi",
+      "country": "Saint Lucia",
+      "code": "LC",
+      "type": "cbi",
+      "programme": "Citizenship by Investment (CIP)",
+      "status": "open",
+      "status_note": "Current prices under Statutory Instrument No. 106 of 2024, in force 2024-07-01. WARNING: the CIP website FAQ still shows pre-2024 prices (NEF 100,000 etc.) that conflict with the investment page and SI 106/2024 — the FAQ prices are stale and are not used.",
+      "legal_basis": "Citizenship by Investment (Amendment No. 2) Regulations, SI No. 106 of 2024",
+      "options": [
+        {
+          "name": "National Economic Fund (NEF) contribution",
+          "amount": 240000,
+          "currency": "USD",
+          "basis": "applicant alone or with up to 3 qualifying dependants",
+          "notes": "Additional dependant +10,000 (under 18) / +20,000 (over 18); newborn addition 5,000; citizen's spouse addition 35,000"
+        },
+        {
+          "name": "National Action Bond (NAB)",
+          "amount": 300000,
+          "currency": "USD",
+          "notes": "Non-interest-bearing, held 5 years in applicant's name, any number of dependants; plus non-refundable admin fee 50,000"
+        },
+        {
+          "name": "Real estate",
+          "amount": 300000,
+          "currency": "USD",
+          "notes": "Admin fee: 30,000 single / 45,000 main+spouse / +5,000 per dependant under 18 / +10,000 over 18; hold at least 5 years after citizenship"
+        },
+        {
+          "name": "Enterprise project (sole)",
+          "amount": 3500000,
+          "currency": "USD",
+          "notes": "Plus admin fee 50,000"
+        },
+        {
+          "name": "Enterprise project (joint)",
+          "amount": 6000000,
+          "currency": "USD",
+          "notes": "Each investor >= 1,000,000; plus admin fee 50,000"
+        },
+        {
+          "name": "Enterprise project — housing/infrastructure category",
+          "amount": 250000,
+          "currency": "USD",
+          "basis": "main applicant + up to 3 dependants",
+          "notes": "Tiered admin fees 15,000-30,000"
+        }
+      ],
+      "gov_fees": "Processing: main 2,000, dependant 1,000 each. Due diligence: main 8,000, dependant 16+ 5,000 (the FAQ's 7,500 is the old figure). Interview/identity-verification fee (since 2023-09-04, main applicant only) amount not published on the investment page. Passport fee not published.",
+      "government_total_single": 250000,
+      "government_total_family4": 258000,
+      "currency": "USD",
+      "family_total_basis": "NEF route, excluding interview and passport fees (amounts not officially published)",
+      "processing_time": "Approximately 90 days from acceptance for processing to grant of citizenship (CIP FAQ — procedural statement, unaffected by the FAQ's stale prices)",
+      "residence_requirement": "None; oath of allegiance can be sworn before an attorney, consular officer, honorary consul or notary without entering Saint Lucia",
+      "time_to_pr": null,
+      "time_to_citizenship": "Immediate; lifetime citizenship",
+      "passport_validity": "10 years (from 2025-08-05, OPM announcement; fees unchanged). Fee: EC$250 per the 2022 ePassport pricing - a stale govt.lc service page still shows EC$80/EC$130 (see conflicts).",
+      "dual_citizenship": "Allowed (CIP official explainer)",
+      "restricted_nationalities": "Only one restriction is officially in force: applications from nationals of Russia and Belarus are suspended (CIP Unit notice, memorandum of 2022-03-18; still listed on the official site 2026-11-14). No official list covering any other nationality is published.",
+      "documents": [
+        "Licensed Authorised Agent only",
+        "Main applicant 18+",
+        "Due diligence for main applicant and dependants 16+",
+        "Documents in English or certified translation",
+        "Full disclosure; non-refundable processing/due-diligence/admin fees"
+      ],
+      "easy_access_count": 125,
+      "rating": "verified",
+      "unverified": [
+        "Any restricted-nationality list beyond the Russia/Belarus suspension - none published",
+        "Passport fee - EC$250 vs the stale EC$80 service page (dual-reported)"
+      ],
+      "conflicts": [
+        "CIP FAQ prices (NEF single 100,000 / spouse 140,000 / family of 4 150,000; real estate 200,000; due diligence 7,500) conflict with the current investment page and SI 106/2024 — FAQ is stale; investment page + SI govern",
+        "Passport fee (official vs official): the live govt.lc service page lists EC$80 regular / EC$130 express (pre-ePassport pricing); the 2022 ePassport price was set at EC$250 (govt.lc news) and the 2025 10-year-passport announcement confirms fees are unchanged. Chronology points to EC$250; the EC$80 page remains online, so the conflict is disclosed, not hidden.",
+        "Interview fee presentation: the CIP site confirms the interview / identity-verification process (from September 2023, main applicant only) but publishes no separate fee. The main applicant's due diligence rose from US$7,500 (SI No. 222 of 2022) to US$8,000 (current site) - the interview cost appears bundled; do NOT add a separate US$500 on top of US$8,000."
+      ],
+      "sources": [
+        "https://www.cipsaintlucia.com/s/SI-No-106-of-2024-Citizenship-by-Investment-Amendment-No-2-Regulations.pdf",
+        "https://www.cipsaintlucia.com/citizenship-by-investment",
+        "https://www.cipsaintlucia.com/faqs",
+        "https://www.cipsaintlucia.com/news-blog/russianapplications",
+        "https://opm.govt.lc/news/government-of-saint-lucia-launches-new-10-year-passports-no-increase-in-fees",
+        "https://www.govt.lc/news/price-of-new-electronic-passport-confirmed-at-250"
+      ],
+      "rating_note": "Upgraded in batch 0 (2026-11-14): restricted-nationality position settled (Russia/Belarus suspension only); interview-fee treatment settled (bundled into the US$8,000 main-applicant due diligence - no separate official figure); passport validity settled at 10 years. The passport fee remains dual-reported (see conflicts).",
+      "field_sources": {
+        "status": {
+          "source": "https://www.cipsaintlucia.com/s/SI-No-106-of-2024-Citizenship-by-Investment-Amendment-No-2-Regulations.pdf",
+          "verified": "2026-11-14"
+        },
+        "options": {
+          "source": "https://www.cipsaintlucia.com/citizenship-by-investment",
+          "verified": "2026-11-14"
+        },
+        "gov_fees": {
+          "source": "https://www.cipsaintlucia.com/citizenship-by-investment",
+          "verified": "2026-11-14"
+        },
+        "totals": {
+          "source": "https://www.cipsaintlucia.com/citizenship-by-investment",
+          "verified": "2026-11-14"
+        },
+        "processing_time": {
+          "source": "https://www.cipsaintlucia.com/s/SI-No-106-of-2024-Citizenship-by-Investment-Amendment-No-2-Regulations.pdf",
+          "verified": "2026-11-14",
+          "note": "CIP FAQ procedural statement (phase 1)."
+        },
+        "residence_requirement": {
+          "source": "https://www.cipsaintlucia.com/citizenship-by-investment",
+          "verified": "2026-11-14"
+        },
+        "time_to_citizenship": {
+          "source": "https://www.cipsaintlucia.com/s/SI-No-106-of-2024-Citizenship-by-Investment-Amendment-No-2-Regulations.pdf",
+          "verified": "2026-11-14",
+          "note": "Citizenship is granted directly on approval."
+        },
+        "dual_citizenship": {
+          "source": "https://www.cipsaintlucia.com/s/SI-No-106-of-2024-Citizenship-by-Investment-Amendment-No-2-Regulations.pdf",
+          "verified": "2026-11-14"
+        },
+        "restricted_nationalities": {
+          "source": "https://www.cipsaintlucia.com/news-blog/russianapplications",
+          "verified": "2026-11-14"
+        }
+      }
+    },
+    {
+      "id": "vanuatu-dsp",
+      "country": "Vanuatu",
+      "code": "VU",
+      "type": "cbi",
+      "programme": "Development Support Program (DSP) / Capital Investment Immigration Plan (CIIP)",
+      "status": "open",
+      "status_note": "Administered by the Citizenship Office & Commission (constitutional body). DSP pricing under Regulations Order No. 33 of 2019; agents must adhere to government-stipulated pricing.",
+      "legal_basis": "Citizenship Act [CAP 112]; Citizenship (Development Support Program) Regulations Order No. 33 of 2019; Order No. 34 of 2019 (VCP)",
+      "options": [
+        {
+          "name": "DSP contribution — single applicant",
+          "amount": 130000,
+          "currency": "USD"
+        },
+        {
+          "name": "DSP contribution — married couple",
+          "amount": 150000,
+          "currency": "USD"
+        },
+        {
+          "name": "DSP contribution — couple + 1 child",
+          "amount": 165000,
+          "currency": "USD"
+        },
+        {
+          "name": "DSP contribution — couple + 2 children (family of 4)",
+          "amount": 180000,
+          "currency": "USD",
+          "notes": "Listed on the official fee schedule as the Citizenship (Certificate) Fee, payable on approval; additional applicant +10,000"
+        },
+        {
+          "name": "CIIP (Form D) Citizenship Fee",
+          "amount": 260000,
+          "currency": "USD",
+          "basis": "applicant + spouse + 1 child under 18",
+          "notes": "Extra child under 18 +19,250; dependant 18-21 +44,250"
+        },
+        {
+          "name": "Real Estate Option (REO)",
+          "amount": 200000,
+          "currency": "USD",
+          "notes": "Order No. 93 of 2021, art. 4: purchase of a lot in a VGA-approved project for 'not less than 200,000 USD' + prescribed government fee USD 20,000 (25% due before Commission consideration, 75% before the certificate issues; the lot price is payable 100% before consideration). Plus application fee VT 5,000, due diligence USD 5,000, certificate VT 10,000 per person, and USD 5,000 per additional dependant beyond spouse + 2 children + 1 resident dependant. Market claims of a 'USD 90,000 REO donation' have no basis in the Order. Regulation text read as a gazette text via a non-official carrier - the official website publishes no REO amounts."
+        },
+        {
+          "name": "VCP contribution programme",
+          "amount": 80000,
+          "currency": "USD",
+          "notes": "Order No. 220 of 2016 as amended by Order No. 45 of 2018, art. 3 - fees payable to the Government account: single 80,000 / couple 100,000 / +1 child 115,000 / +2 children 130,000 / additional dependant 10,000. These are the government-account shares, not a market all-in price. (A circulating claim that Order No. 34 of 2019 sets VCP pricing is unverified.) Regulation text read via a non-official carrier; the official website publishes no VCP amounts."
+        }
+      ],
+      "gov_fees": "FIU due diligence fee USD 5,000. Application fee 5,000 Vatu per application (Form D: USD 250).",
+      "government_total_single": null,
+      "government_total_family4": 185000,
+      "currency": "USD",
+      "family_total_basis": "DSP family-of-4 fee 180,000 + FIU fee 5,000, plus the small application fee",
+      "processing_time": "Official programme pages publish no end-to-end timeline. Statute level: Citizenship Act ss.13C (CIIP), 13D (VCP) and 13E (DSP) each give the Commission a 3-month decision period (Act text read via a paclii carrier). REO Order No. 93 of 2021, art. 3(7): certificate within 90 days of approval; decisions notified to the Master Agent within 48 hours. Agent claims of 30-60 days have no official basis.",
+      "residence_requirement": "No residence-period prerequisite in the investment-route forms (the 10-year residence Form A is the ordinary naturalisation route, not DSP/CIIP). Open question: the generic official process page states the oath can only be completed in a Vanuatu court, requiring travel — whether this applies to DSP remote arrangements is not separately clarified officially.",
+      "time_to_pr": null,
+      "time_to_citizenship": "Direct (investment route)",
+      "passport_validity": null,
+      "dual_citizenship": "Allowed — official legislative-framework page records the recognition of dual citizenship, incl. under CIIP (2018 amendment)",
+      "restricted_nationalities": "A restricted list EXISTS but its contents are NOT published: a PMO statement of 2025-03-18 confirms Vanuatu 'maintains a strict list of restricted nationalities that are ineligible to apply'. Published exception rule (REO Order art. 3(9); DSP Order art. 6(8)): the Commission may accept a national of a restricted country who has not resided there for the last 5 years and evidences permanent residency abroad. Agent lists (Iran/Iraq/North Korea/Syria/Yemen, sometimes plus Afghanistan) have no official backing - do not publish.",
+      "documents": [
+        "Per-form checklist submitted with the application form",
+        "Designated-agent submission",
+        "FIU due diligence",
+        "Oath + Citizenship Fee before certificate issuance"
+      ],
+      "easy_access_count": 79,
+      "rating": "verified",
+      "unverified": [
+        "Contents of the restricted-nationality list - confirmed not published",
+        "Oath modality for overseas applicants - conflicted, dual-reported",
+        "REO/VCP amounts on the official website - not published there; settled from regulation (gazette) texts via non-official carriers"
+      ],
+      "conflicts": [
+        "Oath of allegiance location (official conflict, dual-reported): (a) the generic Citizenship Office process page says the oath 'can only be made in Vanuatu's court' and foreign-based applicants 'must travel to Vanuatu'; (b) a programme-specific Citizenship Commission notice (Contribution Program / Honorary DSP / REO applicants) requires the oath in the physical presence of a Commissioner for Oaths and still carries a COVID-era acceptance of video-conference oaths - still online, no withdrawal or currency confirmation found; (c) the Citizenship Act allows the oath before any authorised person, the Council secretary or a District Commissioner - broader than 'court'. No official text provides for an oath at a consulate or embassy (REO Order art. 5 allows certificate DELIVERY abroad after the oath, which is not an oath abroad)."
+      ],
+      "context_facts": [
+        "EU: Regulation (EU) 2025/11 moved Vanuatu to the visa-required annex; the visa-waiver agreement has been fully suspended since 2023-02-04.",
+        "UK: visa requirement imposed on ni-Vanuatu nationals with immediate effect 2023-07-19, citing CBI concerns (gov.uk)."
+      ],
+      "sources": [
+        "https://vancitizenship.gov.vu/index.php/citizenship/fees-and-charges",
+        "https://vancitizenship.gov.vu/index.php/about-us/legislative-framework",
+        "https://vancitizenship.gov.vu/index.php/news-and-updates/94-enforcement-of-government-prescribed-fees-directive",
+        "https://vancitizenship.gov.vu/index.php/citizenship/application-process",
+        "https://pmo.gov.vu/en/public-information/press-release/1094-govt-responds-to-us-immigration-watchlist-report.html",
+        "https://pmo.gov.vu/en/public-information/press-release/1101-enhanced-financial-integration-for-all-citizenship-applications.html",
+        "https://eur-lex.europa.eu/eli/reg/2025/11/oj/eng",
+        "https://www.gov.uk/government/news/visa-requirement-for-ni-vanuatu-nationals-visiting-uk"
+      ],
+      "rating_note": "Upgraded in batch 0 (2026-11-14) with carrier caveats: REO and VCP amounts are settled at regulation level (Order No. 93 of 2021; Order No. 220 of 2016 as amended by Order No. 45 of 2018) read as gazette texts hosted off the official site - the official website itself publishes no amounts for either programme. Processing rests on the Citizenship Act's 3-month Commission decision period (Act text via a paclii carrier). The restricted list's existence and its 5-year exception rule are official; its contents are not published. The oath conflict is disclosed, not resolved.",
+      "field_sources": {
+        "status": {
+          "source": "https://vancitizenship.gov.vu/index.php/citizenship/fees-and-charges",
+          "verified": "2026-11-14"
+        },
+        "options": {
+          "source": "https://vancitizenship.gov.vu/index.php/citizenship/fees-and-charges",
+          "verified": "2026-11-14",
+          "note": "Fees page carries the DSP table; REO/VCP amounts are settled from regulation texts (Order 93/2021; Order 220/2016 as amended) via gazette carriers - see option notes."
+        },
+        "gov_fees": {
+          "source": "https://vancitizenship.gov.vu/index.php/citizenship/fees-and-charges",
+          "verified": "2026-11-14"
+        },
+        "totals": {
+          "source": "https://vancitizenship.gov.vu/index.php/citizenship/fees-and-charges",
+          "verified": "2026-11-14"
+        },
+        "processing_time": {
+          "source": null,
+          "verified": "2026-11-14",
+          "note": "No timeline on official pages; statutory 3-month Commission decision period (Citizenship Act ss.13C/13D/13E) read via a paclii carrier."
+        },
+        "residence_requirement": {
+          "source": "https://vancitizenship.gov.vu/index.php/citizenship/fees-and-charges",
+          "verified": "2026-11-14",
+          "note": "No residence prerequisite in the investment-application forms."
+        },
+        "time_to_citizenship": {
+          "source": "https://vancitizenship.gov.vu/index.php/citizenship/fees-and-charges",
+          "verified": "2026-11-14",
+          "note": "Citizenship is granted directly on approval."
+        },
+        "dual_citizenship": {
+          "source": "https://vancitizenship.gov.vu/index.php/citizenship/fees-and-charges",
+          "verified": "2026-11-14"
+        },
+        "restricted_nationalities": {
+          "source": null,
+          "verified": "2026-11-14",
+          "note": "Existence confirmed (PMO statement 2025-03-18); contents confirmed not published."
+        }
+      }
+    },
+    {
+      "id": "turkiye-cbi",
+      "country": "Türkiye",
+      "code": "TR",
+      "type": "cbi",
+      "programme": "Exceptional naturalisation for investors (Law 5901 Art. 12(1)(b))",
+      "status": "open",
+      "status_note": "Granted by presidential decision after an investor residence permit under Law 6458 Art. 31(1)(j). Thresholds in the Implementation Regulation Art. 20(2); the real-estate threshold was set by Presidential Decree No. 5554 (Official Gazette 2022-05-13).",
+      "legal_basis": "Turkish Citizenship Law No. 5901 Art. 12(1)(b) and Implementation Regulation Art. 20(2)",
+      "options": [
+        {
+          "name": "Real estate purchase",
+          "amount": 400000,
+          "currency": "USD",
+          "notes": "Title-deed annotation: no sale for 3 years"
+        },
+        {
+          "name": "Bank deposit",
+          "amount": 500000,
+          "currency": "USD",
+          "notes": "No withdrawal for 3 years (BRSA)"
+        },
+        {
+          "name": "Government bonds",
+          "amount": 500000,
+          "currency": "USD",
+          "notes": "No sale for 3 years"
+        },
+        {
+          "name": "Real-estate / venture-capital fund shares",
+          "amount": 500000,
+          "currency": "USD",
+          "notes": "No sale for 3 years (CMB)"
+        },
+        {
+          "name": "Private pension contribution",
+          "amount": 500000,
+          "currency": "USD",
+          "notes": "Remain in the pension system at least 3 years"
+        },
+        {
+          "name": "Fixed-capital investment",
+          "amount": 500000,
+          "currency": "USD"
+        },
+        {
+          "name": "Employment creation",
+          "amount": null,
+          "currency": "USD",
+          "notes": "At least 50 jobs"
+        }
+      ],
+      "gov_fees": "Exceptional-naturalisation service fee (vatandaşlık hizmet bedeli): TRY 135.45 per person, including each accompanying family member (set by the Ministries of Interior and Finance under Law 5901 art. 45; figure from the MFA consular announcement of 2026-01-20; consulates abroad charge the USD equivalent, varying by post). No separate statutory harc applies to naturalisation itself. Residence-permit fees 2026: card fee TRY 964 flat for all nationalities (Resmi Gazete 2025-12-24, No. 33117, Communique No. 97); harc by reciprocity (Communique No. 98, RG 2025-12-31): standard group (158 countries incl. US/UK/DE/FR) USD 25 first month + USD 5/month (1 year = USD 80); other groups USD 14+3.5 / 9+2.5 / 7+1.5 / 5+0.5 per month; TL-group (Serbia, Fiji, Norway, Northern Mariana Islands) TRY 348.10/day in month 1 (min TRY 653.70, max TRY 3,359.90) then TRY 2,232.30/month; several nationalities are harc-exempt (card fee still due). A single-entry visa fee of TRY 9,376.40 can apply on a first application after visa-free entry. The increase announced for 2026-05-01 was revoked on 2026-04-30 - the 31-12-2025 gazette tariffs stand; NVI provincial pages still showing TRY 115 / TRY 15 are stale.",
+      "government_total_single": null,
+      "government_total_family4": null,
+      "currency": "USD",
+      "family_total_basis": "Thresholds are per investment, not per person: spouse and minor/dependent children may be granted citizenship with the main applicant at no higher threshold (Investment Office guide). Government fee schedule not published in the sources read.",
+      "processing_time": "Not published centrally (verified 2026-11-14): NVI publishes document lists only. Provincial fragments conflict (an old Tokat service-standard table gives 6 months to 1 year for citizenship matters; an MFA consulate note gives 8-12 months for the marriage route). No single official figure may be shown.",
+      "residence_requirement": "No physical-residence period before naturalisation (unlike the ordinary 5-year route); procedurally an investor residence permit must be obtained first. Investment must be maintained 3 years.",
+      "time_to_pr": null,
+      "time_to_citizenship": "Direct exceptional naturalisation (no prior residence period)",
+      "passport_validity": null,
+      "dual_citizenship": "Allowed (multiple citizenship by declaration/registration under Law 5901; no permission required, no automatic loss)",
+      "restricted_nationalities": null,
+      "documents": [
+        "Certificate of conformity from the certifying authority for the chosen route",
+        "Residence-permit file: application form, passport copy, 4 biometric photos, means proof, fee receipts, health insurance; title deed for the real-estate route"
+      ],
+      "easy_access_count": 111,
+      "rating": "partial",
+      "unverified": [
+        "Processing time - confirmed not published centrally",
+        "Restricted nationalities - not published; security assessment is case-by-case"
+      ],
+      "conflicts": [
+        "The Investment Office's own guide still prints USD 250,000 for real estate in its route-steps pages, while its Criteria page and the current invest.gov.tr pages state 400,000 — 400,000 settles (regulation + current pages); the 250,000 page is outdated"
+      ],
+      "sources": [
+        "https://agencyadm.invest.gov.tr/en/library/publications/lists/investpublications/guide-to-foreign-citizens-acquisition-of-turkish-citizenship.pdf",
+        "https://www.invest.gov.tr/en/InvestmentGuide/Pages/obtaining-a-residence-permit.aspx",
+        "https://f.invest.gov.tr/en/investmentguide/pages/acquiring-property-and-citizenship.aspx",
+        "https://nvi.gov.tr/kurumlar/nvi.gov.tr/mevzuat/nufusmevzuat/ingilizce/TURKISH_CITIZENSHIP_LAW_5901.pdf"
+      ],
+      "rating_note": "Batch 0 (2026-11-14): fees settled (TRY 135.45 naturalisation service fee; 2026 residence-permit card fee and reciprocity harc schedule). Remains partial on processing time (confirmed unpublished) and the restricted list.",
+      "field_sources": {
+        "status": {
+          "source": "https://nvi.gov.tr/kurumlar/nvi.gov.tr/mevzuat/nufusmevzuat/ingilizce/TURKISH_CITIZENSHIP_LAW_5901.pdf",
+          "verified": "2026-11-14"
+        },
+        "options": {
+          "source": "https://nvi.gov.tr/kurumlar/nvi.gov.tr/mevzuat/nufusmevzuat/ingilizce/TURKISH_CITIZENSHIP_LAW_5901.pdf",
+          "verified": "2026-11-14",
+          "note": "Thresholds per the 2018 regulation as recorded in phase 1."
+        },
+        "gov_fees": {
+          "source": "https://nvi.gov.tr/kurumlar/nvi.gov.tr/mevzuat/nufusmevzuat/ingilizce/TURKISH_CITIZENSHIP_LAW_5901.pdf",
+          "verified": "2026-11-14",
+          "note": "Service fee per MFA consular announcement 2026-01-20; 2026 card fee/harc per Resmi Gazete Communiques No. 97 (2025-12-24) and No. 98 (2025-12-31)."
+        },
+        "totals": {
+          "source": "https://nvi.gov.tr/kurumlar/nvi.gov.tr/mevzuat/nufusmevzuat/ingilizce/TURKISH_CITIZENSHIP_LAW_5901.pdf",
+          "verified": "2026-11-14",
+          "note": "Totals exclude the reciprocity-based residence-permit harc, which varies by nationality."
+        },
+        "processing_time": {
+          "source": null,
+          "verified": "2026-11-14",
+          "note": "Confirmed not published centrally (2026-11-14)."
+        },
+        "residence_requirement": {
+          "source": null,
+          "verified": "2026-11-14"
+        },
+        "time_to_citizenship": {
+          "source": "https://nvi.gov.tr/kurumlar/nvi.gov.tr/mevzuat/nufusmevzuat/ingilizce/TURKISH_CITIZENSHIP_LAW_5901.pdf",
+          "verified": "2026-11-14",
+          "note": "Direct exceptional naturalisation, no prior residence period."
+        },
+        "dual_citizenship": {
+          "source": "https://nvi.gov.tr/kurumlar/nvi.gov.tr/mevzuat/nufusmevzuat/ingilizce/TURKISH_CITIZENSHIP_LAW_5901.pdf",
+          "verified": "2026-11-14",
+          "note": "Law 5901: multiple citizenship by declaration/registration."
+        },
+        "restricted_nationalities": {
+          "source": null,
+          "verified": "2026-11-14",
+          "note": "Not published; case-by-case security assessment."
+        }
+      }
+    },
+    {
+      "id": "malta-cbi",
+      "country": "Malta",
+      "code": "MT",
+      "type": "cbi",
+      "programme": "Citizenship by investment (former MEIN / exceptional services) — CLOSED; replaced by discretionary Citizenship by Merit",
+      "status": "closed",
+      "status_note": "CJEU Grand Chamber judgment in Commission v Malta, Case C-181/23 (2025-04-29) held the transactional investor-citizenship scheme in breach of Art. 20 TFEU and Art. 4(3) TEU. Act XXI of 2025 rewrote Cap. 188 Art. 10(9) as grant 'by merit'; LN 159 of 2025 deleted the MEIN investment requirements, fee schedules and caps. MEIN applications not approved before 2025-04-29 ceased to have effect; citizenship already granted remains valid. Community Malta Agency (2026-02-05): Citizenship by Merit is 'neither a programme nor a scheme, pathway, continuation, or alternative' to the repealed framework — it must never be marketed as an investment route.",
+      "legal_basis": "Citizenship Act (Cap. 188) Art. 10(9) as amended by Act XXI of 2025; Granting of Citizenship by Naturalisation on the Basis of Merit Regulations (LN 159 of 2025)",
+      "options": [],
+      "gov_fees": null,
+      "government_total_single": null,
+      "government_total_family4": null,
+      "currency": "EUR",
+      "family_total_basis": "No investment pricing exists under the merit framework (discretionary; dependants may be included in a grant). Former MEIN figures (600,000/750,000 contributions etc.) are historical and void.",
+      "processing_time": null,
+      "residence_requirement": "Merit route (not an investment route): formal application requires proof of at least 8 months' residence in Malta before applying, title to adequate residential property, and adequate knowledge of Maltese or English; an approved proposal letter must precede (LN 159 Reg. 11A/11B).",
+      "time_to_pr": null,
+      "time_to_citizenship": "No investment pathway. Merit grants are discretionary and case-by-case.",
+      "passport_validity": null,
+      "dual_citizenship": "Allowed (multiple citizenship recognised since 2000-02-10; no renunciation requirement in the merit regulations)",
+      "restricted_nationalities": null,
+      "documents": [
+        "Merit route stage 1: proposal letter with endorsement prospects, Agency due diligence, Evaluation Board assessment, ministerial decision",
+        "Stage 2 (Reg. 11B): 8-month residence proof, property title, exceptional-service evidence with competent-body endorsement, language confirmation"
+      ],
+      "easy_access_count": 159,
+      "rating": "verified",
+      "rating_note": "Verified as CLOSED with the successor merit framework documented from official sources; the route must be presented as closed, never as bookable.",
+      "unverified": [
+        "Merit administrative fee amounts (regulations say fees 'as may be established by the Agency from time to time'; schedules were deleted)"
+      ],
+      "conflicts": [],
+      "sources": [
+        "https://www.gov.mt/en/Government/DOI/Government%20Gazette/Government%20Notices/Pages/2025/07/GovNotices2407.aspx",
+        "https://www.gov.mt/en/Government/DOI/Government Gazette/acts/Documents/2025/Act 21.pdf",
+        "https://legislation.mt/eli/cap/188/eng/pdf",
+        "https://legislation.mt/getpdf/6894732d4cb86617f825b8a4",
+        "https://komunita.gov.mt/2026/02/05/malta-citizenship-by-merit/",
+        "https://orgcem.gov.mt/en/the-department/role-of-the-office/"
+      ],
+      "presentation": "archive-page",
+      "archive_note": "Closed programme - keep as an archive page with a 'closed' badge (user adjudication 2026-11-14). Never present as open or bookable.",
+      "merit_country_page_material": {
+        "placement": "Malta country page - one factual paragraph, not a standalone project (user adjudication 2026-11-14). Facts only, no marketing copy.",
+        "facts": "Citizenship by merit: since 2025 Malta has a discretionary framework for naturalisation for exceptional services or exceptional contributions (Legal Notice 159 of 2025, amending the Granting of Citizenship for Exceptional Services Regulations under art. 10(9) of the Maltese Citizenship Act, Cap. 188). It requires at least 8 months' legal residence in Malta before applying, a proposal letter to the Regulator first, and a letter of approval in principle before a formal application; there is no fixed investment amount and no entitlement. Per the Community Malta Agency (statement of 5 February 2026), this framework must not be marketed as an investment programme or as a continuation of the former investment routes."
+      },
+      "field_sources": {
+        "status": {
+          "source": "https://legislation.mt/eli/cap/188/eng/pdf",
+          "verified": "2026-11-14",
+          "note": "Closed by Act XXI of 2025 following CJEU C-181/23."
+        },
+        "options": {
+          "source": null,
+          "verified": "2026-11-14",
+          "note": "Historical (S.L. 188.06) - programme closed."
+        },
+        "gov_fees": {
+          "source": null,
+          "verified": "2026-11-14",
+          "note": "Historical."
+        },
+        "totals": {
+          "source": null,
+          "verified": "2026-11-14",
+          "note": "Historical."
+        },
+        "processing_time": {
+          "source": null,
+          "verified": "2026-11-14",
+          "note": "Programme closed - not applicable."
+        },
+        "residence_requirement": {
+          "source": null,
+          "verified": "2026-11-14",
+          "note": "Merit framework: at least 8 months' legal residence (see merit_country_page_material)."
+        },
+        "time_to_citizenship": {
+          "source": null,
+          "verified": "2026-11-14"
+        },
+        "dual_citizenship": {
+          "source": "https://legislation.mt/eli/cap/188/eng/pdf",
+          "verified": "2026-11-14",
+          "note": "Cap. 188 arts. 13-14 (as amended by Act IV of 2000): renunciation is voluntary; holding another nationality is not a deprivation ground."
+        },
+        "restricted_nationalities": {
+          "source": null,
+          "verified": "2026-11-14",
+          "note": "EU-level suspension list applied (phase 1)."
+        }
+      }
+    },
+    {
+      "id": "egypt-cbi",
+      "country": "Egypt",
+      "code": "EG",
+      "type": "cbi",
+      "programme": "Citizenship by Investment (Cabinet review unit / GAFI reception)",
+      "status": "open",
+      "status_note": "Amounts in force are those of PM Decree No. 876 of 2023 (Official Gazette 2023-03-02). WARNING: the official portal still hosts a pre-2023 news page with the old amounts (real estate 500,000 etc.) — that page is outdated and conflicts with the decree; the decree governs.",
+      "legal_basis": "Law No. 140 of 2019 amending Nationality Law No. 26 of 1975; PM Decrees No. 3099 of 2019, No. 876 of 2023, No. 3562 of 2023",
+      "options": [
+        {
+          "name": "Direct revenue contribution (donation)",
+          "amount": 250000,
+          "currency": "USD",
+          "notes": "Non-refundable, to the state treasury; may be paid in instalments over 1 year, citizenship granted after full payment"
+        },
+        {
+          "name": "Real estate (state/public-entity owned)",
+          "amount": 300000,
+          "currency": "USD"
+        },
+        {
+          "name": "Company/project investment",
+          "amount": 350000,
+          "currency": "USD",
+          "notes": "Plus a separate non-refundable USD 100,000 direct-revenue payment; total cash outlay 450,000; project must be maintained"
+        },
+        {
+          "name": "Bank deposit (Central Bank special account)",
+          "amount": 500000,
+          "currency": "USD",
+          "notes": "Refunded after 3 years in EGP at the redemption-date rate, interest-free"
+        }
+      ],
+      "gov_fees": "Application fee USD 10,000, non-refundable, wired from abroad to the Central Bank. No other per-person government fees in the official text.",
+      "government_total_single": null,
+      "government_total_family4": null,
+      "currency": "USD",
+      "family_total_basis": "Decree amounts are per application, not per person; spouse and children may be included at the same threshold (children's age cap not stated on the current official page — unverified)",
+      "processing_time": "Statutory staged caps: unit preliminary decision within 3 months (incl. security review); 6-month temporary residence after in-principle approval to complete the investment; final review and PM decision within 3 months of a complete file (framework total roughly 6-12 months)",
+      "residence_requirement": "No long-term residence period before grant; the 6-month temporary residence after in-principle approval is procedural. Post-grant: disposing of the real estate/project within 5 years requires an additional non-refundable USD 250,000 payment to keep citizenship; deposit route locked 3 years.",
+      "time_to_pr": null,
+      "time_to_citizenship": "Direct grant by the Prime Minister on the unit's recommendation",
+      "passport_validity": null,
+      "dual_citizenship": "Allowed in effect - statute-level combined reading (no single explicit CBI clause): Nationality Law art. 10's permission regime governs Egyptians acquiring a FOREIGN nationality and imposes no renunciation or permission requirement on foreigners acquiring Egyptian nationality; Decree 647/2020 art. 5(3) requires applicants only to DECLARE other nationalities held. The review unit's published position (via practitioner transcription of its FAQ) is that Egyptian law does not prohibit holding Egyptian and another nationality.",
+      "restricted_nationalities": null,
+      "documents": [
+        "Copy of the foreign passport and birth certificate (or official extract)",
+        "Recent photograph",
+        "Declaration of other nationalities held",
+        "Statement of spouse and children and their nationalities, with copies of their passports/IDs",
+        "Police-clearance certificate from the country of origin (attested by that country and by the Egyptian MFA) plus an Egyptian criminal-record sheet",
+        "Official movement record covering 5 years (country of origin and countries of permanent residence)",
+        "Medical report from the competent medical commission or a hospital designated by the unit (submitted during the temporary-residence period)",
+        "Decree application form and proof of transfer of the USD 10,000 application fee",
+        "Phase 2, within the 6-month temporary residence: proof of execution of the chosen investment (Decree 647/2020, art. 9)"
+      ],
+      "easy_access_count": 48,
+      "rating": "verified",
+      "unverified": [
+        "Portal sub-pages are script-rendered; the checklist is cited from the decree text (Official Gazette 2020-03-14) rather than the portal rendering"
+      ],
+      "conflicts": [
+        "Official portal news page lists pre-2023 amounts (real estate 500,000; project 400,000; 5-year deposit 750,000; 3-year deposit 1,000,000; donation 250,000) vs PM Decree 876/2023 (300,000 / 350,000+100,000 / 500,000 deposit / 250,000) — the decree governs; some English media misread the stale page as a 2025 price rise",
+        "Family coverage (corrected in batch 0): phase-1 wording 'spouse and children may be included at the same threshold' was imprecise - minor children (under 21) are included with the grant, but a spouse acquires citizenship 2 years later, not simultaneously."
+      ],
+      "sources": [
+        "https://egyptcitizenship.gov.eg",
+        "https://www.egyptcitizenship.gov.eg/ECI/News/View.aspx?Id=7"
+      ],
+      "documents_basis": "Prime Ministerial Decree No. 647 of 2020, art. 5 (Official Gazette 2020-03-14, No. 11-bis(A)). The prime-ministerial portal follows the decree but renders sub-pages via script, so the decree text is the citation of record.",
+      "family": {
+        "spouse": "Does NOT acquire citizenship simultaneously: the wife acquires Egyptian nationality 2 years after the husband (Citizenship-by-Investment Unit official statement; basis Nationality Law art. 6 - she declares her intent to the Minister of Interior and the marriage must subsist for 2 years from that declaration; the Minister may issue a reasoned deprivation decision within that window).",
+        "children": "Minor children are included with the father's grant. 'Minor' means under 21: majority is 21 under Civil Code art. 44; Nationality Law art. 6 - minor sons acquire with the father and may elect to revert to their original nationality within 1 year after reaching majority."
+      },
+      "rating_note": "Upgraded in batch 0 (2026-11-14): document checklist settled from Decree 647/2020 art. 5; children's coverage settled (minors under 21); spouse timing corrected (acquires 2 years after the main grantee); dual citizenship settled at statute level as a combined reading (see dual_citizenship - no single explicit clause exists).",
+      "field_sources": {
+        "status": {
+          "source": null,
+          "verified": "2026-11-14"
+        },
+        "options": {
+          "source": null,
+          "verified": "2026-11-14"
+        },
+        "gov_fees": {
+          "source": null,
+          "verified": "2026-11-14",
+          "note": "USD 10,000 application fee per Decree 647/2020."
+        },
+        "totals": {
+          "source": null,
+          "verified": "2026-11-14"
+        },
+        "processing_time": {
+          "source": null,
+          "verified": "2026-11-14",
+          "note": "Statutory staged timeline under Decree 647/2020 (phase 1)."
+        },
+        "residence_requirement": {
+          "source": null,
+          "verified": "2026-11-14"
+        },
+        "time_to_citizenship": {
+          "source": null,
+          "verified": "2026-11-14",
+          "note": "Citizenship is granted directly on approval; spouse follows 2 years later (see family)."
+        },
+        "dual_citizenship": {
+          "source": null,
+          "verified": "2026-11-14",
+          "note": "Combined reading: Nationality Law art. 10 + Decree 647/2020 art. 5(3) - see dual_citizenship note."
+        },
+        "restricted_nationalities": {
+          "source": null,
+          "verified": "2026-11-14",
+          "note": "No list published; case-by-case security review (phase 1)."
+        }
+      }
+    },
+    {
+      "id": "jordan-cbi",
+      "country": "Jordan",
+      "code": "JO",
+      "type": "cbi",
+      "programme": "Investor citizenship (productive-investment model, Ministry of Investment / Invest Jordan)",
+      "status": "open",
+      "status_note": "Not a passive-donation programme: citizenship is tied to operating businesses and Jordanian employment, with revocation for non-compliance. Real estate alone leads only to 5-year renewable residence, never citizenship. Official count: 681 investors granted citizenship since 2018.",
+      "legal_basis": "Council of Ministers investor citizenship/residency criteria (2018, as amended, incl. the 2025 round)",
+      "options": [
+        {
+          "name": "Existing investment outside the capital — 3-year average fixed assets",
+          "amount": 350000,
+          "currency": "JOD",
+          "notes": "Average Jordanian employees >= 10 (social-security records)"
+        },
+        {
+          "name": "Existing investment in Amman — 3-year average fixed assets",
+          "amount": 700000,
+          "currency": "JOD",
+          "notes": "Average Jordanian employees >= 20, maintained at 90%+ monthly"
+        },
+        {
+          "name": "New productive project outside the capital",
+          "amount": 500000,
+          "currency": "JOD",
+          "notes": "Plus >= 10 Jordanian jobs; 3-year temporary passport first, citizenship after compliance review"
+        },
+        {
+          "name": "New productive project in Amman",
+          "amount": 700000,
+          "currency": "JOD",
+          "notes": "Plus >= 20 Jordanian jobs; temporary-passport route as above"
+        },
+        {
+          "name": "New shares in an existing project",
+          "amount": 1000000,
+          "currency": "JOD",
+          "notes": "Of which new fixed assets >= 500,000; >= 20% additional Jordanian employment; shares frozen 3 years; temporary-passport route"
+        },
+        {
+          "name": "Stock market (newly issued shares)",
+          "amount": 1500000,
+          "currency": "JOD",
+          "notes": "Bought within 4 months via one licensed broker; max 10% per stock; no pledge/borrowing; no withdrawal or disposal (incl. profits) for 5 years"
+        },
+        {
+          "name": "Amra City project",
+          "amount": 1500000,
+          "currency": "JOD",
+          "notes": ">= 20 jobs; temporary passport 3 years"
+        },
+        {
+          "name": "Medical/food warehousing and logistics",
+          "amount": 3000000,
+          "currency": "JOD",
+          "basis": "per partner",
+          "notes": "36 months of compliant operation; >= 20 Jordanian jobs in the capital / >= 10 elsewhere"
+        },
+        {
+          "name": "Employment-only route",
+          "amount": null,
+          "currency": "JOD",
+          "notes": "Employ >= 150 Jordanians (capital) / >= 100 (elsewhere), social-security registered >= 1 year, maintained 2 years"
+        }
+      ],
+      "gov_fees": null,
+      "government_total_single": null,
+      "government_total_family4": null,
+      "currency": "JOD",
+      "family_total_basis": "Thresholds are per investment. Included family: spouse, dependent daughters, unmarried sons under 24 at application, dependent parents; where investment exceeds JOD 2M, sons under 30 with their spouses and children may also be included (Cabinet amendment announcement).",
+      "processing_time": null,
+      "residence_requirement": "No personal residence period; the substance is in-country: investments and Jordanian employment must remain compliant (verified via Social Security Corporation records). Non-compliance results in revocation of citizenship or cancellation of residency (Cabinet announcement).",
+      "time_to_pr": null,
+      "time_to_citizenship": "Direct for qualifying existing investments; new-project/share/Amra routes: 3-year temporary passport, then citizenship on compliance review",
+      "passport_validity": null,
+      "dual_citizenship": null,
+      "restricted_nationalities": null,
+      "documents": [
+        "3 years of audited financial statements (fixed-asset average)",
+        "Social Security employment records",
+        "For share purchases: feasibility study and latest financial statements",
+        "Project registration and paid-up capital proof"
+      ],
+      "easy_access_count": 49,
+      "rating": "partial",
+      "unverified": [
+        "Government fees (not published)",
+        "Total processing time (not published)",
+        "Dual citizenship under the CBI criteria (Invest Jordan is silent; secondary readings of Nationality Law No. 6 of 1954 conflict)",
+        "Restricted nationalities (none published)",
+        "Adoption date of the latest Cabinet amendment announcement (page undated; amounts match the current programme page)"
+      ],
+      "conflicts": [],
+      "sources": [
+        "https://invest.jo/en/ready-doing-business/jordanian-citizenship-through-investment",
+        "https://invest.jo/en/node/123",
+        "https://invest.jo/sites/default/files/2026-04/2025-Report-EN-V4.pdf"
+      ],
+      "v1_status": "out-of-v1",
+      "v1_note": "Excluded from v1 by user adjudication (2026-11-14). All phase-1 verified data retained; the two open phase-1 gaps (official basis of the 2025 revision; official processing time) are archived with the route - deferred by adjudication, not failed.",
+      "field_sources": {
+        "status": {
+          "source": null,
+          "verified": "2026-11-14"
+        },
+        "options": {
+          "source": null,
+          "verified": "2026-11-14"
+        },
+        "gov_fees": {
+          "source": null,
+          "verified": "2026-11-14"
+        },
+        "totals": {
+          "source": null,
+          "verified": "2026-11-14"
+        },
+        "processing_time": {
+          "source": null,
+          "verified": "2026-11-14",
+          "note": "Not published (phase 1); route out of v1 - not pursued in batch 0."
+        },
+        "residence_requirement": {
+          "source": null,
+          "verified": "2026-11-14"
+        },
+        "time_to_citizenship": {
+          "source": null,
+          "verified": "2026-11-14"
+        },
+        "dual_citizenship": {
+          "source": null,
+          "verified": "2026-11-14"
+        },
+        "restricted_nationalities": {
+          "source": null,
+          "verified": "2026-11-14",
+          "note": "Not published (phase 1)."
+        }
+      }
+    },
+    {
+      "id": "sao-tome-cbi",
+      "country": "São Tomé and Príncipe",
+      "code": "ST",
+      "type": "cbi",
+      "programme": "Citizenship by Investment Unit (programme created 2025)",
+      "status": "open",
+      "status_note": "New programme (2025). Applications can only be initiated through a licensed Marketing Agent. The gazette publication/effective date of Decree-Law No. 07/2025 is not stated on the official site — unverified (secondary sources say 2025-08-01).",
+      "legal_basis": "Nationality Law No. 07/2022 and Decree-Law No. 07/2025 (per official FAQ)",
+      "options": [
+        {
+          "name": "National Transformation Fund contribution — single",
+          "amount": 90000,
+          "currency": "USD"
+        },
+        {
+          "name": "National Transformation Fund contribution — family of 2-4",
+          "amount": 95000,
+          "currency": "USD",
+          "notes": "Each additional dependant +5,000. Dependants: spouse/de facto partner, children up to 30, parents/grandparents from 55"
+        }
+      ],
+      "gov_fees": "Submission fee USD 5,000 per application (includes due diligence). Citizenship documents USD 750 'per dependent' (official wording; unclear whether the main applicant is counted). Post-approval additions: spouse 10,000; eligible dependant 5,000; newborn (up to 1 year) 500.",
+      "government_total_single": null,
+      "government_total_family4": 102250,
+      "government_total_family4_max": 103000,
+      "currency": "USD",
+      "family_total_basis": "Family contribution 95,000 + submission fee 5,000 + document fees 2,250 (3 dependants) to 3,000 (4 persons) — both readings reported because the official 'per dependent' wording is ambiguous",
+      "processing_time": "Typical approval approximately 2 months; approval to passport approximately 3-4 months (official FAQ; the About page states a typical processing time of approximately two months for the approval stage)",
+      "residence_requirement": "None — 'No physical residence or relocation is required' (official FAQ); one-off contribution, no ongoing investment obligations",
+      "time_to_pr": null,
+      "time_to_citizenship": "Direct; official site states it carries no distinction from citizenship by birth and passes to future generations",
+      "passport_validity": null,
+      "dual_citizenship": "Allowed — 'No requirement to give up your existing nationality' (official Benefits page)",
+      "restricted_nationalities": null,
+      "documents": [
+        "Identification, background information and supporting financial records (official FAQ summary)",
+        "Proof of legitimate source of income",
+        "Comprehensive due diligence; itemised checklist is administered by licensed agents — full list not published on the official site"
+      ],
+      "easy_access_count": 59,
+      "rating": "verified",
+      "unverified": [
+        "Gazette effective date of Decree-Law No. 07/2025",
+        "Restricted nationalities (none published; eligibility stated as 18+, clean record, good financial standing)",
+        "Full itemised document checklist",
+        "Whether document fees count the main applicant"
+      ],
+      "conflicts": [],
+      "sources": [
+        "https://cip.gov.st/faq",
+        "https://cip.gov.st/investment-structure",
+        "https://cip.gov.st/about-the-program",
+        "https://cip.gov.st/benefits-of-citizenship",
+        "https://cip.gov.st/become-a-citizen",
+        "https://cip.gov.st/news-insights"
+      ],
+      "field_sources": {
+        "status": {
+          "source": "https://cip.gov.st/faq",
+          "verified": "2026-11-14"
+        },
+        "options": {
+          "source": "https://cip.gov.st/investment-structure",
+          "verified": "2026-11-14"
+        },
+        "gov_fees": {
+          "source": null,
+          "verified": "2026-11-14"
+        },
+        "totals": {
+          "source": null,
+          "verified": "2026-11-14"
+        },
+        "processing_time": {
+          "source": "https://cip.gov.st/faq",
+          "verified": "2026-11-14"
+        },
+        "residence_requirement": {
+          "source": "https://cip.gov.st/faq",
+          "verified": "2026-11-14"
+        },
+        "time_to_citizenship": {
+          "source": null,
+          "verified": "2026-11-14",
+          "note": "Citizenship is granted directly on approval."
+        },
+        "dual_citizenship": {
+          "source": null,
+          "verified": "2026-11-14"
+        },
+        "restricted_nationalities": {
+          "source": null,
+          "verified": "2026-11-14",
+          "note": "Not published (phase 1)."
+        }
+      }
+    },
+    {
+      "id": "portugal-ari",
+      "country": "Portugal",
+      "code": "PT",
+      "type": "rbi",
+      "programme": "ARI — Residence Permit for Investment Activity (AIMA)",
+      "status": "open",
+      "status_note": "Heavily narrowed: Lei 56/2023 (Mais Habitação), in force 2023-10-07, closed the real-estate and plain capital-transfer routes; no current route may invest directly or indirectly in real estate.",
+      "legal_basis": "Law 23/2007 Art. 90-A and Art. 3(1)(d) as amended by Lei 56/2023; fees Portaria 307/2023",
+      "options": [
+        {
+          "name": "Cultural/artistic support or heritage restoration",
+          "amount": 250000,
+          "currency": "EUR",
+          "notes": "A 200,000 low-density-territory reduction is commonly cited but the amount was not read on an AIMA page this round — re-check before publishing Low-density reduction applies: EUR 200,000 in low-density areas (art. 3(2)) - the only EUR 200,000 ARI threshold."
+        },
+        {
+          "name": "Research activities",
+          "amount": 500000,
+          "currency": "EUR",
+          "notes": " Low-density reduction applies: EUR 400,000 in low-density areas (art. 3(2))."
+        },
+        {
+          "name": "Non-real-estate collective investment fund units",
+          "amount": 500000,
+          "currency": "EUR",
+          "notes": "Portuguese-law fund, maturity >= 5 years at investment, >= 60% in Portugal-headquartered companies The 20% low-density reduction does NOT apply to fund units (art. 3(2) covers only the job-creation, research and cultural sub-paragraphs)."
+        },
+        {
+          "name": "Company incorporation/capital increase with jobs",
+          "amount": 500000,
+          "currency": "EUR",
+          "notes": "Create 5 permanent jobs (or maintain 10 with at least 5 permanent) The 20% low-density reduction does NOT apply to this option (art. 3(2))."
+        },
+        {
+          "name": "Job creation",
+          "amount": null,
+          "currency": "EUR",
+          "notes": "At least 10 jobs The 20% low-density reduction applies to this option as 8 jobs (Lei 23/2007 art. 3(2))."
+        }
+      ],
+      "gov_fees": "Per person (AIMA fee table, Portaria 307/2023): analysis 842.80 (digital channel 632.10); grant 8,418.90 (digital 6,314.20) — family-reunification grants are charged at the same grant rate; renewal 4,210.30. Permanent-residence grant for ARI holders 11,786.70.",
+      "government_total_single": 9261.7,
+      "government_total_family4": 37046.8,
+      "currency": "EUR",
+      "family_total_basis": "4 x (842.80 analysis + 8,418.90 grant), standard channel; digital channel total 27,785.20. Investment threshold itself is separate and per application.",
+      "processing_time": "Statutory decision period 90 days (AIMA pending-cases FAQ); actual backlog far exceeds this and no official average is published",
+      "residence_requirement": "Minimum stay: at least 7 days in the first year and at least 14 days in each subsequent 2-year period, family members included (AIMA/consular pages). ARI card cycle: first card 2 years, renewals 2 years (Lei 23/2007 art. 90-A(2) - ARI is a special regime; the general temporary-residence '2+3' cycle in art. 75 does not apply to ARI). Investment maintained at least 5 years from grant and evidenced at renewal.",
+      "time_to_pr": "5 years of legal residence (permanent residence permit available; grant fee above)",
+      "time_to_citizenship": "Lei Organica 1/2026 (Diario da Republica, 1st series No. 95, 18 May 2026; in force 19 May 2026) rewrote art. 6(1)(b) of the Nationality Law (Lei 37/81): 7 years' legal residence for CPLP nationals and EU citizens; 10 years for all others; 4 years for stateless persons (art. 6(3)). Counting windows (art. 15(3)): residence is counted within a maximum span of 9 years (CPLP/EU), 12 years (others) or 6 years (stateless). Transitional rule (art. 7(2)): procedures PENDING at entry into force are assessed under the previous law - the old 5-year term survives only for those. Also required (art. 6(1)): sufficient knowledge of the Portuguese language AND of Portuguese culture, history and national symbols (by test or certificate - the statute sets no CEFR level; levels sit in the Nationality Regulation, under revision), knowledge of fundamental rights and duties and of the political organisation of the Portuguese state, a solemn declaration of adherence to the democratic principles of the rule of law, and demonstrated capacity for subsistence. CPLP nationals are presumed to satisfy the language limb only.",
+      "passport_validity": null,
+      "dual_citizenship": "Allowed: Portuguese law permits holding other nationalities and does not require renunciation on naturalisation (justica.gov.pt official nationality guide). The other state's law may restrict it.",
+      "restricted_nationalities": null,
+      "documents": [
+        "Updated proof the investment is made and maintained",
+        "Bank declaration of the actual transfer into Portugal",
+        "No social-security/tax debt certificates",
+        "Sworn declaration to observe minimum amount and period",
+        "Criminal record from origin country (translated/certified)",
+        "Family: kinship, accommodation and means proof"
+      ],
+      "easy_access_count": 159,
+      "easy_access_note": "The Portuguese passport's own access count — ARI grants residence, not a passport; pages must never present this as the route's product.",
+      "rating": "verified",
+      "unverified": [
+        "Real-world average processing time - statutory 90 days; backlog widely reported, no official average published",
+        "CEFR level for the naturalisation language/culture proof - set by the Nationality Regulation, not the statute; the Regulation was under revision in 2026"
+      ],
+      "conflicts": [
+        "ARI renewal cycle (resolved, batch-0 erratum): the phase-1 working position 'first card 2 years, renewals 3 years' was wrong - Lei 23/2007 art. 90-A(2) sets ARI renewals at 2 years; '2+3' is the general temporary-residence regime (art. 75)."
+      ],
+      "sources": [
+        "https://aima.gov.pt/pt/viver/autorizacao-de-residencia-para-investimento-art-90-o-a/portal-ari",
+        "https://aima.gov.pt/media/pages/documents/f4adf3850c-1715261526/tabela-de-taxas-e-demais-encargos-a-cobrar-pelos-procedimentos-administrativos.pdf",
+        "https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2026-1123539996",
+        "https://files.diariodarepublica.pt/1s/2026/05/09500/0000200020.pdf",
+        "https://justica.gov.pt"
+      ],
+      "options_note": "Low-density areas (Portaria 208/2017): under 100 inhabitants/km2 or GDP per capita under 75% of the national average. The 20% reduction in Lei 23/2007 art. 3(2) applies ONLY to the job-creation, research and cultural options.",
+      "rating_note": "Upgraded in batch 0 (2026-11-14): Lei Organica 1/2026 read at article level (official DR PDF); ARI card cycle settled (2+2, erratum applied); the low-density reduction's scope settled (jobs/research/cultural only). Only real-world processing averages remain officially unpublished.",
+      "field_sources": {
+        "status": {
+          "source": "https://aima.gov.pt/pt/viver/autorizacao-de-residencia-para-investimento-art-90-o-a/portal-ari",
+          "verified": "2026-11-14"
+        },
+        "options": {
+          "source": "https://aima.gov.pt/pt/viver/autorizacao-de-residencia-para-investimento-art-90-o-a/portal-ari",
+          "verified": "2026-11-14"
+        },
+        "gov_fees": {
+          "source": "https://aima.gov.pt/media/pages/documents/f4adf3850c-1715261526/tabela-de-taxas-e-demais-encargos-a-cobrar-pelos-procedimentos-administrativos.pdf",
+          "verified": "2026-11-14"
+        },
+        "totals": {
+          "source": "https://aima.gov.pt/media/pages/documents/f4adf3850c-1715261526/tabela-de-taxas-e-demais-encargos-a-cobrar-pelos-procedimentos-administrativos.pdf",
+          "verified": "2026-11-14"
+        },
+        "processing_time": {
+          "source": "https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2026-1123539996",
+          "verified": "2026-11-14",
+          "note": "Statutory 90 days (Lei 23/2007 consolidated text)."
+        },
+        "residence_requirement": {
+          "source": "https://aima.gov.pt/pt/viver/autorizacao-de-residencia-para-investimento-art-90-o-a/portal-ari",
+          "verified": "2026-11-14",
+          "note": "Stay minima + card cycle per AIMA and Lei 23/2007 art. 90-A(2)."
+        },
+        "time_to_citizenship": {
+          "source": "https://files.diariodarepublica.pt/1s/2026/05/09500/0000200020.pdf",
+          "verified": "2026-11-14",
+          "note": "Lei Organica 1/2026, arts. 6/7/8 and 15(3)."
+        },
+        "dual_citizenship": {
+          "source": "https://justica.gov.pt",
+          "verified": "2026-11-14",
+          "note": "Official nationality-acquisition guide."
+        },
+        "restricted_nationalities": {
+          "source": null,
+          "verified": "2026-11-14",
+          "note": "No restricted-nationality list applies to ARI."
+        }
+      }
+    },
+    {
+      "id": "greece-golden-visa",
+      "country": "Greece",
+      "code": "GR",
+      "type": "rbi",
+      "programme": "Investor Permanent Residence Permit (B.5)",
+      "status": "open",
+      "status_note": "Governing law is now Migration Code Law 5038/2023 Art. 100 as amended by Law 5100/2024 Art. 64 — the ministry's English page still cites the repealed Law 4251/2014 and lags the law. Short-term rental of golden-visa property is prohibited.",
+      "legal_basis": "Law 5038/2023 Arts. 99-100; Law 5100/2024 (Government Gazette 2024-04-05); Ministry Circular 9 of 2024-09-24",
+      "options": [
+        {
+          "name": "Real estate — high-demand areas",
+          "amount": 800000,
+          "currency": "EUR",
+          "notes": "Attica, Thessaloniki regional unit, Mykonos, Thira (Santorini) and islands with population over 3,100 (incl. Euboea); single property, main space >= 120 sqm"
+        },
+        {
+          "name": "Real estate — rest of Greece",
+          "amount": 400000,
+          "currency": "EUR",
+          "notes": "Single property, main space >= 120 sqm"
+        },
+        {
+          "name": "Real estate — conversion or listed building",
+          "amount": 250000,
+          "currency": "EUR",
+          "notes": "Commercial/industrial conversion to residential (change of use completed after 2024-04-05 and before applying) or restoration of a listed building"
+        },
+        {
+          "name": "Financial - capital contribution to a Greek company (Art. 99 B.4a)",
+          "amount": 500000,
+          "currency": "EUR",
+          "notes": "Capital increase / share acquisition in a company domiciled or established in Greece."
+        },
+        {
+          "name": "Financial - REIC shares (Art. 99 B.4b)",
+          "amount": 500000,
+          "currency": "EUR",
+          "notes": "Shares in a Greek real-estate investment company (AEEAP)."
+        },
+        {
+          "name": "Financial - venture capital (Art. 99 B.4c)",
+          "amount": 500000,
+          "currency": "EUR",
+          "notes": "Shares/units in a Greek venture-capital company or fund (AKES/ESK)."
+        },
+        {
+          "name": "Financial - Greek government bonds (Art. 99 B.4d)",
+          "amount": 500000,
+          "currency": "EUR",
+          "notes": "Government bonds with at least 3 years' residual maturity at purchase, held via a Greek credit institution."
+        },
+        {
+          "name": "Financial - term deposit (Art. 99 B.4e)",
+          "amount": 500000,
+          "currency": "EUR",
+          "notes": "Term deposit of at least 1 year at a domestic credit institution, with a standing renewal order."
+        },
+        {
+          "name": "Financial - listed securities (Art. 99 B.4f)",
+          "amount": 800000,
+          "currency": "EUR",
+          "notes": "Shares or corporate/government bonds traded on Greek regulated markets or multilateral trading facilities."
+        },
+        {
+          "name": "Financial - mutual fund units (Art. 99 B.4g)",
+          "amount": 350000,
+          "currency": "EUR",
+          "notes": "Units in mutual funds investing in Greek listed securities etc., where the fund's total assets are at least EUR 10,000,000."
+        },
+        {
+          "name": "Financial - AIF units (Art. 99 B.4h)",
+          "amount": 350000,
+          "currency": "EUR",
+          "notes": "Units/shares in an alternative investment fund investing exclusively in Greece, where the fund's assets are at least EUR 3,000,000."
+        },
+        {
+          "name": "Start-up investment (Art. 100A, permit type B.6)",
+          "amount": 250000,
+          "currency": "EUR",
+          "notes": "Created by Law 5162/2024 art. 44 inserting art. 100A into Law 5038/2023 (FEK A 198/05.12.2024), usable from 2025-01-01: at least EUR 250,000 into a company in the National Startup Registry (capital increase or bond issue); holding capped at 33% of capital/voting rights; at least 2 new jobs created within 1 year and kept 5 years; shares held 5 years; EUR 50,000 fine for breach. Permit 1 year, then 2-year renewals. A EUR 2,500 e-paravolo to the Startup Registry applies under KYA 216761 (FEK B 6138/18.11.2025 - a documents/monitoring instrument, not the route's legal basis)."
+        }
+      ],
+      "gov_fees": "Main applicant: electronic fee EUR 2,000 + EUR 16 card printing (migration.gov.gr; fee schedule Law 5038/2023 arts. 171-172). Family members hold family-reunification residence permits: EUR 150 per adult, minors exempt (EUR 0), plus EUR 16 per person card printing - i.e. spouse EUR 150 + 16; child aged 18-21 EUR 150 + 16; child under 18 EUR 0 + 16.",
+      "government_total_single": 2016,
+      "government_total_family4": null,
+      "currency": "EUR",
+      "family_total_basis": "Only the main applicant's 2,016 is officially settled; family members are charged separately at rates not published on the page read",
+      "processing_time": null,
+      "residence_requirement": "The permit is permanent in nature (5-year card, indefinitely renewable); the official renewal checklist requires only that the property/lease is still held, insurance and passport copies — no residence-day evidence is required at renewal. An explicit 'no minimum stay' sentence was not read on the official page.",
+      "time_to_pr": "The permit itself is a permanent residence permit (5-year renewable card)",
+      "time_to_citizenship": "7 years' legal and permanent residence (MITOS national procedures registry, updated 2026-11-05). Reduced to 3 years for EU citizens, spouses of Greek citizens with a common child, parents of Greek minors and stateless persons; 12 years for holders of certain other permit types. PEGP certificate required (examination in Greek language, history, geography, culture and institutions, held twice a year; exemptions for graduates of Greek schools/universities). Language level B1 (Ministerial Decision 15478/23.02.2024, FEK 1368/B/29.02.2024). Fee EUR 550 (resubmission EUR 200; EUR 100 for stateless persons, refugees and EU citizens). Registered processing time: 1 year. Golden-visa years count as legal residence; the permanence substance is assessed at application.",
+      "passport_validity": null,
+      "dual_citizenship": "Allowed: no renunciation is required to acquire Greek nationality. Nationality Code (Law 3284/2004) art. 16 - a Greek citizen loses Greek nationality on acquiring a foreign one only where the Minister of the Interior permits/accepts the loss in defined cases.",
+      "restricted_nationalities": null,
+      "documents": [
+        "Application form",
+        "4 digital photos (JPEG2000)",
+        "Certified passport copy and valid visa",
+        "Card fee 16 and electronic fee receipts",
+        "Private health insurance covering all risks",
+        "Notary certificate on the purchase contract (payment in full, property not previously used for another golden visa)",
+        "Land-registry no-encumbrance certificate"
+      ],
+      "easy_access_count": 159,
+      "easy_access_note": "The Greek passport's own count — the golden visa grants residence only.",
+      "rating": "partial",
+      "unverified": [
+        "Golden-visa processing time - no official figure published"
+      ],
+      "conflicts": [
+        "migration.gov.gr English golden-visa page still cites repealed Law 4251/2014 while the governing text is Law 5038/2023 as amended — official page lags the law",
+        "Start-up route attribution (resolved, batch-0 erratum): phase-1 wording credited a 2025 joint ministerial decision with creating the route; the route was created by Law 5162/2024 art. 44 (art. 100A of Law 5038/2023), and KYA 216761 of 2025 only sets documents, monitoring and a EUR 2,500 registry fee."
+      ],
+      "sources": [
+        "https://migration.gov.gr"
+      ],
+      "options_note": "Law 5038/2023 art. 99 common rules: the funds must originate abroad; an applicant may combine up to three categories, in which case the highest threshold governs; joint holders count pro rata; the permit is valid 5 years, renewable, and carries no right to employment.",
+      "rating_note": "Batch 0 (2026-11-14) closed the Art. 99 amounts (statutory text), family-member fees (EUR 150 / minors exempt + EUR 16 card), naturalisation (MITOS registry) and the start-up route's legal basis (art. 100A). Only the golden-visa processing time remains officially unpublished.",
+      "field_sources": {
+        "status": {
+          "source": null,
+          "verified": "2026-11-14"
+        },
+        "options": {
+          "source": "https://migration.gov.gr",
+          "verified": "2026-11-14",
+          "note": "Art. 99/100A amounts from the statutory text (Law 5038/2023 as amended)."
+        },
+        "gov_fees": {
+          "source": "https://migration.gov.gr",
+          "verified": "2026-11-14",
+          "note": "Fee schedule, Law 5038/2023 arts. 171-172 (opengov text)."
+        },
+        "totals": {
+          "source": "https://migration.gov.gr",
+          "verified": "2026-11-14"
+        },
+        "processing_time": {
+          "source": null,
+          "verified": "2026-11-14",
+          "note": "Not published (2026-11-14). The 1-year registered figure is for naturalisation (MITOS), not the permit."
+        },
+        "residence_requirement": {
+          "source": null,
+          "verified": "2026-11-14"
+        },
+        "time_to_citizenship": {
+          "source": "https://mitos.gov.gr",
+          "verified": "2026-11-14",
+          "note": "MITOS national procedures registry, entry updated 2026-11-05."
+        },
+        "dual_citizenship": {
+          "source": "https://migration.gov.gr",
+          "verified": "2026-11-14",
+          "note": "Nationality Code (Law 3284/2004) art. 16."
+        },
+        "restricted_nationalities": {
+          "source": null,
+          "verified": "2026-11-14",
+          "note": "No list published (phase 1)."
+        }
+      }
+    },
+    {
+      "id": "italy-investor-visa",
+      "country": "Italy",
+      "code": "IT",
+      "type": "rbi",
+      "programme": "Investor Visa (Visto per Investitori, Art. 26-bis)",
+      "status": "open",
+      "status_note": "No annual quota. Suspended for Russian and Belarusian citizens (Committee chair order 2023-07-14; extended 2024-03-20 to dual nationals holding RU/BY passports). Thresholds unchanged since the 2020 reduction; no real-estate route.",
+      "legal_basis": "Legislative Decree 286/1998 Art. 26-bis; administered by the interministerial Committee at MIMIT via investorvisa.mise.gov.it",
+      "options": [
+        {
+          "name": "Innovative start-up (registered startup innovativa)",
+          "amount": 250000,
+          "currency": "EUR"
+        },
+        {
+          "name": "Italian limited company capital instruments",
+          "amount": 500000,
+          "currency": "EUR",
+          "notes": "Includes regulated fund routes per the portal"
+        },
+        {
+          "name": "Philanthropic donation",
+          "amount": 1000000,
+          "currency": "EUR",
+          "notes": "Culture, education, research, immigration management, heritage"
+        },
+        {
+          "name": "Government bonds",
+          "amount": 2000000,
+          "currency": "EUR",
+          "notes": "Residual maturity at least 2 years"
+        }
+      ],
+      "gov_fees": "National (D) visa: EUR 116 per person (official consular tariff, esteri.it - D.Lgs. 71/2011 annex, Sez. III art. 29, as updated). Residence permit card (official Portale Immigrazione cost table): EUR 30.46 card production + contribution by duration - EUR 40 (over 3 months, under 1 year), EUR 50 (over 1 year, under 2 years), EUR 100 (EU long-term permits and certain categories). The investor card is issued for 2 years (renewals 3 years); the EUR 50 tier is the applicable reading for it (the table's boundary wording is not restated as a rule). Ancillary: EUR 16 revenue stamp and the EUR 30 postal kit - multiply corroborated from sources quoting official pages, but the Polizia guidance page could not be read directly on 2026-11-14, so these two items are marked corroborated rather than directly read.",
+      "government_total_single": null,
+      "government_total_family4": null,
+      "currency": "EUR",
+      "family_total_basis": "No official fee schedule is published on the portal; consular visa and residence-card fees were not read on an official page this round (law-firm figures not used)",
+      "processing_time": "Nulla Osta (certificate of no impediment) issued within 30 days (portal, Phase 1); visa must then be requested within 6 months",
+      "residence_requirement": "2-year D visa, then a 2-year residence permit (apply at the Questura within 8 days of entry), renewable for 3 years while the investment is maintained (re-clearance required). Investment executed within 3 months of entry and maintained at least 2 years (donations irrevocable). By statute (D.Lgs. 286/1998 art. 26-bis, co. 5-bis), investors are exempt - for 5 years from first issuance - from the integration agreement and from the continuity-of-stay obligations for holding the permit itself. Boundary: EU long-term residence (art. 9) keeps its own absence limits (max 6 months' continuous absence, 10 months total), which no official source waives for investors - 'no residence needed' applies to the investor permit, not to qualifying for long-term status.",
+      "time_to_pr": "EU long-term residence after 5 years maintaining the investment (plus general requirements such as A2 Italian)",
+      "time_to_citizenship": "10 years of legal residence for non-EU nationals (Law 91/1992 Art. 9) plus B1 Italian — code-level position",
+      "passport_validity": null,
+      "dual_citizenship": "Allowed: Law 91/1992 art. 11 (official text, normattiva) - an Italian citizen who acquires another citizenship does not lose Italian citizenship unless they renounce it while residing in that other state. No renunciation is required to naturalise.",
+      "restricted_nationalities": "Suspended for Russian and Belarusian citizens (incl. dual nationals holding RU/BY passports)",
+      "documents": [
+        "Passport and CV",
+        "Declaration of the chosen investment option",
+        "Proof of lawful origin and free availability of funds",
+        "No criminal charges/convictions certificates for countries of 12+ months residence in the last 10 years",
+        "After entry: proof of the executed investment uploaded to the portal"
+      ],
+      "easy_access_count": 160,
+      "easy_access_note": "The Italian passport's own count — the investor visa grants residence only.",
+      "rating": "verified",
+      "unverified": [
+        "Investor Visa Policy Guidance PDF verbatim - investorvisa.mise.gov.it was under maintenance on 2026-11-14; the substance is settled from D.Lgs. 286/1998 art. 26-bis",
+        "EUR 16 stamp duty and EUR 30 postal kit - corroborated, not directly read (Polizia page)"
+      ],
+      "conflicts": [
+        "The portal's tax page still shows the old EUR 100,000/year new-resident lump-sum figure, which no longer matches later budget changes — tax figures from that page are not used"
+      ],
+      "sources": [
+        "https://investorvisa.mise.gov.it/index.php/en/",
+        "https://www.portaleimmigrazione.it",
+        "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-05;91"
+      ],
+      "rating_note": "Upgraded in batch 0 (2026-11-14): fees settled from official tariffs/tables; the 5-year exemption settled as statute text (art. 26-bis, co. 5-bis) with the EU-long-term-residence boundary stated; dual citizenship settled (Law 91/1992 art. 11).",
+      "field_sources": {
+        "status": {
+          "source": "https://investorvisa.mise.gov.it/index.php/en/",
+          "verified": "2026-11-14"
+        },
+        "options": {
+          "source": "https://investorvisa.mise.gov.it/index.php/en/",
+          "verified": "2026-11-14"
+        },
+        "gov_fees": {
+          "source": null,
+          "verified": "2026-11-14",
+          "note": "Visa tariff (esteri.it) + Portale Immigrazione cost table."
+        },
+        "totals": {
+          "source": null,
+          "verified": "2026-11-14"
+        },
+        "processing_time": {
+          "source": "https://investorvisa.mise.gov.it/index.php/en/",
+          "verified": "2026-11-14",
+          "note": "Nulla Osta within 30 days (Committee rule, phase 1)."
+        },
+        "residence_requirement": {
+          "source": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-05;91",
+          "verified": "2026-11-14",
+          "note": "D.Lgs. 286/1998 art. 26-bis, co. 5-bis and 6."
+        },
+        "time_to_citizenship": {
+          "source": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-05;91",
+          "verified": "2026-11-14",
+          "note": "10 years + Law 91/1992 framework (phase 1)."
+        },
+        "dual_citizenship": {
+          "source": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-05;91",
+          "verified": "2026-11-14",
+          "note": "Law 91/1992 art. 11."
+        },
+        "restricted_nationalities": {
+          "source": null,
+          "verified": "2026-11-14",
+          "note": "No list published (phase 1)."
+        }
+      }
+    },
+    {
+      "id": "uae-golden-visa",
+      "country": "United Arab Emirates",
+      "code": "AE",
+      "type": "rbi",
+      "programme": "Golden Visa (Golden Residency, ICP / GDRFA Dubai)",
+      "status": "open",
+      "status_note": "10-year, self-sponsored, automatically renewable per the issuing authority (ICP). Non-investor categories (entrepreneurs, talents, professionals) are out of v1 scope.",
+      "legal_basis": "Federal Decree-Law 29/2021 implementing regulation, Cabinet Resolution 65/2022",
+      "options": [
+        {
+          "name": "Public investment — fund deposit or national-bank deposit",
+          "amount": 2000000,
+          "currency": "AED"
+        },
+        {
+          "name": "Public investment — company capital",
+          "amount": 2000000,
+          "currency": "AED",
+          "notes": "Or partnership share of the same value"
+        },
+        {
+          "name": "Public investment — federal taxes paid by the company",
+          "amount": 250000,
+          "currency": "AED",
+          "basis": "per year"
+        },
+        {
+          "name": "Real estate",
+          "amount": 2000000,
+          "currency": "AED",
+          "notes": "One or more properties, fully registered in the applicant's name; approved local-bank financing allowed; off-plan only from approved local developers"
+        }
+      ],
+      "gov_fees": "ICP service pages: public-investment residency issuance 100 application + 47 issuance + 100 smart services = AED 247; real-estate investor entry permit AED 300. No official family bundle; per-person issuance applies (family-of-4 estimate AED 988-1,200, labelled an estimate). Comprehensive health insurance is mandatory for investor and family.",
+      "government_total_single": 247,
+      "government_total_family4": null,
+      "currency": "AED",
+      "family_total_basis": "Estimate only (main-applicant service fees x 4); no official family price",
+      "processing_time": null,
+      "residence_requirement": "No sponsor; 10-year validity with automatic renewal. Absence rule settled first-hand: golden-visa holders are NOT subject to the usual rule that residence lapses after 180+ days abroad — u.ae states holders may stay outside the UAE beyond the usual six months and may enter at any time while the residency is valid.",
+      "time_to_pr": "The golden visa is itself the longest residence form; there is no investment-based permanent-residence or naturalisation track (citizenship only by exceptional federal decree)",
+      "time_to_citizenship": "No official pathway",
+      "passport_validity": null,
+      "dual_citizenship": "Not recognised as a general rule - renunciation is required: Constitution art. 8 (nationality is single, as specified by law); Nationality Law No. 17 of 1972 art. 11 ('No one may be naturalised without renouncing the nationality of origin') and art. 12-Bis(1); art. 15(c) provides deprivation on voluntary foreign naturalisation. Exception (2021, per u.ae): executive-regulation amendments allow specific NOMINATED categories - investors, doctors, specialists, inventors, scientists, intellectuals and creative talents/artists - and their spouses and children to acquire Emirati nationality while retaining their original nationality; grants run only through nomination by the Rulers'/Crown Princes' Courts, Executive Council offices or the Cabinet, and holders must report acquiring or losing any other citizenship.",
+      "restricted_nationalities": null,
+      "documents": [
+        "Deposit/bank or fund proof, or company licence and capital proof, or Federal Tax Authority proof of tax paid",
+        "Land-department title/valuation proof for real estate",
+        "Health insurance",
+        "Passport and photo"
+      ],
+      "easy_access_count": 169,
+      "easy_access_note": "The UAE passport's own count (among the world's highest) — golden-visa holders do NOT acquire it; pages must never conflate the two.",
+      "rating": "partial",
+      "unverified": [
+        "Real-estate route duration 5 vs 10 years - dual-reported, re-checked 2026-11-14",
+        "Processing time - ICP gives no commitment"
+      ],
+      "conflicts": [
+        "Real-estate golden-visa duration: u.ae portal summary table says 5 years for real estate; the issuing authority's ICP Golden Residency Guide (updated 2026-09-10) says 10 years for real-estate investors. ICP is the issuing authority and is treated as governing, but any publication must disclose the conflict until the sources align.",
+        "Conflict re-checked 2026-11-14: unchanged - the u.ae golden-visa table still reads '10 years (public investments) / 5 years (real estate investments)' while citing ICP as its source, and the ICP Golden Residency Guide still reads 10 years for real-estate investors (AED 2,000,000, full ownership; approved local-bank financing allowed; off-plan only from authorised local developers). Dual reporting continues under the standing event trigger."
+      ],
+      "sources": [
+        "https://icp.gov.ae/en/services/uae-golden-residency/",
+        "https://icp.gov.ae/en/services-details/?serviceid=68e34ed35ae59b00117383d1",
+        "https://u.ae/en/information-and-services/visa-and-emirates-id/types-of-visas/golden-visa",
+        "https://u.ae/en/information-and-services/visa-and-emirates-id/visa-information/general-provisions-for-the-residence-visa",
+        "https://uaelegislation.gov.ae",
+        "https://elaws.moj.gov.ae"
+      ],
+      "rating_note": "Batch 0 (2026-11-14): dual citizenship settled at statute level. The 5-vs-10-year conflict persists by design (gap item 11's defined outcome: dual reporting until a source updates). Processing time remains officially unpublished.",
+      "field_sources": {
+        "status": {
+          "source": "https://icp.gov.ae/en/services/uae-golden-residency/",
+          "verified": "2026-11-14"
+        },
+        "options": {
+          "source": null,
+          "verified": "2026-11-14"
+        },
+        "gov_fees": {
+          "source": "https://icp.gov.ae/en/services/uae-golden-residency/",
+          "verified": "2026-11-14"
+        },
+        "totals": {
+          "source": "https://icp.gov.ae/en/services/uae-golden-residency/",
+          "verified": "2026-11-14"
+        },
+        "processing_time": {
+          "source": null,
+          "verified": "2026-11-14",
+          "note": "ICP gives no commitment (re-confirmed 2026-11-14)."
+        },
+        "residence_requirement": {
+          "source": "https://u.ae/en/information-and-services/visa-and-emirates-id/types-of-visas/golden-visa",
+          "verified": "2026-11-14"
+        },
+        "time_to_citizenship": {
+          "source": "https://u.ae/en/information-and-services/visa-and-emirates-id/types-of-visas/golden-visa",
+          "verified": "2026-11-14",
+          "note": "No published pathway to citizenship for golden-visa holders (official position, phase 1)."
+        },
+        "dual_citizenship": {
+          "source": "https://uaelegislation.gov.ae",
+          "verified": "2026-11-14",
+          "note": "Constitution art. 8; Nationality Law 17/1972 arts. 11, 12-Bis, 15(c) (MoJ elaws text)."
+        },
+        "restricted_nationalities": {
+          "source": null,
+          "verified": "2026-11-14",
+          "note": "No list published; ICP security screening (phase 1)."
+        }
+      }
+    },
+    {
+      "id": "malta-mprp",
+      "country": "Malta",
+      "code": "MT",
+      "type": "rbi",
+      "programme": "Malta Permanent Residence Programme (MPRP, Residency Malta Agency)",
+      "status": "open",
+      "status_note": "Third-country nationals only (non-EU/EEA/Swiss). Fee structure rebuilt by Legal Notice 146 of 2025 (unified contribution, higher admin fee, no per-person fees for spouse/minor children, temporary residence available during processing); property thresholds were reset by LN 310 of 2024 from 2025-01-01. The LN 146 gazette effective date was not read this round (professional sources differ) — amounts below are the Agency's current published figures, which settle.",
+      "legal_basis": "Malta Permanent Residence Programme Regulations, S.L. 217.26, as amended by LN 310 of 2024 and LN 146 of 2025",
+      "options": [
+        {
+          "name": "Property purchase",
+          "amount": 375000,
+          "currency": "EUR",
+          "notes": "Malta incl. Gozo; qualifying property held at least 5 years and a Malta residential address maintained thereafter"
+        },
+        {
+          "name": "Property rental",
+          "amount": 14000,
+          "currency": "EUR",
+          "basis": "per year",
+          "notes": "Minimum lease term per programme rules"
+        }
+      ],
+      "gov_fees": "Non-refundable admin fee 60,000; government contribution 37,000 (purchase and rental unified); 7,500 per adult dependant excluding the spouse; NGO donation 2,000; residence card 500/person (5 years). Assets test: capital assets >= 500,000 (of which >= 150,000 financial) or >= 650,000 (of which >= 75,000 financial). Applications only via a Licensed Agent.",
+      "government_total_single": 99500,
+      "government_total_family4": 101000,
+      "currency": "EUR",
+      "family_total_basis": "Admin 60,000 + contribution 37,000 + NGO 2,000 + cards 4 x 500; spouse and minor children attract no adult-dependant fee; property cost excluded",
+      "processing_time": null,
+      "residence_requirement": "Residence certificate is indefinite while programme obligations are met; card renewed every 5 years. No minimum-stay figure is set on the Agency pages read (an explicit 'no minimum stay' sentence was not re-read — partial).",
+      "time_to_pr": "The MPRP is itself permanent residence (the Agency states it is distinct from citizenship law)",
+      "time_to_citizenship": "No investment-citizenship route (abolished, see malta-cbi); naturalisation is discretionary after long actual residence",
+      "passport_validity": null,
+      "dual_citizenship": "Allowed: Maltese Citizenship Act (Cap. 188, as amended by Act IV of 2000) - renunciation (art. 13) is a voluntary declaration by a citizen who also holds a foreign nationality, and the deprivation grounds (art. 14) do not include acquiring or holding another nationality. Dual citizenship recognised since 2000; no MPRP rule requires renouncing a previous nationality.",
+      "restricted_nationalities": "EU/EEA/Swiss nationals are ineligible (third-country programme); sanctioned-country nationals excluded per Agency rules",
+      "documents": [
+        "Licensed-Agent submission",
+        "Valid travel documents",
+        "Health insurance covering Malta and Europe",
+        "Police conduct certificates",
+        "Proof of stable income and of the assets test",
+        "Property purchase/lease proof",
+        "Fee and contribution payment proofs"
+      ],
+      "easy_access_count": 159,
+      "easy_access_note": "The Maltese passport's own count — the MPRP grants residence, not a passport.",
+      "rating": "partial",
+      "unverified": [
+        "Processing time - not published",
+        "'No minimum stay' - confirmed not published in any current official MPRP material (searched 2026-11-14: legal-framework page, FAQ v2.6.1, Brochure 9/2025); the rules instead state an absence-based lapse (12 consecutive months, or an aggregate of 18 months in any 4 years)"
+      ],
+      "conflicts": [
+        "The Agency's own FAQ PDF (v2.6.1, 2024-07) still shows the old fees (admin 40,000; contribution 28,000/58,000; card 137.50) — superseded by the current programme page; both reported, current page governs",
+        "LN 146 of 2025 effective date (resolved, batch-0 erratum): professional sources widely gave 2025-01-01 - wrong. The LN ('Malta Permanent Residence Programme (Amendment) Regulations, 2025', amending S.L. 217.26) has no commencement clause and took effect on Gazette publication, 22 July 2025 (Government Gazette No. 21,472). 2025-01-01 is the cut-off in its reg. 16: the new fees also apply to applications submitted after 1 January 2025 that were still unconcluded at entry into force."
+      ],
+      "sources": [
+        "https://residencymalta.gov.mt/legal-framework-mprp-2/",
+        "https://residencymalta.gov.mt/wp-content/uploads/2024/07/MPRP-FAQs-V2.6.1.pdf",
+        "https://legislation.mt/eli/cap/188/eng/pdf"
+      ],
+      "rating_note": "Batch 0 (2026-11-14): LN 146 of 2025's effective date settled (22 July 2025); 'no minimum stay' confirmed unpublished; dual citizenship settled at statute level (Cap. 188 arts. 13-14). Processing time is the route's only remaining unpublished field.",
+      "field_sources": {
+        "status": {
+          "source": null,
+          "verified": "2026-11-14"
+        },
+        "options": {
+          "source": "https://residencymalta.gov.mt/legal-framework-mprp-2/",
+          "verified": "2026-11-14"
+        },
+        "gov_fees": {
+          "source": null,
+          "verified": "2026-11-14"
+        },
+        "totals": {
+          "source": null,
+          "verified": "2026-11-14"
+        },
+        "processing_time": {
+          "source": null,
+          "verified": "2026-11-14",
+          "note": "Not published (2026-11-14)."
+        },
+        "residence_requirement": {
+          "source": "https://residencymalta.gov.mt/legal-framework-mprp-2/",
+          "verified": "2026-11-14",
+          "note": "Absence-based lapse; no published minimum-stay figure."
+        },
+        "time_to_citizenship": {
+          "source": null,
+          "verified": "2026-11-14",
+          "note": "Long-term residence after 5 years (S.L. 217.18); general naturalisation thereafter."
+        },
+        "dual_citizenship": {
+          "source": "https://legislation.mt/eli/cap/188/eng/pdf",
+          "verified": "2026-11-14",
+          "note": "Cap. 188 arts. 13-14."
+        },
+        "restricted_nationalities": {
+          "source": null,
+          "verified": "2026-11-14",
+          "note": "No list published; due-diligence based."
+        }
+      }
+    },
+    {
+      "id": "cyprus-pr-62",
+      "country": "Cyprus",
+      "code": "CY",
+      "type": "rbi",
+      "programme": "Immigration Permit — expedited permanent residence, Regulation 6(2) (category 6.2)",
+      "status": "open",
+      "status_note": "Criteria in force are the 4th revision, effective 2023-05-02. The full criteria are a PDF linked from the gov.cy page; the PDF text was not extracted this round, so amounts rest on the criteria's official Greek text as consistently quoted verbatim — PDF re-verification is recheck item #1 before publishing.",
+      "legal_basis": "Aliens and Immigration Regulations, Reg. 6(2) expedited procedure; criteria (4th revision, 2023-05-02), Migration Department (gov.cy)",
+      "options": [
+        {
+          "name": "New house/apartment from a developer (first sale)",
+          "amount": 300000,
+          "currency": "EUR",
+          "notes": "Excl. VAT; up to two units may be combined"
+        },
+        {
+          "name": "Other real estate (offices, shops, hotels; resale allowed)",
+          "amount": 300000,
+          "currency": "EUR",
+          "notes": "Excl. VAT"
+        },
+        {
+          "name": "Share capital of a Cyprus company",
+          "amount": 300000,
+          "currency": "EUR",
+          "notes": "Physical office and at least 5 employees"
+        },
+        {
+          "name": "Units of a Cyprus collective investment scheme (AIF/AIFLNP/RAIF)",
+          "amount": 300000,
+          "currency": "EUR",
+          "notes": "Excl. VAT"
+        }
+      ],
+      "gov_fees": "Application fee EUR 500 per application (criteria s.7) + Alien Registration Certificate EUR 70 per person. Secure annual income from abroad required (criteria s.2.2): main applicant at least EUR 50,000/year, + EUR 15,000 for a spouse, + EUR 10,000 per minor child (family-of-4 income threshold EUR 85,000/year); for Category A the income must derive from abroad and be proven by tax returns.",
+      "government_total_single": null,
+      "government_total_family4": 780,
+      "currency": "EUR",
+      "family_total_basis": "500 application + 4 x 70 ARC; investment and income requirements are separate",
+      "processing_time": "Approximately 2 months' examination for a complete application (criteria s.8, read verbatim on the official gov.cy page, 2026-11-14).",
+      "residence_requirement": "Permit is permanent (card renewed every 10 years) but lapses if the holder does not take up residence within 1 year of approval, or is absent from Cyprus for 2 consecutive years (gov.cy, read verbatim) - in practice at least one entry every 2 years. Post-grant compliance per the gov.cy page's clarifications, which supersede the criteria's s.10 as printed: annual proof of maintaining the investment and of health insurance; police-clearance certificates every 3 years; annual income proof is NOT required (abolished by the clarifications).",
+      "time_to_pr": "The permit is itself permanent residence",
+      "time_to_citizenship": "Civil Registry Law 141(I)/2002, art. 111B(1) (as amended 2023, in force 19-12-2023), per the official M127 application page: (a) 12 months' continuous legal residence immediately before applying (absences totalling up to 90 days do not interrupt it); and (b) cumulative legal residence of at least 7 years during the 10 years preceding that final 12-month period. Plus Greek language B1, a civics/history/culture examination pass of at least 60%, clean record, aged 18+. Fees: EUR 500 application + 2 x EUR 8.54 stamps, plus EUR 500 on issuance of the certificate. (The '2,555 days' figure in secondary sources is arithmetic, not official wording.)",
+      "passport_validity": null,
+      "dual_citizenship": "Allowed in structure: no provision requires renouncing a previous nationality to naturalise, and none removes Cypriot nationality for acquiring another - art. 112 provides a voluntary renunciation channel that presupposes dual holding. Caveat: the proviso to art. 111(1) allows the Council of Ministers to require renunciation for specified cases or categories; no published instance was found. Phrase as 'the law does not require renunciation', not as an unqualified guarantee.",
+      "restricted_nationalities": null,
+      "documents": [
+        "Form MIP2",
+        "Investment contract and payment/remittance proof",
+        "Income proof (tax returns/bank statements)",
+        "Police certificates",
+        "Health insurance",
+        "Marriage/birth certificates (certified translations)",
+        "Non-employment declaration",
+        "Land-registry filing proof for property"
+      ],
+      "easy_access_count": 156,
+      "easy_access_note": "The Cypriot passport's own count — the permit grants residence only.",
+      "rating": "verified",
+      "unverified": [
+        "Criteria PDF archive copy - the criteria were read verbatim from the official gov.cy HTML publication (the instrument's live form, 2026-11-14); file the PDF when the archive form is re-published"
+      ],
+      "conflicts": [
+        "Criteria s.10 vs the gov.cy page's own clarifications: s.10 as printed requires annual income proof and annual police certificates; the clarifications supersede it (income proof abolished; police certificates every 3 years). The clarifications govern."
+      ],
+      "sources": [
+        "https://www.gov.cy/mip-md/en/documents/companies-investors-permanent-residence-3/immigration-permits/"
+      ],
+      "rating_note": "Upgraded in batch 0 (2026-11-14): criteria read verbatim on gov.cy (EUR 500 fee, approx. 2-month examination, s.10 clarifications); naturalisation settled from art. 111B(1) via the official M127 page; dual citizenship settled structurally (arts. 111-112).",
+      "field_sources": {
+        "status": {
+          "source": null,
+          "verified": "2026-11-14"
+        },
+        "options": {
+          "source": null,
+          "verified": "2026-11-14"
+        },
+        "gov_fees": {
+          "source": null,
+          "verified": "2026-11-14"
+        },
+        "totals": {
+          "source": null,
+          "verified": "2026-11-14"
+        },
+        "processing_time": {
+          "source": null,
+          "verified": "2026-11-14",
+          "note": "Criteria s.8."
+        },
+        "residence_requirement": {
+          "source": null,
+          "verified": "2026-11-14",
+          "note": "Including the page clarifications superseding s.10."
+        },
+        "time_to_citizenship": {
+          "source": null,
+          "verified": "2026-11-14",
+          "note": "Art. 111B(1) structure cross-confirmed on the official M127 page (gov.cy)."
+        },
+        "dual_citizenship": {
+          "source": null,
+          "verified": "2026-11-14",
+          "note": "Arts. 111-112 (Civil Registry Law 141(I)/2002)."
+        },
+        "restricted_nationalities": {
+          "source": null,
+          "verified": "2026-11-14",
+          "note": "No list published (phase 1)."
+        }
+      }
+    },
+    {
+      "id": "hungary-guest-investor",
+      "country": "Hungary",
+      "code": "HU",
+      "type": "rbi",
+      "programme": "Guest Investor Visa and Residence Permit (Vendégbefektető, Act XC of 2023)",
+      "status": "open",
+      "status_note": "Fund and donation routes open since 2024-07-01. The legislated EUR 500,000 direct real-estate route was abolished before it ever operated: removed by Act LXXXIV of 2024 (s.135(2) replacing Act XC s.16(3)), gazetted 2024-12-20, effective 2024-12-30 (Act s.41(1)). It would only ever have covered purchases after 2025-01-01, so no property purchase ever qualified.",
+      "legal_basis": "Act XC of 2023 on the general rules of entry and stay of third-country nationals; administered by the National Directorate-General for Aliens Policing (OIF)",
+      "options": [
+        {
+          "name": "Real-estate fund units (National Bank-registered fund)",
+          "amount": 250000,
+          "currency": "EUR",
+          "notes": "Fund with >= 40% of net assets in Hungarian residential real estate; manager on the official qualifying list; units held at least 5 years in a frozen securities sub-account"
+        },
+        {
+          "name": "Donation to a public-trust higher-education institution",
+          "amount": 1000000,
+          "currency": "EUR",
+          "notes": "Non-refundable; education/science/art purposes"
+        }
+      ],
+      "gov_fees": "Guest investor visa 110 (OIF fee page); residence permit via Enter Hungary HUF 26,000 (in person HUF 39,000); extension HUF 26,000. Family-reunification permit fees for dependants are not itemised for this category on the fee page read.",
+      "government_total_single": null,
+      "government_total_family4": null,
+      "currency": "EUR",
+      "family_total_basis": "Visa fee would be 4 x 110 = 440 plus each member's residence-permit fee; dependant fee category not officially itemised — no family total settled",
+      "processing_time": "21 days for the guest-investor residence permit (OIF category factsheet s.6), excluding the period between application and submission of proof that the investment was completed - the clock stops for that interval (Act XC of 2023 s.173(1) and s.173(3)(j), the latter added by Act LXXXIV of 2024 s.142). The investor undertakes to complete the investment within 3 months of entry.",
+      "residence_requirement": "Guest investor visa max 6 months; residence permit max 10 years, extendable once for 10 years. OIF FAQ verbatim: 'there is no rule regarding the minimum length of stay in Hungary for holders of such a permit', and renewal does not test 90 days in the prior 180. Apply for the permit within 30 days of first entry; complete (or prove) the investment within 3 months of entry.",
+      "time_to_pr": "National Residence Card (permanent residence) after at least 3 years' legal, uninterrupted residence under the general rules (OIF factsheet; absences per Act XC s.84(1): a single absence under 4 months and no more than 270 days in total over the 3 years). The OIF publishes nothing category-specific, but Act XC s.83(5)'s list of categories excluded from this route (guest self-employment, seasonal and employment purposes, guest workers, study, White Card, etc.) does not include the guest investor, and s.84(3)'s non-counting rules likewise omit it - guest-investor residence therefore counts.",
+      "time_to_citizenship": "8 years' continuous residence (Act LV of 1993 s.4(1)(a)); preferential 3- and 5-year tiers exist for defined cases (e.g. spouses of Hungarian citizens, former citizens).",
+      "passport_validity": null,
+      "dual_citizenship": "Allowed: Act LV of 1993 s.2(2) - a Hungarian citizen who also holds another nationality is treated as a Hungarian citizen for the purposes of Hungarian law; renunciation (s.8(1)(a)) presupposes holding a foreign nationality. No renunciation is required to naturalise.",
+      "restricted_nationalities": null,
+      "documents": [
+        "Application form (Annex 24)",
+        "Passport",
+        "Investment completion or commitment declaration with source-of-funds proof",
+        "Hungarian accommodation proof",
+        "Means/insurance",
+        "Fund-unit and frozen-account certificates for the fund route"
+      ],
+      "easy_access_count": 159,
+      "easy_access_note": "The Hungarian passport's own count — the guest investor permit grants residence only.",
+      "rating": "verified",
+      "unverified": [
+        "Category-specific PR-linkage statement - OIF publishes none; the linkage is settled from the structure of Act XC ss.83-84"
+      ],
+      "conflicts": [
+        "Processing time (resolved, batch-0 erratum): phase 1 cautioned that the 21-day figure was unconfirmed for this category and must not be borrowed from other categories. It IS this category's period (OIF factsheet s.6; Act XC s.173), subject to the investment-proof clock-stop.",
+        "Abolition date (resolved, batch-0 erratum): phase-1 drafts carried 2025-01-01 and 2025-01-15 as candidates; the settled effective date is 2024-12-30."
+      ],
+      "sources": [
+        "https://oif.gov.hu/index.php/factsheets/visa-for-guest-investors",
+        "https://oif.gov.hu/index.php/factsheets/guest-investor-visa-and-permit-frequently-asked-questions-faq",
+        "https://www.oif.gov.hu/index.php/factsheets/procedural-fees",
+        "https://njt.hu"
+      ],
+      "rating_note": "Upgraded in batch 0 (2026-11-14): abolition date settled (2024-12-30; the route never operated); the 21-day period confirmed as this category's own, with its clock-stop; PR linkage settled from the statute's exclusion lists; citizenship 8 years; dual citizenship settled (Act LV s.2(2)).",
+      "field_sources": {
+        "status": {
+          "source": "https://oif.gov.hu/index.php/factsheets/visa-for-guest-investors",
+          "verified": "2026-11-14"
+        },
+        "options": {
+          "source": "https://oif.gov.hu/index.php/factsheets/visa-for-guest-investors",
+          "verified": "2026-11-14"
+        },
+        "gov_fees": {
+          "source": "https://oif.gov.hu/index.php/factsheets/visa-for-guest-investors",
+          "verified": "2026-11-14"
+        },
+        "totals": {
+          "source": "https://oif.gov.hu/index.php/factsheets/visa-for-guest-investors",
+          "verified": "2026-11-14"
+        },
+        "processing_time": {
+          "source": "https://oif.gov.hu/index.php/factsheets/visa-for-guest-investors",
+          "verified": "2026-11-14",
+          "note": "OIF factsheet s.6; Act XC s.173."
+        },
+        "residence_requirement": {
+          "source": "https://oif.gov.hu/index.php/factsheets/visa-for-guest-investors",
+          "verified": "2026-11-14"
+        },
+        "time_to_citizenship": {
+          "source": "https://njt.hu",
+          "verified": "2026-11-14",
+          "note": "PR: Act XC ss.83-84 + OIF National Residence Card factsheet; citizenship: Act LV of 1993 s.4(1)(a)."
+        },
+        "dual_citizenship": {
+          "source": "https://njt.hu",
+          "verified": "2026-11-14",
+          "note": "Act LV of 1993 s.2(2)."
+        },
+        "restricted_nationalities": {
+          "source": null,
+          "verified": "2026-11-14",
+          "note": "No list published (phase 1)."
+        }
+      }
+    },
+    {
+      "id": "spain-golden-visa",
+      "country": "Spain",
+      "code": "ES",
+      "type": "rbi",
+      "programme": "Investor visa and residence (Ley 14/2013 Arts. 63-67) — CLOSED",
+      "status": "closed",
+      "status_date": "2025-04-03",
+      "status_note": "Abolished by Ley Orgánica 1/2025, de 2 de enero (BOE-A-2025-76, published 2025-01-03). Final provision 21 reads (read verbatim): 'Se dejan sin contenido los artículos 63, 64, 65, 66 y 67' — the entire investor chapter of Ley 14/2013 was emptied, all channels (real estate, funds, deposits, bonds, business projects) with no exceptions. The law took effect three months after publication: no new investor applications from 2025-04-03. Transitional rules: applications filed before the effective date are decided under the rules at filing; permits already granted remain valid for their term and renewals are processed under the rules of initial grant (the UGE's June 2025 reading extends this to all investor categories; that extension is administrative interpretation, not BOE text). No replacement investment-residence law had been gazetted as of 2026-11. Retained in v1 as the standing 'stale information' specimen: any source still selling a Spanish golden visa is out of date.",
+      "legal_basis": "Ley Orgánica 1/2025 (BOE-A-2025-76); Ley 14/2013 consolidated text (Arts. 63-67 shown as without content)",
+      "options": [],
+      "historical_thresholds": "Real estate 500,000; shares/funds/deposits 1,000,000; government bonds 2,000,000; general-interest business projects — all historical only, no longer available",
+      "gov_fees": null,
+      "government_total_single": null,
+      "government_total_family4": null,
+      "currency": "EUR",
+      "family_total_basis": "Not applicable — no new applications exist",
+      "processing_time": null,
+      "residence_requirement": "Existing holders only, under the transitional rules (initial 3-year / 5-year renewal pattern of the old regime)",
+      "time_to_pr": null,
+      "time_to_citizenship": null,
+      "passport_validity": null,
+      "dual_citizenship": "Spain generally requires renunciation on naturalisation, with treaty exceptions (Ibero-American states etc.) — article text not re-read; noted for reference only, unrelated to the closed programme",
+      "restricted_nationalities": null,
+      "documents": [],
+      "easy_access_count": 161,
+      "easy_access_note": "The Spanish passport's own count — unrelated to the closed route.",
+      "rating": "verified",
+      "rating_note": "Verified as CLOSED from the BOE text read first-hand.",
+      "unverified": [],
+      "conflicts": [],
+      "sources": [
+        "https://www.boe.es/buscar/act.php?id=BOE-A-2025-76"
+      ],
+      "presentation": "archive-page",
+      "archive_note": "Closed programme (Ley Organica 1/2025; all channels closed 2025-04-03) - keep as an archive page with a 'closed' badge (user adjudication 2026-11-14).",
+      "field_sources": {
+        "status": {
+          "source": null,
+          "verified": "2026-11-14",
+          "note": "Ley Organica 1/2025 (BOE) - closure."
+        },
+        "options": {
+          "source": "https://www.boe.es/buscar/act.php?id=BOE-A-2025-76",
+          "verified": "2026-11-14",
+          "note": "Historical thresholds (Ley 14/2013) - programme closed."
+        },
+        "gov_fees": {
+          "source": "https://www.boe.es/buscar/act.php?id=BOE-A-2025-76",
+          "verified": "2026-11-14",
+          "note": "Historical."
+        },
+        "totals": {
+          "source": "https://www.boe.es/buscar/act.php?id=BOE-A-2025-76",
+          "verified": "2026-11-14",
+          "note": "Historical."
+        },
+        "processing_time": {
+          "source": null,
+          "verified": "2026-11-14",
+          "note": "Programme closed - not applicable."
+        },
+        "residence_requirement": {
+          "source": null,
+          "verified": "2026-11-14",
+          "note": "Programme closed."
+        },
+        "time_to_citizenship": {
+          "source": "https://www.boe.es/buscar/act.php?id=BOE-A-2025-76",
+          "verified": "2026-11-14",
+          "note": "General nationality rules unaffected by the closure."
+        },
+        "dual_citizenship": {
+          "source": null,
+          "verified": "2026-11-14",
+          "note": "Closed route - general Spanish nationality rules apply to any future naturalisation."
+        },
+        "restricted_nationalities": {
+          "source": null,
+          "verified": "2026-11-14",
+          "note": "Programme closed."
+        }
+      }
+    }
+  ]
+}

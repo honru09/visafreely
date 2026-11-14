@@ -1,0 +1,15 @@
+---
+import ResidencyRouteView from '../../../views/ResidencyRouteView.astro';
+import { countryByCode } from '../../../lib/data';
+import { publishedRoutes, routeSlug } from '../../../lib/residency';
+
+export function getStaticPaths() {
+  return publishedRoutes.map((r) => ({
+    params: { country: countryByCode[r.code].slug, route: routeSlug(r) },
+    props: { route: r },
+  }));
+}
+const { route } = Astro.props;
+---
+
+<ResidencyRouteView route={route} />

@@ -1,0 +1,125 @@
+---
+// Residency country page (batch 1, 2026-11-14): thin aggregation per
+// PLAN section 1 — passport travel block + route cards + official
+// sources. All figures come from the data layer at build time.
+import Base from '../layouts/Base.astro';
+import {
+  countryByCode,
+  easyAccessCount,
+  flagEmoji,
+  formatDateLong,
+  type Country,
+} from '../lib/data';
+import {
+  familyTotalText,
+  fmtMoney,
+  minThreshold,
+  residencyDisclaimer,
+  routePath,
+  routesForCountry,
+  RESIDENCY_VERIFIED_DATE,
+} from '../lib/residency';
+
+interface Props {
+  c: Country;
+}
+const { c } = Astro.props;
+const routes = routesForCountry(c.code);
+const easy = easyAccessCount(c.code);
+const verifiedLong = formatDateLong(RESIDENCY_VERIFIED_DATE);
+const sources = [...new Set(routes.flatMap((r) => r.sources))];
+const title = `${c.name} residency & citizenship routes | VisaFreely`;
+const description = `Residency and citizenship routes for ${c.name}, checked against official sources on ${verifiedLong}: thresholds, government fees and status — including closed programmes, marked as closed.`;
+const absUrl = (p: string) => new URL(p, Astro.site).href;
+const breadcrumbLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: absUrl('/') },
+    { '@type': 'ListItem', position: 2, name: 'Residency & citizenship', item: absUrl('/residency/') },
+    { '@type': 'ListItem', position: 3, name: c.name, item: absUrl(`/residency/${c.slug}/`) },
+  ],
+};
+const hostOf = (u: string) => {
+  try {
+    return new URL(u).hostname.replace(/^www\./, '');
+  } catch {
+    return u;
+  }
+};
+---
+
+<Base title={title} description={description} locale="en">
+  <section class="band light">
+    <div class="band-in">
+      <div class="crumbs"><a href="/residency/">Residency &amp; citizenship</a></div>
+      <h1>
+        <span aria-hidden="true">{flagEmoji(c.code)}</span>
+        {c.name} — residency &amp; citizenship routes
+      </h1>
+      <p class="muted">Data verified {verifiedLong} · Official sources</p>
+    </div>
+  </section>
+
+  <div class="band-in res-body">
+    <h2>Routes</h2>
+    <div class="res-cards">
+      {
+        routes.map((r) => (
+          <a class="res-card" href={routePath(r)}>
+            <span>
+              <strong>{r.programme}</strong>
+            </span>
+            <span class="muted">
+              {r.status === 'closed'
+                ? `Closed ${formatDateLong(r.status_date || '')} — archive page`
+                : `From ${fmtMoney(minThreshold(r) ?? 0, r.currency)} · family of 4 ${familyTotalText(r)} · ${r.processing_time || ''}`}
+            </span>
+            <span class={`res-badge ${r.status}`}>{r.status === 'closed' ? 'Closed' : 'Open'}</span>
+          </a>
+        ))
+      }
+    </div>
+
+    <h2>The {c.name} passport</h2>
+    <p>
+      Holders of a {c.name} passport can enter <strong>{easy} destinations</strong>
+      without applying in advance (visa-free, visa on arrival or an electronic
+      authorisation).
+    </p>
+    <p>
+      <a href={`/passport/${c.slug}/`}>See everywhere the {c.name} passport reaches →</a>
+      {' · '}
+      <a href={`/compare/?a=${c.slug}`}>Compare this passport →</a>
+    </p>
+
+    <h2>Official sources</h2>
+    <ul class="res-sources">
+      {
+        sources.map((s) => (
+          <li>
+            <a href={s} target="_blank" rel="noopener">
+              {hostOf(s)}
+            </a>
+            <span class="muted small"> — {s}</span>
+          </li>
+        ))
+      }
+    </ul>
+
+    <p class="res-disclaimer">{residencyDisclaimer(verifiedLong)}</p>
+  </div>
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbLd)} />
+</Base>
+
+<style>
+  .res-body { padding-top: 10px; padding-bottom: 30px; }
+  .res-cards { display: grid; gap: 10px; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); margin: 10px 0 18px; }
+  .res-card { display: flex; flex-direction: column; gap: 6px; padding: 14px 16px; background: var(--card); border: 1px solid var(--line); border-radius: 14px; color: var(--ink); text-decoration: none; }
+  .res-badge { align-self: flex-start; font-weight: 700; font-size: 12.5px; padding: 3px 10px; border-radius: 999px; }
+  .res-badge.open { background: #e3f4ea; color: #14663a; border: 1px solid #a9d8bd; }
+  .res-badge.closed { background: #fbe7e7; color: #9c1c1c; border: 1px solid #f0b4b4; }
+  .res-sources { font-size: 14px; }
+  .res-sources li { overflow-wrap: anywhere; }
+  .res-disclaimer { margin-top: 26px; padding: 12px 16px; background: var(--card); border: 1px solid var(--line); border-radius: 12px; color: var(--muted); font-size: 13.5px; max-width: 85ch; }
+</style>
