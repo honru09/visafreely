@@ -3,6 +3,7 @@ import Base from '../layouts/Base.astro';
 import { countries, easyAccessCount, visaFreePassportCount, type Country } from '../lib/data';
 import { t as i18nT, countryName, hrefFor, type LocaleCode } from '../i18n/locales';
 import { pinyinInitial } from '../i18n/pinyin';
+import { jaRow } from '../i18n/japanese';
 import availabilityRaw from '../i18n/availability.json';
 
 interface Props {
@@ -18,13 +19,20 @@ const isP = kind === 'passports';
 
 // English: alphabetical by English name, grouped by first letter — the
 // original behaviour, byte for byte. zh-Hans: collator order on the
-// glossary names, grouped by pinyin initial.
+// glossary names, grouped by pinyin initial. ja: collator order on the
+// glossary names, grouped by gojuuon row.
 const sorted =
   locale === 'zh-hans'
     ? [...countries].sort((a, b) => new Intl.Collator('zh-Hans').compare(nm(a), nm(b)))
-    : [...countries].sort((a, b) => (a.name < b.name ? -1 : 1));
+    : locale === 'ja'
+      ? [...countries].sort((a, b) => new Intl.Collator('ja').compare(nm(a), nm(b)))
+      : [...countries].sort((a, b) => (a.name < b.name ? -1 : 1));
 const letterOf = (c: Country) =>
-  locale === 'zh-hans' ? pinyinInitial(nm(c).charAt(0)) : c.name.charAt(0).toUpperCase();
+  locale === 'zh-hans'
+    ? pinyinInitial(nm(c).charAt(0))
+    : locale === 'ja'
+      ? jaRow(nm(c))
+      : c.name.charAt(0).toUpperCase();
 const letters: string[] = [];
 const byLetter = new Map<string, typeof sorted>();
 for (const c of sorted) {

@@ -35,9 +35,13 @@ for (const loc of settings.locales) {
 }
 const glossary = JSON.parse(readFileSync('src/i18n/glossary.json', 'utf8'));
 const sd = JSON.parse(readFileSync('src/data/site-data.json', 'utf8'));
-const zhNames = glossary['zh-hans']?.countries || {};
-for (const c of sd.countries) {
-  if (!zhNames[c.code]) { console.error(`[i18n] glossary zh-hans missing country ${c.code}`); fail = 1; }
+let zhNames = {};
+for (const gLoc of ['zh-hans', 'ja']) {
+  const names = glossary[gLoc]?.countries || {};
+  if (gLoc === 'zh-hans') zhNames = names;
+  for (const c of sd.countries) {
+    if (!names[c.code]) { console.error(`[i18n] glossary ${gLoc} missing country ${c.code}`); fail = 1; }
+  }
 }
 if (fail) process.exit(1);
 console.log(`i18n check ok: ${baseKeys.length} keys x ${settings.locales.length} locales, glossary countries=${Object.keys(zhNames).length}`);

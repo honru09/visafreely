@@ -65,29 +65,31 @@ export function t(locale: LocaleCode) {
   };
 }
 
-const glossary = glossaryRaw as unknown as {
-  'zh-hans': {
-    status: Record<string, string>;
-    statusShort: Record<string, string>;
-    countries: Record<string, string>;
-  };
-};
+interface GlossarySection {
+  status: Record<string, string>;
+  statusShort: Record<string, string>;
+  countries: Record<string, string>;
+}
+const glossary = glossaryRaw as unknown as Partial<Record<string, GlossarySection>>;
 
-/** Country display name in a locale (zh-hans from the frozen glossary). */
+/** Country display name in a locale (frozen-glossary locales only). */
 export function countryName(locale: LocaleCode, c: Country): string {
-  if (locale === 'zh-hans') return glossary['zh-hans'].countries[c.code] || c.name;
+  const g = glossary[locale];
+  if (g) return g.countries[c.code] || c.name;
   return c.name;
 }
 
-/** Full status label ("Visa free" / 免签） in a locale. */
+/** Full status label ("Visa free" / 免签 / ビザ免除） in a locale. */
 export function statusLabelL(locale: LocaleCode, code: string): string {
-  if (locale === 'zh-hans') return glossary['zh-hans'].status[code] || code;
+  const g = glossary[locale];
+  if (g) return g.status[code] || code;
   return { F: 'Visa free', A: 'Visa on arrival', E: 'e-Visa', T: 'Electronic travel authorisation (ETA)', R: 'Visa required', N: 'No admission' }[code] || code;
 }
 
 /** Short status label for compact rows ("No admission" / 不可入境）. */
 export function statusShortL(locale: LocaleCode, code: string): string {
-  if (locale === 'zh-hans') return glossary['zh-hans'].statusShort[code] || code;
+  const g = glossary[locale];
+  if (g) return g.statusShort[code] || code;
   return { F: 'Visa free', A: 'Visa on arrival', E: 'e-Visa', T: 'ETA', R: 'Visa required', N: 'No admission' }[code] || code;
 }
 
@@ -101,9 +103,9 @@ export function verdictTextL(locale: LocaleCode, row: PairRow): string {
   return statusLabelL(locale, row.s);
 }
 
-/** "25 Oct 2026" / "2026年10月25日". */
+/** "25 Oct 2026" / "2026年10月25日" (zh and ja share the 年月日 form). */
 export function formatDateL(locale: LocaleCode, iso: string): string {
-  if (locale === 'zh-hans') {
+  if (locale === 'zh-hans' || locale === 'ja') {
     const mm = /^(\d{4})-(\d{2})-(\d{2})$/.exec(iso || '');
     if (mm) return `${parseInt(mm[1], 10)}年${parseInt(mm[2], 10)}月${parseInt(mm[3], 10)}日`;
     return iso;

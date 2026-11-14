@@ -1,0 +1,11 @@
+---
+import PassportHubView from '../../../views/PassportHubView.astro';
+import { countries } from '../../../lib/data';
+
+export function getStaticPaths() {
+  return countries.map((c) => ({ params: { slug: c.slug }, props: { c } }));
+}
+const { c } = Astro.props;
+---
+
+<PassportHubView locale="ja" c={c} />
