@@ -13,6 +13,7 @@ import {
 import {
   familyTotalText,
   fmtMoney,
+  MALTA_MERIT_FACTS,
   minThreshold,
   residencyDisclaimer,
   routePath,
@@ -72,14 +73,25 @@ const hostOf = (u: string) => {
             </span>
             <span class="muted">
               {r.status === 'closed'
-                ? `Closed ${formatDateLong(r.status_date || '')} — archive page`
-                : `From ${fmtMoney(minThreshold(r) ?? 0, r.currency)} · family of 4 ${familyTotalText(r)} · ${r.processing_time || ''}`}
+                ? r.status_date
+                  ? `Closed ${formatDateLong(r.status_date)} — archive page`
+                  : 'Closed — archive page'
+                : `From ${fmtMoney(minThreshold(r) ?? 0, r.currency)} · family of 4 ${familyTotalText(r)}${r.processing_time ? ` · ${r.processing_time}` : ''}`}
             </span>
             <span class={`res-badge ${r.status}`}>{r.status === 'closed' ? 'Closed' : 'Open'}</span>
           </a>
         ))
       }
     </div>
+
+    {
+      c.code === 'MT' && MALTA_MERIT_FACTS ? (
+        <>
+          <h2>Citizenship by merit — not an investment route</h2>
+          <p>{MALTA_MERIT_FACTS}</p>
+        </>
+      ) : null
+    }
 
     <h2>The {c.name} passport</h2>
     <p>

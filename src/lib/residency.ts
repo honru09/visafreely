@@ -41,6 +41,7 @@ export interface ResidencyRoute {
   documents: string[];
   conflicts: string[];
   sources: string[];
+  merit_country_page_material?: { placement: string; facts: string };
 }
 
 const allRoutes = (routesRaw as unknown as { routes: ResidencyRoute[] }).routes;
@@ -48,12 +49,29 @@ export const RESIDENCY_VERIFIED_DATE = (
   routesRaw as unknown as { meta: { verified_date: string } }
 ).meta.verified_date;
 
-/** Batch 1 published set (PLAN section 5). Later batches extend this. */
+/** Published set (PLAN section 5): batch 1 (DM/KN/ST + Spain archive)
+ *  and batch 2 (GD/LC/VU/EG + AG/TR partial CBI; PT/GR/IT/CY/HU/AE RBI;
+ *  Malta MPRP + Malta CBI archive page per PLAN section 3 and the
+ *  dataset's archive_note adjudication). */
 export const PUBLISHED_ROUTE_IDS = [
   'dominica-cbi',
   'st-kitts-cbi',
   'sao-tome-cbi',
   'spain-golden-visa',
+  'grenada-cbi',
+  'st-lucia-cbi',
+  'vanuatu-dsp',
+  'egypt-cbi',
+  'antigua-cbi',
+  'turkiye-cbi',
+  'portugal-ari',
+  'greece-golden-visa',
+  'italy-investor-visa',
+  'cyprus-pr-62',
+  'hungary-guest-investor',
+  'uae-golden-visa',
+  'malta-mprp',
+  'malta-cbi',
 ];
 
 export const publishedRoutes: ResidencyRoute[] = allRoutes.filter((r) =>
@@ -64,6 +82,13 @@ export const closedRoutes = publishedRoutes.filter((r) => r.status === 'closed')
 export const routeById: Record<string, ResidencyRoute> = Object.fromEntries(
   publishedRoutes.map((r) => [r.id, r]),
 );
+
+/** Malta country-page material (PLAN section 3): the Citizenship by
+ *  Merit framework is a discretionary naturalisation route, stated as
+ *  facts on the country page only — never a standalone route page. */
+const maltaCbiFull = allRoutes.find((r) => r.id === 'malta-cbi');
+export const MALTA_MERIT_FACTS =
+  maltaCbiFull?.merit_country_page_material?.facts ?? null;
 export const publishedCountries: string[] = [
   ...new Set(publishedRoutes.map((r) => r.code)),
 ];
@@ -75,6 +100,20 @@ const ROUTE_SLUG: Record<string, string> = {
   'st-kitts-cbi': 'citizenship-by-investment',
   'sao-tome-cbi': 'citizenship-by-investment',
   'spain-golden-visa': 'golden-visa',
+  'grenada-cbi': 'citizenship-by-investment',
+  'st-lucia-cbi': 'citizenship-by-investment',
+  'vanuatu-dsp': 'citizenship-by-investment',
+  'egypt-cbi': 'citizenship-by-investment',
+  'antigua-cbi': 'citizenship-by-investment',
+  'turkiye-cbi': 'citizenship-by-investment',
+  'portugal-ari': 'golden-visa',
+  'greece-golden-visa': 'golden-visa',
+  'italy-investor-visa': 'investor-visa',
+  'cyprus-pr-62': 'permanent-residence',
+  'hungary-guest-investor': 'guest-investor-visa',
+  'uae-golden-visa': 'golden-visa',
+  'malta-mprp': 'permanent-residence',
+  'malta-cbi': 'citizenship-by-investment',
 };
 export const routeSlug = (r: ResidencyRoute) => ROUTE_SLUG[r.id];
 export const countryPath = (code: string) =>
@@ -89,8 +128,18 @@ export const fmtMoney = (amount: number, currency: string) =>
 /** Rendered when a field has no official figure (PLAN section 1). */
 export const NOT_PUBLISHED = 'Not officially published';
 
-export const minThreshold = (r: ResidencyRoute) =>
-  r.options.length ? Math.min(...r.options.map((o) => o.amount)) : null;
+/** Headline minimum: the cheapest one-off qualifying amount. Options
+ *  without a fixed amount (job-creation routes) and recurring amounts
+ *  (basis "per year", e.g. a rent or an annual tax figure) never pose as
+ *  the entry threshold — they are listed in full in the options table. */
+export const minThreshold = (r: ResidencyRoute) => {
+  const lump = r.options
+    .filter((o) => o.amount != null && o.basis !== 'per year')
+    .map((o) => o.amount);
+  if (lump.length) return Math.min(...lump);
+  const any = r.options.filter((o) => o.amount != null).map((o) => o.amount);
+  return any.length ? Math.min(...any) : null;
+};
 
 export const familyTotalText = (r: ResidencyRoute): string => {
   if (r.government_total_family4 == null) return NOT_PUBLISHED;
