@@ -1,6 +1,7 @@
 ---
 import Stamp from '../components/Stamp.astro';
 import LangSwitcher from '../components/LangSwitcher.astro';
+import MoreMenu from '../components/MoreMenu.astro';
 import { data, countries, countryBySlug, verifiedCount, changelogCount, passportsByEasy } from '../lib/data';
 import {
   t as i18nT,
@@ -224,7 +225,9 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
       }
       .check-btn:hover { text-decoration: none; background: var(--brand-deep); transform: translateY(-1px); box-shadow: var(--sh-md); }
       .check-btn:active { transform: translateY(0); }
-      @media (max-width: 640px) { nav.main { display: none; } .lang-switch { margin-left: auto; } .check-btn { margin-left: 0; } }
+      .check-btn .cb-short { display: none; }
+      @media (max-width: 640px) { nav.main { display: none; } .header-in { gap: 8px; } .more-menu { margin-left: auto; } .lang-switch { margin-left: 0; } .check-btn { margin-left: 0; } .brand .stamp-svg { width: 30px; height: 30px; } .wordmark { font-size: 19px; } }
+      @media (max-width: 560px) { .check-btn .cb-full { display: none; } .check-btn .cb-short { display: inline; } .check-btn { padding: 9px 12px; } }
       /* language suggestion bar (English pages only, shown by inline script) */
       .lang-bar {
         background: var(--soft); border-bottom: 1px solid var(--line);
@@ -1168,12 +1171,11 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
         <nav class="main">
           <a href={href('/passports/')}>{T('nav_passports')}</a>
           <a href={href('/destinations/')}>{T('nav_destinations')}</a>
-          <a href={href('/visa-policy-changes/')}>{T('nav_visa_changes')}</a>
-          <a href={href('/changelog/')}>{T('nav_changelog')}</a>
-          <a href={href('/about/')}>{T('nav_about')}</a>
+          <a href={href('/map/')}>{T('feat_map')}</a>
         </nav>
+        <MoreMenu locale={locale} />
         <LangSwitcher locale={locale} basePath={basePath} label={T('lang_switch_label')} />
-        <a class="check-btn" href={href('/#checker')}>{T('header_check_btn')}</a>
+        <a class="check-btn" href={href('/#checker')}><span class="cb-full">{T('header_check_btn')}</span><span class="cb-short">{T('header_check_short')}</span></a>
       </div>
     </header>
     <main>
