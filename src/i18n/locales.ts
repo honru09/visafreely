@@ -111,7 +111,7 @@ const THAI_MONTHS = [
 /** "25 Oct 2026" / "2026年10月25日" (zh and ja share the 年月日 form) / "2026년 10월 25일" (ko, PLAN §7)
  *  / "25 ตุลาคม 2026" (th: Thai month name + Gregorian year — never Buddhist Era, PLAN §7). */
 export function formatDateL(locale: LocaleCode, iso: string): string {
-  if (locale === 'zh-hans' || locale === 'ja') {
+  if (locale === 'zh-hans' || locale === 'zh-hant' || locale === 'ja') {
     const mm = /^(\d{4})-(\d{2})-(\d{2})$/.exec(iso || '');
     if (mm) return `${parseInt(mm[1], 10)}年${parseInt(mm[2], 10)}月${parseInt(mm[3], 10)}日`;
     return iso;

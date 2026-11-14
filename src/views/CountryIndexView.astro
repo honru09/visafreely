@@ -3,6 +3,7 @@ import Base from '../layouts/Base.astro';
 import { countries, easyAccessCount, visaFreePassportCount, type Country } from '../lib/data';
 import { t as i18nT, countryName, hrefFor, type LocaleCode } from '../i18n/locales';
 import { pinyinInitial } from '../i18n/pinyin';
+import { zhuyinInitial } from '../i18n/zhuyin';
 import { jaRow } from '../i18n/japanese';
 import { koInitial } from '../i18n/korean';
 import { thInitial } from '../i18n/thai';
@@ -21,7 +22,9 @@ const isP = kind === 'passports';
 
 // English: alphabetical by English name, grouped by first letter — the
 // original behaviour, byte for byte. zh-Hans: collator order on the
-// glossary names, grouped by pinyin initial. ja: collator order on the
+// glossary names, grouped by pinyin initial. zh-Hant: zhuyin collator
+// order on the glossary names, grouped by zhuyin initial (Taiwan
+// dictionary order). ja: collator order on the
 // glossary names, grouped by gojuuon row. ko: collator order on the
 // glossary names, grouped by initial jamo. th: collator order on the
 // glossary names, grouped by initial consonant (preposed vowels belong
@@ -29,7 +32,9 @@ const isP = kind === 'passports';
 const sorted =
   locale === 'zh-hans'
     ? [...countries].sort((a, b) => new Intl.Collator('zh-Hans').compare(nm(a), nm(b)))
-    : locale === 'ja'
+    : locale === 'zh-hant'
+      ? [...countries].sort((a, b) => new Intl.Collator('zh-Hant-u-co-zhuyin').compare(nm(a), nm(b)))
+      : locale === 'ja'
       ? [...countries].sort((a, b) => new Intl.Collator('ja').compare(nm(a), nm(b)))
       : locale === 'ko'
         ? [...countries].sort((a, b) => new Intl.Collator('ko').compare(nm(a), nm(b)))
@@ -39,7 +44,9 @@ const sorted =
 const letterOf = (c: Country) =>
   locale === 'zh-hans'
     ? pinyinInitial(nm(c).charAt(0))
-    : locale === 'ja'
+    : locale === 'zh-hant'
+      ? zhuyinInitial(nm(c).charAt(0))
+      : locale === 'ja'
       ? jaRow(nm(c))
       : locale === 'ko'
         ? koInitial(nm(c))
