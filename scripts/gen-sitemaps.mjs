@@ -74,7 +74,7 @@ const noteShard = (name, date) => { shardMax[name] = maxDate(shardMax[name], dat
 
 // Core: site pages + passport/destination hubs.
 const corePaths = ['/', '/visa/', '/passports/', '/destinations/', '/passport-ranking/', '/map/', '/compare/',
-  '/visa-policy-changes/', '/about/', '/changelog/', '/widget/', '/for-business/'];
+  '/visa-policy-changes/', '/about/', '/changelog/', '/widget/', '/for-business/', '/privacy/'];
 const core = [];
 for (const p of corePaths) {
   const dte = coreDateFor(p);

@@ -745,5 +745,21 @@
   "wg_contact_h2": "Talk to us",
   "wg_contact_a": "Sizing help, embed problems, or a data correction: write to ",
   "wg_contact_b": ". A person reads it.",
-  "wg_remove_p": "Changed your mind? Just delete the snippet. No notice needed, and nothing breaks on your page."
+  "wg_remove_p": "Changed your mind? Just delete the snippet. No notice needed, and nothing breaks on your page.",
+  "pv_title": "Privacy and copyright — visafreely",
+  "pv_desc": "What visafreely collects, what it never collects, and the copyright terms for the site's content, dataset and code.",
+  "pv_h1": "Privacy and copyright",
+  "pv_lede": "This page covers two things: what data this site handles when you use it, and who owns the content, the data and the code — and what you may do with them.",
+  "pv_priv_h2": "Privacy",
+  "pv_p1": "Email alerts. If you subscribe to route-change alerts, we store the email address you give us and use it only to send those alerts. Every alert email carries an unsubscribe link, and unsubscribing removes the address. We do not sell or rent email addresses, and we never send marketing mail.",
+  "pv_p2": "Usage statistics. We measure page views, clicks and reading depth to decide what to fix and what to build. Statistics are collected with our own tracker and with PostHog; session recordings, where enabled, mask every form input. The statistics are aggregated and are not used to identify individual visitors.",
+  "pv_p3_a": "No accounts, no sale of data. visafreely has no user accounts, and this site does not collect names, payment details or identity documents. We do not sell personal data. Questions about data: ",
+  "pv_p3_b": ".",
+  "pv_cr_h2": "Copyright",
+  "pv_cr1_h3": "Site content",
+  "pv_cr1_p": "The text, structure and compilation of this website are © VisaFreely / WANG XINGRUN. You may not copy or republish the site's content without permission, fair quotation excepted. Republication with permission must credit VisaFreely and link back to this site.",
+  "pv_cr2_h3": "The visa dataset",
+  "pv_cr2_p": "The visa-requirements dataset is a compilation work, and its copyright belongs to this site. The openly downloadable dataset is offered under CC BY 4.0 — attribution and a link back to this site are conditions of use, and scraping or republishing it without that attribution infringes the licence. Data displays on this site that are not part of the open dataset are all rights reserved.",
+  "pv_cr3_h3": "Source code",
+  "pv_cr3_p": "The site's source-code repository (on GitHub) is proprietary code, © VisaFreely / WANG XINGRUN. The code being visible does not grant any licence to use, copy or redistribute it."
 }

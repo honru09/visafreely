@@ -1,0 +1,55 @@
+---
+// Privacy & copyright page (2026-11-14 copyright batch). The site had no
+// privacy page at all; this page carries a compact factual privacy
+// statement plus the copyright clauses for content, dataset and code.
+// No surface © elements anywhere else — per the batch's ruling, this
+// page is the only carrier.
+import Base from '../layouts/Base.astro';
+import ExploreStrip from '../components/ExploreStrip.astro';
+import { t as i18nT, hrefFor, type LocaleCode } from '../i18n/locales';
+import availabilityRaw from '../i18n/availability.json';
+
+interface Props {
+  locale: LocaleCode;
+}
+const { locale } = Astro.props;
+const T = i18nT(locale);
+const availability = availabilityRaw as Record<string, string[]>;
+const href = (p: string) => hrefFor(locale, p, availability);
+
+// SEO L10 breadcrumb (same pattern as the other core pages).
+const absUrl = (p: string) => new URL(href(p), Astro.site).href;
+const breadcrumbLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: T('l10_crumb_home'), item: absUrl('/') },
+    { '@type': 'ListItem', position: 2, name: T('pv_h1'), item: absUrl('/privacy/') },
+  ],
+};
+---
+
+<Base title={T('pv_title')} description={T('pv_desc')} locale={locale}>
+  <h1>{T('pv_h1')}</h1>
+  <p class="lede">
+    {T('pv_lede')}
+  </p>
+
+  <h2>{T('pv_priv_h2')}</h2>
+  <p>{T('pv_p1')}</p>
+  <p>{T('pv_p2')}</p>
+  <p>
+    {T('pv_p3_a')}<a href="mailto:partners@visafreely.com">partners@visafreely.com</a>{T('pv_p3_b')}
+  </p>
+
+  <h2>{T('pv_cr_h2')}</h2>
+  <h3>{T('pv_cr1_h3')}</h3>
+  <p>{T('pv_cr1_p')}</p>
+  <h3>{T('pv_cr2_h3')}</h3>
+  <p>{T('pv_cr2_p')}</p>
+  <h3>{T('pv_cr3_h3')}</h3>
+  <p>{T('pv_cr3_p')}</p>
+
+  <ExploreStrip locale={locale} items={[{ key: 'ab_h1', href: href('/about/') }, { key: 'explore_check', href: href('/#checker') }, { key: 'feat_map', href: href('/map/') }]} />
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbLd)} />
+</Base>
