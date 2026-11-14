@@ -1,3 +1,7 @@
 node_modules/
 dist/
 .astro/
+src/paraglide/
+src/i18n/availability.json
+public/i18n-availability.json
+project.inlang/cache/

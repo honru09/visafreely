@@ -1,0 +1,137 @@
+---
+import Base from '../layouts/Base.astro';
+import {
+  countries,
+  countsForPassport,
+  passportsByEasy,
+  passportRank,
+  verifiedCount,
+  data,
+  type Country,
+} from '../lib/data';
+import { t as i18nT, countryName, hrefFor, type LocaleCode } from '../i18n/locales';
+import availabilityRaw from '../i18n/availability.json';
+
+interface Props {
+  locale: LocaleCode;
+}
+const { locale } = Astro.props;
+const T = i18nT(locale);
+const availability = availabilityRaw as Record<string, string[]>;
+const href = (p: string) => hrefFor(locale, p, availability);
+const nm = (c: Country) => countryName(locale, c);
+
+const extras = data.extras as Record<string, { verified?: string }>;
+const verifiedByPassport: Record<string, number> = {};
+for (const [key, e] of Object.entries(extras)) {
+  if (!e.verified) continue;
+  const pc = key.split(':')[0];
+  verifiedByPassport[pc] = (verifiedByPassport[pc] || 0) + 1;
+}
+const rows = passportsByEasy.map((r) => {
+  const counts = countsForPassport(r.c.code);
+  return {
+    c: r.c,
+    rank: passportRank[r.c.code],
+    free: counts.F || 0,
+    arrival: counts.A || 0,
+    eta: counts.T || 0,
+    easy: r.easy,
+    verified: verifiedByPassport[r.c.code] || 0,
+  };
+});
+const destCount = countries.length - 1;
+const totalRoutes = countries.length * destCount;
+const totalRoutesFmt = totalRoutes.toLocaleString('en-US');
+const top = rows[0];
+const year = new Date().getFullYear();
+---
+
+<Base
+  title={T('rank_title', { year })}
+  description={T('rank_desc', { passports: countries.length, routes: totalRoutesFmt, top: nm(top.c), easy: top.easy })}
+  locale={locale}
+>
+  <h1>{T('rank_h1')}</h1>
+  <p class="lede">
+    {T('rank_lede_a')}<strong>{T('rank_lede_strong')}</strong>{T('rank_lede_b', { routes: totalRoutesFmt })}
+  </p>
+  <p>
+    {T('rank_p2_a', { top: nm(top.c) })}<strong>{T('rank_p2_strong', { easy: top.easy })}</strong>{T('rank_p2_b')}<strong>{T('rank_p2_strong2', { verified: verifiedCount.toLocaleString('en-US'), routes: totalRoutesFmt })}</strong>{T('rank_p2_c', { dests: destCount })}
+  </p>
+  <p>
+    {T('rank_p3_a')}<a href={href('/compare/')}>{T('rank_p3_link')}</a>{T('rank_p3_b')}
+  </p>
+
+  <div class="rank-table-wrap">
+    <table class="rank-table">
+      <thead>
+        <tr>
+          <th scope="col">#</th>
+          <th scope="col">{T('rank_th_passport')}</th>
+          <th scope="col" class="num">{T('rank_th_free')}</th>
+          <th scope="col" class="num">{T('rank_th_arrival')}</th>
+          <th scope="col" class="num">{T('rank_th_eta')}</th>
+          <th scope="col" class="num">{T('rank_th_noprior')}</th>
+          <th scope="col" class="num">{T('rank_th_verified')}</th>
+        </tr>
+      </thead>
+      <tbody>
+        {rows.map((r) => (
+          <tr>
+            <td><span class={`rank-medal${r.rank <= 3 ? ' top' : ''}`}>{r.rank}</span></td>
+            <td><a href={href(`/passport/${r.c.slug}/`)}>{nm(r.c)}</a></td>
+            <td class="num">{r.free}</td>
+            <td class="num">{r.arrival}</td>
+            <td class="num">{r.eta}</td>
+            <td class="num"><strong>{r.easy}</strong></td>
+            <td class="num">{r.verified} / {destCount}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+
+  <div class="rank-ins">
+    <div class="ri-main">
+      <div class="ri-k">{T('rank_ins_kicker')}<span class="partner-tag">{T('partner_tag')}</span></div>
+      <div class="ri-t">SafetyWing</div>
+      <p>{T('rank_ins_p')}</p>
+    </div>
+    <a class="ri-cta" data-offer="safetywing-rank" href="https://safetywing.com/nomad-insurance?referenceID=26624375&utm_source=26624375&utm_medium=Ambassador" rel="sponsored nofollow noopener" target="_blank">{T('rank_ins_cta')} <span class="arr">→</span></a>
+  </div>
+
+  <h2>{T('rank_how_h2')}</h2>
+  <p>
+    {T('rank_how_a', { dests: destCount })}<strong>{T('rank_how_s1')}</strong>{T('rank_how_b')}<strong>{T('rank_how_s2')}</strong>{T('rank_how_c')}<strong>{T('rank_how_s3')}</strong>{T('rank_how_d')}
+  </p>
+  <p>
+    {T('rank_how2_a')}<a href={href('/visa-policy-changes/')}>{T('rank_how2_link1')}</a>{T('rank_how2_b')}<a href="/changelog/">{T('rank_how2_link2')}</a>{T('rank_how2_c')}
+  </p>
+</Base>
+
+<style>
+  .rank-table-wrap { overflow-x: auto; margin: 1.2rem 0 2rem; }
+  .rank-table { border-collapse: collapse; width: 100%; font-size: 15px; }
+  .rank-table th, .rank-table td { padding: 0.45rem 0.6rem; border-bottom: 1px solid #e3e6ea; text-align: left; white-space: nowrap; }
+  .rank-table td a { display: block; margin: -0.45rem -0.6rem; padding: 0.45rem 0.6rem; }
+  .rank-table th { font-size: 12px; text-transform: uppercase; letter-spacing: 0.08em; color: #5a6472; }
+  .rank-table td.num, .rank-table th.num { text-align: right; font-variant-numeric: tabular-nums; font-feature-settings: "tnum" 1, "ss01" 1, "zero" 1; }
+  .rank-table tbody tr:hover { background: #f6f8fa; }
+  /* B3: the ranking page's single commercial slot — insurance only (plan §4). */
+  .rank-ins {
+    display: flex; align-items: center; gap: 18px; flex-wrap: wrap;
+    background: var(--card); border: 1px solid var(--line); border-radius: 16px;
+    box-shadow: var(--sh-sm); padding: 16px 18px; margin: 0 0 2rem;
+  }
+  .ri-main { flex: 1; min-width: 240px; }
+  .ri-k { font-size: 12px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); display: flex; align-items: center; gap: 8px; }
+  .ri-t { font-size: 17px; font-weight: 800; margin-top: 2px; }
+  .ri-main p { margin: 3px 0 0; font-size: 14.5px; color: var(--ink-2); }
+  .ri-cta {
+    flex: none; display: inline-flex; align-items: center; gap: 6px;
+    background: var(--brand); color: #fff; font-weight: 700; font-size: 14px; padding: 8px 15px; border-radius: 999px; box-shadow: var(--sh-sm);
+    transition: background-color .16s var(--ease);
+  }
+  .ri-cta:hover { background: var(--brand-deep); text-decoration: none; }
+</style>

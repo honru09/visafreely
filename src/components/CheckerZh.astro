@@ -1,0 +1,321 @@
+---
+// Localized route checker — a faithful port of Checker.astro + the
+// Base.astro checker script, with its own id space (…-l) so the English
+// script never engages on localized pages. Country display names come
+// from the frozen glossary; matching accepts the localized name or the
+// English name. Verdicts, seal captions and the eVisas offer line are
+// message-catalog strings. The full-page link points at the English pair
+// page (pair pages are batch 2).
+import Stamp from './Stamp.astro';
+import { verifiedPairDates, countries, STATUS_ORDER } from '../lib/data';
+import evisasCampaigns from '../data/evisas-campaigns.json';
+import { t as i18nT, countryName, statusLabelL, type LocaleCode } from '../i18n/locales';
+
+interface Props {
+  locale: LocaleCode;
+}
+const { locale } = Astro.props;
+const T = i18nT(locale);
+
+const PAYLOAD = {
+  names: Object.fromEntries(countries.map((c) => [c.code, countryName(locale, c)])),
+  status: Object.fromEntries(STATUS_ORDER.map((k) => [k, statusLabelL(locale, k)])),
+  str: {
+    empty: T('ck_empty'),
+    pickBig: T('ck_pick_big'),
+    pickSub: T('ck_pick_sub'),
+    ownBig: T('ck_own_big'),
+    ownSub: T('ck_own_sub'),
+    noData: T('ck_nodata'),
+    loadBig: T('ck_load_big'),
+    loadSub: T('ck_load_sub'),
+    route: T('ck_route'),
+    stay: T('ck_stay'),
+    staySee: T('ck_stay_see'),
+    fullPage: T('ck_full_page'),
+    offerT: T('ck_offer_t'),
+    offerE: T('ck_offer_e'),
+    offerR: T('ck_offer_r'),
+    sealVerified: T('ck_seal_verified'),
+    sealPending: T('ck_seal_pending'),
+    capVerified: T('ck_cap_verified'),
+    capSource: T('ck_cap_source'),
+    capDatasetA: T('ck_cap_dataset_a'),
+    capDatasetB: T('ck_cap_dataset_b'),
+    verdictF: T('verdict_f_days'),
+    verdictA: T('verdict_a_days'),
+    verdictE: T('verdict_e'),
+    verdictT: T('verdict_t'),
+  },
+};
+---
+
+<script is:inline define:vars={{ verifiedPairDates }}>window.__VF_VERIFIED = verifiedPairDates;</script>
+<script is:inline define:vars={{ evisasCampaigns }}>window.__VF_CAMPAIGNS = evisasCampaigns;</script>
+<div class="checker-card" id="checker" style="scroll-margin-top:76px;">
+  <p class="ck-eyebrow">
+    <Stamp size={17} />
+    {T('ck_eyebrow')}
+  </p>
+  <form id="ck-form-l" class="checker" aria-label={T('ck_form_label')}>
+    <div class="ck-field">
+      <label for="ck-passport-l">{T('ck_from_label')}</label>
+      <div class="ck-wrap">
+        <span class="ck-flag" id="ck-flag-p-l" aria-hidden="true"></span>
+        <input id="ck-passport-l" class="ck-input" placeholder={T('ck_placeholder')} autocomplete="off" role="combobox" aria-expanded="false" aria-controls="ck-list-p-l" aria-autocomplete="list" required />
+        <svg class="ck-chev" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M5 9l7 7 7-7" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        <ul class="ck-list" id="ck-list-p-l" role="listbox" aria-label={T('ck_list_passports')}></ul>
+      </div>
+    </div>
+    <button type="button" id="ck-swap-l" class="swap-btn" aria-label={T('ck_swap_label')} title={T('ck_swap_title')}>
+      <svg width="19" height="19" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4 7h13M13 3.5L16.5 7 13 10.5M20 17H7M11 13.5L7.5 17l3.5 3.5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    </button>
+    <div class="ck-field">
+      <label for="ck-destination-l">{T('ck_to_label')}</label>
+      <div class="ck-wrap">
+        <span class="ck-flag" id="ck-flag-d-l" aria-hidden="true"></span>
+        <input id="ck-destination-l" class="ck-input" placeholder={T('ck_placeholder')} autocomplete="off" role="combobox" aria-expanded="false" aria-controls="ck-list-d-l" aria-autocomplete="list" required />
+        <svg class="ck-chev" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M5 9l7 7 7-7" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        <ul class="ck-list" id="ck-list-d-l" role="listbox" aria-label={T('ck_list_destinations')}></ul>
+      </div>
+    </div>
+    <button type="submit" class="go-btn">{T('ck_go')}</button>
+  </form>
+  <div id="ck-result-l" hidden></div>
+</div>
+
+<script is:inline define:vars={{ PAYLOAD }}>
+  (function () {
+    var form = document.getElementById('ck-form-l');
+    if (!form || form.__vfBound) return;
+    form.__vfBound = true;
+    var reduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    var inP = document.getElementById('ck-passport-l');
+    var inD = document.getElementById('ck-destination-l');
+    var listP = document.getElementById('ck-list-p-l');
+    var listD = document.getElementById('ck-list-d-l');
+    var flagP = document.getElementById('ck-flag-p-l');
+    var flagD = document.getElementById('ck-flag-d-l');
+    var out = document.getElementById('ck-result-l');
+    var swap = document.getElementById('ck-swap-l');
+    var NAMES = PAYLOAD.names;
+    var STATUS = PAYLOAD.status;
+    var STR = PAYLOAD.str;
+    var VERIFIED = window.__VF_VERIFIED || {};
+    function disp(c) { return NAMES[c.code] || c.name; }
+    function fmtDate(iso) {
+      var m = /^(\d{4})-(\d{2})-(\d{2})$/.exec(iso || '');
+      if (!m) return iso;
+      return parseInt(m[1], 10) + '年' + parseInt(m[2], 10) + '月' + parseInt(m[3], 10) + '日';
+    }
+    function esc(s) { return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;'); }
+    function flagEmoji(code) {
+      if (!/^[A-Za-z]{2}$/.test(code || '')) return '';
+      try {
+        return String.fromCodePoint.apply(null, code.toUpperCase().split('').map(function (c) { return 127397 + c.charCodeAt(0); }));
+      } catch (e) { return ''; }
+    }
+    function sealSVG(state, size) {
+      var uid = 'j' + Math.random().toString(36).slice(2, 8);
+      var top = '<path id="' + uid + 't" d="M11.5,48 a36.5,36.5 0 0,1 73,0" fill="none"/>';
+      var bot = '<path id="' + uid + 'b" d="M4.8,48 a43.2,43.2 0 0,0 86.4,0" fill="none"/>';
+      var center = '<g transform="translate(48 48.8) scale(0.58) translate(-37.2 -32)" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">'
+        + '<rect x="16" y="8" width="32" height="48" rx="6" stroke-width="3.8"/>'
+        + '<path d="M21.5 14 V50" stroke-width="2"/>'
+        + '<circle cx="34" cy="27.5" r="10.5" stroke-width="2.4"/>'
+        + '<ellipse cx="34" cy="27.5" rx="4.2" ry="10.5" stroke-width="2.2"/>'
+        + '<path d="M23.5 27.5 H44.5" stroke-width="2.2"/>'
+        + '<path class="stamp-check" d="M38 44 L45.5 52.5 L58 39" stroke="var(--check, currentColor)" stroke-width="4.6"/>'
+        + '</g>';
+      return '<svg width="' + size + '" height="' + size + '" viewBox="0 0 96 96" fill="none" aria-hidden="true">'
+        + '<defs>' + top + bot + '</defs>'
+        + '<g transform="rotate(-8 48 48)">'
+        + '<circle cx="48" cy="48" r="45" stroke="currentColor" stroke-width="2.6" fill="none"' + (state === 'pending' ? ' stroke-dasharray="5 4"' : '') + '/>'
+        + '<circle cx="48" cy="48" r="33.5" stroke="currentColor" stroke-width="1.3" opacity="0.55" fill="none"/>'
+        + '<text style="font-family:var(--font);font-size:9.5px;font-weight:700;letter-spacing:2.2px" fill="currentColor"><textPath href="#' + uid + 't" startOffset="50%" text-anchor="middle">VISAFREELY</textPath></text>'
+        + '<text style="font-family:var(--font);font-size:9.5px;font-weight:700;letter-spacing:2.2px" fill="currentColor"><textPath href="#' + uid + 'b" startOffset="50%" text-anchor="middle">' + (state === 'verified' ? STR.sealVerified : STR.sealPending) + '</textPath></text>'
+        + center
+        + '</g></svg>';
+    }
+
+    var idx = null;
+    var byName = {};
+    function attachCombo(input, list, flagEl) {
+      var wrap = input.parentElement;
+      var active = -1;
+      var current = [];
+      function close() {
+        wrap.classList.remove('open');
+        input.setAttribute('aria-expanded', 'false');
+        input.removeAttribute('aria-activedescendant');
+        active = -1;
+      }
+      function render() {
+        var q = input.value.trim().toLowerCase();
+        var all = idx.countries;
+        var starts = [], contains = [];
+        for (var i = 0; i < all.length; i++) {
+          var nz = disp(all[i]).toLowerCase();
+          var ne = all[i].name.toLowerCase();
+          if (nz.indexOf(q) === 0 || ne.indexOf(q) === 0) starts.push(all[i]);
+          else if (q && (nz.indexOf(q) >= 0 || ne.indexOf(q) >= 0)) contains.push(all[i]);
+        }
+        current = q ? starts.concat(contains) : all;
+        if (!current.length) {
+          list.innerHTML = '<li class="ck-empty">' + STR.empty + '</li>';
+        } else {
+          list.innerHTML = current.map(function (c, i) {
+            return '<li class="ck-option" role="option" id="' + list.id + '-o' + i + '" data-name="' + esc(disp(c)) + '" aria-selected="false">'
+              + '<span class="fl">' + flagEmoji(c.code) + '</span>' + esc(disp(c))
+              + '<span class="cd">' + esc(c.code) + '</span></li>';
+          }).join('');
+        }
+        wrap.classList.add('open');
+        input.setAttribute('aria-expanded', 'true');
+        active = -1;
+      }
+      function setActive(i) {
+        var opts = list.querySelectorAll('.ck-option');
+        opts.forEach(function (o, j) { o.classList.toggle('active', j === i); });
+        active = i;
+        if (i >= 0 && opts[i]) { input.setAttribute('aria-activedescendant', opts[i].id); opts[i].scrollIntoView({ block: 'nearest' }); }
+        else input.removeAttribute('aria-activedescendant');
+      }
+      function choose(c) {
+        input.value = disp(c);
+        var f = flagEmoji(c.code);
+        flagEl.textContent = f;
+        input.classList.toggle('has-flag', !!f);
+        close();
+      }
+      input.addEventListener('input', function () { flagEl.textContent = ''; input.classList.remove('has-flag'); if (idx) render(); });
+      input.addEventListener('focus', function () { if (idx) render(); });
+      var holdUntil = 0;
+      function hold() { holdUntil = Date.now() + 800; }
+      list.addEventListener('pointerdown', hold);
+      list.addEventListener('touchstart', hold, { passive: true });
+      list.addEventListener('scroll', hold, { passive: true });
+      input.addEventListener('blur', function () {
+        setTimeout(function deferClose() {
+          if (Date.now() < holdUntil) setTimeout(deferClose, 400);
+          else close();
+        }, 120);
+      });
+      input.addEventListener('keydown', function (ev) {
+        if (!idx) return;
+        if (ev.key === 'ArrowDown') { ev.preventDefault(); if (!wrap.classList.contains('open')) render(); setActive(Math.min(active + 1, current.length - 1)); }
+        else if (ev.key === 'ArrowUp') { ev.preventDefault(); setActive(Math.max(active - 1, 0)); }
+        else if (ev.key === 'Enter' && wrap.classList.contains('open') && active >= 0 && current[active]) { ev.preventDefault(); choose(current[active]); }
+        else if (ev.key === 'Escape') { close(); }
+      });
+      list.addEventListener('mousedown', function (ev) {
+        var li = ev.target.closest ? ev.target.closest('.ck-option') : null;
+        if (!li) return;
+        ev.preventDefault();
+        var name = li.getAttribute('data-name');
+        var c = byName[name.toLowerCase()];
+        if (c) choose(c);
+      });
+      return { choose: choose };
+    }
+    var comboP = null, comboD = null;
+    if (swap) {
+      swap.addEventListener('click', function () {
+        var t = inP.value; inP.value = inD.value; inD.value = t;
+        var tf = flagP.textContent; flagP.textContent = flagD.textContent; flagD.textContent = tf;
+        inP.classList.toggle('has-flag', !!flagP.textContent);
+        inD.classList.toggle('has-flag', !!flagD.textContent);
+        swap.classList.toggle('flip');
+        inP.focus();
+      });
+    }
+    function fill(template, vars) {
+      return template.replace(/\{(\w+)\}/g, function (_, k) { return vars[k] != null ? vars[k] : ''; });
+    }
+    function resolve(input) {
+      var v = input.value.trim().toLowerCase();
+      if (!v) return null;
+      if (byName[v]) return byName[v];
+      var prefix = null, contains = null;
+      for (var i = 0; i < idx.countries.length; i++) {
+        var nz = disp(idx.countries[i]).toLowerCase();
+        var ne = idx.countries[i].name.toLowerCase();
+        if (nz.indexOf(v) === 0 || ne.indexOf(v) === 0) { if (prefix) return null; prefix = idx.countries[i]; }
+        else if ((nz.indexOf(v) >= 0 || ne.indexOf(v) >= 0) && !contains) contains = idx.countries[i];
+      }
+      return prefix || contains;
+    }
+    function doCheck() {
+      var pc = resolve(inP), dc = resolve(inD);
+      out.hidden = false;
+      if (!pc || !dc) {
+        out.innerHTML = '<div class="verdict-card"><div class="vc-main"><div class="vc-big">' + STR.pickBig + '</div><div class="vc-sub">' + STR.pickSub + '</div></div></div>';
+        return;
+      }
+      if (pc.code === dc.code) {
+        out.innerHTML = '<div class="verdict-card"><div class="vc-main"><div class="vc-big">' + STR.ownBig + '</div><div class="vc-sub">' + STR.ownSub + '</div></div></div>';
+        return;
+      }
+      var row = (idx.rows[pc.code] || []).find(function (r) { return idx.countries[r[0]].code === dc.code; });
+      if (!row) { out.innerHTML = '<div class="verdict-card"><div class="vc-main"><div class="vc-big">' + STR.noData + '</div></div></div>'; return; }
+      var code = row[1], days = row[2];
+      var verdict = STATUS[code];
+      if (code === 'F' && days) verdict = fill(STR.verdictF, { days: days });
+      else if (code === 'A' && days) verdict = fill(STR.verdictA, { days: days });
+      else if (code === 'E') verdict = STR.verdictE;
+      else if (code === 'T') verdict = STR.verdictT;
+      var key = pc.code + ':' + dc.code;
+      var CAMPAIGNS = window.__VF_CAMPAIGNS || {};
+      var offer = '';
+      if (code === 'R' || code === 'E' || code === 'T') {
+        var csid = CAMPAIGNS[key];
+        var evHref = csid ? 'https://evisas.com/?ref=visafreely&sid=' + csid : 'https://evisas.com/?ref=visafreely';
+        var evLabel = code === 'T'
+          ? fill(STR.offerT, { d: esc(disp(dc)) })
+          : code === 'E'
+            ? fill(STR.offerE, { d: esc(disp(dc)) })
+            : fill(STR.offerR, { d: esc(disp(dc)) });
+        offer = ' <a class="btn ghost" data-offer="evisas-checker" href="' + evHref + '" rel="sponsored nofollow noopener" target="_blank">' + evLabel + ' <span class="arr">→</span></a>';
+      }
+      var vDate = VERIFIED[key];
+      var seal = vDate
+        ? '<div class="vc-seal" style="color:var(--brand)"><div class="stamp-anim stamp-anim-pulse">' + sealSVG('verified', 96) + '</div><span class="vc-seal-cap"><span class="nw">' + esc(fill(STR.capVerified, { date: fmtDate(vDate) })) + '</span><br/>' + STR.capSource + '</span></div>'
+        : '<div class="vc-seal" style="color:#6f6a5e">' + sealSVG('pending', 96) + '<span class="vc-seal-cap">' + STR.capDatasetA + '<br/>' + STR.capDatasetB + '</span></div>';
+      out.innerHTML =
+        '<div class="verdict-card enter s-' + code + '">'
+        + '<div class="vc-main">'
+        + '<p class="vc-route">' + esc(fill(STR.route, { p: disp(pc), d: disp(dc) })) + '</p>'
+        + '<div class="vc-big">' + esc(verdict) + '</div>'
+        + '<div class="vc-sub">' + (days ? esc(fill(STR.stay, { days: days })) : STR.staySee) + '</div>'
+        + '<p class="vc-actions"><a class="btn" href="/visa/' + pc.slug + '/' + dc.slug + '/">' + STR.fullPage + ' <span class="arr">→</span></a>' + offer + '</p>'
+        + '</div>' + seal + '</div>';
+    }
+    form.addEventListener('submit', function (ev) { ev.preventDefault(); if (idx) doCheck(); });
+    fetch('/check.json')
+      .then(function (r) { return r.json(); })
+      .then(function (data) {
+        idx = data;
+        idx.countries.forEach(function (c) {
+          byName[c.name.toLowerCase()] = c;
+          byName[disp(c).toLowerCase()] = c;
+        });
+        comboP = attachCombo(inP, listP, flagP);
+        comboD = attachCombo(inD, listD, flagD);
+        var chips = document.querySelectorAll('.route-chip');
+        chips.forEach(function (chip) {
+          chip.addEventListener('click', function () {
+            var p = byName[chip.getAttribute('data-p').toLowerCase()];
+            var d = byName[chip.getAttribute('data-d').toLowerCase()];
+            if (p) comboP.choose(p);
+            if (d) comboD.choose(d);
+            doCheck();
+            out.scrollIntoView({ block: 'nearest', behavior: reduce ? 'auto' : 'smooth' });
+          });
+        });
+      })
+      .catch(function () {
+        out.hidden = false;
+        out.innerHTML = '<div class="verdict-card"><div class="vc-main"><div class="vc-big">' + STR.loadBig + '</div><div class="vc-sub">' + STR.loadSub + '</div></div></div>';
+      });
+  })();
+</script>

@@ -1,0 +1,140 @@
+---
+import Base from '../layouts/Base.astro';
+import Stamp from '../components/Stamp.astro';
+import { data, verifiedCount, pairExtra, countryByCode, pairPath } from '../lib/data';
+import {
+  t as i18nT,
+  countryName,
+  formatDateL,
+  hrefFor,
+  type LocaleCode,
+} from '../i18n/locales';
+import availabilityRaw from '../i18n/availability.json';
+
+interface Props {
+  locale: LocaleCode;
+}
+const { locale } = Astro.props;
+const T = i18nT(locale);
+const availability = availabilityRaw as Record<string, string[]>;
+const href = (p: string) => hrefFor(locale, p, availability);
+
+const verifiedFmt = verifiedCount.toLocaleString('en-US');
+const jp = countryByCode['JP'];
+const th = countryByCode['TH'];
+const zw = countryByCode['ZW'];
+const ve = countryByCode['VE'];
+const exVerified = pairExtra('JP', 'TH');
+const exPending = pairExtra('ZW', 'VE');
+const fmt = (iso: string) => formatDateL(locale, iso);
+---
+
+<Base title={T('ab_title')} description={T('ab_desc')} locale={locale}>
+  <h1>{T('ab_h1')}</h1>
+  <p class="lede">
+    {T('ab_lede')}
+  </p>
+
+  <h2>{T('ab_stamps_h2')}</h2>
+  <p>
+    {T('ab_stamps_p')}
+  </p>
+
+  <p class="micro" style="margin-bottom:6px;">{T('ab_stamp1_label')}</p>
+  <div class="seal-block verified" data-reveal>
+    <div class="seal-art" aria-hidden="true">
+      <Stamp variant="seal" size={64} />
+    </div>
+    <div>
+      <p class="seal-title">
+        {T('ab_seal_v_a', { date: exVerified.verified ? fmt(exVerified.verified) : '' })} <a href={exVerified.source} rel="noopener" target="_blank">{exVerified.source_name}</a>{T('ab_seal_v_b')}
+      </p>
+      {exVerified.note && <p>{exVerified.note}</p>}
+      {exVerified.changed && (
+        <p>
+          {T('ab_changed_a', { date: fmt(exVerified.changed) })}<a href="/changelog/">{T('ab_changed_link')}</a>{T('ab_changed_b')}
+        </p>
+      )}
+    </div>
+  </div>
+  <p class="small muted">
+    {T('ab_live_a')}<a href={pairPath(jp, th)}>{T('ab_live_link', { p: countryName(locale, jp), d: countryName(locale, th) })}</a>{T('ab_live1_b')}
+  </p>
+
+  <p class="micro" style="margin:18px 0 6px;">{T('ab_stamp2_label')}</p>
+  <div class="seal-block pending" data-reveal>
+    <div class="seal-art" aria-hidden="true">
+      <Stamp variant="seal" state="pending" size={64} />
+    </div>
+    <div>
+      <p class="seal-title">{T('ab_seal2_title')}</p>
+      <p>
+        {T('ab_seal2_a', { vintage: data.vintage })}{exPending.overridden ? T('ab_seal2_override') : ''}{T('ab_seal2_b')}<a href={href('/about/')}>{T('ab_seal2_link')}</a>{T('ab_seal2_c')}
+      </p>
+      {exPending.note && <p>{T('ab_note_prefix')}{exPending.note}</p>}
+      {exPending.changed && <p>{T('ab_changed2', { date: fmt(exPending.changed) })}</p>}
+    </div>
+  </div>
+  <p class="small muted">
+    {T('ab_live_a')}<a href={pairPath(zw, ve)}>{T('ab_live_link', { p: countryName(locale, zw), d: countryName(locale, ve) })}</a>{T('ab_live2_b')}
+  </p>
+
+  <h2>{T('ab_how_h2')}</h2>
+  <div class="how-grid cols-2">
+    <div class="how-card">
+      <span class="num">1</span>
+      <h3>{T('ab_how1_t')}</h3>
+      <p>{T('ab_how1_d')}</p>
+    </div>
+    <div class="how-card">
+      <span class="num">2</span>
+      <h3>{T('ab_how2_t')}</h3>
+      <p>{T('ab_how2_d')}</p>
+    </div>
+    <div class="how-card">
+      <span class="num">3</span>
+      <h3>{T('ab_how3_t')}</h3>
+      <p>{T('ab_how3_d')}</p>
+    </div>
+    <div class="how-card">
+      <span class="num">4</span>
+      <h3>{T('ab_how4_t')}</h3>
+      <p>{T('ab_how4_a')}<a href="/changelog/">{T('ab_how4_link')}</a>{T('ab_how4_b')}</p>
+    </div>
+  </div>
+
+  <h2>{T('ab_base_h2')}</h2>
+  <div class="card">
+    <p style="margin-top:0;">
+      {T('ab_base_a')}<strong>passport-index dataset</strong>{T('ab_base_b', { pairs: data.pairCount.toLocaleString('en-US') })}
+    </p>
+    <p style="margin-bottom:0;">
+      {T('ab_base_p2')}
+    </p>
+  </div>
+
+  <h2>{T('ab_layer_h2')}</h2>
+  <div class="card">
+    <p style="margin-top:0;">
+      {T('ab_layer_a')}<strong>{T('ab_layer_strong')}</strong>{T('ab_layer_b', { verified: verifiedFmt })}
+    </p>
+    <p style="margin-bottom:0;">
+      {T('ab_layer2_a')}<a href="/changelog/">{T('ab_layer2_link')}</a>{T('ab_layer2_b')}
+    </p>
+  </div>
+
+  <h2>{T('ab_promise_h2')}</h2>
+  <p>
+    {T('ab_promise_p')}
+  </p>
+
+  <h2>{T('ab_corr_h2')}</h2>
+  <p>
+    {T('ab_corr_p')}
+  </p>
+
+  <h2>{T('ab_widget_h2')}</h2>
+  <p>
+    {T('ab_widget_a')}<a href="/widget/">{T('ab_widget_link')}</a>{T('ab_widget_b')}
+  </p>
+</Base>

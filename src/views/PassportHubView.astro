@@ -1,0 +1,145 @@
+---
+import Base from '../layouts/Base.astro';
+import HubStrip from '../components/HubStrip.astro';
+import {
+  countries,
+  countryByCode,
+  groupedForPassport,
+  countsForPassport,
+  easyAccessCount,
+  passportRank,
+  pairPath,
+  pairExtra,
+  flagEmoji,
+  data,
+  type Country,
+} from '../lib/data';
+import {
+  t as i18nT,
+  countryName,
+  statusLabelL,
+  verdictTextL,
+  hrefFor,
+  type LocaleCode,
+} from '../i18n/locales';
+import availabilityRaw from '../i18n/availability.json';
+
+interface Props {
+  locale: LocaleCode;
+  c: Country;
+}
+const { locale, c } = Astro.props;
+const T = i18nT(locale);
+const availability = availabilityRaw as Record<string, string[]>;
+const href = (p: string) => hrefFor(locale, p, availability);
+const nm = (x: Country) => countryName(locale, x);
+
+const groups = groupedForPassport(c.code);
+const counts = countsForPassport(c.code);
+const easy = easyAccessCount(c.code);
+const rank = passportRank[c.code];
+const title = T('hubp_title', { name: nm(c) });
+const description = T('hubp_desc', { name: nm(c), free: counts.F || 0, easy });
+const others = countries.filter((x) => x.code !== c.code);
+const total = groups.reduce((n, g) => n + g.rows.length, 0);
+// B3 hub strip: this passport's paperwork routes (E/T/R). Static rule:
+// verified pairs first, then destination reach (passports entering that
+// destination without a prior application), then name. No traffic claims.
+const inboundEasy: Record<string, number> = {};
+for (const rows of Object.values(data.byPassport)) {
+  for (const r of rows) {
+    if (r.s === 'F' || r.s === 'A' || r.s === 'T') inboundEasy[r.d] = (inboundEasy[r.d] || 0) + 1;
+  }
+}
+const stripRoutes = (data.byPassport[c.code] || [])
+  .filter((r) => r.s === 'E' || r.s === 'T' || r.s === 'R')
+  .sort((a, b) => {
+    const va = pairExtra(c.code, a.d).verified ? 0 : 1;
+    const vb = pairExtra(c.code, b.d).verified ? 0 : 1;
+    if (va !== vb) return va - vb;
+    const ea = inboundEasy[a.d] || 0;
+    const eb = inboundEasy[b.d] || 0;
+    if (ea !== eb) return eb - ea;
+    return countryByCode[a.d].name < countryByCode[b.d].name ? -1 : 1;
+  })
+  .slice(0, 3)
+  .map((r) => ({
+    href: pairPath(c, countryByCode[r.d]),
+    flag: flagEmoji(r.d),
+    name: nm(countryByCode[r.d]),
+    meta: verdictTextL(locale, r),
+    status: r.s,
+  }));
+---
+
+<Base title={title} description={description} locale={locale}>
+  <section class="band light">
+    <div class="band-in">
+      <div class="crumbs"><a href={href('/passports/')}>{T('idxp_h1')}</a></div>
+      <div class="hub-hero-flex">
+        <div>
+          <h1>{T('home_name_passport', { name: nm(c) })}</h1>
+          <p class="lede" style="margin-bottom:0;">
+            {T('hubp_lede_a', { name: nm(c) })}<strong>{T('hubp_lede_strong', { free: counts.F || 0 })}</strong>{T('hubp_lede_b')}<strong>{T('hubp_lede_strong2', { easy })}</strong>{T('hubp_lede_c')}
+          </p>
+        </div>
+        <div class="rank-block">
+          <span class="rank-medal big top">#{rank}</span>
+          <div class="rb-label">{T('hub_rank_of', { total: countries.length })}</div>
+          <div class="rb-note">{T('hub_rank_note', { easy })}</div>
+          <div class="rb-note"><a href={href('/passport-ranking/')}>{T('hub_rank_link')}</a></div>
+          <div class="rb-note"><a href={`${href('/map/')}?p=${c.slug}`}>{T('hub_map_link')}</a></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <HubStrip
+    heading={T('hubp_strip_heading', { name: nm(c) })}
+    sub={T('hub_strip_sub')}
+    routes={stripRoutes}
+    locale={locale}
+  />
+
+  <div class="stat-band five">
+    <div class="stat-tile"><b>{counts.F || 0}</b><span>{T('tile_f')}</span></div>
+    <div class="stat-tile"><b>{counts.A || 0}</b><span>{T('tile_a')}</span></div>
+    <div class="stat-tile"><b>{counts.E || 0}</b><span>{T('tile_e')}</span></div>
+    <div class="stat-tile"><b>{counts.T || 0}</b><span>{T('tile_t')}</span></div>
+    <div class="stat-tile"><b>{counts.R || 0}</b><span>{T('tile_r')}</span></div>
+  </div>
+
+  <div data-filter-root>
+    <div class="filter-chips" role="group" aria-label={T('hub_filter_dest')}>
+      <button type="button" class="fchip on" data-filter="all" aria-pressed="true">{T('hub_all')}<span class="fcount">{total}</span></button>
+      {groups.map((g) => (
+        <button type="button" class={`fchip s-${g.code}`} data-filter={g.code} aria-pressed="false">
+          <span class={`sdot ${g.code}`}></span>{statusLabelL(locale, g.code)}<span class="fcount">{g.rows.length}</span>
+        </button>
+      ))}
+    </div>
+
+    {groups.map((g) => (
+      <section data-status={g.code}>
+        <h2>{statusLabelL(locale, g.code)}<span class="count-pill">{g.rows.length}</span></h2>
+        <div class="route-grid">
+          {g.rows.map((r) => (
+            <a class="route-card" href={pairPath(c, countryByCode[r.d])}>
+              <span class="rc-top"><span class="rc-flag" aria-hidden="true">{flagEmoji(r.d)}</span><span class={`sdot ${g.code}`}></span><span class="rc-name">{nm(countryByCode[r.d])}</span></span>
+              <span class="rc-meta">{verdictTextL(locale, r)}</span>
+              <svg class="rc-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4 12h15M13 5.5L19.5 12 13 18.5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            </a>
+          ))}
+        </div>
+      </section>
+    ))}
+  </div>
+
+  <h2>{T('hub_other_passports')}</h2>
+  <div class="pill-cloud">
+    {others.slice(0, 40).map((x) => (
+      <a href={href(`/passport/${x.slug}/`)}>{nm(x)}</a>
+    ))}
+    <a href={href('/passports/')}>{T('hub_see_all_passports', { count: countries.length })}</a>
+  </div>
+</Base>

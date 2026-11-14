@@ -1,12 +1,48 @@
 ---
 import Stamp from '../components/Stamp.astro';
+import LangSwitcher from '../components/LangSwitcher.astro';
 import { data, countries, countryBySlug, verifiedCount, changelogCount, passportsByEasy } from '../lib/data';
+import {
+  t as i18nT,
+  countryName,
+  hrefFor,
+  localeByCode,
+  stripLocale,
+  SUGGEST,
+  LAUNCHED_LOCALES,
+  HUB_PREFIXES,
+  type LocaleCode,
+} from '../i18n/locales';
+import corePaths from '../i18n/core-paths.json';
+import availabilityRaw from '../i18n/availability.json';
 
 interface Props {
   title: string;
   description: string;
+  locale?: LocaleCode;
 }
 const { title, description } = Astro.props;
+const locale: LocaleCode = Astro.props.locale ?? 'en';
+const T = i18nT(locale);
+const availability = availabilityRaw as Record<string, string[]>;
+const { path: basePath } = stripLocale(Astro.url.pathname);
+const selfDef = localeByCode[locale];
+const altLocales = (availability[basePath] ?? []).filter((c) => c !== locale);
+const altHref = (code: string) => {
+  const d = localeByCode[code];
+  const p = !d || !d.prefix ? basePath : `/${d.prefix}${basePath}`;
+  return new URL(p, Astro.site).href;
+};
+const xDefaultHref = altHref('en');
+const href = (p: string) => hrefFor(locale, p, availability);
+const suggestData = {
+  homes: Object.fromEntries(
+    LAUNCHED_LOCALES.filter((l) => l.code !== 'en').map((l) => [l.code, (availability['/'] ?? []).includes(l.code)]),
+  ),
+  suggest: SUGGEST,
+  corePaths,
+  hubPrefixes: HUB_PREFIXES,
+};
 const canonical = new URL(Astro.url.pathname, Astro.site);
 const pairCountFmt = data.pairCount.toLocaleString('en-US');
 const verifiedFmt = verifiedCount.toLocaleString('en-US');
@@ -18,7 +54,7 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang={selfDef.htmlLang}>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -26,6 +62,38 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
     <meta name="description" content={description} />
     <meta name="impact-site-verification" value="ed49664f-24bb-4e84-968d-195e2aa5adb9" />
     <link rel="canonical" href={canonical} />
+    {altLocales.length > 0 && (
+      <>
+        <link rel="alternate" hreflang={selfDef.hreflang} href={canonical} />
+        {altLocales.map((code) => (
+          <link rel="alternate" hreflang={localeByCode[code].hreflang} href={altHref(code)} />
+        ))}
+        <link rel="alternate" hreflang="x-default" href={xDefaultHref} />
+      </>
+    )}
+    {locale === 'en' && (
+      <script is:inline define:vars={{ suggestData }}>
+        /* Stored language preference replay (PLAN §4 layer 1): only ever
+           runs on unprefixed English pages and only for a preference the
+           visitor set themselves via the switcher. Crawlers have no
+           localStorage entry, so they always see this page unchanged. */
+        (function () {
+          try {
+            var pref = localStorage.getItem('vf_lang');
+            if (!pref || pref === 'en' || !suggestData.homes[pref]) return;
+            var p = location.pathname;
+            var hit = suggestData.corePaths.indexOf(p) >= 0;
+            if (!hit) {
+              for (var i = 0; i < suggestData.hubPrefixes.length; i++) {
+                if (p.indexOf(suggestData.hubPrefixes[i]) === 0) { hit = true; break; }
+              }
+            }
+            var target = hit ? '/' + pref + (p === '/' ? '/' : p) : '/' + pref + '/';
+            if (target !== p) location.replace(target + location.search + location.hash);
+          } catch (e) {}
+        })();
+      </script>
+    )}
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonical} />
@@ -127,7 +195,24 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
       }
       .check-btn:hover { text-decoration: none; background: var(--brand-deep); transform: translateY(-1px); box-shadow: var(--sh-md); }
       .check-btn:active { transform: translateY(0); }
-      @media (max-width: 640px) { nav.main { display: none; } .check-btn { margin-left: auto; } }
+      @media (max-width: 640px) { nav.main { display: none; } .lang-switch { margin-left: auto; } .check-btn { margin-left: 0; } }
+      /* language suggestion bar (English pages only, shown by inline script) */
+      .lang-bar {
+        background: var(--soft); border-bottom: 1px solid var(--line);
+        font-size: 14.5px; color: var(--ink-2);
+      }
+      .lang-bar-in { display: flex; align-items: center; gap: 12px; padding-top: 8px; padding-bottom: 8px; }
+      .lang-bar-text { flex: 1; min-width: 0; }
+      .lang-bar-cta {
+        flex: none; min-height: 40px; padding: 8px 16px; border-radius: 999px; cursor: pointer;
+        background: var(--brand); color: #fff; font-weight: 700; font-size: 14px; border: none; font-family: inherit;
+      }
+      .lang-bar-x {
+        flex: none; width: 40px; height: 40px; padding: 0; border: none; border-radius: 50%;
+        background: transparent; color: var(--muted); cursor: pointer;
+        display: flex; align-items: center; justify-content: center;
+      }
+      .lang-bar-x:hover { color: var(--ink); background: rgba(10,37,64,.05); }
       main { padding: 28px 0 52px; }
 
       /* ================= type ================= */
@@ -949,20 +1034,84 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
     </style>
   </head>
   <body>
+    {locale === 'en' && (
+      <>
+        <div class="lang-bar" id="lang-bar" hidden>
+          <div class="wrap lang-bar-in">
+            <span class="lang-bar-text" data-lb-text></span>
+            <button type="button" class="lang-bar-cta" data-lb-cta></button>
+            <button type="button" class="lang-bar-x" data-lb-close aria-label="Close">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" /></svg>
+            </button>
+          </div>
+        </div>
+        <script is:inline define:vars={{ suggestData }}>
+          /* Language suggestion (PLAN §4 layer 2): no stored preference ->
+             match the browser language against launched locales and offer
+             (never force) a switch. Dismissal is remembered. */
+          (function () {
+            try {
+              if (localStorage.getItem('vf_lang')) return;
+              if (localStorage.getItem('vf_lang_dismissed')) return;
+              var match = null;
+              var langs = navigator.languages && navigator.languages.length ? navigator.languages : [navigator.language || ''];
+              for (var i = 0; i < langs.length && !match; i++) {
+                var tag = String(langs[i] || '');
+                var low = tag.toLowerCase();
+                var cand = null;
+                if (low.indexOf('zh') === 0) {
+                  cand = /tw|hk|mo|hant/.test(low) ? 'zh-hant' : 'zh-hans';
+                } else if (low.indexOf('ja') === 0) cand = 'ja';
+                else if (low.indexOf('ko') === 0) cand = 'ko';
+                else if (low.indexOf('th') === 0) cand = 'th';
+                if (cand && suggestData.homes[cand] && suggestData.suggest[cand]) match = cand;
+              }
+              if (!match) return;
+              var bar = document.getElementById('lang-bar');
+              if (!bar) return;
+              var copy = suggestData.suggest[match];
+              bar.querySelector('[data-lb-text]').textContent = copy.text;
+              var cta = bar.querySelector('[data-lb-cta]');
+              cta.textContent = copy.cta;
+              bar.querySelector('[data-lb-close]').setAttribute('aria-label', copy.close);
+              bar.hidden = false;
+              cta.addEventListener('click', function () {
+                try { localStorage.setItem('vf_lang', match); } catch (e) {}
+                try { document.cookie = 'vf_lang=' + encodeURIComponent(match) + '; path=/; max-age=31536000; SameSite=Lax'; } catch (e) {}
+                var p = location.pathname;
+                var hit = suggestData.corePaths.indexOf(p) >= 0;
+                if (!hit) {
+                  for (var j = 0; j < suggestData.hubPrefixes.length; j++) {
+                    if (p.indexOf(suggestData.hubPrefixes[j]) === 0) { hit = true; break; }
+                  }
+                }
+                var target = hit ? '/' + match + (p === '/' ? '/' : p) : '/' + match + '/';
+                location.href = target + location.search + location.hash;
+              });
+              bar.querySelector('[data-lb-close]').addEventListener('click', function () {
+                try { localStorage.setItem('vf_lang_dismissed', '1'); } catch (e) {}
+                bar.hidden = true;
+              });
+            } catch (e) {}
+          })();
+        </script>
+      </>
+    )}
     <header class="site" id="site-header">
       <div class="wrap header-in">
-        <a class="brand" href="/" aria-label="visafreely — home">
+        <a class="brand" href={href('/')} aria-label={T('brand_home_label')}>
           <Stamp size={34} />
           <span class="wordmark">visa<em>freely</em></span>
         </a>
         <nav class="main">
-          <a href="/passports/">Passports</a>
-          <a href="/destinations/">Destinations</a>
-          <a href="/visa-policy-changes/">Visa changes</a>
-          <a href="/changelog/">Changelog</a>
-          <a href="/about/">About</a>
+          <a href={href('/passports/')}>{T('nav_passports')}</a>
+          <a href={href('/destinations/')}>{T('nav_destinations')}</a>
+          <a href={href('/visa-policy-changes/')}>{T('nav_visa_changes')}</a>
+          <a href={href('/changelog/')}>{T('nav_changelog')}</a>
+          <a href={href('/about/')}>{T('nav_about')}</a>
         </nav>
-        <a class="check-btn" href="/#checker">Check a route</a>
+        <LangSwitcher locale={locale} basePath={basePath} label={T('lang_switch_label')} />
+        <a class="check-btn" href={href('/#checker')}>{T('header_check_btn')}</a>
       </div>
     </header>
     <main>
@@ -973,10 +1122,10 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
     <div class="trustbar">
       <div class="wrap">
         <div class="tb-in">
-          <span><b>{pairCountFmt}</b> pairs</span>
-          <span><b>{verifiedFmt}</b> verified against official sources</span>
-          <span><b>{correctionsFmt}</b> corrections published</span>
-          <span>See the <a href="/changelog/">changelog</a> · <a href="/about/">how we verify</a></span>
+          <span><b>{pairCountFmt}</b> {T('trust_pairs_suffix')}</span>
+          <span><b>{verifiedFmt}</b> {T('trust_verified_suffix')}</span>
+          <span><b>{correctionsFmt}</b> {T('trust_corrections_suffix')}</span>
+          <span>{T('trust_see_the')} <a href="/changelog/">{T('trust_changelog')}</a> · <a href={href('/about/')}>{T('trust_how_we_verify')}</a></span>
         </div>
       </div>
     </div>
@@ -984,51 +1133,48 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
       <div class="wrap">
         <div class="footer-grid">
           <div class="f-brand">
-            <a class="brand" href="/" aria-label="visafreely — home">
+            <a class="brand" href={href('/')} aria-label={T('brand_home_label')}>
               <Stamp size={40} />
               <span class="wordmark">visa<em>freely</em></span>
             </a>
             <p>
-              Free visa requirement checks for {countries.length} passports. Every answer shows its
-              evidence — a verified date and an official source, or an honest dataset label.
+              {T('footer_intro', { count: countries.length })}
             </p>
           </div>
-          <nav aria-label="Top passports">
-            <h4>Passports</h4>
+          <nav aria-label={T('footer_nav_top_passports')}>
+            <h4>{T('footer_h_passports')}</h4>
             <ul>
               {topPassports.map((r) => (
-                <li><a href={`/passport/${r.c.slug}/`}>{r.c.name} passport</a></li>
+                <li><a href={href(`/passport/${r.c.slug}/`)}>{T('footer_passport_link', { name: countryName(locale, r.c) })}</a></li>
               ))}
-              <li><a href="/passports/">All passports</a></li>
+              <li><a href={href('/passports/')}>{T('footer_all_passports')}</a></li>
             </ul>
           </nav>
-          <nav aria-label="Popular destinations">
-            <h4>Destinations</h4>
+          <nav aria-label={T('footer_nav_popular_destinations')}>
+            <h4>{T('footer_h_destinations')}</h4>
             <ul>
               {footerDestinations.map((c) => (
-                <li><a href={`/destination/${c.slug}/`}>{c.name}</a></li>
+                <li><a href={href(`/destination/${c.slug}/`)}>{countryName(locale, c)}</a></li>
               ))}
-              <li><a href="/destinations/">All destinations</a></li>
+              <li><a href={href('/destinations/')}>{T('footer_all_destinations')}</a></li>
             </ul>
           </nav>
-          <nav aria-label="About visafreely">
+          <nav aria-label={T('footer_nav_about')}>
             <h4>visafreely</h4>
             <ul>
-              <li><a href="/about/">About the data</a></li>
-              <li><a href="/visa-policy-changes/">Visa policy changes</a></li>
-              <li><a href="/passport-ranking/">Passport ranking</a></li>
-              <li><a href="/changelog/">Changelog</a></li>
-              <li><a href="/widget/">Embed the checker</a></li>
-              <li><a href="/for-business/">Data licensing & API</a></li>
-              <li><a href="/#checker">Check a route</a></li>
+              <li><a href={href('/about/')}>{T('footer_about_data')}</a></li>
+              <li><a href={href('/visa-policy-changes/')}>{T('footer_visa_policy_changes')}</a></li>
+              <li><a href={href('/passport-ranking/')}>{T('footer_passport_ranking')}</a></li>
+              <li><a href="/changelog/">{T('footer_changelog')}</a></li>
+              <li><a href="/widget/">{T('footer_embed')}</a></li>
+              <li><a href={href('/for-business/')}>{T('footer_licensing')}</a></li>
+              <li><a href={href('/#checker')}>{T('footer_check_route')}</a></li>
             </ul>
           </nav>
         </div>
         <p class="f-legal">
-          Visa requirements change often and this site is a guide, not an official source.
-          Always confirm with the destination's embassy or official immigration authority before you travel.
-          Data: passport-index dataset (MIT), February 2026 snapshot, with corrections listed in the
-          <a href="/changelog/">changelog</a>. See <a href="/about/">how we verify</a>.
+          {T('footer_legal_a')}
+          <a href="/changelog/">{T('footer_legal_changelog')}</a>{T('footer_legal_b')} <a href={href('/about/')}>{T('footer_legal_how')}</a>{T('footer_legal_c')}
         </p>
       </div>
     </footer>

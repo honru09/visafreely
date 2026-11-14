@@ -1,0 +1,55 @@
+---
+import Base from '../layouts/Base.astro';
+import RouteChecker from '../components/RouteChecker.astro';
+import { countryBySlug, pairPath, type Country } from '../lib/data';
+import { t as i18nT, countryName, hrefFor, type LocaleCode } from '../i18n/locales';
+import availabilityRaw from '../i18n/availability.json';
+
+interface Props {
+  locale: LocaleCode;
+}
+const { locale } = Astro.props;
+const T = i18nT(locale);
+const availability = availabilityRaw as Record<string, string[]>;
+const href = (p: string) => hrefFor(locale, p, availability);
+const nm = (c: Country) => countryName(locale, c);
+
+const popularRoutes = [
+  ['japan', 'thailand'],
+  ['united-states', 'japan'],
+  ['china', 'singapore'],
+  ['united-states', 'united-kingdom'],
+  ['germany', 'thailand'],
+  ['australia', 'indonesia'],
+]
+  .map(([ps, ds]) => ({ p: countryBySlug[ps], d: countryBySlug[ds] }))
+  .filter((r) => r.p && r.d);
+---
+
+<Base title={T('visa_title')} description={T('visa_desc')} locale={locale}>
+  <h1>{T('visa_h1')}</h1>
+  <p class="lede">
+    {T('visa_lede')}
+  </p>
+  <RouteChecker locale={locale} />
+  <h2>{T('visa_popular_h2')}</h2>
+  <div class="index-rows">
+    {popularRoutes.map((r) => (
+      <a class="index-row" href={pairPath(r.p, r.d)}>
+        <span class="ir-name">{nm(r.p)} → {nm(r.d)}</span>
+        <span class="ir-stat">{T('visa_row_stat')}</span>
+      </a>
+    ))}
+  </div>
+  <h2>{T('visa_browse_h2')}</h2>
+  <div class="index-rows">
+    <a class="index-row" href={href('/passports/')}>
+      <span class="ir-name">{T('visa_all_passports')}</span>
+      <span class="ir-stat">{T('visa_all_passports_stat')}</span>
+    </a>
+    <a class="index-row" href={href('/destinations/')}>
+      <span class="ir-name">{T('visa_all_dests')}</span>
+      <span class="ir-stat">{T('visa_all_dests_stat')}</span>
+    </a>
+  </div>
+</Base>

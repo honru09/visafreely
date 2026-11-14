@@ -1,0 +1,227 @@
+---
+import Base from '../layouts/Base.astro';
+import ShareRow from '../components/ShareRow.astro';
+import policyChanges from '../data/policy-changes.json';
+import {
+  countries,
+  countryByCode,
+  pairRow,
+  pairExtra,
+  pairPath,
+  easyAccessCount,
+  flagEmoji,
+  type Country,
+} from '../lib/data';
+import {
+  t as i18nT,
+  countryName,
+  verdictTextL,
+  formatDateL,
+  hrefFor,
+  type LocaleCode,
+} from '../i18n/locales';
+import availabilityRaw from '../i18n/availability.json';
+
+interface Props {
+  locale: LocaleCode;
+}
+const { locale } = Astro.props;
+const T = i18nT(locale);
+const availability = availabilityRaw as Record<string, string[]>;
+const href = (p: string) => hrefFor(locale, p, availability);
+const nm = (c: Country) => countryName(locale, c);
+
+interface Change {
+  date: string;
+  destination: string;
+  passport?: string;
+  title: string;
+  summary: string;
+  source: string;
+  source_name: string;
+}
+function sourceHost(source: string): string {
+  try {
+    return new URL(source).hostname.replace(/^www\./, '');
+  } catch {
+    return source;
+  }
+}
+interface RouteLink {
+  href: string;
+  flag: string;
+  name: string;
+  meta: string;
+  status: string;
+}
+/** Affected routes for one entry (B6, 2026-11-13). An entry that names a
+ *  passport links that exact pair first — it is the route the change hit.
+ *  Remaining slots (max 3 total) follow the destination HubStrip rule:
+ *  passports needing paperwork (E/T/R) for this destination, verified pairs
+ *  first, then dataset reach, then name. No routes are invented: when the
+ *  destination is not in the dataset the entry gets no route links. */
+function affectedRoutes(e: Change): RouteLink[] {
+  const dc = countryByCode[e.destination];
+  if (!dc) return [];
+  const out: { code: string; name: string; row: NonNullable<ReturnType<typeof pairRow>> }[] = [];
+  if (e.passport && countryByCode[e.passport]) {
+    const r = pairRow(e.passport, e.destination);
+    if (r) out.push({ code: e.passport, name: countryByCode[e.passport].name, row: r });
+  }
+  const rest = countries
+    .filter((x) => x.code !== e.destination && !out.some((o) => o.code === x.code))
+    .map((x) => ({ x, r: pairRow(x.code, e.destination) }))
+    .filter((y) => y.r && (y.r.s === 'E' || y.r.s === 'T' || y.r.s === 'R'))
+    .sort((a, b) => {
+      const va = pairExtra(a.x.code, e.destination).verified ? 0 : 1;
+      const vb = pairExtra(b.x.code, e.destination).verified ? 0 : 1;
+      if (va !== vb) return va - vb;
+      const ea = easyAccessCount(a.x.code);
+      const eb = easyAccessCount(b.x.code);
+      if (ea !== eb) return eb - ea;
+      return a.x.name < b.x.name ? -1 : 1;
+    });
+  for (const y of rest) {
+    if (out.length >= 3) break;
+    out.push({ code: y.x.code, name: y.x.name, row: y.r! });
+  }
+  return out.map((o) => ({
+    href: pairPath(countryByCode[o.code], dc),
+    flag: flagEmoji(o.code),
+    name: nm(countryByCode[o.code]),
+    meta: verdictTextL(locale, o.row),
+    status: o.row.s,
+  }));
+}
+const entries = (policyChanges as Change[])
+  .slice()
+  .sort((a, b) => (a.date < b.date ? 1 : -1))
+  .map((e) => {
+    const dc = countryByCode[e.destination];
+    return {
+      ...e,
+      destName: dc ? nm(dc) : e.destination,
+      destHref: dc ? href(`/destination/${dc.slug}/`) : null,
+      host: sourceHost(e.source) || '',
+      routes: affectedRoutes(e),
+    };
+  });
+const alertStr = {
+  ok: T('pc_alert_ok'),
+  bad: T('pc_alert_bad'),
+  err: T('pc_alert_err'),
+};
+const shareUrl = `https://visafreely.com${locale === 'en' ? '' : '/zh-hans'}/visa-policy-changes/`;
+---
+
+<Base title={T('pc_title')} description={T('pc_desc')} locale={locale}>
+  <h1>{T('pc_h1')}</h1>
+  <p class="lede">
+    {T('pc_lede')}
+  </p>
+  <p>
+    <strong>{T('pc_tracked', { n: entries.length })}</strong>{T('pc_how_a')}<a href="/changelog/">{T('pc_how_link')}</a>{T('pc_how_b')}
+  </p>
+
+  <ShareRow
+    url={shareUrl}
+    text={T('pc_share_text')}
+    label={T('pc_share_label')}
+    locale={locale}
+  />
+  <p class="muted small">
+    {T('pc_reuse_a')}<a href="/widget/">{T('pc_reuse_link1')}</a>{T('pc_reuse_b')}<a href="https://github.com/honru09/visa-requirements-dataset" rel="noopener" target="_blank">{T('pc_reuse_link2')}</a>{T('pc_reuse_c')}
+  </p>
+
+  <div class="timeline">
+    {entries.map((e) => (
+      <article class="tl-entry">
+        <div class="tl-date">{formatDateL(locale, e.date)}</div>
+        <div class="tl-card">
+          {e.destHref
+            ? <a class="pair-chip" href={e.destHref}>{T('pc_chip_rules', { name: e.destName })}</a>
+            : <span class="pair-chip">{e.destName}</span>}
+          <h3>{e.title}</h3>
+          <p>{e.summary}</p>
+          {e.routes.length > 0 && (
+            <div class="tl-routes">
+              <span class="tl-routes-label">{T('pc_affected')}</span>
+              {e.routes.map((r) => (
+                <a class="tl-route" href={r.href}>
+                  <span class={`sdot ${r.status}`} aria-hidden="true"></span>
+                  <span aria-hidden="true">{r.flag}</span> {r.name}
+                  <span class="tl-route-meta">{r.meta}</span>
+                </a>
+              ))}
+            </div>
+          )}
+          <p>
+            <a class="source-chip" href={e.source} rel="noopener" target="_blank">{T('pc_source', { host: e.host })}</a>
+          </p>
+        </div>
+      </article>
+    ))}
+  </div>
+
+  <div class="closing-band">
+    <h2>{T('pc_alert_h2')}</h2>
+    <p style="max-width:560px;margin:0 auto;">
+      {T('pc_alert_p')}
+    </p>
+    <form id="route-alert-form" style="margin:20px auto 0;max-width:520px;">
+      <label for="route-alert-email" style="display:block;font-weight:600;color:#fff;margin-bottom:8px;">{T('pc_alert_label')}</label>
+      <div style="display:flex;gap:8px;justify-content:center;flex-wrap:wrap;">
+        <input id="route-alert-email" type="email" required placeholder="you@example.com" autocomplete="email"
+          style="flex:1 1 240px;max-width:340px;padding:11px 14px;border-radius:10px;border:1px solid rgba(255,255,255,.35);background:rgba(255,255,255,.1);color:#fff;font-size:15px;" />
+        <button type="submit" class="btn on-dark" style="cursor:pointer;">{T('pc_alert_btn')}</button>
+      </div>
+      <p id="route-alert-status" hidden style="margin:10px auto 0;color:#bfe3cd;font-size:14px;"></p>
+    </form>
+    <script is:inline define:vars={{ alertStr }}>
+      (function () {
+        var form = document.getElementById('route-alert-form');
+        if (!form) return;
+        form.addEventListener('submit', function (e) {
+          e.preventDefault();
+          var email = document.getElementById('route-alert-email').value.trim();
+          var status = document.getElementById('route-alert-status');
+          fetch('https://honru09--site-stats-web.us-east.modal.run/subscribe', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ site: 'visafreely', email: email, route: location.pathname })
+          }).then(function (r) {
+            status.hidden = false;
+            if (r.ok) {
+              status.textContent = alertStr.ok;
+              form.querySelector('button').disabled = true;
+            } else {
+              status.textContent = alertStr.bad;
+            }
+          }).catch(function () {
+            status.hidden = false;
+            status.textContent = alertStr.err;
+          });
+        });
+      })();
+    </script>
+  </div>
+
+  <style>
+    .tl-routes { display: flex; align-items: center; flex-wrap: wrap; gap: 6px; margin: 9px 0 7px; }
+    .tl-routes-label {
+      font-size: 11px; font-weight: 800; text-transform: uppercase; letter-spacing: .08em;
+      color: var(--gold-ink); margin-right: 2px;
+    }
+    .tl-route {
+      display: inline-flex; align-items: center; gap: 6px;
+      padding: 4px 10px; border: 1px solid var(--line); border-radius: 999px;
+      background: var(--soft); color: var(--ink); font-size: 13px; font-weight: 700;
+    }
+    a.tl-route:hover { text-decoration: none; border-color: var(--brand); background: var(--f-bg); }
+    .tl-route-meta { font-weight: 500; color: var(--muted); }
+    @media (max-width: 720px) {
+      .tl-route { font-size: 13px; padding: 4px 10px; min-height: 40px; }
+      .tl-route-meta { display: none; }
+    }
+  </style>
+</Base>

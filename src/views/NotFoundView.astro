@@ -1,0 +1,35 @@
+---
+import Base from '../layouts/Base.astro';
+import Stamp from '../components/Stamp.astro';
+import RouteChecker from '../components/RouteChecker.astro';
+import { t as i18nT, hrefFor, type LocaleCode } from '../i18n/locales';
+import availabilityRaw from '../i18n/availability.json';
+
+interface Props {
+  locale: LocaleCode;
+}
+const { locale } = Astro.props;
+const T = i18nT(locale);
+const availability = availabilityRaw as Record<string, string[]>;
+const href = (p: string) => hrefFor(locale, p, availability);
+---
+
+<Base title={T('nf_title')} description={T('nf_desc')} locale={locale}>
+  <div class="nf">
+    <div class="nf-seal" aria-hidden="true">
+      <Stamp variant="seal" state="pending" size={112} />
+    </div>
+    <div class="nf-code" aria-hidden="true">404</div>
+    <h1>{T('nf_h1')}</h1>
+    <p class="lede">
+      {T('nf_lede')}
+    </p>
+    <div class="nf-checker">
+      <RouteChecker locale={locale} />
+    </div>
+    <div class="cb-actions">
+      <a class="btn ghost" href={href('/passports/')}>{T('nf_browse_p')}</a>
+      <a class="btn ghost" href={href('/destinations/')}>{T('nf_browse_d')}</a>
+    </div>
+  </div>
+</Base>

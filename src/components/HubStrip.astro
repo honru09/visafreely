@@ -7,6 +7,7 @@
 // a static, data-derived rule (verified first, then dataset reach) — see the
 // batch PROGRESS.md; no traffic numbers are claimed anywhere in the copy.
 import Stamp from './Stamp.astro';
+import { t as i18nT, type LocaleCode } from '../i18n/locales';
 
 interface HubRoute {
   href: string;
@@ -19,8 +20,10 @@ interface Props {
   heading: string;
   sub: string;
   routes: HubRoute[];
+  locale?: LocaleCode;
 }
 const { heading, sub, routes } = Astro.props;
+const T = i18nT(Astro.props.locale ?? 'en');
 ---
 
 {routes.length > 0 && (
@@ -44,9 +47,9 @@ const { heading, sub, routes } = Astro.props;
     ))}
   </div>
   <a class="hs-cta" data-offer="evisas-hub" href="https://evisas.com/?ref=visafreely" rel="sponsored nofollow noopener" target="_blank">
-    Get it handled by eVisas <span class="arr">→</span>
+    {T('hs_cta')} <span class="arr">→</span>
   </a>
-  <p class="hs-note">Done-for-you filing for a service fee — applying yourself on the official site stays free.</p>
+  <p class="hs-note">{T('hs_note')}</p>
 </section>
 )}
 

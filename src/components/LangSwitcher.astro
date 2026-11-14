@@ -1,0 +1,144 @@
+---
+// Language switcher — globe button in the header (PLAN §3). The menu lists
+// every registered locale in its own name; choosing one stores the choice
+// (localStorage vf_lang + a vf_lang cookie) and navigates to the same
+// page's version in that locale, falling back to that language's home,
+// then to the site home — the target always comes from the build-time
+// availability manifest, so it can never 404.
+import { LOCALES, localeByCode, type LocaleCode } from '../i18n/locales';
+
+interface Props {
+  locale: LocaleCode;
+  /** Unprefixed path of the current page, e.g. /passport/japan/ */
+  basePath: string;
+  label: string;
+}
+const { locale, basePath, label } = Astro.props;
+const launched = LOCALES.filter((l) => l.launched).map((l) => l.code);
+---
+
+<div class="lang-switch" data-lang-switch data-current={locale} data-base={basePath} data-launched={launched.join(',')}>
+  <button
+    type="button"
+    class="lang-btn"
+    aria-haspopup="listbox"
+    aria-expanded="false"
+    aria-label={label}
+    title={label}
+  >
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+      <circle cx="12" cy="12" r="9" stroke="currentColor" stroke-width="1.9" />
+      <ellipse cx="12" cy="12" rx="4.2" ry="9" stroke="currentColor" stroke-width="1.9" />
+      <path d="M3.6 9h16.8M3.6 15h16.8" stroke="currentColor" stroke-width="1.9" />
+    </svg>
+  </button>
+  <ul class="lang-menu" role="listbox" aria-label={label} hidden>
+    {LOCALES.map((l) => (
+      <li>
+        <a
+          href="#"
+          role="option"
+          data-locale={l.code}
+          aria-selected={l.code === locale ? 'true' : 'false'}
+          class={l.code === locale ? 'lang-item on' : 'lang-item'}
+        >
+          <span>{l.name}</span>
+          {l.code === locale && (
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4.5 12.5l5 5L19.5 7" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" /></svg>
+          )}
+        </a>
+      </li>
+    ))}
+  </ul>
+</div>
+
+<script is:inline>
+  (function () {
+    if (window.__vfLangBound) return;
+    window.__vfLangBound = true;
+    var root = document.querySelector('[data-lang-switch]');
+    if (!root) return;
+    var btn = root.querySelector('.lang-btn');
+    var menu = root.querySelector('.lang-menu');
+    var PREFIX = { 'zh-hans': 'zh-hans', 'zh-hant': 'zh-hant', ja: 'ja', ko: 'ko', th: 'th' };
+    var availPromise = null;
+    function getAvail() {
+      if (!availPromise) {
+        availPromise = fetch('/i18n-availability.json')
+          .then(function (r) { return r.ok ? r.json() : {}; })
+          .catch(function () { return {}; });
+      }
+      return availPromise;
+    }
+    function homeFor(code) { return code === 'en' ? '/' : '/' + PREFIX[code] + '/'; }
+    function targetFor(code, avail) {
+      var base = root.getAttribute('data-base') || '/';
+      var launched = (root.getAttribute('data-launched') || '').split(',');
+      if (avail && avail[base] && avail[base].indexOf(code) >= 0) {
+        return code === 'en' ? base : '/' + PREFIX[code] + base;
+      }
+      if (launched.indexOf(code) >= 0) return homeFor(code);
+      return '/';
+    }
+    function close() {
+      menu.hidden = true;
+      btn.setAttribute('aria-expanded', 'false');
+    }
+    function open() {
+      getAvail();
+      menu.hidden = false;
+      btn.setAttribute('aria-expanded', 'true');
+    }
+    btn.addEventListener('click', function () {
+      if (menu.hidden) open(); else close();
+    });
+    document.addEventListener('click', function (e) {
+      if (!menu.hidden && !root.contains(e.target)) close();
+    });
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape') close();
+    });
+    menu.addEventListener('click', function (e) {
+      var a = e.target && e.target.closest ? e.target.closest('[data-locale]') : null;
+      if (!a) return;
+      e.preventDefault();
+      var code = a.getAttribute('data-locale');
+      try { localStorage.setItem('vf_lang', code); } catch (err) {}
+      try {
+        document.cookie = 'vf_lang=' + encodeURIComponent(code) + '; path=/; max-age=31536000; SameSite=Lax';
+      } catch (err) {}
+      getAvail().then(function (avail) {
+        location.href = targetFor(code, avail);
+      });
+    });
+  })();
+</script>
+
+<style>
+  .lang-switch { position: relative; flex: none; }
+  .lang-btn {
+    display: flex; align-items: center; justify-content: center;
+    width: 40px; height: 40px; padding: 0; border: none; border-radius: 50%;
+    background: transparent; color: var(--ink-2); cursor: pointer;
+    transition: background-color .16s var(--ease), color .16s var(--ease);
+    touch-action: manipulation;
+  }
+  .lang-btn:hover { background: rgba(10, 37, 64, .05); color: var(--ink); }
+  .lang-menu {
+    position: absolute; right: 0; top: calc(100% + 8px); z-index: 90;
+    list-style: none; margin: 0; padding: 6px; min-width: 176px;
+    background: #fff; border: 1px solid var(--line); border-radius: 14px;
+    box-shadow: var(--sh-lg);
+  }
+  .lang-menu li { margin: 0; }
+  .lang-item {
+    display: flex; align-items: center; justify-content: space-between; gap: 10px;
+    min-height: 40px; padding: 8px 12px; border-radius: 9px;
+    color: var(--ink); font-size: 15px; white-space: nowrap;
+  }
+  .lang-item:hover { text-decoration: none; background: var(--soft); }
+  .lang-item.on { font-weight: 700; color: var(--brand-deep); }
+  .lang-item svg { color: var(--brand); flex: none; }
+  /* Mobile placement (margin-left) is handled in Base.astro's global
+     header rules, where the switcher's siblings live. */
+</style>

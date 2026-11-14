@@ -1,0 +1,64 @@
+---
+import Base from '../layouts/Base.astro';
+import { countries, easyAccessCount, visaFreePassportCount, type Country } from '../lib/data';
+import { t as i18nT, countryName, hrefFor, type LocaleCode } from '../i18n/locales';
+import { pinyinInitial } from '../i18n/pinyin';
+import availabilityRaw from '../i18n/availability.json';
+
+interface Props {
+  locale: LocaleCode;
+  kind: 'passports' | 'destinations';
+}
+const { locale, kind } = Astro.props;
+const T = i18nT(locale);
+const availability = availabilityRaw as Record<string, string[]>;
+const href = (p: string) => hrefFor(locale, p, availability);
+const nm = (c: Country) => countryName(locale, c);
+const isP = kind === 'passports';
+
+// English: alphabetical by English name, grouped by first letter — the
+// original behaviour, byte for byte. zh-Hans: collator order on the
+// glossary names, grouped by pinyin initial.
+const sorted =
+  locale === 'zh-hans'
+    ? [...countries].sort((a, b) => new Intl.Collator('zh-Hans').compare(nm(a), nm(b)))
+    : [...countries].sort((a, b) => (a.name < b.name ? -1 : 1));
+const letterOf = (c: Country) =>
+  locale === 'zh-hans' ? pinyinInitial(nm(c).charAt(0)) : c.name.charAt(0).toUpperCase();
+const letters: string[] = [];
+const byLetter = new Map<string, typeof sorted>();
+for (const c of sorted) {
+  const l = letterOf(c);
+  if (!byLetter.has(l)) { byLetter.set(l, []); letters.push(l); }
+  byLetter.get(l)!.push(c);
+}
+letters.sort();
+
+const title = T(isP ? 'idxp_title' : 'idxd_title');
+const description = T(isP ? 'idxp_desc' : 'idxd_desc');
+---
+
+<Base title={title} description={description} locale={locale}>
+  <h1>{T(isP ? 'idxp_h1' : 'idxd_h1')}</h1>
+  {isP ? (
+    <p class="lede">{T('idxp_lede_a', { count: countries.length })}<a href={href('/passport-ranking/')}>{T('idxp_lede_link')}</a>{T('idxp_lede_b')}</p>
+  ) : (
+    <p class="lede">{T('idxd_lede', { count: countries.length })}</p>
+  )}
+  <nav class="letter-jump" aria-label={T('idx_jump')}>
+    {letters.map((l) => <a href={`#letter-${l}`}>{l}</a>)}
+  </nav>
+  {letters.map((l) => (
+    <section class="index-group" id={`letter-${l}`}>
+      <h2>{l}</h2>
+      <div class="index-rows">
+        {byLetter.get(l)!.map((c) => (
+          <a class="index-row" href={href(isP ? `/passport/${c.slug}/` : `/destination/${c.slug}/`)}>
+            <span class="ir-name">{nm(c)}</span>
+            <span class="ir-stat">{isP ? T('idxp_stat', { count: easyAccessCount(c.code) }) : T('idxd_stat', { count: visaFreePassportCount(c.code) })}</span>
+          </a>
+        ))}
+      </div>
+    </section>
+  ))}
+</Base>

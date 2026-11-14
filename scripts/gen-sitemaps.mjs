@@ -58,9 +58,27 @@ for (const p of countries) {
 }
 flush();
 
+// Localized core sitemaps (i18n batch 0): one per launched non-default
+// locale, holding exactly the paths the availability manifest lists for
+// that locale (core surfaces + hubs; pair pages join in batch 2). URLs
+// strictly mirror built pages — a locale with no pages gets no sitemap.
+const launched = JSON.parse(readFileSync('src/i18n/launched.json', 'utf8'));
+const availability = JSON.parse(readFileSync('src/i18n/availability.json', 'utf8'));
+const localeFiles = [];
+for (const loc of launched) {
+  if (loc === 'en') continue;
+  const entries = Object.entries(availability)
+    .filter(([, locs]) => locs.includes(loc))
+    .map(([p]) => urlEntry(`${SITE}/${loc}${p}`));
+  const name = `sitemap-${loc}-core.xml`;
+  writeFileSync(`dist/${name}`, urlset(entries));
+  localeFiles.push(name);
+  console.log(`sitemaps: ${name} urls=${entries.length}`);
+}
+
 // Index (same filename GSC/Bing already track).
 const today = new Date().toISOString().slice(0, 10);
-const indexEntries = ['sitemap-core.xml', ...pairFiles]
+const indexEntries = ['sitemap-core.xml', ...localeFiles, ...pairFiles]
   .map((f) => `  <sitemap><loc>${SITE}/${f}</loc><lastmod>${today}</lastmod></sitemap>`);
 writeFileSync('dist/sitemap-index.xml',
   `<?xml version="1.0" encoding="UTF-8"?>\n<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${indexEntries.join('\n')}\n</sitemapindex>\n`);

@@ -1,0 +1,214 @@
+---
+import Base from '../layouts/Base.astro';
+import Stamp from '../components/Stamp.astro';
+import RouteChecker from '../components/RouteChecker.astro';
+import {
+  countries,
+  countryBySlug,
+  easyAccessCount,
+  visaFreePassportCount,
+  verifiedCount,
+  changelogCount,
+  passportsByEasy,
+  STATUS_ORDER,
+  STATUS_BLURB,
+  STATUS_GLYPH,
+  data,
+} from '../lib/data';
+import {
+  t as i18nT,
+  countryName,
+  statusLabelL,
+  hrefFor,
+  type LocaleCode,
+} from '../i18n/locales';
+import availabilityRaw from '../i18n/availability.json';
+
+interface Props {
+  locale: LocaleCode;
+}
+const { locale } = Astro.props;
+const T = i18nT(locale);
+const availability = availabilityRaw as Record<string, string[]>;
+const href = (p: string) => hrefFor(locale, p, availability);
+const nm = (c: (typeof countries)[number]) => countryName(locale, c);
+
+const ranked = passportsByEasy.slice(0, 10);
+const maxEasy = ranked[0]?.easy || 1;
+const minEasy = ranked[ranked.length - 1]?.easy ?? 0;
+// Rescale bars across the displayed top-10 range so close scores (185 vs 186) still read differently.
+const barPct = (easy: number) =>
+  maxEasy === minEasy ? 100 : Math.round(42 + ((easy - minEasy) / (maxEasy - minEasy)) * 58);
+const popularPassports = ['united-states', 'united-kingdom', 'japan', 'germany', 'canada', 'australia', 'singapore', 'france']
+  .map((slug) => countryBySlug[slug])
+  .filter(Boolean);
+const popularDestinations = ['thailand', 'japan', 'united-states', 'france', 'united-arab-emirates', 'turkiye', 'vietnam', 'united-kingdom']
+  .map((slug) => countryBySlug[slug])
+  .filter(Boolean);
+const popularRoutes = [
+  ['japan', 'thailand'],
+  ['united-states', 'japan'],
+  ['china', 'singapore'],
+  ['united-states', 'united-kingdom'],
+  ['germany', 'thailand'],
+  ['australia', 'indonesia'],
+]
+  .map(([ps, ds]) => ({ p: countryBySlug[ps], d: countryBySlug[ds] }))
+  .filter((r) => r.p && r.d);
+const pairCountFmt = data.pairCount.toLocaleString('en-US');
+const verifiedFmt = verifiedCount.toLocaleString('en-US');
+const correctionsFmt = changelogCount.toLocaleString('en-US');
+---
+
+<Base title={T('home_title')} description={T('home_desc')} locale={locale}>
+  <section class="band dark">
+    <div class="hero-wm" aria-hidden="true"><Stamp size={330} /></div>
+    <div class="band-in">
+      <h1 class="h-display hero-in" style="--hd:0ms">{T('home_h1')}</h1>
+      <p class="lede hero-in" style="--hd:70ms">
+        {T('home_lede', { count: countries.length, pairs: pairCountFmt })}
+      </p>
+      <RouteChecker locale={locale} />
+      <div class="route-chips hero-in" style="--hd:230ms">
+        <span class="rc-label">{T('home_chips_label')}</span>
+        {popularRoutes.map((r) => (
+          <button type="button" class="route-chip" data-p={r.p.name} data-d={r.d.name}>{nm(r.p)} → {nm(r.d)}</button>
+        ))}
+      </div>
+      <p class="hero-note hero-in" style="--hd:300ms">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M12 3l7 3v5c0 4.6-3 8.4-7 10-4-1.6-7-5.4-7-10V6l7-3z" stroke="currentColor" stroke-width="1.9" stroke-linejoin="round"/><path d="M9 12l2 2 4-4" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        <span>{T('home_hero_note')}</span>
+      </p>
+    </div>
+  </section>
+
+  <div class="stat-band">
+    <div class="stat-tile"><b>{countries.length}</b><span>{T('home_stat_passports')}</span></div>
+    <div class="stat-tile"><b>{pairCountFmt}</b><span>{T('home_stat_pairs')}</span></div>
+    <div class="stat-tile"><b>{verifiedFmt}</b><span>{T('home_stat_verified')}</span></div>
+    <div class="stat-tile"><b>{correctionsFmt}</b><span>{T('home_stat_corrections')}</span></div>
+  </div>
+
+  <h2>{T('home_how_h2')}</h2>
+  <div class="how-grid">
+    <div class="how-card">
+      <span class="num">1</span>
+      <h3>{T('home_step1_t')}</h3>
+      <p>{T('home_step1_d')}</p>
+    </div>
+    <div class="how-card">
+      <span class="num">2</span>
+      <h3>{T('home_step2_t')}</h3>
+      <p>{T('home_step2_d')}</p>
+      <div class="seal-block verified compact">
+        <div class="seal-art" aria-hidden="true"><Stamp variant="seal" size={52} /></div>
+        <div>
+          <p class="seal-title">{T('home_seal_example_t')}</p>
+          <p>{T('home_seal_example_d')}</p>
+        </div>
+      </div>
+    </div>
+    <div class="how-card">
+      <span class="num">3</span>
+      <h3>{T('home_step3_t')}</h3>
+      <p>{T('home_step3_d')}</p>
+    </div>
+  </div>
+
+  <h2>{T('home_contrast_h2')}</h2>
+  <div class="contrast">
+    <div class="contrast-card bad">
+      <h3><svg width="19" height="19" viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="12" cy="12" r="9" stroke="currentColor" stroke-width="2"/><path d="M9 9l6 6M15 9l-6 6" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>{T('home_bad_h3')}</h3>
+      <ul>
+        <li><svg width="15" height="15" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg>{T('home_bad_1')}</li>
+        <li><svg width="15" height="15" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg>{T('home_bad_2')}</li>
+        <li><svg width="15" height="15" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg>{T('home_bad_3')}</li>
+        <li><svg width="15" height="15" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg>{T('home_bad_4')}</li>
+      </ul>
+    </div>
+    <div class="contrast-card good">
+      <h3><svg width="19" height="19" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M12 3l7 3v5c0 4.6-3 8.4-7 10-4-1.6-7-5.4-7-10V6l7-3z" stroke="currentColor" stroke-width="1.9" stroke-linejoin="round"/><path d="M9 12l2 2 4-4" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/></svg>visafreely</h3>
+      <ul>
+        <li><svg width="15" height="15" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4.5 12.5l5 5L19.5 7" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>{T('home_good_1', { verified: verifiedFmt })}</li>
+        <li><svg width="15" height="15" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4.5 12.5l5 5L19.5 7" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg><span>{T('home_good_2a')}<a href="/changelog/">{T('home_good_2link')}</a>{T('home_good_2b')}</span></li>
+        <li><svg width="15" height="15" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4.5 12.5l5 5L19.5 7" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>{T('home_good_3')}</li>
+        <li><svg width="15" height="15" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4.5 12.5l5 5L19.5 7" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>{T('home_good_4')}</li>
+      </ul>
+    </div>
+  </div>
+
+  <h2>{T('home_rank_h2')}</h2>
+  <p class="muted small">{T('home_rank_sub')}</p>
+  <div class="rank-rows" data-reveal>
+    {ranked.map((r, i) => (
+      <div class="rank-row">
+        <span class={`rank-medal${i < 3 ? ' top' : ''}`}>{i + 1}</span>
+        <a class="rr-name" href={href(`/passport/${r.c.slug}/`)}>{nm(r.c)}</a>
+        <span class="bar" aria-hidden="true"><i style={`--w:${barPct(r.easy)}%;width:var(--w)`}></i></span>
+        <span class="rr-count">{T('home_rank_count', { easy: r.easy, free: r.free })}</span>
+      </div>
+    ))}
+  </div>
+  <p style="margin-top:14px;font-size:15px;"><a href={href('/map/')}>{T('home_map_link')} <span class="arr" aria-hidden="true">→</span></a></p>
+
+  <h2>{T('home_pop_passports_h2')}</h2>
+  <div class="route-grid">
+    {popularPassports.map((c) => (
+      <a class="route-card" href={href(`/passport/${c.slug}/`)}>
+        <span class="rc-top"><span class="rc-name">{T('home_name_passport', { name: nm(c) })}</span></span>
+        <span class="rc-meta">{T('home_pop_passport_meta', { easy: easyAccessCount(c.code) })}</span>
+        <svg class="rc-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4 12h15M13 5.5L19.5 12 13 18.5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </a>
+    ))}
+  </div>
+
+  <h2>{T('home_pop_dests_h2')}</h2>
+  <div class="route-grid">
+    {popularDestinations.map((c) => (
+      <a class="route-card" href={href(`/destination/${c.slug}/`)}>
+        <span class="rc-top"><span class="rc-name">{nm(c)}</span></span>
+        <span class="rc-meta">{T('home_pop_dest_meta2', { count: visaFreePassportCount(c.code) })}</span>
+        <svg class="rc-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4 12h15M13 5.5L19.5 12 13 18.5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </a>
+    ))}
+  </div>
+
+  <h2>{T('home_read_h2')}</h2>
+  <div class="legend-grid">
+    {STATUS_ORDER.map((code) => (
+      <div class="legend-card">
+        <span class={`chip ${code}`}><span class="g"><i>{STATUS_GLYPH[code]}</i></span>{statusLabelL(locale, code)}</span>
+        <p>{T(`blurb_${code.toLowerCase()}` as never)}</p>
+      </div>
+    ))}
+  </div>
+  <p>
+    {T('home_read_a')}<a href="/changelog/">{T('home_read_link')}</a>{T('home_read_b')}<a href={href('/about/')}>{T('home_read_link2')}</a>
+  </p>
+
+  <h2>{T('home_biz_h2')}</h2>
+  <p class="muted small">{T('home_biz_sub')}</p>
+  <div class="route-grid">
+    <a class="route-card" href="/widget/">
+      <span class="rc-top"><span class="rc-name">{T('fb_card3_t')}</span></span>
+      <span class="rc-meta">{T('home_widget_meta')}</span>
+      <svg class="rc-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4 12h15M13 5.5L19.5 12 13 18.5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    </a>
+    <a class="route-card" href="https://github.com/honru09/visa-requirements-dataset" rel="noopener" target="_blank">
+      <span class="rc-top"><span class="rc-name">{T('home_dataset_name')}</span></span>
+      <span class="rc-meta">{T('home_dataset_meta')}</span>
+      <svg class="rc-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4 12h15M13 5.5L19.5 12 13 18.5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    </a>
+  </div>
+
+  <div class="closing-band">
+    <h2>{T('home_error_h2')}</h2>
+    <p style="max-width:560px;margin:0 auto;">
+      {T('home_error_p')}
+    </p>
+    <div class="cb-actions">
+      <a class="btn on-dark" href="/changelog/">{T('home_error_btn1')}</a>
+      <a class="btn ghost-on-dark" href={href('/about/')}>{T('home_error_btn2')}</a>
+    </div>
+  </div>
+</Base>

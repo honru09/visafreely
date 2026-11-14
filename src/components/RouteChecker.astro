@@ -1,0 +1,16 @@
+---
+// Picks the checker implementation per locale: English pages keep the
+// original Checker.astro (with Base.astro's script driving it) so the
+// English output stays byte-identical; localized pages use CheckerZh,
+// which brings its own script.
+import Checker from './Checker.astro';
+import CheckerZh from './CheckerZh.astro';
+import type { LocaleCode } from '../i18n/locales';
+
+interface Props {
+  locale: LocaleCode;
+}
+const { locale } = Astro.props;
+---
+
+{locale === 'en' ? <Checker /> : <CheckerZh locale={locale} />}
