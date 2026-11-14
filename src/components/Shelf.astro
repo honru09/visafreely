@@ -9,6 +9,13 @@
 //   A (on arrival)   — no processor; eSIM leads (data on landing), insurance second.
 //   T (ETA)          — eVisas card (authorisation filing) + insurance + eSIM.
 //   N (no admission) — renders nothing at all.
+// Position split (shelf dedup, 2026-11-14): the full cards render ONCE, at
+// pos="top". pos="bottom" repeats the same offers — same hrefs, same
+// data-offer anchors, same sid deep links — as compact one-line quick rows
+// under a different heading, so a page never shows the same card twice. The
+// B10 insurance fact notes (cardNote/cutNote) and the honest line belong to
+// the top shelf only; the bottom rows are links, not a second printing of
+// the facts.
 // Visual identity: "travel kit" panel — tinted band with a dashed stamp-style inner
 // border; cards are boarding-pass style with an icon stub, a Partner tag and a pill CTA.
 import Stamp from './Stamp.astro';
@@ -26,6 +33,7 @@ const { status, destinationName, passportCode, destinationCode, pos = 'bottom' }
 const sid = passportCode && destinationCode ? (campaigns as Record<string, string>)[`${passportCode}:${destinationCode}`] : undefined;
 const evisasHref = sid ? `https://evisas.com/?ref=visafreely&sid=${sid}` : 'https://evisas.com/?ref=visafreely';
 const isVisa = status === 'R' || status === 'E';
+const quick = pos === 'bottom';
 const headings: Record<string, string> = {
   R: 'Get this visa handled',
   E: 'Sort the e-Visa without the form stress',
@@ -42,7 +50,7 @@ const shelfClass = isVisa ? 'shelf shelf--featured' : 'shelf shelf--duo';
 const ins = passportCode && destinationCode ? insuranceFor(destinationCode, status, passportCode) : null;
 ---
 
-{status !== 'N' && (
+{status !== 'N' && !quick && (
 <section class="shelf-section">
   <div class="shelf-head">
     <span class="shelf-stamp" aria-hidden="true"><Stamp size={24} /></span>
@@ -130,5 +138,80 @@ const ins = passportCode && destinationCode ? insuranceFor(destinationCode, stat
     <svg width="15" height="15" viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="12" cy="12" r="9" stroke="currentColor" stroke-width="2"/><path d="M12 11v5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/><circle cx="12" cy="8" r="1.3" fill="currentColor"/></svg>
     <span>Free information first: everything above is the full answer. These are optional services travellers often use for this route.</span>
   </p>
+</section>
+)}
+
+{status !== 'N' && quick && (
+<section class="shelf-section shelf-section--quick">
+  <div class="shelf-head">
+    <span class="shelf-stamp" aria-hidden="true"><Stamp size={24} /></span>
+    <h2>Quick links for this trip</h2>
+  </div>
+  <div class="shelf shelf--quick">
+    {isVisa && (
+    <a class="qrow" data-offer={`evisas-${pos}`} href={evisasHref} rel="sponsored nofollow noopener" target="_blank">
+      <span class="q-ic" aria-hidden="true">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none"><rect x="5" y="3.5" width="14" height="17" rx="2" stroke="currentColor" stroke-width="1.9"/><path d="M9 8.5h6M9 12h4" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"/><path d="M9.2 16.4l1.6 1.6 3-3.2" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </span>
+      <span class="q-main">
+        <span class="q-name">eVisas</span>
+        <span class="q-sub">Guided application with document checks</span>
+      </span>
+      <span class="partner-tag">Partner</span>
+      <span class="q-arr" aria-hidden="true">→</span>
+    </a>
+    <div class="alt-line">
+      <p class="alt-text">
+        <span class="alt-k">Full-service agent</span> — VisaHQ can file this route's paperwork, for a service fee.<span class="partner-tag">Partner</span>
+      </p>
+      <a class="alt-link" data-offer={`visahq-${pos}`} href="https://www.visahq.co.uk/?a_aid=vaff18633" rel="sponsored nofollow noopener" target="_blank">Visit VisaHQ <span class="arr">→</span></a>
+    </div>
+    )}
+    {status === 'T' && (
+    <a class="qrow" data-offer={`evisas-${pos}`} href={evisasHref} rel="sponsored nofollow noopener" target="_blank">
+      <span class="q-ic" aria-hidden="true">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none"><rect x="5" y="3.5" width="14" height="17" rx="2" stroke="currentColor" stroke-width="1.9"/><path d="M9 8.5h6M9 12h4" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"/><path d="M9.2 16.4l1.6 1.6 3-3.2" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </span>
+      <span class="q-main">
+        <span class="q-name">eVisas</span>
+        <span class="q-sub">Have eVisas file the authorisation for you</span>
+      </span>
+      <span class="partner-tag">Partner</span>
+      <span class="q-arr" aria-hidden="true">→</span>
+    </a>
+    )}
+    <a class="qrow" data-offer={`safetywing-${pos}`} href="https://safetywing.com/nomad-insurance?referenceID=26624375&utm_source=26624375&utm_medium=Ambassador" rel="sponsored nofollow noopener" target="_blank">
+      <span class="q-ic" aria-hidden="true">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none"><path d="M12 3.2 19 5.8v5.4c0 4.4-2.9 7.4-7 9.3-4.1-1.9-7-4.9-7-9.3V5.8Z" stroke="currentColor" stroke-width="1.9" stroke-linejoin="round"/><path d="M12 8.2v5.6M9.2 11h5.6" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"/></svg>
+      </span>
+      <span class="q-main">
+        <span class="q-name">SafetyWing</span>
+        <span class="q-sub">Travel medical cover, priced per day or by the month</span>
+      </span>
+      <span class="partner-tag">Partner</span>
+      <span class="q-arr" aria-hidden="true">→</span>
+    </a>
+    <a class="qrow" data-offer={`worldnomads-${pos}`} href="https://www.kqzyfj.com/click-101912829-15736546" rel="sponsored nofollow noopener" target="_blank">
+      <span class="q-ic" aria-hidden="true">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none"><path d="M3.5 18.5 9.8 8l3.4 4.9 2.3-3.1 5 8.7Z" stroke="currentColor" stroke-width="1.9" stroke-linejoin="round"/><circle cx="17.2" cy="6.2" r="1.7" stroke="currentColor" stroke-width="1.9"/></svg>
+      </span>
+      <span class="q-main">
+        <span class="q-name">World Nomads</span>
+        <span class="q-sub">Cover for 200+ adventure activities</span>
+      </span>
+      <span class="partner-tag">Partner</span>
+      <span class="q-arr" aria-hidden="true">→</span>
+    </a>
+    <a class="qrow" data-offer={`airalo-${pos}`} href="https://www.airalo.com/" rel="sponsored nofollow noopener" target="_blank">
+      <span class="q-ic" aria-hidden="true">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none"><path d="M4.5 10.3a11 11 0 0 1 15 0M7.3 13.7a6.8 6.8 0 0 1 9.4 0" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"/><circle cx="12" cy="17.4" r="1.4" fill="currentColor"/></svg>
+      </span>
+      <span class="q-main">
+        <span class="q-name">Airalo</span>
+        <span class="q-sub">Local eSIMs — land with data working</span>
+      </span>
+      <span class="q-arr" aria-hidden="true">→</span>
+    </a>
+  </div>
 </section>
 )}
