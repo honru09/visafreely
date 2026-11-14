@@ -386,7 +386,12 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
       .verdict-card.s-T { background: var(--t-bg); border-color: #ddd0f5; }
       .verdict-card.s-R { background: var(--r-bg); border-color: #f0c4c1; }
       .verdict-card.s-N { background: var(--n-bg); border-color: #d8d4cc; }
-      .js .verdict-card.enter { animation: riseIn .28s var(--ease) both; }
+      /* BUG-002 (2026-11-14): one-shot entrances must fill backwards, never
+         both/forwards — a forwards fill keeps the animated transform alive
+         forever (riseIn ends at translateY(0), not none), leaving the card a
+         permanent stacking context that breaks hit-testing of its own CTA
+         on iOS Safari (same mechanism as BUG-001; see hero entrance note). */
+      .js .verdict-card.enter { animation: riseIn .28s var(--ease) backwards; }
       .vc-main { flex: 1; min-width: 0; }
       .vc-route { font-size: 12px; text-transform: uppercase; letter-spacing: .08em; font-weight: 700; color: var(--ink-2); margin: 0 0 4px; }
       .vc-big { font-size: 24px; font-weight: 800; letter-spacing: -0.02em; line-height: 1.2; text-wrap: balance; }
@@ -407,8 +412,8 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
         0% { box-shadow: 0 0 0 0 rgba(11,110,79,.35); }
         100% { box-shadow: 0 0 0 18px rgba(11,110,79,0); }
       }
-      .js .stamp-anim { animation: stampIn .48s var(--spring) both; border-radius: 50%; }
-      .js .stamp-anim-pulse { animation: inkPulse .6s var(--ease) .3s both; border-radius: 50%; }
+      .js .stamp-anim { animation: stampIn .48s var(--spring) backwards; border-radius: 50%; }
+      .js .stamp-anim-pulse { animation: inkPulse .6s var(--ease) .3s backwards; border-radius: 50%; }
 
       /* ================= reveal ================= */
       .js [data-reveal] { opacity: 0; transform: translateY(10px); transition: opacity .45s var(--ease), transform .45s var(--ease); }
@@ -522,7 +527,7 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
       .seal-block.pending { border: 1.5px dashed #b8b2a4; background: #f4f2ec; color: var(--ink-2); }
       .seal-block.pending .seal-art { color: #6f6a5e; }
       .seal-block.compact { padding: 13px 15px; font-size: 13.5px; margin: 12px 0 0; }
-      .js .seal-block.inview.verified .seal-art .stamp-svg { animation: stampIn .5s var(--spring) both; }
+      .js .seal-block.inview.verified .seal-art .stamp-svg { animation: stampIn .5s var(--spring) backwards; }
       /* round-1 .seal alias kept for safety */
       .seal { display: flex; gap: 14px; border-radius: 14px; padding: 16px 18px; margin: 14px 0; font-size: 15px; }
       .warn { border: 1px solid #e6cd7e; border-left: 5px solid var(--gold); background: #fdf6dd; border-radius: 14px; padding: 14px 18px; font-size: 15px; margin: 14px 0; display: flex; gap: 10px; align-items: flex-start; }
