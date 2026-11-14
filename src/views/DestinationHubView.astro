@@ -1,5 +1,6 @@
 ---
 import Base from '../layouts/Base.astro';
+import ExploreStrip from '../components/ExploreStrip.astro';
 import HubStrip from '../components/HubStrip.astro';
 import {
   countries,
@@ -174,4 +175,5 @@ const stripRoutes = countries
       .hub-ins-sub { font-size: 12.5px; }
     }
   </style>
+  <ExploreStrip locale={locale} items={[{ key: 'feat_map', href: href('/map/') }, { key: 'feat_policy', href: href('/visa-policy-changes/') }, { key: 'feat_ranking', href: href('/passport-ranking/') }]} />
 </Base>

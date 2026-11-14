@@ -1,5 +1,6 @@
 ---
 import Base from '../layouts/Base.astro';
+import ExploreStrip from '../components/ExploreStrip.astro';
 import {
   countries,
   countsForPassport,
@@ -108,6 +109,7 @@ const year = new Date().getFullYear();
   <p>
     {T('rank_how2_a')}<a href={href('/visa-policy-changes/')}>{T('rank_how2_link1')}</a>{T('rank_how2_b')}<a href="/changelog/">{T('rank_how2_link2')}</a>{T('rank_how2_c')}
   </p>
+  <ExploreStrip locale={locale} items={[{ key: 'feat_map', href: href('/map/') }, { key: 'feat_compare', href: href('/compare/') }, { key: 'explore_check', href: href('/#checker') }]} />
 </Base>
 
 <style>

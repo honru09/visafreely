@@ -11,6 +11,7 @@
 // strings ride in the payload (M.names / M.short / M.str); the English
 // page renders exactly the original text.
 import Base from '../layouts/Base.astro';
+import ExploreStrip from '../components/ExploreStrip.astro';
 import {
   countries,
   countryByCode,
@@ -387,10 +388,6 @@ const pairCountFmt = data.pairCount.toLocaleString('en-US');
     </p>
   </div>
 
-  <p class="cmp-more">
-    {T('cmp_more_a')}<a href={href('/map/')}>{T('cmp_more_map')}</a>{T('cmp_more_b')}<a href={href('/passport-ranking/')}>{T('cmp_more_rank')}</a>{T('cmp_more_c')}<a href={href('/#checker')}>{T('cmp_more_check')}</a>
-  </p>
-
   <script is:inline define:vars={{ payload, defaultA: DEFAULT_A, defaultB: DEFAULT_B }}>
     (function () {
       var M = payload;
@@ -762,4 +759,5 @@ const pairCountFmt = data.pairCount.toLocaleString('en-US');
     .cmp-method { font-size: 13.5px; color: var(--muted); margin-top: 26px; max-width: 760px; }
     .cmp-more { margin-top: 30px; font-size: 15px; }
   </style>
+  <ExploreStrip locale={locale} items={[{ key: 'feat_map', href: href('/map/') }, { key: 'feat_ranking', href: href('/passport-ranking/') }, { key: 'explore_check', href: href('/#checker') }]} />
 </Base>

@@ -1,5 +1,6 @@
 ---
 import Base from '../layouts/Base.astro';
+import ExploreStrip from '../components/ExploreStrip.astro';
 import Stamp from '../components/Stamp.astro';
 import { data, verifiedCount, pairExtra, countryByCode, pairPath } from '../lib/data';
 import {
@@ -139,4 +140,5 @@ const fmt = (iso: string) => formatDateL(locale, iso);
   <p>
     {T('ab_widget_a')}<a href={href('/widget/')}>{T('ab_widget_link')}</a>{T('ab_widget_b')}
   </p>
+  <ExploreStrip locale={locale} items={[{ key: 'explore_check', href: href('/#checker') }, { key: 'feat_map', href: href('/map/') }, { key: 'feat_compare', href: href('/compare/') }]} />
 </Base>

@@ -1,5 +1,6 @@
 ---
 import Base from '../layouts/Base.astro';
+import ExploreStrip from '../components/ExploreStrip.astro';
 import HubStrip from '../components/HubStrip.astro';
 import {
   countries,
@@ -142,4 +143,5 @@ const stripRoutes = (data.byPassport[c.code] || [])
     ))}
     <a href={href('/passports/')}>{T('hub_see_all_passports', { count: countries.length })}</a>
   </div>
+  <ExploreStrip locale={locale} items={[{ key: 'feat_compare', href: `${href('/compare/')}?a=${c.slug}` }, { key: 'feat_policy', href: href('/visa-policy-changes/') }]} />
 </Base>

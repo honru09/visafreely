@@ -1,5 +1,6 @@
 ---
 import Base from '../layouts/Base.astro';
+import ExploreStrip from '../components/ExploreStrip.astro';
 import ShareRow from '../components/ShareRow.astro';
 import policyChanges from '../data/policy-changes.json';
 import {
@@ -243,4 +244,5 @@ const shareUrl = `https://visafreely.com${localeByCode[locale].prefix ? `/${loca
       .tl-route-meta { display: none; }
     }
   </style>
+  <ExploreStrip locale={locale} items={[{ key: 'explore_check', href: href('/#checker') }, { key: 'feat_map', href: href('/map/') }, { key: 'feat_ranking', href: href('/passport-ranking/') }]} />
 </Base>

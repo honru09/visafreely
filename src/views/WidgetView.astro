@@ -3,6 +3,7 @@
 // The snippet and the live demo point at the reader's own locale embed, so
 // a localized blog embeds a checker that speaks its language.
 import Base from '../layouts/Base.astro';
+import ExploreStrip from '../components/ExploreStrip.astro';
 import { t as i18nT, hrefFor, localeByCode, type LocaleCode } from '../i18n/locales';
 import availabilityRaw from '../i18n/availability.json';
 
@@ -134,4 +135,5 @@ const copyStr = { copy: T('wg_copy'), copied: T('wg_copied') };
       });
     })();
   </script>
+  <ExploreStrip locale={locale} items={[{ key: 'explore_check', href: href('/#checker') }, { key: 'feat_map', href: href('/map/') }, { key: 'feat_compare', href: href('/compare/') }]} />
 </Base>

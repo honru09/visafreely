@@ -5,6 +5,7 @@
 // the data layer at build time, nothing is priced, no customers are named,
 // and no update frequency or SLA is promised — arrangements are per enquiry.
 import Base from '../layouts/Base.astro';
+import ExploreStrip from '../components/ExploreStrip.astro';
 import policyChanges from '../data/policy-changes.json';
 import { data, verifiedCount, countries } from '../lib/data';
 import { t as i18nT, hrefFor, type LocaleCode } from '../i18n/locales';
@@ -192,4 +193,5 @@ const fbStr = { ok: T('fb_ok'), bad: T('pc_alert_bad'), err: T('fb_err'), sendin
     .fb-alt { margin: 0; color: var(--muted); font-size: 14.5px; }
     #fb-status { grid-column: 1 / -1; margin: 0; color: var(--brand-deep); font-size: 14.5px; }
   </style>
+  <ExploreStrip locale={locale} items={[{ key: 'explore_check', href: href('/#checker') }, { key: 'feat_map', href: href('/map/') }, { key: 'feat_compare', href: href('/compare/') }]} />
 </Base>

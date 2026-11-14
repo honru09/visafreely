@@ -12,6 +12,7 @@ import Shelf from '../components/Shelf.astro';
 import evisasCampaigns from '../data/evisas-campaigns.json';
 import Stamp from '../components/Stamp.astro';
 import ShareRow from '../components/ShareRow.astro';
+import ExploreStrip from '../components/ExploreStrip.astro';
 import { insuranceFor } from '../lib/insurance';
 import {
   countries,
@@ -401,4 +402,5 @@ const subStr = {
       <a class="sb-btn" data-offer="evisas-bar" href={evisasBarHref} rel="sponsored nofollow noopener" target="_blank">{T('pair_bar_btn')}</a>
     </div>
   )}
+  <ExploreStrip locale={locale} items={[{ key: 'feat_map', href: `${href('/map/')}?p=${p.slug}` }, { key: 'feat_compare', href: `${href('/compare/')}?a=${p.slug}` }, { key: 'feat_policy', href: href('/visa-policy-changes/') }]} />
 </Base>

@@ -9,6 +9,7 @@
 // string come from the message payload (M.names / M.labels / M.str), so
 // the English page renders exactly the original text.
 import Base from '../layouts/Base.astro';
+import ExploreStrip from '../components/ExploreStrip.astro';
 import world from '../data/world-paths.json';
 import {
   countries,
@@ -210,9 +211,7 @@ const pairCountFmt = data.pairCount.toLocaleString('en-US');
   </div>
 
   <p class="map-more">
-    {T('map_more_a')}<a href={href('/passport-ranking/')}>{T('map_more_rank')}</a>{T('map_more_b')}
-    <a id="map-hub-link" href={href(`/passport/${def.slug}/`)}>{T('map_more_page', { name: nm(def) })}</a> ·
-    <a href={href('/compare/')}>{T('map_more_cmp')}</a>{T('map_more_d')}<a href={href('/#checker')}>{T('map_more_check')}</a>
+    {T('map_more_b').replace(/^ · /, '')}<a id="map-hub-link" href={href(`/passport/${def.slug}/`)}>{T('map_more_page', { name: nm(def) })}</a>
   </p>
 
   <script is:inline define:vars={{ payload, defaultCode: DEFAULT_CODE }}>
@@ -547,4 +546,5 @@ const pairCountFmt = data.pairCount.toLocaleString('en-US');
     .map-chip:hover { border-color: var(--line-strong); }
     .map-more { margin-top: 30px; font-size: 15px; }
   </style>
+  <ExploreStrip locale={locale} items={[{ key: 'feat_compare', href: href('/compare/') }, { key: 'feat_ranking', href: href('/passport-ranking/') }, { key: 'explore_check', href: href('/#checker') }]} />
 </Base>

@@ -1,0 +1,47 @@
+---
+// ExploreStrip — the ONE end-of-page discovery strip (discovery plan
+// D3, rule R1: at most one per page, fixed position as the last block
+// of <main>, right above the trust bar). Membership per page type is
+// fixed by the plan's s5.3 table at each call site; item labels are
+// the frozen feat_* names (R3) or explore_check for the checker.
+import { t as i18nT, type LocaleCode } from '../i18n/locales';
+
+interface Item {
+  key: string; // message key for the label
+  href: string; // already localized by the caller's href()
+}
+interface Props {
+  locale: LocaleCode;
+  items: Item[];
+}
+const { locale, items } = Astro.props;
+const T = i18nT(locale);
+---
+
+<section class="explore-strip" aria-label={T('explore_h')}>
+  <h2 class="es-h">{T('explore_h')}</h2>
+  <div class="es-row">
+    {items.map((it) => (
+      <a class="es-item" href={it.href}>
+        <span>{T(it.key)}</span>
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4 12h15M13 5.5L19.5 12 13 18.5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </a>
+    ))}
+  </div>
+</section>
+
+<style>
+  .explore-strip { margin: 34px 0 6px; }
+  .es-h { font-size: 19px; margin: 0 0 12px; }
+  .es-row { display: flex; flex-wrap: wrap; gap: 10px; }
+  .es-item {
+    display: inline-flex; align-items: center; gap: 8px;
+    min-height: 44px; padding: 10px 16px;
+    border: 1.5px solid var(--line); border-radius: 999px;
+    background: var(--surface); color: var(--brand-ink);
+    font-size: 15px; font-weight: 650; text-decoration: none;
+    transition: border-color .16s var(--ease), color .16s var(--ease);
+  }
+  .es-item:hover { border-color: var(--brand); color: var(--brand); }
+  .es-item svg { flex: none; opacity: .65; }
+</style>
