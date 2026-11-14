@@ -18,7 +18,7 @@
  * Index entries carry the max lastmod of their shard's dated entries,
  * or no lastmod when the shard has none.
  */
-import { readFileSync, writeFileSync, rmSync, existsSync } from 'node:fs';
+import { readFileSync, writeFileSync, rmSync, existsSync, readdirSync } from 'node:fs';
 
 const SITE = 'https://visafreely.com';
 const sd = JSON.parse(readFileSync('src/data/site-data.json', 'utf8'));
@@ -88,6 +88,27 @@ for (const c of countries) {
   const dd = maxByDestination[c.code] || null;
   core.push(urlEntry(`${SITE}/destination/${c.slug}/`, dd));
   noteShard('sitemap-core.xml', dd);
+}
+// Residency vertical (batch 3, 2026-11-15): hub + country + route pages
+// join the core shard. Paths are enumerated from the built output so the
+// sitemap can never drift from what actually shipped; the lastmod is the
+// residency dataset's own verified date (data layer, per L1 discipline).
+const resData = JSON.parse(readFileSync('src/data/residency-routes.json', 'utf8'));
+const resDate = (resData && resData.meta && resData.meta.verified_date) || null;
+const resPaths = [];
+if (existsSync('dist/residency')) {
+  const walk = (dir, prefix) => {
+    if (existsSync(`${dir}/index.html`)) resPaths.push(prefix);
+    for (const e of readdirSync(dir, { withFileTypes: true })) {
+      if (e.isDirectory()) walk(`${dir}/${e.name}`, `${prefix}${e.name}/`);
+    }
+  };
+  walk('dist/residency', '/residency/');
+}
+resPaths.sort();
+for (const p of resPaths) {
+  core.push(urlEntry(SITE + p, resDate));
+  noteShard('sitemap-core.xml', resDate);
 }
 writeFileSync('dist/sitemap-core.xml', urlset(core));
 

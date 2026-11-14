@@ -24,6 +24,13 @@ import {
   type LocaleCode,
 } from '../i18n/locales';
 import availabilityRaw from '../i18n/availability.json';
+import {
+  routesForCountry,
+  routePath,
+  countryPath,
+  minThreshold,
+  fmtMoney,
+} from '../lib/residency';
 
 interface Props {
   locale: LocaleCode;
@@ -62,6 +69,17 @@ const breadcrumbLd = {
     { '@type': 'ListItem', position: 3, name: T('home_name_passport', { name: nm(c) }), item: absUrl(`/passport/${c.slug}/`) },
   ],
 };
+// Residency batch 3 (PLAN section 1): this country's residency &
+// citizenship routes, rendered from the finalized residency dataset —
+// the block exists only for the countries that have published routes.
+const resCards = routesForCountry(c.code).map((r) => {
+  const parts = [r.status === 'closed' ? T('res_status_closed') : T('res_status_open')];
+  const min = minThreshold(r);
+  if (r.status === 'open' && min != null)
+    parts.push(T('res_from', { amount: fmtMoney(min, r.currency) }));
+  return { href: routePath(r), programme: r.programme, meta: parts.join(' · ') };
+});
+const resCountryHref = countryPath(c.code);
 const others = countries.filter((x) => x.code !== c.code);
 const total = groups.reduce((n, g) => n + g.rows.length, 0);
 // B3 hub strip: this passport's paperwork routes (E/T/R). Static rule:
@@ -171,6 +189,22 @@ const stripRoutes = (data.byPassport[c.code] || [])
       </div>
     </div>
   ))}
+
+  {resCards.length > 0 && (
+    <>
+      <h2>{T('res_block_title', { name: nm(c) })}</h2>
+      <div class="route-grid">
+        {resCards.map((rc) => (
+          <a class="route-card" href={rc.href}>
+            <span class="rc-top"><span class="rc-flag" aria-hidden="true">{flagEmoji(c.code)}</span><span class="rc-name">{rc.programme}</span></span>
+            <span class="rc-meta">{rc.meta}</span>
+            <svg class="rc-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4 12h15M13 5.5L19.5 12 13 18.5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </a>
+        ))}
+      </div>
+      <p><a href={resCountryHref}>{T('res_block_country', { name: nm(c) })}</a></p>
+    </>
+  )}
 
   <h2>{T('hub_other_passports')}</h2>
   <div class="pill-cloud">

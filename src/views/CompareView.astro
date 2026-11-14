@@ -5,7 +5,10 @@
 // opens a destination without a prior visa, and — honestly — where it is worse.
 // Everything is computed from the same dataset as the route pages; SSR renders
 // the default comparison in full, the inline script recomputes in place.
-// No shelf, no affiliate links, and nothing about how to obtain a passport.
+// No shelf and no affiliate links. Residency batch 3 (2026-11-15, PLAN
+// section 1) adds one factual cross-link: when either picked passport is
+// a citizenship-by-investment country, a single hint line under the
+// pickers points at that country's route page — figures live there.
 //
 // Localized variant: display names, short status labels and all script
 // strings ride in the payload (M.names / M.short / M.str); the English
@@ -31,6 +34,7 @@ import {
 } from '../i18n/locales';
 import availabilityRaw from '../i18n/availability.json';
 import aliasesRaw from '../data/country-aliases.json';
+import { publishedRoutes, routePath } from '../lib/residency';
 
 interface Props {
   locale: LocaleCode;
@@ -201,8 +205,29 @@ function transText(it: Item): string {
   return t;
 }
 
+// Residency batch 3: CBI cross-hint. When either compared passport is a
+// citizenship-by-investment country, one line under the pickers links to
+// that country's route page (open routes and the closed Malta archive).
+const cbiByCode: Record<string, { path: string; status: string }> = Object.fromEntries(
+  publishedRoutes
+    .filter((r) => r.type === 'cbi')
+    .map((r) => [r.code, { path: routePath(r), status: r.status }]),
+);
+const resHintFor = (codes: string[]) => {
+  const seen = new Set<string>();
+  const out: { code: string; path: string; status: string }[] = [];
+  for (const code of codes) {
+    if (seen.has(code)) continue;
+    seen.add(code);
+    const h = cbiByCode[code];
+    if (h) out.push({ code, ...h });
+  }
+  return out;
+};
+
 const defA = countryByCode[DEFAULT_A];
 const defB = countryByCode[DEFAULT_B];
+const defResHints = resHintFor([DEFAULT_A, DEFAULT_B]);
 const defDelta = compare(DEFAULT_A, DEFAULT_B);
 const defEasyA = easyAccessCount(DEFAULT_A);
 const defEasyB = easyAccessCount(DEFAULT_B);
@@ -216,6 +241,7 @@ const payload = {
   easy: Object.fromEntries(countries.map((c) => [c.code, easyAccessCount(c.code)])),
   rows,
   daysRows,
+  cbi: cbiByCode,
   daysTable: DAYS_TABLE,
   alpha: ALPHA,
   short: SHORT,
@@ -236,6 +262,8 @@ const payload = {
     hNewly: T('cmp_h_newly', { b: '{b}' }),
     hEasier: T('cmp_h_easier', { b: '{b}' }),
     hWorse: T('cmp_h_worse', { b: '{b}' }),
+    resHintOpen: T('cmp_res_hint_open', { name: '{name}' }),
+    resHintClosed: T('cmp_res_hint_closed', { name: '{name}' }),
     empty: T('ck_empty'),
   },
 };
@@ -312,6 +340,14 @@ const breadcrumbLd = {
         </div>
       </div>
     </div>
+  </div>
+
+  <div id="cmp-residency">
+    {defResHints.map((h) => (
+      <p class="cmp-res-hint">
+        <a href={h.path}><span class="fl" aria-hidden="true">{flagEmoji(h.code)}</span>{T(h.status === 'closed' ? 'cmp_res_hint_closed' : 'cmp_res_hint_open', { name: nm(countryByCode[h.code]) })}</a>
+      </p>
+    ))}
   </div>
 
   <div id="cmp-results">
@@ -539,9 +575,27 @@ const breadcrumbLd = {
       var state = { a: defaultA, b: defaultB };
       var sectionsEl = document.getElementById('cmp-sections');
       var emptyEl = document.getElementById('cmp-empty');
+      var resEl = document.getElementById('cmp-residency');
+
+      /* Residency batch 3: CBI hint lines live outside #cmp-sections and
+         are rebuilt here on every render, mirroring the SSR first paint. */
+      function renderResidency(a, b) {
+        if (!resEl || !M.cbi) return;
+        var rh = '';
+        var seenRes = {};
+        [a, b].forEach(function (code) {
+          var h = M.cbi[code];
+          if (!h || seenRes[code]) return;
+          seenRes[code] = 1;
+          var tpl = h.status === 'closed' ? M.str.resHintClosed : M.str.resHintOpen;
+          rh += '<p class="cmp-res-hint"><a href="' + h.path + '"><span class="fl" aria-hidden="true">' + flagEmoji(code) + '</span>' + esc(fill(tpl, { name: M.names[code] })) + '</a></p>';
+        });
+        resEl.innerHTML = rh;
+      }
 
       function render() {
         var a = state.a, b = state.b;
+        renderResidency(a, b);
         document.getElementById('cs-a-name').textContent = fill(M.str.nameTpl, { name: M.names[a] });
         document.getElementById('cs-b-name').textContent = fill(M.str.nameTpl, { name: M.names[b] });
         document.getElementById('cs-easy-a').textContent = M.easy[a];
@@ -773,6 +827,13 @@ const breadcrumbLd = {
        rules live in this global block, anchored under #cmp-sections so
        they cannot leak to other pages, and they style the server-rendered
        first paint and every JS re-render identically. */
+    /* Residency batch 3: the CBI hint lines are likewise rebuilt by JS
+       (innerHTML), so their rules are global too, anchored under
+       #cmp-residency. The container itself carries no margin — each hint
+       line spaces itself, and an empty container leaves no gap. */
+    #cmp-residency .cmp-res-hint { margin: 14px 0 0; font-size: 14.5px; }
+    #cmp-residency .cmp-res-hint a { display: inline-flex; align-items: baseline; gap: 8px; font-weight: 600; }
+    #cmp-residency .cmp-res-hint .fl { font-size: 16px; line-height: 1; }
     #cmp-sections .cmp-sec { margin-top: 22px; }
     #cmp-sections .cmp-group { margin-top: 14px; }
     #cmp-sections .cmp-group h3 { display: flex; align-items: center; margin: 0 0 8px; }
