@@ -209,6 +209,17 @@ const breadcrumbLd = {
     .rank-table th.st-a { color: var(--a); }
     .rank-table th.st-t { color: var(--t); }
   }
+  /* KB-13 (2026-11-15): desktop data-face finish — the header rule
+     deepens one step, the passport column gains row-identity weight,
+     and cell padding/line-height move to the shared data-face measure
+     (7px 10px / 1.5) that .res-table uses. Same min-width:721px guard
+     as KB-01: the WALK-01 mobile table is untouched. */
+  @media (min-width: 721px) {
+    .rank-table th { border-bottom: 2px solid var(--line-cool-strong); }
+    .rank-table th, .rank-table td { padding: 7px 10px; line-height: 1.5; }
+    .rank-table td a { margin: -7px -10px; padding: 7px 10px; }
+    .rank-table tbody td:nth-child(2) > a { font-weight: 600; }
+  }
   /* B3: the ranking page's single commercial slot — insurance only (plan §4). */
   .rank-ins {
     display: flex; align-items: center; gap: 18px; flex-wrap: wrap;
