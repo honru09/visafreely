@@ -111,9 +111,9 @@ const breadcrumbLd = {
         <tr>
           <th scope="col">#</th>
           <th scope="col">{T('rank_th_passport')}</th>
-          <th scope="col" class="num">{T('rank_th_free')}</th>
-          <th scope="col" class="num">{T('rank_th_arrival')}</th>
-          <th scope="col" class="num">{T('rank_th_eta')}</th>
+          <th scope="col" class="num st-f">{T('rank_th_free')}</th>
+          <th scope="col" class="num st-a">{T('rank_th_arrival')}</th>
+          <th scope="col" class="num st-t">{T('rank_th_eta')}</th>
           <th scope="col" class="num">{T('rank_th_noprior')}</th>
           <th scope="col" class="num">{T('rank_th_verified')}</th>
         </tr>
@@ -199,6 +199,16 @@ const breadcrumbLd = {
   .rank-table th { font-size: 12px; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted-cool); }
   .rank-table td.num, .rank-table th.num { text-align: right; font-variant-numeric: tabular-nums; font-feature-settings: "tnum" 1, "ss01" 1, "zero" 1; }
   .rank-table tbody tr:hover { background: var(--soft-cool); }
+  /* KB-01 (2026-11-15): the three status columns carry their status
+     text-step colour in the header (the count columns themselves stay
+     ink, so vertical comparison stays clean). Desktop-only: inside
+     min-width:721px so the WALK-01 mobile table keeps byte-identical
+     rendering. */
+  @media (min-width: 721px) {
+    .rank-table th.st-f { color: var(--f); }
+    .rank-table th.st-a { color: var(--a); }
+    .rank-table th.st-t { color: var(--t); }
+  }
   /* B3: the ranking page's single commercial slot — insurance only (plan §4). */
   .rank-ins {
     display: flex; align-items: center; gap: 18px; flex-wrap: wrap;
