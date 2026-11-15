@@ -167,6 +167,13 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
         --line-cool-strong: #d8dee6;
         --muted-cool: #5a6472;
         --soft-cool: #f6f8fa;
+        /* KB-06 (2026-11-15): semantic role aliases over the concrete
+           tokens above. Values are var() references, so a role can never
+           drift from its source; the concrete names stay valid for
+           existing code, new code should take colour by role. */
+        --text-1: var(--ink); --text-2: var(--ink-2); --text-3: var(--muted);
+        --surface-1: var(--paper); --surface-2: var(--card); --surface-3: var(--soft);
+        --border-1: var(--line); --border-2: var(--line-strong);
         --brand: #0b6e4f;
         --brand-deep: #083f2e;
         --brand-ink: #0a2e3f;
