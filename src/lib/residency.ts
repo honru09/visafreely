@@ -14,6 +14,21 @@ export interface ResidencyOption {
   notes?: string;
 }
 
+export interface ResidencyFeeItem {
+  group?: string;
+  label: string;
+  sub?: string;
+  amount?: string | null;
+}
+
+export interface ResidencyShorts {
+  processing?: string;
+  residence?: string;
+  pr?: string;
+  citizenship?: string;
+  dual?: string;
+}
+
 export interface ResidencyRoute {
   id: string;
   country: string;
@@ -42,6 +57,15 @@ export interface ResidencyRoute {
   conflicts: string[];
   sources: string[];
   merit_country_page_material?: { placement: string; facts: string };
+  /* Redo layer (2026-11-15): reader-facing distillations of the
+     verified record above — every figure traceable to the route's own
+     fields; the research originals stay untouched. */
+  lede?: string;
+  basis_note?: string;
+  processing_note?: string;
+  hero_anchor?: { label: string; value: string; sub?: string };
+  shorts?: ResidencyShorts;
+  gov_fee_items?: ResidencyFeeItem[];
 }
 
 const allRoutes = (routesRaw as unknown as { routes: ResidencyRoute[] }).routes;
@@ -148,6 +172,55 @@ export const familyTotalText = (r: ResidencyRoute): string => {
     ? `${lo} – ${fmtMoney(r.government_total_family4_max, r.currency)}`
     : lo;
 };
+
+/** Redo helpers (2026-11-15). Hero tiles: tile 1 is always the minimum
+ *  threshold; tile 2 is the family-of-4 government total, or — for the
+ *  six routes where officials publish no family total — the route's
+ *  pre-verified hero_anchor (never blank, never invented). */
+export const heroTiles = (
+  r: ResidencyRoute,
+): { label: string; value: string; sub?: string }[] => {
+  const min = minThreshold(r);
+  const minNames = r.options
+    .filter((o) => o.amount === min)
+    .map((o) => o.name.split(' — ')[0].split(' (')[0]);
+  const tiles: { label: string; value: string; sub?: string }[] = [
+    {
+      label: 'Minimum investment — single',
+      value: min != null ? fmtMoney(min, r.currency) : NOT_PUBLISHED,
+      sub: minNames.length ? minNames.join(' · ') : undefined,
+    },
+  ];
+  if (r.government_total_family4 != null) {
+    tiles.push({
+      label: 'Government-side total — family of 4',
+      value: familyTotalText(r),
+      sub: 'Investment + official government fees only',
+    });
+  } else if (r.hero_anchor) {
+    tiles.push(r.hero_anchor);
+  }
+  return tiles;
+};
+
+/** Government-fee items grouped in first-appearance order. */
+export const feeGroups = (
+  r: ResidencyRoute,
+): { group: string | null; items: ResidencyFeeItem[] }[] => {
+  const out: { group: string | null; items: ResidencyFeeItem[] }[] = [];
+  for (const item of r.gov_fee_items ?? []) {
+    const g = item.group ?? null;
+    const last = out[out.length - 1];
+    if (last && last.group === g) last.items.push(item);
+    else out.push({ group: g, items: [item] });
+  }
+  return out;
+};
+
+/** One-line reader copy for processing time (hub cards); absent where
+ *  officials publish no figure — the line is then omitted, not filled. */
+export const processingShort = (r: ResidencyRoute): string | null =>
+  r.shorts?.processing ?? null;
 
 /** The nine fixed decision fields (PLAN section 1, item 2). Null fields
  *  never render an invented number: genuinely unpublished fields show

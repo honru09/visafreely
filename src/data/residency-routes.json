@@ -144,7 +144,68 @@
           "verified": "2026-11-14",
           "note": "Current list confirmed not published; 2014/2016 list on cip.gov.ag is outdated."
         }
-      }
+      },
+      "lede": "Antigua and Barbuda registers citizens directly under its Citizenship by Investment programme — no visit is needed before applying. Current prices are those of the Citizenship by Investment (Amendment) Regulations 2024.",
+      "basis_note": "Current prices under the Citizenship by Investment (Amendment) Regulations 2024.",
+      "processing_note": "The CIU publishes no processing time anywhere on cip.gov.ag (checked 14 Nov 2026: How to Apply, all option pages, Schedule of Fees). Intermediary figures of 90–120 days have no official text.",
+      "shorts": {
+        "residence": "5 days within 5 years after grant",
+        "citizenship": "Immediate",
+        "dual": "Allowed"
+      },
+      "gov_fee_items": [
+        {
+          "group": "Processing",
+          "label": "Single applicant",
+          "amount": "US$10,000"
+        },
+        {
+          "group": "Processing",
+          "label": "Family of up to 4",
+          "amount": "US$20,000"
+        },
+        {
+          "group": "Processing",
+          "label": "Each extra person",
+          "amount": "+US$10,000"
+        },
+        {
+          "group": "Due diligence",
+          "label": "Main applicant",
+          "amount": "US$8,500"
+        },
+        {
+          "group": "Due diligence",
+          "label": "Spouse",
+          "amount": "US$5,000"
+        },
+        {
+          "group": "Due diligence",
+          "label": "Child 0–11",
+          "sub": "Free",
+          "amount": null
+        },
+        {
+          "group": "Due diligence",
+          "label": "Child 12–17",
+          "amount": "US$2,000"
+        },
+        {
+          "group": "Due diligence",
+          "label": "Dependant 18–30",
+          "amount": "US$4,000"
+        },
+        {
+          "group": "Due diligence",
+          "label": "Parent 55+",
+          "amount": "US$4,000"
+        },
+        {
+          "label": "Passport fee",
+          "sub": "Per person",
+          "amount": "US$300"
+        }
+      ]
     },
     {
       "id": "dominica-cbi",
@@ -247,7 +308,65 @@
           "source": null,
           "verified": "2026-11-14"
         }
-      }
+      },
+      "lede": "Dominica grants citizenship directly in exchange for a qualifying investment — there is no residence period to serve, before or after. Since 1 July 2024 the official minimum has been US$200,000, set by the Citizenship by Investment Regulations 2024.",
+      "basis_note": "Older secondary sources may still show a US$100,000 minimum for Dominica — that was the threshold before July 2024 and no longer applies.",
+      "shorts": {
+        "processing": "About 3–6 months",
+        "residence": "None",
+        "citizenship": "Immediate",
+        "dual": "Allowed"
+      },
+      "gov_fee_items": [
+        {
+          "group": "EDF route",
+          "label": "Processing fee",
+          "sub": "Per application",
+          "amount": "US$1,000"
+        },
+        {
+          "group": "EDF route",
+          "label": "Due diligence — main applicant",
+          "amount": "US$7,500"
+        },
+        {
+          "group": "EDF route",
+          "label": "Due diligence — dependant aged 16+",
+          "amount": "US$4,000"
+        },
+        {
+          "group": "EDF route",
+          "label": "Naturalisation certificate",
+          "sub": "Per person",
+          "amount": "US$500"
+        },
+        {
+          "group": "EDF route",
+          "label": "Mandatory interview — ages 16+",
+          "sub": "Fee unit disputed — see “Where official sources disagree”",
+          "amount": "US$1,000"
+        },
+        {
+          "group": "Real-estate route — government fee on approval",
+          "label": "Single applicant",
+          "amount": "US$75,000"
+        },
+        {
+          "group": "Real-estate route — government fee on approval",
+          "label": "Main applicant + up to 3 dependants",
+          "amount": "US$100,000"
+        },
+        {
+          "group": "Real-estate route — government fee on approval",
+          "label": "Additional dependant — under 18",
+          "amount": "+US$25,000"
+        },
+        {
+          "group": "Real-estate route — government fee on approval",
+          "label": "Additional dependant — 18+",
+          "amount": "+US$40,000"
+        }
+      ]
     },
     {
       "id": "grenada-cbi",
@@ -359,7 +478,47 @@
           "verified": "2026-11-14",
           "note": "IMA Circular No. 1 of 2024 list as recorded in phase 1."
         }
-      }
+      },
+      "lede": "Grenada grants citizenship directly — on the National Transformation Fund route there is no residence stage first, and the interview is online. Current prices apply from 1 July 2024 under SRO No. 12 of 2024.",
+      "basis_note": "The administering unit was renamed CIU → IMA Grenada on 20 March 2024, and the old cbi.gov.gd site is obsolete. Prices follow SRO No. 12 of 2024 and IMA Circular No. 2 of 2024.",
+      "shorts": {
+        "processing": "Within 60 business days",
+        "residence": "None currently",
+        "citizenship": "Immediate",
+        "dual": "Allowed"
+      },
+      "gov_fee_items": [
+        {
+          "label": "Application fee",
+          "sub": "Per person",
+          "amount": "US$1,500"
+        },
+        {
+          "label": "Due diligence",
+          "sub": "Per person aged 17+",
+          "amount": "US$5,000"
+        },
+        {
+          "label": "Processing fee",
+          "sub": "Per person aged 17+",
+          "amount": "US$1,500"
+        },
+        {
+          "label": "Processing fee",
+          "sub": "Per person under 17",
+          "amount": "US$500"
+        },
+        {
+          "label": "Interview fee",
+          "sub": "Per person aged 17+",
+          "amount": "US$1,000"
+        },
+        {
+          "label": "Passport and oath fees",
+          "sub": "Not verified in official text — excluded from the totals on this page",
+          "amount": null
+        }
+      ]
     },
     {
       "id": "st-kitts-cbi",
@@ -478,7 +637,41 @@
           "verified": "2026-11-14",
           "note": "CIU announcements (Russia/Belarus suspension and published ineligible list)."
         }
-      }
+      },
+      "lede": "St Kitts and Nevis grants lifetime citizenship directly, with no travel or residency requirement. Current prices are those of the Citizenship by Investment Regulations, SRO No. 20 of 2024, gazetted on 8 July 2024.",
+      "basis_note": "An older Unit page still shows superseded SISC tiers and a US$400,000 real-estate figure; the figures on this page follow SRO No. 20 of 2024, with post-approval fees as amended by SRO No. 1 of 2026.",
+      "shorts": {
+        "processing": "120–180 days",
+        "residence": "None",
+        "citizenship": "Immediate",
+        "dual": "Allowed"
+      },
+      "gov_fee_items": [
+        {
+          "label": "Due diligence — main applicant",
+          "amount": "US$10,000"
+        },
+        {
+          "label": "Due diligence — spouse and each dependant 16+",
+          "sub": "SRO 20/2024, Reg. 24",
+          "amount": "US$7,500"
+        },
+        {
+          "label": "Application fee",
+          "sub": "Per applicant (Reg. 25)",
+          "amount": "US$250"
+        },
+        {
+          "label": "Post-approval fee",
+          "sub": "Real-estate and Public Benefit routes only — see “Where official sources disagree”",
+          "amount": null
+        },
+        {
+          "label": "Passport fee",
+          "sub": "Not published in the sources read",
+          "amount": null
+        }
+      ]
     },
     {
       "id": "st-lucia-cbi",
@@ -607,7 +800,45 @@
           "source": "https://www.cipsaintlucia.com/news-blog/russianapplications",
           "verified": "2026-11-14"
         }
-      }
+      },
+      "lede": "Saint Lucia grants lifetime citizenship directly, and the oath of allegiance can be sworn abroad — there is no need to enter Saint Lucia. Current prices are those of Statutory Instrument No. 106 of 2024, in force from 1 July 2024.",
+      "basis_note": "The CIP website's FAQ still shows pre-2024 prices (a US$100,000 National Economic Fund figure among them) that conflict with the investment page and SI 106/2024; the FAQ prices are stale and are not used here.",
+      "shorts": {
+        "processing": "About 90 days",
+        "residence": "None",
+        "citizenship": "Immediate",
+        "dual": "Allowed"
+      },
+      "gov_fee_items": [
+        {
+          "label": "Processing — main applicant",
+          "amount": "US$2,000"
+        },
+        {
+          "label": "Processing — dependant",
+          "sub": "Each",
+          "amount": "US$1,000"
+        },
+        {
+          "label": "Due diligence — main applicant",
+          "amount": "US$8,000"
+        },
+        {
+          "label": "Due diligence — dependant 16+",
+          "sub": "The FAQ's US$7,500 is the old figure",
+          "amount": "US$5,000"
+        },
+        {
+          "label": "Interview / identity-verification fee",
+          "sub": "Since 4 September 2023, main applicant only; amount not published on the investment page",
+          "amount": null
+        },
+        {
+          "label": "Passport fee",
+          "sub": "Not published",
+          "amount": null
+        }
+      ]
     },
     {
       "id": "vanuatu-dsp",
@@ -745,7 +976,26 @@
           "verified": "2026-11-14",
           "note": "Existence confirmed (PMO statement 2025-03-18); contents confirmed not published."
         }
-      }
+      },
+      "lede": "Vanuatu's Development Support Program grants citizenship directly, with no residence period to serve first. Pricing is government-stipulated under Regulations Order No. 33 of 2019, and agents must adhere to it.",
+      "basis_note": "The programme is administered by the Citizenship Office and Commission, a constitutional body. DSP pricing sits under Regulations Order No. 33 of 2019, with the VCP under Order No. 34 of 2019.",
+      "processing_note": "Official programme pages publish no end-to-end timeline (checked 14 Nov 2026). At statute level, the Citizenship Act gives the Commission a 3-month decision period for each programme, and the citizenship certificate follows within 90 days of approval.",
+      "shorts": {
+        "residence": "No prerequisite",
+        "citizenship": "Direct",
+        "dual": "Allowed"
+      },
+      "gov_fee_items": [
+        {
+          "label": "FIU due diligence fee",
+          "amount": "US$5,000"
+        },
+        {
+          "label": "Application fee (Form D)",
+          "sub": "5,000 Vatu per application",
+          "amount": "US$250"
+        }
+      ]
     },
     {
       "id": "turkiye-cbi",
@@ -875,7 +1125,57 @@
           "verified": "2026-11-14",
           "note": "Not published; case-by-case security assessment."
         }
-      }
+      },
+      "lede": "Türkiye grants citizenship by exceptional naturalisation — a presidential decision, with no physical-residence period first. An investor residence permit comes first procedurally, and the qualifying investment must be held for 3 years.",
+      "basis_note": "Thresholds sit in Implementation Regulation Art. 20(2); the real-estate threshold was set by Presidential Decree No. 5554 (Official Gazette, 13 May 2022). The increase announced for 1 May 2026 was revoked on 30 April 2026 — the 31 December 2025 gazette tariffs stand, and NVI provincial pages still showing TRY 115 / TRY 15 are stale.",
+      "processing_note": "No central official figure is published (checked 14 Nov 2026): the NVI publishes document lists only. Provincial and consular fragments conflict — 6 months to 1 year in an old service-standard table, 8–12 months for the marriage route in a consulate note — so no single figure is shown.",
+      "hero_anchor": {
+        "label": "Years to citizenship",
+        "value": "Direct",
+        "sub": "Exceptional naturalisation by presidential decision — no prior residence period"
+      },
+      "shorts": {
+        "residence": "None (permit first, procedurally)",
+        "citizenship": "Direct",
+        "dual": "Allowed"
+      },
+      "gov_fee_items": [
+        {
+          "label": "Exceptional-naturalisation service fee",
+          "sub": "Per person, including each accompanying family member (Law 5901, Art. 45; MFA consular announcement of 20 January 2026). Consulates abroad charge the USD equivalent, varying by post",
+          "amount": "TRY 135.45"
+        },
+        {
+          "label": "Naturalisation harç",
+          "sub": "No separate statutory harç applies to naturalisation itself",
+          "amount": null
+        },
+        {
+          "label": "Residence-permit card fee",
+          "sub": "Flat, all nationalities (Resmi Gazete, 24 December 2025, Communique No. 97)",
+          "amount": "TRY 964"
+        },
+        {
+          "label": "Residence harç — standard group (158 countries incl. US/UK/DE/FR)",
+          "sub": "First month; then USD 5 per month (1 year = USD 80). Communique No. 98, Resmi Gazete, 31 December 2025",
+          "amount": "USD 25"
+        },
+        {
+          "label": "Residence harç — other groups",
+          "sub": "USD 14+3.5 / 9+2.5 / 7+1.5 / 5+0.5 per month by group; several nationalities are harç-exempt (card fee still due)",
+          "amount": null
+        },
+        {
+          "label": "Residence harç — TL group (Serbia, Fiji, Norway, Northern Mariana Islands)",
+          "sub": "Month 1, per day (min TRY 653.70 · max TRY 3,359.90); afterwards TRY 2,232.30 per month",
+          "amount": "TRY 348.10/day"
+        },
+        {
+          "label": "Single-entry visa fee",
+          "sub": "Can apply on a first application after visa-free entry",
+          "amount": "TRY 9,376.40"
+        }
+      ]
     },
     {
       "id": "malta-cbi",
@@ -1089,7 +1389,27 @@
           "verified": "2026-11-14",
           "note": "No list published; case-by-case security review (phase 1)."
         }
-      }
+      },
+      "lede": "Egypt grants citizenship by direct decision of the Prime Minister, on the recommendation of the review unit — there is no long-term residence period first. The amounts in force are those of PM Decree No. 876 of 2023.",
+      "basis_note": "The official portal still hosts a pre-2023 news page with the old amounts (real estate US$500,000 among them); that page is outdated and conflicts with the decree — the decree governs.",
+      "hero_anchor": {
+        "label": "Processing — statutory framework",
+        "value": "6–12 months",
+        "sub": "Two 3-month decision caps around a 6-month completion window"
+      },
+      "shorts": {
+        "processing": "About 6–12 months (statutory stages)",
+        "residence": "None before grant",
+        "citizenship": "Direct",
+        "dual": "Allowed in effect"
+      },
+      "gov_fee_items": [
+        {
+          "label": "Application fee",
+          "sub": "Non-refundable; wired from abroad to the Central Bank",
+          "amount": "US$10,000"
+        }
+      ]
     },
     {
       "id": "jordan-cbi",
@@ -1329,7 +1649,39 @@
           "verified": "2026-11-14",
           "note": "Not published (phase 1)."
         }
-      }
+      },
+      "lede": "São Tomé and Príncipe's citizenship-by-investment programme is new (2025) and can only be initiated through a licensed Marketing Agent. A one-off contribution is enough — no physical residence or relocation is required.",
+      "basis_note": "The gazette publication and effective date of Decree-Law No. 07/2025 are not stated on the official site and remain unverified; secondary sources give 1 August 2025.",
+      "shorts": {
+        "processing": "About 2 months to approval; 3–4 months to passport",
+        "residence": "None",
+        "citizenship": "Direct",
+        "dual": "Allowed"
+      },
+      "gov_fee_items": [
+        {
+          "label": "Submission fee",
+          "sub": "Per application; includes due diligence",
+          "amount": "US$5,000"
+        },
+        {
+          "label": "Citizenship documents",
+          "sub": "Per dependent (official wording; whether the main applicant is counted is unclear)",
+          "amount": "US$750"
+        },
+        {
+          "label": "Post-approval addition — spouse",
+          "amount": "US$10,000"
+        },
+        {
+          "label": "Post-approval addition — eligible dependant",
+          "amount": "US$5,000"
+        },
+        {
+          "label": "Post-approval addition — newborn (up to 1 year)",
+          "amount": "US$500"
+        }
+      ]
     },
     {
       "id": "portugal-ari",
@@ -1453,7 +1805,38 @@
           "verified": "2026-11-14",
           "note": "No restricted-nationality list applies to ARI."
         }
-      }
+      },
+      "lede": "Portugal's ARI grants residence — not a passport — and since October 2023 no route may invest in real estate, directly or indirectly. The stay requirement is light: at least 7 days in the first year and 14 days in each following two-year period.",
+      "basis_note": "Heavily narrowed by Lei 56/2023 (Mais Habitação), in force 7 October 2023, which closed the real-estate and plain capital-transfer routes. Fees follow the AIMA table under Portaria 307/2023.",
+      "shorts": {
+        "processing": "90 days (statutory)",
+        "residence": "7 days in year 1, then 14 days per 2 years",
+        "pr": "5 years",
+        "citizenship": "10 years (7 for EU/CPLP)",
+        "dual": "Allowed"
+      },
+      "gov_fee_items": [
+        {
+          "label": "Analysis fee",
+          "sub": "Per person · digital channel €632.10",
+          "amount": "€842.80"
+        },
+        {
+          "label": "Grant fee",
+          "sub": "Per person · digital channel €6,314.20; family-reunification grants are charged at the same rate",
+          "amount": "€8,418.90"
+        },
+        {
+          "label": "Renewal fee",
+          "sub": "Per person",
+          "amount": "€4,210.30"
+        },
+        {
+          "label": "Permanent-residence grant (ARI holders)",
+          "sub": "Per person",
+          "amount": "€11,786.70"
+        }
+      ]
     },
     {
       "id": "greece-golden-visa",
@@ -1617,7 +2000,45 @@
           "verified": "2026-11-14",
           "note": "No list published (phase 1)."
         }
-      }
+      },
+      "lede": "Greece's golden visa is a permanent residence permit on a five-year renewable card — the official renewal checklist asks only that the property or lease is still held, with no residence-day evidence. Short-term rental of golden-visa property is prohibited.",
+      "basis_note": "The governing law is Migration Code Law 5038/2023 Art. 100 as amended by Law 5100/2024 Art. 64; the ministry's English page still cites the repealed Law 4251/2014 and lags the law.",
+      "hero_anchor": {
+        "label": "Government-side total — single applicant",
+        "value": "€2,016",
+        "sub": "Main-applicant electronic fee and card printing"
+      },
+      "shorts": {
+        "residence": "No residence-day test at renewal",
+        "pr": "The permit itself is PR",
+        "citizenship": "7 years",
+        "dual": "Allowed"
+      },
+      "gov_fee_items": [
+        {
+          "group": "Main applicant",
+          "label": "Electronic fee",
+          "sub": "Fee schedule Law 5038/2023, Arts. 171–172",
+          "amount": "€2,000"
+        },
+        {
+          "group": "Main applicant",
+          "label": "Card printing",
+          "amount": "€16"
+        },
+        {
+          "group": "Family members (family-reunification permits)",
+          "label": "Adult / child aged 18–21",
+          "sub": "Plus €16 card printing per person",
+          "amount": "€150"
+        },
+        {
+          "group": "Family members (family-reunification permits)",
+          "label": "Child under 18",
+          "sub": "Fee-exempt; €16 card printing still applies",
+          "amount": null
+        }
+      ]
     },
     {
       "id": "italy-investor-visa",
@@ -1731,7 +2152,56 @@
           "verified": "2026-11-14",
           "note": "No list published (phase 1)."
         }
-      }
+      },
+      "lede": "Italy's investor visa is a two-year national visa followed by a two-year residence permit, renewable for three years while the investment is maintained. There is no annual quota and no real-estate route.",
+      "basis_note": "The route is suspended for Russian and Belarusian citizens, including dual nationals holding RU/BY passports (Committee chair order of 14 July 2023, extended 20 March 2024). Thresholds are unchanged since the 2020 reduction.",
+      "hero_anchor": {
+        "label": "Nulla Osta decision",
+        "value": "30 days",
+        "sub": "Certificate of no impediment (Phase 1); the visa must then be requested within 6 months"
+      },
+      "shorts": {
+        "processing": "Nulla Osta within 30 days",
+        "residence": "No continuity obligation for the permit itself",
+        "pr": "5 years (EU long-term)",
+        "citizenship": "10 years",
+        "dual": "Allowed"
+      },
+      "gov_fee_items": [
+        {
+          "label": "National (D) visa",
+          "sub": "Per person (official consular tariff — D.Lgs. 71/2011 annex, Sez. III, art. 29)",
+          "amount": "€116"
+        },
+        {
+          "label": "Residence permit card — production",
+          "sub": "Portale Immigrazione cost table",
+          "amount": "€30.46"
+        },
+        {
+          "label": "Residence permit contribution — over 1 year, under 2 years",
+          "sub": "The tier that applies to the 2-year investor card",
+          "amount": "€50"
+        },
+        {
+          "label": "Residence permit contribution — over 3 months, under 1 year",
+          "amount": "€40"
+        },
+        {
+          "label": "Residence permit contribution — EU long-term permits and certain categories",
+          "amount": "€100"
+        },
+        {
+          "label": "Revenue stamp",
+          "sub": "Corroborated from sources quoting official pages; the Polizia guidance page could not be read directly on 14 Nov 2026, so this item is corroborated rather than directly read",
+          "amount": "€16"
+        },
+        {
+          "label": "Postal kit",
+          "sub": "Corroborated — same caveat as the revenue stamp",
+          "amount": "€30"
+        }
+      ]
     },
     {
       "id": "uae-golden-visa",
@@ -1846,7 +2316,51 @@
           "verified": "2026-11-14",
           "note": "No list published; ICP security screening (phase 1)."
         }
-      }
+      },
+      "lede": "The UAE golden visa is a ten-year, self-sponsored residence that renews automatically — and holders are not subject to the usual rule that residence lapses after 180 days abroad. It is residence only: there is no investment-based path to Emirati citizenship.",
+      "basis_note": "Non-investor categories (entrepreneurs, talents, professionals) are outside this page's scope. The fee figures are the ICP's published service fees.",
+      "hero_anchor": {
+        "label": "Government-side total — single applicant",
+        "value": "AED 247",
+        "sub": "Public-investment residency issuance, per person"
+      },
+      "shorts": {
+        "residence": "10 years, self-sponsored",
+        "pr": "None — no PR track",
+        "citizenship": "No official pathway",
+        "dual": "Renunciation required (exceptions exist)"
+      },
+      "gov_fee_items": [
+        {
+          "group": "Public-investment residency issuance",
+          "label": "Application",
+          "amount": "AED 100"
+        },
+        {
+          "group": "Public-investment residency issuance",
+          "label": "Issuance",
+          "amount": "AED 47"
+        },
+        {
+          "group": "Public-investment residency issuance",
+          "label": "Smart services",
+          "amount": "AED 100"
+        },
+        {
+          "label": "Real-estate investor entry permit",
+          "amount": "AED 300"
+        },
+        {
+          "label": "Family of 4",
+          "sub": "Per-person issuance applies; no official family bundle. The family-of-4 estimate of AED 988–1,200 is labelled an estimate in the official fee reading",
+          "amount": null
+        },
+        {
+          "label": "Health insurance",
+          "sub": "Comprehensive cover is mandatory for investor and family",
+          "amount": null
+        }
+      ]
     },
     {
       "id": "malta-mprp",
@@ -1952,7 +2466,51 @@
           "verified": "2026-11-14",
           "note": "No list published; due-diligence based."
         }
-      }
+      },
+      "lede": "Malta's MPRP is permanent residence itself — an indefinite residence certificate with the card renewed every five years, for third-country nationals only. It is distinct from citizenship law and carries no investment-citizenship route.",
+      "basis_note": "The fee structure was rebuilt by Legal Notice 146 of 2025 — unified contribution, higher admin fee, no per-person fees for a spouse or minor children — and property thresholds were reset by LN 310 of 2024 from 1 January 2025. The amounts shown are the Agency's current published figures.",
+      "shorts": {
+        "residence": "Indefinite; card every 5 years",
+        "pr": "The MPRP itself is PR",
+        "citizenship": "No investment route",
+        "dual": "Allowed"
+      },
+      "gov_fee_items": [
+        {
+          "label": "Administration fee",
+          "sub": "Non-refundable",
+          "amount": "€60,000"
+        },
+        {
+          "label": "Government contribution",
+          "sub": "Purchase and rental unified",
+          "amount": "€37,000"
+        },
+        {
+          "label": "Additional adult dependant",
+          "sub": "Excluding the spouse",
+          "amount": "€7,500"
+        },
+        {
+          "label": "NGO donation",
+          "amount": "€2,000"
+        },
+        {
+          "label": "Residence card",
+          "sub": "Per person, 5 years",
+          "amount": "€500"
+        },
+        {
+          "label": "Assets test",
+          "sub": "Capital assets of at least €500,000 (of which at least €150,000 financial), or at least €650,000 (of which at least €75,000 financial)",
+          "amount": null
+        },
+        {
+          "label": "Application channel",
+          "sub": "Applications only via a Licensed Agent",
+          "amount": null
+        }
+      ]
     },
     {
       "id": "cyprus-pr-62",
@@ -2066,7 +2624,46 @@
           "verified": "2026-11-14",
           "note": "No list published (phase 1)."
         }
-      }
+      },
+      "lede": "Cyprus's expedited procedure grants permanent residence itself — the card is renewed every ten years, but the permit lapses if the holder does not take up residence within a year of approval, or is absent for two consecutive years. Examination of a complete application takes approximately two months.",
+      "basis_note": "The criteria in force are the 4th revision, effective 2 May 2023. The full criteria are a PDF linked from the gov.cy page; the amounts rest on the criteria's official Greek text as consistently quoted verbatim.",
+      "shorts": {
+        "processing": "About 2 months",
+        "residence": "At least one entry every 2 years",
+        "pr": "The permit itself is PR",
+        "citizenship": "7 years + final 12 months",
+        "dual": "Allowed"
+      },
+      "gov_fee_items": [
+        {
+          "label": "Application fee",
+          "sub": "Per application (criteria s.7)",
+          "amount": "€500"
+        },
+        {
+          "label": "Alien Registration Certificate",
+          "sub": "Per person",
+          "amount": "€70"
+        },
+        {
+          "group": "Required secure income from abroad (criteria s.2.2)",
+          "label": "Main applicant",
+          "sub": "Per year; for Category A the income must derive from abroad and be proven by tax returns",
+          "amount": "€50,000"
+        },
+        {
+          "group": "Required secure income from abroad (criteria s.2.2)",
+          "label": "Spouse",
+          "sub": "Per year, additional",
+          "amount": "€15,000"
+        },
+        {
+          "group": "Required secure income from abroad (criteria s.2.2)",
+          "label": "Each minor child",
+          "sub": "Per year, additional — family-of-4 income threshold €85,000/year",
+          "amount": "€10,000"
+        }
+      ]
     },
     {
       "id": "hungary-guest-investor",
@@ -2169,7 +2766,44 @@
           "verified": "2026-11-14",
           "note": "No list published (phase 1)."
         }
-      }
+      },
+      "lede": "Hungary's guest investor route gives a residence permit of up to ten years, extendable once for ten more — and the official FAQ states there is no minimum-stay rule for holders. The investment must be completed within three months of entry.",
+      "basis_note": "Fund and donation routes have been open since 1 July 2024. The legislated €500,000 direct real-estate route was abolished before it ever operated — removed by Act LXXXIV of 2024 with effect from 30 December 2024 — so no property purchase ever qualified.",
+      "hero_anchor": {
+        "label": "Permit decision",
+        "value": "21 days",
+        "sub": "Guest-investor residence permit; the investment-proof window is excluded from the clock"
+      },
+      "shorts": {
+        "processing": "21 days",
+        "residence": "No minimum stay",
+        "pr": "3 years",
+        "citizenship": "8 years",
+        "dual": "Allowed"
+      },
+      "gov_fee_items": [
+        {
+          "label": "Guest investor visa",
+          "amount": "€110"
+        },
+        {
+          "label": "Residence permit via Enter Hungary",
+          "amount": "HUF 26,000"
+        },
+        {
+          "label": "Residence permit — in person",
+          "amount": "HUF 39,000"
+        },
+        {
+          "label": "Extension",
+          "amount": "HUF 26,000"
+        },
+        {
+          "label": "Family-reunification permit fees for dependants",
+          "sub": "Not itemised for this category on the fee page read",
+          "amount": null
+        }
+      ]
     },
     {
       "id": "spain-golden-visa",
