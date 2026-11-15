@@ -645,6 +645,12 @@ const breadcrumbLd = {
         var clearBtn = document.getElementById('cmp-clear-' + prefix);
         var active = -1;
         var currentList = [];
+        /* WALK-20261115-02: the "selected name is a label" shortcut below
+           may only apply until the user actually types. Once an input
+           event fires, the text is a query even when it equals the
+           selected country's name — typing 中国 into a box that already
+           holds CN must filter, not dump the full 199-country list. */
+        var typed = false;
         /* Selector-fix (2026-11-14): on open, select the shown name so typing
            replaces it; the × clears the text and opens the full list without
            changing the compared passport until a new one is chosen. */
@@ -678,6 +684,7 @@ const breadcrumbLd = {
           input.setAttribute('aria-expanded', 'false');
           input.removeAttribute('aria-activedescendant');
           active = -1;
+          typed = false;
           // Free text that was never chosen snaps back to the current selection.
           if (input.value !== M.names[get()]) input.value = M.names[get()];
           syncClear();
@@ -685,7 +692,7 @@ const breadcrumbLd = {
         function renderList() {
           var q = input.value.trim().toLowerCase();
           // An untouched selected name is a label, not a query: show the full list.
-          if (q === M.names[get()].toLowerCase()) q = '';
+          if (!typed && q === M.names[get()].toLowerCase()) q = '';
           var starts = [], contains = [];
           var qn = normQ(q);
           for (var i = 0; i < ALL.length; i++) {
@@ -723,11 +730,11 @@ const breadcrumbLd = {
           close();
           render();
         }
-        input.addEventListener('input', function () { flagEl.textContent = ''; input.classList.remove('has-flag'); renderList(); syncClear(); });
-        input.addEventListener('focus', function () { combos.forEach(function (cb) { if (cb !== api) cb.close(); }); renderList(); maybeSelectAll(); });
+        input.addEventListener('input', function () { typed = true; flagEl.textContent = ''; input.classList.remove('has-flag'); renderList(); syncClear(); });
+        input.addEventListener('focus', function () { typed = false; combos.forEach(function (cb) { if (cb !== api) cb.close(); }); renderList(); maybeSelectAll(); });
         // Choosing an option leaves focus in the field with the list closed;
         // a fresh tap on the still-focused field must reopen it (no new focus event fires).
-        input.addEventListener('click', function () { if (!wrap.classList.contains('open')) { renderList(); maybeSelectAll(); } });
+        input.addEventListener('click', function () { if (!wrap.classList.contains('open')) { typed = false; renderList(); maybeSelectAll(); } });
         /* BUG-001 hold: a touch-scroll of the list must never let the blur timer close it mid-gesture. */
         var holdUntil = 0;
         function hold() { holdUntil = Date.now() + 800; }

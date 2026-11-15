@@ -131,7 +131,7 @@ const breadcrumbLd = {
             <td class="num">{r.arrival}</td>
             <td class="num">{r.eta}</td>
             <td class="num"><strong>{r.easy}</strong></td>
-            <td class="num">{r.verified} / {destCount}</td>
+            <td class="num">{r.verified}<span class="rank-ver-den"> / {destCount}</span></td>
           </tr>
         ))}
       </tbody>
@@ -222,4 +222,21 @@ const breadcrumbLd = {
     font-size: 15px; text-decoration: none;
   }
   .rank-data-btns a:last-child { background: var(--surface); color: var(--brand-ink); border: 1.5px solid var(--line); }
+  /* WALK-20261115-01: on phones the fully-nowrap table ran 842px wide in a
+     358px container, pushing every count column off-screen behind a
+     horizontal scroll. Let the passport cell (name + route chips) wrap,
+     tighten cell padding, wrap the headers, and drop the constant
+     "/ N destinations" denominator — the verified count itself stays.
+     Desktop rendering is untouched (all rules inside the media query,
+     apart from the inline .rank-ver-den span, which is only hidden here). */
+  @media (max-width: 720px) {
+    .rank-table { font-size: 13px; }
+    .rank-table th, .rank-table td { padding: 0.45rem 0.24rem; }
+    .rank-table td a { margin: -0.45rem -0.24rem; padding: 0.45rem 0.24rem; }
+    .rank-table th { white-space: normal; letter-spacing: 0; font-size: 10.5px; }
+    .rank-table td:nth-child(2) { white-space: normal; }
+    .rank-table td:nth-child(2) > a { overflow-wrap: anywhere; }
+    .rank-chips { white-space: normal; overflow: visible; max-width: none; }
+    .rank-ver-den { display: none; }
+  }
 </style>

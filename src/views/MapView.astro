@@ -373,17 +373,23 @@ const breadcrumbLd = {
       /* ---------- passport combobox (same pattern as the route checker) ---------- */
       var active = -1;
       var currentList = [];
+      /* WALK-20261115-02: same typed-flag rule as the compare pickers —
+         the "selected name is a label" shortcut applies only until the
+         user actually types; after that the text is a query even when it
+         equals the selected country's name. */
+      var typed = false;
       function close() {
         wrap.classList.remove('open');
         input.setAttribute('aria-expanded', 'false');
         input.removeAttribute('aria-activedescendant');
         active = -1;
+        typed = false;
       }
       function render() {
         var q = input.value.trim().toLowerCase();
-        var qn = normQ(q);
         // An untouched selected name is a label, not a query: show the full list.
-        if (q === M.names[current].toLowerCase()) q = '';
+        if (!typed && q === M.names[current].toLowerCase()) q = '';
+        var qn = normQ(q);
         var starts = [], contains = [];
         for (var i = 0; i < ALL.length; i++) {
           var n = ALL[i].name.toLowerCase();
@@ -450,11 +456,11 @@ const breadcrumbLd = {
       }
       clearBtn.addEventListener('pointerdown', function (ev) { ev.preventDefault(); doClear(); });
       clearBtn.addEventListener('click', function (ev) { ev.preventDefault(); if (input.value) doClear(); });
-      input.addEventListener('input', function () { flagEl.textContent = ''; input.classList.remove('has-flag'); render(); syncClear(); });
-      input.addEventListener('focus', function () { render(); maybeSelectAll(); });
+      input.addEventListener('input', function () { typed = true; flagEl.textContent = ''; input.classList.remove('has-flag'); render(); syncClear(); });
+      input.addEventListener('focus', function () { typed = false; render(); maybeSelectAll(); });
       // After a choice the field keeps focus with the list closed; a fresh tap
       // must reopen it (no new focus event fires) — and re-select the name.
-      input.addEventListener('click', function () { if (!wrap.classList.contains('open')) { render(); maybeSelectAll(); } });
+      input.addEventListener('click', function () { if (!wrap.classList.contains('open')) { typed = false; render(); maybeSelectAll(); } });
       /* BUG-001 hold: a touch-scroll of the list must never let the blur timer close it mid-gesture. */
       var holdUntil = 0;
       function hold() { holdUntil = Date.now() + 800; }
