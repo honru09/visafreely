@@ -9,7 +9,8 @@
  *                                    official source, with the source
  *  - dataset.json                    manifest (counts, dates, licence)
  *
- * Licence: CC BY 4.0 — free to reuse with attribution. The live pages
+ * Licence: CC BY-NC 4.0 — free to reuse for non-commercial purposes,
+ * with attribution. The live pages
  * are always the freshest version; the manifest says so and carries
  * the data's own latest verification date.
  */
@@ -68,8 +69,8 @@ const manifest = {
   latest_verified_date: latestVerified,
   pairs_total: rows.length,
   pairs_verified: verifiedCount,
-  licence: 'CC BY 4.0 — free to reuse with attribution to visafreely.com',
-  licence_url: 'https://creativecommons.org/licenses/by/4.0/',
+  licence: 'CC BY-NC 4.0 — free to reuse for non-commercial purposes, with attribution to visafreely.com',
+  licence_url: 'https://creativecommons.org/licenses/by-nc/4.0/',
   note: 'Generated from the same data layer as visafreely.com on every deploy. The live pair pages are always the freshest version — cite the page, not just this file.',
   files: [
     { path: 'visa-requirements.csv', rows: rows.length, bytes: Buffer.byteLength(allCsv) },

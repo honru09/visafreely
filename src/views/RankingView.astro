@@ -71,7 +71,7 @@ const datasetLd = {
   name: `Visa requirements for ${totalRoutesFmt} passport–destination pairs`,
   description: T('rank_data_p'),
   url: `${absUrl('/passport-ranking/')}#dataset`,
-  license: 'https://creativecommons.org/licenses/by/4.0/',
+  license: 'https://creativecommons.org/licenses/by-nc/4.0/',
   creator: { '@type': 'Organization', name: 'VisaFreely', url: 'https://visafreely.com/' },
   dateModified: latestVerified,
   distribution: [
@@ -162,8 +162,8 @@ const breadcrumbLd = {
   <h2 id="dataset">{T('rank_data_h2')}</h2>
   <p>{T('rank_data_p')}</p>
   <p class="rank-data-btns">
-    <a href="/data/visa-requirements.csv" download>{T('rank_data_all_btn', { routes: totalRoutesFmt })}</a>
-    <a href="/data/visa-requirements-verified.csv" download>{T('rank_data_verified_btn')}</a>
+    <a class="dl-btn" href="/data/visa-requirements.csv" download>{T('rank_data_all_btn', { routes: totalRoutesFmt })}</a>
+    <a class="dl-btn" href="/data/visa-requirements-verified.csv" download>{T('rank_data_verified_btn')}</a>
   </p>
   <p class="muted small">{T('rank_data_license', { date: latestVerified })}</p>
 

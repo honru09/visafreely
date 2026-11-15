@@ -260,7 +260,7 @@
   "home_biz_sub": "The checker and the data behind it are free to reuse — that is deliberate. Every embed and reuse carries the verification dates with it.",
   "home_widget_meta": "A free visa-requirements widget for your own pages — one iframe, kept current by us.",
   "home_dataset_name": "Use the open dataset",
-  "home_dataset_meta": "All 39,402 routes as CSV, generated from this site's own data on every deploy — CC BY 4.0.",
+  "home_dataset_meta": "All 39,402 routes as CSV, generated from this site's own data on every deploy — CC BY-NC 4.0.",
   "home_error_h2": "Spot an error?",
   "home_error_p": "If a page here disagrees with an official source, that is exactly the feedback the changelog runs on — every confirmed discrepancy becomes a published correction with its source attached.",
   "home_error_btn1": "See the corrections",
@@ -330,7 +330,7 @@
   "rank_data_p": "The same data that powers this page, as a spreadsheet: every route with its status, maximum stay, and — for verified routes — the official source and the date it was checked. Regenerated from the live data on every deploy.",
   "rank_data_all_btn": "All {routes} routes (CSV)",
   "rank_data_verified_btn": "Verified routes only (CSV)",
-  "rank_data_license": "Licence: CC BY 4.0 — free to reuse, including commercially, with attribution to visafreely.com. Data as of {date}. The live pages are always fresher than any file: cite the page, not just the dataset.",
+  "rank_data_license": "Licence: CC BY-NC 4.0 — free to reuse for non-commercial purposes, with attribution to visafreely.com. Data as of {date}. The live pages are always fresher than any file: cite the page, not just the dataset.",
   "rank_how_a": "For each passport we count, across all {dests} destinations: ",
   "rank_how_s1": "visa free",
   "rank_how_b": " (no visa of any kind for a short stay), ",
@@ -767,7 +767,7 @@
   "pv_cr1_h3": "Site content",
   "pv_cr1_p": "The text, structure and compilation of this website are © VisaFreely / WANG XINGRUN. You may not copy or republish the site's content without permission, fair quotation excepted. Republication with permission must credit VisaFreely and link back to this site.",
   "pv_cr2_h3": "The visa dataset",
-  "pv_cr2_p": "The visa-requirements dataset is a compilation work, and its copyright belongs to this site. The openly downloadable dataset is offered under CC BY 4.0 — attribution and a link back to this site are conditions of use, and scraping or republishing it without that attribution infringes the licence. Data displays on this site that are not part of the open dataset are all rights reserved.",
+  "pv_cr2_p": "The visa-requirements dataset is a compilation work, and its copyright belongs to this site. The openly downloadable dataset is offered under CC BY-NC 4.0 — free to reuse for non-commercial purposes; attribution and a link back to this site are conditions of use, and scraping or republishing it without that attribution infringes the licence. Data displays on this site that are not part of the open dataset are all rights reserved.",
   "pv_cr3_h3": "Source code",
   "pv_cr3_p": "The site's source-code repository (on GitHub) is proprietary code, © VisaFreely / WANG XINGRUN. The code being visible does not grant any licence to use, copy or redistribute it."
 }
