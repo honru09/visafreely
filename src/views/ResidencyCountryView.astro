@@ -126,10 +126,20 @@ const hostOf = (u: string) => {
 
 <style>
   .res-body { padding-top: 10px; padding-bottom: 30px; }
+  /* KB-11 (2026-11-15): editorial prose layer — 68ch measure, 1.65
+     line, hairline chapter rules (first heading exempt). Badges are
+     quieter: the open badge joins the brand-green family at a lighter
+     weight; the closed badge keeps its red — archive recognition is
+     a hard rule of this vertical, not decoration. Same prose block
+     in all three residency views. */
+  .res-body > p { max-width: 68ch; line-height: 1.65; }
+  .res-body > h2 { margin-top: 36px; padding-top: 20px; border-top: 1px solid var(--line); }
+  .res-body > h2:first-child { margin-top: 10px; padding-top: 0; border-top: none; }
+  .res-sources { max-width: 68ch; }
   .res-cards { display: grid; gap: 8px; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); margin: 10px 0 18px; }
   .res-card { display: flex; flex-direction: column; gap: 6px; padding: 12px 14px; background: var(--card); border: 1px solid var(--line); border-radius: 14px; color: var(--ink); text-decoration: none; }
   .res-badge { align-self: flex-start; font-weight: 700; font-size: 12.5px; padding: 3px 10px; border-radius: 999px; }
-  .res-badge.open { background: #e3f4ea; color: #14663a; border: 1px solid #a9d8bd; }
+  .res-badge.open { background: #eef7f2; color: var(--brand-deep); border: 1px solid #bfe3d0; font-weight: 600; }
   .res-badge.closed { background: #fbe7e7; color: #9c1c1c; border: 1px solid #f0b4b4; }
   .res-sources { font-size: 14px; }
   .res-sources li { overflow-wrap: anywhere; }

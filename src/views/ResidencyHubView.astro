@@ -119,6 +119,14 @@ const breadcrumbLd = {
 
 <style>
   .res-body { padding-top: 10px; padding-bottom: 30px; }
+  /* KB-11 (2026-11-15): editorial prose layer — long-form paragraphs
+     take a 68ch measure at a looser 1.65 line, chapters are separated
+     by a hairline rule (the first heading sits at the top, no rule).
+     Tables keep the KB-14 data-face measure; badges/cards untouched
+     in this view. Same block in all three residency views. */
+  .res-body > p { max-width: 68ch; line-height: 1.65; }
+  .res-body > h2 { margin-top: 36px; padding-top: 20px; border-top: 1px solid var(--line); }
+  .res-body > h2:first-child { margin-top: 10px; padding-top: 0; border-top: none; }
   .res-table-wrap { overflow-x: auto; margin: 8px 0 14px; }
   .res-table { width: 100%; border-collapse: collapse; min-width: 520px; }
   /* KB-14 (2026-11-15): same shared data-face measure as the route

@@ -285,11 +285,22 @@ const hostOf = (u: string) => {
 <style>
   .res-badges { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
   .res-badge { font-weight: 700; font-size: 13px; padding: 4px 12px; border-radius: 999px; }
-  .res-badge.open { background: #e3f4ea; color: #14663a; border: 1px solid #a9d8bd; }
+  .res-badge.open { background: #eef7f2; color: var(--brand-deep); border: 1px solid #bfe3d0; font-weight: 600; }
   .res-badge.closed { background: #fbe7e7; color: #9c1c1c; border: 1px solid #f0b4b4; font-size: 15px; padding: 6px 14px; }
-  .res-stamp { color: var(--muted); font-size: 13.5px; }
+  .res-stamp { color: var(--muted); font-size: 13px; }
   .res-body { padding-top: 10px; padding-bottom: 30px; }
-  .res-note { max-width: 75ch; }
+  /* KB-11 (2026-11-15): editorial prose layer — 68ch measure, 1.65
+     line, hairline chapter rules (first heading exempt); the status
+     note joins the same measure (was 75ch). The open badge is quieter
+     (brand-green family, lighter weight) and the verified stamp steps
+     down a size; the closed badge and the closed box keep their red —
+     archive recognition is a hard rule of this vertical. Tables keep
+     the KB-14 data-face measure. Same prose block in all three
+     residency views. */
+  .res-body > p { max-width: 68ch; line-height: 1.65; }
+  .res-body > h2 { margin-top: 36px; padding-top: 20px; border-top: 1px solid var(--line); }
+  .res-body > h2:first-child { margin-top: 10px; padding-top: 0; border-top: none; }
+  .res-note { max-width: 68ch; }
   .res-closed-box { border: 2px solid #d64545; background: #fdf1f1; border-radius: 16px; padding: 16px 20px; margin: 14px 0; }
   .res-closed-box h2 { margin-top: 0; color: #9c1c1c; }
   .res-table-wrap { overflow-x: auto; margin: 8px 0 14px; }
@@ -305,6 +316,7 @@ const hostOf = (u: string) => {
   .res-table td { font-variant-numeric: tabular-nums; }
   .res-table th[scope='row'] { width: 34%; color: var(--muted); font-weight: 600; }
   .res-amt { font-weight: 700; white-space: nowrap; }
+  .res-docs, .res-sources { max-width: 68ch; }
   .res-docs li { margin: 4px 0; }
   .res-conflict { border-left: 4px solid #e0a800; background: #fdf6e0; padding: 10px 14px; border-radius: 0 12px 12px 0; max-width: 85ch; }
   .res-sources { font-size: 14px; }
