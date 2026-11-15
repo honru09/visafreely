@@ -110,6 +110,18 @@ const groups = [
     width: 268px; margin: 0; padding: 10px 8px 6px;
     background: #fff; border: 1px solid var(--line); border-radius: 14px;
     box-shadow: var(--sh-lg);
+    transform-origin: top right;
+  }
+  /* KB-17 (2026-11-15): the panel grows out of its trigger — spring
+     curve, slight scale/translate, transform/opacity only, at the
+     --dur-2 anchor step (token ladder: KB-16). Closing stays instant
+     (the hidden attribute). Under prefers-reduced-motion the global
+     rule in Base.astro collapses this animation to .01ms, so the
+     panel simply appears. */
+  .more-panel:not([hidden]) { animation: morePanelIn var(--dur-2) var(--spring); }
+  @keyframes morePanelIn {
+    from { opacity: 0; transform: translateY(-5px) scale(.97); }
+    to { opacity: 1; transform: translateY(0) scale(1); }
   }
   .more-group { margin: 0 0 6px; }
   .more-h {

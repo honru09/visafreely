@@ -129,6 +129,16 @@ const launched = LOCALES.filter((l) => l.launched).map((l) => l.code);
     list-style: none; margin: 0; padding: 6px; min-width: 176px;
     background: #fff; border: 1px solid var(--line); border-radius: 14px;
     box-shadow: var(--sh-lg);
+    transform-origin: top right;
+  }
+  /* KB-17 (2026-11-15): same shell entrance as the More panel —
+     grows from the globe button on the --spring curve at --dur-2,
+     transform/opacity only; closing stays instant. The global
+     reduced-motion rule in Base.astro collapses it to .01ms. */
+  .lang-menu:not([hidden]) { animation: langMenuIn var(--dur-2) var(--spring); }
+  @keyframes langMenuIn {
+    from { opacity: 0; transform: translateY(-5px) scale(.97); }
+    to { opacity: 1; transform: translateY(0) scale(1); }
   }
   .lang-menu li { margin: 0; }
   .lang-item {
