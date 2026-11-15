@@ -1510,8 +1510,8 @@
         "https://invest.jo/en/node/123",
         "https://invest.jo/sites/default/files/2026-04/2025-Report-EN-V4.pdf"
       ],
-      "v1_status": "out-of-v1",
-      "v1_note": "Excluded from v1 by user adjudication (2026-11-14). All phase-1 verified data retained; the two open phase-1 gaps (official basis of the 2025 revision; official processing time) are archived with the route - deferred by adjudication, not failed.",
+      "v1_status": "published-2026-11-16",
+      "v1_note": "Excluded from v1 by user adjudication (2026-11-14). All phase-1 verified data retained; the two open phase-1 gaps (official basis of the 2025 revision; official processing time) are archived with the route - deferred by adjudication, not failed. Published on 2026-11-16 under the user's direct authorisation (WALK-20261116-01 fix), superseding the v1 exclusion; the two gaps remain unpublished fields, shown as not officially published.",
       "field_sources": {
         "status": {
           "source": null,
@@ -1551,6 +1551,18 @@
           "verified": "2026-11-14",
           "note": "Not published (phase 1)."
         }
+      },
+      "lede": "Jordan grants citizenship for productive investment — an operating business that employs Jordanians, not a passive donation. Real estate alone leads only to five-year renewable residence, never to citizenship; officials count 681 investors granted citizenship since 2018.",
+      "basis_note": "The criteria are set by the Council of Ministers (2018, as amended, including the 2025 round) and administered through the Ministry of Investment / Invest Jordan. Compliance is not a one-off check: the investment and the Jordanian jobs must be maintained, verified against Social Security Corporation records, and citizenship is revoked where they are not.",
+      "processing_note": "Invest Jordan publishes no official processing time (checked 14 Nov 2026), so no figure is shown.",
+      "hero_anchor": {
+        "label": "Investors granted citizenship",
+        "value": "681",
+        "sub": "Official count since 2018 (Invest Jordan)"
+      },
+      "shorts": {
+        "residence": "None in person",
+        "citizenship": "Direct, or 3 yrs via temporary passport"
       }
     },
     {

@@ -76,7 +76,9 @@ export const RESIDENCY_VERIFIED_DATE = (
 /** Published set (PLAN section 5): batch 1 (DM/KN/ST + Spain archive)
  *  and batch 2 (GD/LC/VU/EG + AG/TR partial CBI; PT/GR/IT/CY/HU/AE RBI;
  *  Malta MPRP + Malta CBI archive page per PLAN section 3 and the
- *  dataset's archive_note adjudication). */
+ *  dataset's archive_note adjudication). Jordan joined on 2026-11-16
+ *  (WALK-20261116-01 fix): the user authorised publishing it directly,
+ *  superseding the 2026-11-14 v1 exclusion recorded in the dataset. */
 export const PUBLISHED_ROUTE_IDS = [
   'dominica-cbi',
   'st-kitts-cbi',
@@ -86,6 +88,7 @@ export const PUBLISHED_ROUTE_IDS = [
   'st-lucia-cbi',
   'vanuatu-dsp',
   'egypt-cbi',
+  'jordan-cbi',
   'antigua-cbi',
   'turkiye-cbi',
   'portugal-ari',
@@ -128,6 +131,7 @@ const ROUTE_SLUG: Record<string, string> = {
   'st-lucia-cbi': 'citizenship-by-investment',
   'vanuatu-dsp': 'citizenship-by-investment',
   'egypt-cbi': 'citizenship-by-investment',
+  'jordan-cbi': 'citizenship-by-investment',
   'antigua-cbi': 'citizenship-by-investment',
   'turkiye-cbi': 'citizenship-by-investment',
   'portugal-ari': 'golden-visa',
