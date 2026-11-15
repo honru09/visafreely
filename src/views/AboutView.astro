@@ -41,6 +41,7 @@ const breadcrumbLd = {
 ---
 
 <Base title={T('ab_title')} description={T('ab_desc')} locale={locale}>
+ <div class="about-body">
   <h1>{T('ab_h1')}</h1>
   <p class="lede">
     {T('ab_lede')}
@@ -93,31 +94,39 @@ const breadcrumbLd = {
   </p>
 
   <h2>{T('ab_how_h2')}</h2>
-  <div class="how-grid cols-2">
-    <div class="how-card">
-      <span class="num">1</span>
-      <h3>{T('ab_how1_t')}</h3>
-      <p>{T('ab_how1_d')}</p>
-    </div>
-    <div class="how-card">
-      <span class="num">2</span>
-      <h3>{T('ab_how2_t')}</h3>
-      <p>{T('ab_how2_d')}</p>
-    </div>
-    <div class="how-card">
-      <span class="num">3</span>
-      <h3>{T('ab_how3_t')}</h3>
-      <p>{T('ab_how3_d')}</p>
-    </div>
-    <div class="how-card">
-      <span class="num">4</span>
-      <h3>{T('ab_how4_t')}</h3>
-      <p>{T('ab_how4_a')}<a href="/changelog/">{T('ab_how4_link')}</a>{T('ab_how4_b')}</p>
-    </div>
-  </div>
+  <ol class="how-list">
+    <li class="how-step">
+      <span class="how-num" aria-hidden="true">1</span>
+      <div>
+        <h3>{T('ab_how1_t')}</h3>
+        <p>{T('ab_how1_d')}</p>
+      </div>
+    </li>
+    <li class="how-step">
+      <span class="how-num" aria-hidden="true">2</span>
+      <div>
+        <h3>{T('ab_how2_t')}</h3>
+        <p>{T('ab_how2_d')}</p>
+      </div>
+    </li>
+    <li class="how-step">
+      <span class="how-num" aria-hidden="true">3</span>
+      <div>
+        <h3>{T('ab_how3_t')}</h3>
+        <p>{T('ab_how3_d')}</p>
+      </div>
+    </li>
+    <li class="how-step">
+      <span class="how-num" aria-hidden="true">4</span>
+      <div>
+        <h3>{T('ab_how4_t')}</h3>
+        <p>{T('ab_how4_a')}<a href="/changelog/">{T('ab_how4_link')}</a>{T('ab_how4_b')}</p>
+      </div>
+    </li>
+  </ol>
 
   <h2>{T('ab_base_h2')}</h2>
-  <div class="card">
+  <div class="plain-sec">
     <p style="margin-top:0;">
       {T('ab_base_a')}<strong>passport-index dataset</strong>{T('ab_base_b', { pairs: data.pairCount.toLocaleString('en-US') })}
     </p>
@@ -127,7 +136,7 @@ const breadcrumbLd = {
   </div>
 
   <h2>{T('ab_layer_h2')}</h2>
-  <div class="card">
+  <div class="plain-sec">
     <p style="margin-top:0;">
       {T('ab_layer_a')}<strong>{T('ab_layer_strong')}</strong>{T('ab_layer_b', { verified: verifiedFmt })}
     </p>
@@ -151,5 +160,29 @@ const breadcrumbLd = {
     {T('ab_widget_a')}<a href={href('/widget/')}>{T('ab_widget_link')}</a>{T('ab_widget_b')}
   </p>
   <ExploreStrip locale={locale} items={[{ key: 'explore_check', href: href('/#checker') }, { key: 'feat_map', href: href('/map/') }, { key: 'feat_compare', href: href('/compare/') }]} />
+ </div>
   <script type="application/ld+json" set:html={JSON.stringify(breadcrumbLd)} />
 </Base>
+
+<style>
+  /* KB-09 (2026-11-15): the methodology page reads as an editorial
+     document, not a card stack — single column at the site's narrow
+     measure, generous prose rhythm, the verification flow as numbered
+     sections divided by hairlines. Copy and data are untouched; the
+     only accent is the brand green (links + step numerals). The seal
+     blocks stay as they are (registered trust component, KB-04 #8);
+     HomeView keeps the global .how-card tiles — nothing here touches
+     the global classes. */
+  .about-body { max-width: 760px; }
+  .about-body .lede { max-width: 60ch; }
+  .how-list { list-style: none; margin: 2px 0 0; padding: 0; }
+  .how-step { display: flex; gap: 16px; padding: 18px 0; border-top: 1px solid var(--line); }
+  .how-step:first-child { border-top: none; padding-top: 4px; }
+  .how-num {
+    flex: none; min-width: 26px; font-size: 21px; font-weight: 800;
+    line-height: 1.25; color: var(--brand); font-variant-numeric: tabular-nums;
+  }
+  .how-step h3 { margin: 0 0 6px; }
+  .how-step p { margin: 0; }
+  .plain-sec { margin: 0; }
+</style>
