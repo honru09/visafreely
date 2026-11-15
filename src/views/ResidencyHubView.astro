@@ -121,7 +121,11 @@ const breadcrumbLd = {
   .res-body { padding-top: 10px; padding-bottom: 30px; }
   .res-table-wrap { overflow-x: auto; margin: 8px 0 14px; }
   .res-table { width: 100%; border-collapse: collapse; min-width: 520px; }
-  .res-table th, .res-table td { text-align: left; padding: 7px 10px; border-bottom: 1px solid var(--line); vertical-align: top; }
+  /* KB-14 (2026-11-15): same shared data-face measure as the route
+     view's tables — pinned 1.5 line and tabular numerals in value
+     cells (see ResidencyRouteView for the full note). */
+  .res-table th, .res-table td { text-align: left; padding: 7px 10px; border-bottom: 1px solid var(--line); vertical-align: top; line-height: 1.5; }
+  .res-table td { font-variant-numeric: tabular-nums; }
   .res-amt { font-weight: 700; white-space: nowrap; }
   .res-cards { display: grid; gap: 8px; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); margin: 8px 0 12px; }
   .res-card { display: flex; flex-direction: column; gap: 6px; padding: 12px 14px; background: var(--card); border: 1px solid var(--line); border-radius: 14px; color: var(--ink); text-decoration: none; }

@@ -296,7 +296,13 @@ const hostOf = (u: string) => {
   .res-table { width: 100%; border-collapse: collapse; }
   .res-table-wide { min-width: 520px; }
   .res-sources li { overflow-wrap: anywhere; }
-  .res-table th, .res-table td { text-align: left; padding: 7px 10px; border-bottom: 1px solid var(--line); vertical-align: top; }
+  /* KB-14 (2026-11-15): the residency tables take the shared data-face
+     measure — 7px 10px cells (already the case), a pinned 1.5 line and
+     tabular numerals in value cells, so figures line up the way the
+     ranking table's .num columns do. The pair-page spec card joins the
+     same measure in P2 (KB-14 second half). */
+  .res-table th, .res-table td { text-align: left; padding: 7px 10px; border-bottom: 1px solid var(--line); vertical-align: top; line-height: 1.5; }
+  .res-table td { font-variant-numeric: tabular-nums; }
   .res-table th[scope='row'] { width: 34%; color: var(--muted); font-weight: 600; }
   .res-amt { font-weight: 700; white-space: nowrap; }
   .res-docs li { margin: 4px 0; }
