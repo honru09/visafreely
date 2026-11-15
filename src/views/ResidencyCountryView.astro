@@ -1,7 +1,8 @@
 ---
-// Residency country page (batch 1, 2026-11-14): thin aggregation per
-// PLAN section 1 — passport travel block + route cards + official
-// sources. All figures come from the data layer at build time.
+// Residency country page (batch 1, 2026-11-14; redo 2026-11-15): thin
+// aggregation per PLAN section 1 — route cards in the shared hub
+// grammar + passport travel block + official sources. All figures
+// come from the data layer at build time.
 import Base from '../layouts/Base.astro';
 import {
   countryByCode,
@@ -15,10 +16,12 @@ import {
   fmtMoney,
   MALTA_MERIT_FACTS,
   minThreshold,
+  processingShort,
   residencyDisclaimer,
   routePath,
   routesForCountry,
   RESIDENCY_VERIFIED_DATE,
+  type ResidencyRoute,
 } from '../lib/residency';
 
 interface Props {
@@ -29,6 +32,12 @@ const routes = routesForCountry(c.code);
 const easy = easyAccessCount(c.code);
 const verifiedLong = formatDateLong(RESIDENCY_VERIFIED_DATE);
 const sources = [...new Set(routes.flatMap((r) => r.sources))];
+const typeLabel = (r: ResidencyRoute) =>
+  r.status === 'closed' && r.type !== 'cbi'
+    ? 'Golden visa'
+    : r.type === 'cbi'
+      ? 'Citizenship by investment'
+      : 'Residence by investment';
 const title = `${c.name} residency & citizenship routes | VisaFreely`;
 const description = `Residency and citizenship routes for ${c.name}, checked against official sources on ${verifiedLong}: thresholds, government fees and status — including closed programmes, marked as closed.`;
 const absUrl = (p: string) => new URL(p, Astro.site).href;
@@ -64,21 +73,42 @@ const hostOf = (u: string) => {
 
   <div class="band-in res-body">
     <h2>Routes</h2>
-    <div class="res-cards">
+    <div class="res-rcards">
       {
         routes.map((r) => (
-          <a class="res-card" href={routePath(r)}>
-            <span>
-              <strong>{r.programme}</strong>
+          <a class={`rcard${r.status === 'closed' ? ' closed' : ''}`} href={routePath(r)}>
+            <span class="rc-line1">
+              <span class="rc-prog-name">{r.programme}</span>
+              {r.status === 'closed' ? (
+                <span class="rc-closed-word">
+                  Closed{r.status_date ? ` — ${formatDateLong(r.status_date)}` : ''}
+                </span>
+              ) : (
+                <span class="rc-min">
+                  <span class="rc-min-label">Minimum (single)</span>
+                  <span class="rc-amt">{fmtMoney(minThreshold(r) ?? 0, r.currency)}</span>
+                </span>
+              )}
             </span>
-            <span class="muted">
-              {r.status === 'closed'
-                ? r.status_date
-                  ? `Closed ${formatDateLong(r.status_date)} — archive page`
-                  : 'Closed — archive page'
-                : `From ${fmtMoney(minThreshold(r) ?? 0, r.currency)} · family of 4 ${familyTotalText(r)}${r.processing_time ? ` · ${r.processing_time}` : ''}`}
+            <span class="rc-line2">
+              <span class={`res-badge ${r.status}`}>{r.status === 'closed' ? 'Closed' : 'Open'}</span>
+              <span class="rc-prog">{typeLabel(r)}</span>
             </span>
-            <span class={`res-badge ${r.status}`}>{r.status === 'closed' ? 'Closed' : 'Open'}</span>
+            {r.status === 'closed' ? (
+              <span class="rc-fam">Archive page — this programme no longer accepts applications</span>
+            ) : (
+              <>
+                <span class="rc-fam">
+                  Family of 4 — government total{' '}
+                  <strong>
+                    {r.government_total_family4 != null
+                      ? familyTotalText(r)
+                      : 'not officially published'}
+                  </strong>
+                </span>
+                {processingShort(r) && <span class="rc-proc">{processingShort(r)}</span>}
+              </>
+            )}
           </a>
         ))
       }
@@ -136,8 +166,27 @@ const hostOf = (u: string) => {
   .res-body > h2 { margin-top: 36px; padding-top: 20px; border-top: 1px solid var(--line); }
   .res-body > h2:first-child { margin-top: 10px; padding-top: 0; border-top: none; }
   .res-sources { max-width: 68ch; }
-  .res-cards { display: grid; gap: 8px; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); margin: 10px 0 18px; }
-  .res-card { display: flex; flex-direction: column; gap: 6px; padding: 12px 14px; background: var(--card); border: 1px solid var(--line); border-radius: 14px; color: var(--ink); text-decoration: none; }
+  /* Redo (2026-11-15): the route list takes the hub route-card
+     grammar — programme name leads (the country is the page), the
+     minimum is the big right-aligned figure, badge on the programme
+     line, family total and the one-line processing distillation
+     below. Closed routes keep the archive variant. */
+  .res-rcards { display: grid; gap: 10px; grid-template-columns: 1fr; margin: 10px 0 18px; }
+  @media (min-width: 900px) { .res-rcards { grid-template-columns: 1fr 1fr; } }
+  .rcard { display: flex; flex-direction: column; gap: 7px; padding: 15px 17px; background: var(--card); border: 1px solid var(--line); border-radius: 16px; box-shadow: var(--sh-sm); color: var(--ink); text-decoration: none; }
+  .rcard.closed { opacity: .82; }
+  .rc-line1 { display: flex; justify-content: space-between; align-items: flex-start; gap: 12px; }
+  .rc-prog-name { font-size: 15.5px; font-weight: 700; line-height: 1.35; }
+  .rc-min { display: flex; flex-direction: column; align-items: flex-end; gap: 1px; flex-shrink: 0; }
+  .rc-min-label { font-size: 11px; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); }
+  .rc-amt { font-size: 21px; font-weight: 800; font-variant-numeric: tabular-nums; white-space: nowrap; }
+  @media (max-width: 560px) { .rc-amt { font-size: 19px; } }
+  .rc-line2 { display: flex; align-items: center; gap: 8px; }
+  .rc-prog { font-size: 14px; color: var(--muted); }
+  .rc-fam { font-size: 14px; }
+  .rc-fam strong { font-variant-numeric: tabular-nums; }
+  .rc-proc { font-size: 13.5px; color: var(--muted); line-height: 1.55; }
+  .rc-closed-word { font-weight: 800; color: #9c1c1c; white-space: nowrap; }
   .res-badge { align-self: flex-start; font-weight: 700; font-size: 12.5px; padding: 3px 10px; border-radius: 999px; }
   .res-badge.open { background: #eef7f2; color: var(--brand-deep); border: 1px solid #bfe3d0; font-weight: 600; }
   .res-badge.closed { background: #fbe7e7; color: #9c1c1c; border: 1px solid #f0b4b4; }
