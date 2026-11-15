@@ -181,9 +181,13 @@ export const heroTiles = (
   r: ResidencyRoute,
 ): { label: string; value: string; sub?: string }[] => {
   const min = minThreshold(r);
-  const minNames = r.options
-    .filter((o) => o.amount === min)
-    .map((o) => o.name.split(' — ')[0].split(' (')[0]);
+  const minNames = [
+    ...new Set(
+      r.options
+        .filter((o) => o.amount === min)
+        .map((o) => o.name.split(' — ')[0].split(' (')[0]),
+    ),
+  ].slice(0, 3);
   const tiles: { label: string; value: string; sub?: string }[] = [
     {
       label: 'Minimum investment — single',
