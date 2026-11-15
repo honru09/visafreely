@@ -135,6 +135,16 @@ spec-card）仍用文本步，待 KB-02 统一消费。
 `--dur-200` `--dur-280` `--dur-300` `--dur-320` `--dur-480` `--dur-500`
 `--dur-600` `--dur-700` `--dur-1000`。曲线统一 `--ease` / `--spring`。
 
+**具名动效登记（KB-17 / KB-18，2026-11-15）**——动效以「动词+对象」
+命名、先登记后新增：`settle-result`＝首页查询器结果容器的高度交接
+（内容即时替换、容器高度以 `--spring` 曲线在 `--dur-3` 内由旧结果
+形态过渡到新结果；实现为 Base.astro 与 CheckerZh.astro 两处作用域内
+的 `setResult()`，WAAPI 驱动，reduced-motion 时由 JS 侧 `reduce`
+判断整体跳过）；壳层面板入场＝MoreMenu 的 `morePanelIn` 与
+LangSwitcher 的 `langMenuIn`（自触发按钮处以 `--spring` + `--dur-2`
+生长，仅 transform/opacity，关闭即时；reduced-motion 由全局 CSS
+规则压至 .01ms）。配对页不适用以上任何一条。
+
 ---
 
 *维护：新增组件先在本词典登记再进代码；组件改名/下线同步更新本词典与 CHECKLIST（design-kb-apply-2026-11-15）。*

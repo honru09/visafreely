@@ -297,20 +297,52 @@ const PAYLOAD = {
       }
       return prefix || contains;
     }
+    /* KB-18 (2026-11-15): same settle as the English checker (see
+       Base.astro) — the result container's height morphs from the
+       previous result to the new one on the --spring curve at the
+       --dur-3 anchor step instead of snapping open; content swaps
+       instantly, only the container height animates (WAAPI).
+       Reduced motion skips the morph (checked here — the global CSS
+       rule cannot reach WAAPI). Registered as "settle-result" in
+       DESIGN-COMPONENTS.md. */
+    var settleEase = null, settleMs = 450;
+    try {
+      var rootCs = getComputedStyle(document.documentElement);
+      settleEase = (rootCs.getPropertyValue('--spring') || '').trim() || null;
+      var durRaw = (rootCs.getPropertyValue('--dur-3') || '').trim();
+      var dur3 = parseFloat(durRaw);
+      if (dur3 > 0) settleMs = durRaw.indexOf('ms') >= 0 ? dur3 : (durRaw.indexOf('s') >= 0 ? dur3 * 1000 : dur3);
+    } catch (e) {}
+    function setResult(html) {
+      var prevH = out.hidden ? 0 : out.offsetHeight;
+      if (out.getAnimations) out.getAnimations().forEach(function (a) { a.cancel(); });
+      out.innerHTML = html;
+      out.hidden = false;
+      out.style.overflow = 'hidden';
+      var newH = out.offsetHeight;
+      if (reduce || !out.animate || !settleEase || !newH || newH === prevH) { out.style.overflow = ''; return; }
+      var anim = out.animate(
+        [{ height: prevH + 'px' }, { height: newH + 'px' }],
+        { duration: settleMs, easing: settleEase }
+      );
+      var clear = function () { out.style.overflow = ''; };
+      anim.onfinish = clear;
+      anim.oncancel = clear;
+      if (anim.finished && anim.finished.then) anim.finished.then(clear, clear);
+    }
     async function doCheck() {
       if (PAYLOAD.locale !== 'en' && !AVAIL) { try { await availReady; } catch (e) {} }
       var pc = resolve(inP), dc = resolve(inD);
-      out.hidden = false;
       if (!pc || !dc) {
-        out.innerHTML = '<div class="verdict-card"><div class="vc-main"><div class="vc-big">' + STR.pickBig + '</div><div class="vc-sub">' + STR.pickSub + '</div></div></div>';
+        setResult('<div class="verdict-card"><div class="vc-main"><div class="vc-big">' + STR.pickBig + '</div><div class="vc-sub">' + STR.pickSub + '</div></div></div>');
         return;
       }
       if (pc.code === dc.code) {
-        out.innerHTML = '<div class="verdict-card"><div class="vc-main"><div class="vc-big">' + STR.ownBig + '</div><div class="vc-sub">' + STR.ownSub + '</div></div></div>';
+        setResult('<div class="verdict-card"><div class="vc-main"><div class="vc-big">' + STR.ownBig + '</div><div class="vc-sub">' + STR.ownSub + '</div></div></div>');
         return;
       }
       var row = (idx.rows[pc.code] || []).find(function (r) { return idx.countries[r[0]].code === dc.code; });
-      if (!row) { out.innerHTML = '<div class="verdict-card"><div class="vc-main"><div class="vc-big">' + STR.noData + '</div></div></div>'; return; }
+      if (!row) { setResult('<div class="verdict-card"><div class="vc-main"><div class="vc-big">' + STR.noData + '</div></div></div>'); return; }
       try { await loadVerifiedShard(pc.code); } catch (e) {}
       var code = row[1], days = row[2];
       var verdict = STATUS[code];
@@ -335,14 +367,14 @@ const PAYLOAD = {
       var seal = vDate
         ? '<div class="vc-seal" style="color:var(--brand)"><div class="stamp-anim stamp-anim-pulse">' + sealSVG('verified', 96) + '</div><span class="vc-seal-cap"><span class="nw">' + esc(fill(STR.capVerified, { date: fmtDate(vDate) })) + '</span><br/>' + STR.capSource + '</span></div>'
         : '<div class="vc-seal" style="color:#6f6a5e">' + sealSVG('pending', 96) + '<span class="vc-seal-cap">' + STR.capDatasetA + '<br/>' + STR.capDatasetB + '</span></div>';
-      out.innerHTML =
+      setResult(
         '<div class="verdict-card enter s-' + code + '">'
         + '<div class="vc-main">'
         + '<p class="vc-route">' + esc(fill(STR.route, { p: disp(pc), d: disp(dc) })) + '</p>'
         + '<div class="vc-big">' + esc(verdict) + '</div>'
         + '<div class="vc-sub">' + (days ? esc(fill(STR.stay, { days: days })) : STR.staySee) + '</div>'
         + '<p class="vc-actions"><a class="btn" href="' + pairHref(pc.slug, dc.slug) + '">' + STR.fullPage + ' <span class="arr">→</span></a>' + offer + '</p>'
-        + '</div>' + seal + '</div>';
+        + '</div>' + seal + '</div>');
     }
     form.addEventListener('submit', function (ev) { ev.preventDefault(); if (idx) doCheck(); });
     fetch('/check.json')
@@ -368,8 +400,7 @@ const PAYLOAD = {
         });
       })
       .catch(function () {
-        out.hidden = false;
-        out.innerHTML = '<div class="verdict-card"><div class="vc-main"><div class="vc-big">' + STR.loadBig + '</div><div class="vc-sub">' + STR.loadSub + '</div></div></div>';
+        setResult('<div class="verdict-card"><div class="vc-main"><div class="vc-big">' + STR.loadBig + '</div><div class="vc-sub">' + STR.loadSub + '</div></div></div>');
       });
   })();
 </script>

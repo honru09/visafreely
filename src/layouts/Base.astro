@@ -1552,19 +1552,53 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
           if (!pc0) { renderCheck(); return; }
           loadVerifiedShard(pc0.code, renderCheck);
         }
+        /* KB-18 (2026-11-15): a new result settles in — the container's
+           height morphs from the previous result to the new one on the
+           site's spring curve instead of snapping open (homepage
+           showcase surface only; pair pages untouched). The content
+           swaps instantly; only the container height animates, via
+           WAAPI, on the --spring curve at the --dur-3 anchor step
+           (tokens: KB-16). Reduced motion skips the morph entirely —
+           the global CSS rule cannot reach WAAPI, so the `reduce`
+           check lives here. Registered as "settle-result" in
+           DESIGN-COMPONENTS.md. */
+        var settleEase = null, settleMs = 450;
+        try {
+          var rootCs = getComputedStyle(document.documentElement);
+          settleEase = (rootCs.getPropertyValue('--spring') || '').trim() || null;
+          var durRaw = (rootCs.getPropertyValue('--dur-3') || '').trim();
+          var dur3 = parseFloat(durRaw);
+          if (dur3 > 0) settleMs = durRaw.indexOf('ms') >= 0 ? dur3 : (durRaw.indexOf('s') >= 0 ? dur3 * 1000 : dur3);
+        } catch (e) {}
+        function setResult(html) {
+          var prevH = out.hidden ? 0 : out.offsetHeight;
+          if (out.getAnimations) out.getAnimations().forEach(function (a) { a.cancel(); });
+          out.innerHTML = html;
+          out.hidden = false;
+          out.style.overflow = 'hidden';
+          var newH = out.offsetHeight;
+          if (reduce || !out.animate || !settleEase || !newH || newH === prevH) { out.style.overflow = ''; return; }
+          var anim = out.animate(
+            [{ height: prevH + 'px' }, { height: newH + 'px' }],
+            { duration: settleMs, easing: settleEase }
+          );
+          var clear = function () { out.style.overflow = ''; };
+          anim.onfinish = clear;
+          anim.oncancel = clear;
+          if (anim.finished && anim.finished.then) anim.finished.then(clear, clear);
+        }
         function renderCheck() {
           var pc = resolve(inP), dc = resolve(inD);
-          out.hidden = false;
           if (!pc || !dc) {
-            out.innerHTML = '<div class="verdict-card"><div class="vc-main"><div class="vc-big">Pick both countries from the list</div><div class="vc-sub">Start typing and choose a passport and a destination.</div></div></div>';
+            setResult('<div class="verdict-card"><div class="vc-main"><div class="vc-big">Pick both countries from the list</div><div class="vc-sub">Start typing and choose a passport and a destination.</div></div></div>');
             return;
           }
           if (pc.code === dc.code) {
-            out.innerHTML = '<div class="verdict-card"><div class="vc-main"><div class="vc-big">That is your own country</div><div class="vc-sub">No visa is involved — you already live there.</div></div></div>';
+            setResult('<div class="verdict-card"><div class="vc-main"><div class="vc-big">That is your own country</div><div class="vc-sub">No visa is involved — you already live there.</div></div></div>');
             return;
           }
           var row = (idx.rows[pc.code] || []).find(function (r) { return idx.countries[r[0]].code === dc.code; });
-          if (!row) { out.innerHTML = '<div class="verdict-card"><div class="vc-main"><div class="vc-big">No data for this pair</div></div></div>'; return; }
+          if (!row) { setResult('<div class="verdict-card"><div class="vc-main"><div class="vc-big">No data for this pair</div></div></div>'); return; }
           var code = row[1], days = row[2];
           var verdict = idx.status[code];
           if (code === 'F' && days) verdict = 'Visa free for ' + days + ' days';
@@ -1588,14 +1622,14 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
           var seal = vDate
             ? '<div class="vc-seal" style="color:var(--brand)"><div class="stamp-anim stamp-anim-pulse">' + sealSVG('verified', 96) + '</div><span class="vc-seal-cap"><span class="nw">' + esc(fmtDate(vDate)) + '</span><br/>against an official source</span></div>'
             : '<div class="vc-seal" style="color:#6f6a5e">' + sealSVG('pending', 96) + '<span class="vc-seal-cap">Dataset value —<br/>not yet individually verified</span></div>';
-          out.innerHTML =
+          setResult(
             '<div class="verdict-card enter s-' + code + '">'
             + '<div class="vc-main">'
             + '<p class="vc-route">' + esc(pc.name) + ' passport → ' + esc(dc.name) + '</p>'
             + '<div class="vc-big">' + esc(verdict) + '</div>'
             + '<div class="vc-sub">' + (days ? 'Maximum stay ' + days + ' days' : 'See the full page for stay details') + '</div>'
             + '<p class="vc-actions"><a class="btn" href="/visa/' + pc.slug + '/' + dc.slug + '/">Full requirement page <span class="arr">→</span></a>' + offer + '</p>'
-            + '</div>' + seal + '</div>';
+            + '</div>' + seal + '</div>');
         }
         form.addEventListener('submit', function (ev) { ev.preventDefault(); if (idx) doCheck(); });
         fetch('/check.json')
@@ -1618,8 +1652,7 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
             });
           })
           .catch(function () {
-            out.hidden = false;
-            out.innerHTML = '<div class="verdict-card"><div class="vc-main"><div class="vc-big">The checker could not load its index</div><div class="vc-sub">Please use the passport pages instead.</div></div></div>';
+            setResult('<div class="verdict-card"><div class="vc-main"><div class="vc-big">The checker could not load its index</div><div class="vc-sub">Please use the passport pages instead.</div></div></div>');
           });
       })();
     </script>
