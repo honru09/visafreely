@@ -683,6 +683,7 @@
   "pair_title": "{p}护照去{d}要签证吗：{verdict} — 签证要求",
   "pair_warn_body": "本页所示规则目前公布的有效期至 {date}。之后可能延长或被新规替代——在该日期之后出行前请再次核对。",
   "pair_warn_strong": "已公布的变更：",
+  "za_eta_note": "自 2026 年 12 月 1 日起，南非旧版电子签门户（ehome.dha.gov.za）关闭，短期在线申请转入内政部电子旅行授权（ETA）平台（eta.dha.gov.za）。出行前请先在该平台确认你的护照是否可以在线申请。",
   "shelf_alt_cta": "访问 VisaHQ",
   "shelf_alt_k": "全包代办",
   "shelf_alt_p": "VisaHQ 可以代办这条路线的材料，按服务收费。",

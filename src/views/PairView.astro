@@ -64,6 +64,12 @@ const extra = pairExtra(p.code, d.code);
 const guideBook = locale === 'en' ? (guidesRaw as Record<string, any>)[d.code] : undefined;
 const guideRoute = guideBook ? guideBook.routes.find((r: any) => r.statuses.includes(row.s)) : undefined;
 const noteL = pairNoteL(locale, p.code, d.code, extra.note);
+// ZA e-Visa -> ETA (2026-11-16): the 26 visa-required passports whose
+// verified notes cited the old e-Visa portal (ehome.dha.gov.za), which
+// closes 1 Dec 2026; short-stay online applications move to the DHA ETA
+// platform. 25 of the 26 are on the published ETA 53-country list; CG
+// (Congo-Brazzaville) is not, so its note carries a check-first wording.
+const ZA_ETA_CODES = new Set(['AL','BY','CD','CG','CI','CM','CN','CU','DZ','EG','ET','GN','ID','IN','IR','KM','MA','ML','MX','NE','NG','OM','PH','PK','SN','UG']);
 const verdict = locale === 'en' ? verdictText(row) : verdictTextL(locale, row);
 const label = locale === 'en' ? statusLabel(row.s) : statusLabelL(locale, row.s);
 const glyph = STATUS_GLYPH[row.s] || '✓';
@@ -217,6 +223,19 @@ const subStr = {
         <svg width="18" height="18" viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="12" cy="12" r="9" stroke="currentColor" stroke-width="2"/><path d="M12 7v5.5l3.8 2.3" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
         <span>
           <strong>{T('pair_warn_strong')}</strong> {T('pair_warn_body', { date: fmtDate(extra.valid_until) })}
+        </span>
+      </div>
+    )
+  }
+
+  {
+    /* ZA e-Visa -> ETA transition note (2026-11-16): same .warn format as
+       the valid_until block above, no new visual language. */
+    d.code === 'ZA' && row.s === 'R' && ZA_ETA_CODES.has(p.code) && (
+      <div class="warn">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="12" cy="12" r="9" stroke="currentColor" stroke-width="2"/><path d="M12 7v5.5l3.8 2.3" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        <span>
+          <strong>{T('pair_warn_strong')}</strong> {T('za_eta_note')}
         </span>
       </div>
     )

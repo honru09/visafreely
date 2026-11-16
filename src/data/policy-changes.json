@@ -1,5 +1,13 @@
 [
  {
+  "destination": "ZA",
+  "date": "2026-11-06",
+  "title": "South Africa retires the e-Visa portal on 1 December 2026",
+  "summary": "South African Tourism announced on 6 November 2026 that the old e-Visa portal (ehome.dha.gov.za) will be decommissioned on 1 December 2026. Short-stay online applications move to the Department of Home Affairs ETA platform (eta.dha.gov.za), now open to 53 countries including China and India; work and study visas follow in phases from 2027. Travellers should check eligibility on the official ETA portal before applying.",
+  "source": "https://eta.dha.gov.za/faq",
+  "source_name": "South Africa Electronic Travel Authorisation — official ETA portal (DHA); closure date announced by South African Tourism, 6 Nov 2026"
+ },
+ {
   "passport": "KW",
   "destination": "NZ",
   "date": "2026-11-12",
