@@ -59625,5 +59625,12 @@
   "reason": "Settled 2026-11-11 in the residual sweep (see research-residual-sweep.md).",
   "source": "https://visa.visitsaudi.com/",
   "date": "2026-11-11"
+ },
+ "KW:NZ": {
+  "status": "visa required",
+  "reason": "New Zealand suspended the visa waiver for Kuwaiti passport holders from 23:59 NZDT 12 Nov 2026 to 23:59 NZDT 11 Feb 2027 (special direction by the Minister of Immigration, 4 Nov 2026); an NZeTA no longer suffices and a visa must be obtained before travel. The INZ waiver list now reads \"Kuwait (temporarily suspended)\".",
+  "source": "https://www.immigration.govt.nz/assets/inz/documents/amendment-circulars/Amendment-Circular-2026-35.pdf",
+  "date": "2026-11-16",
+  "valid_until": "2027-02-11"
  }
 }

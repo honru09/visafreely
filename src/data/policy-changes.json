@@ -1,5 +1,27 @@
 [
  {
+  "passport": "KW",
+  "destination": "NZ",
+  "date": "2026-11-12",
+  "from_status": "eta",
+  "to_status": "visa required",
+  "title": "New Zealand suspends visa waiver for Kuwait",
+  "summary": "New Zealand suspended the visa waiver for Kuwaiti passport holders from 23:59 NZDT 12 Nov 2026 to 23:59 NZDT 11 Feb 2027 (special direction by the Minister of Immigration, 4 Nov 2026); an NZeTA no longer suffices and a visa must be obtained before travel.",
+  "source": "https://www.immigration.govt.nz/assets/inz/documents/amendment-circulars/Amendment-Circular-2026-35.pdf",
+  "source_name": "Immigration New Zealand — Amendment Circular No. 2026-35"
+ },
+ {
+  "passport": "UG",
+  "destination": "AE",
+  "date": "2026-11-11",
+  "from_status": "e-visa",
+  "to_status": "e-visa",
+  "title": "UAE lifts visa-issuance suspension for Ugandans",
+  "summary": "The UAE lifted the June 2026 suspension on issuing new visas to Ugandan nationals; entry is allowed provided at least 21 days have passed since departure from Uganda. Precautionary measures for DRC and South Sudan nationals remain in effect.",
+  "source": "https://www.wam.ae/en/article/c37a8hx-uae-eases-precautionary-entry-measures-for-ugandan",
+  "source_name": "Emirates News Agency (WAM)"
+ },
+ {
   "passport": "BY",
   "destination": "ME",
   "date": "2026-11-01",
