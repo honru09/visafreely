@@ -1,1 +1,791 @@
-{"CV":{"checked":"2026-11-14","extension":"The visa exemption cannot be extended in-country: the government portal directs anyone who wants to stay beyond the exemption period to apply for a visa at the nearest Cabo Verdean embassy or consular post.","overstay":"No official overstay tariff is published in the sources used here — leave within the stay you were granted, or hold a visa that covers the extra time.","portal":{"name":"EASE — official pre-registration portal","url":"https://www.ease.gov.cv"},"routes":[{"documents":["Passport valid for the trip","EASE pre-registration confirmation, with the TSA paid"],"fee":"No visa fee. Airport security tax (TSA): 3,400 CVE (≈ €31), paid online with the pre-registration. Since 1 July 2026, travellers who arrive without proof of pre-registration pay double the TSA at the border","id":"exempt","name":"Visa-free entry — with EASE pre-registration","notes":"","processing":"Pre-register on the EASE portal and pay the TSA up to five days before arrival","statuses":["F"],"stay":"30 days for most nationalities; 60 days for Russia and São Tomé and Príncipe; 90 days for ECOWAS members, Macau and South Korea; 180 days for Angola, Guinea-Bissau, Mozambique and Ukraine — per the official table","who":"Nationals of the 67 countries on the government's exempt list, including the United Kingdom, the United States, EU member states, China and ECOWAS members. Find your passport in the status table below."},{"documents":["Passport valid for the trip","EASE pre-registration confirmation, with the TSA paid"],"fee":"Cabo Verde publishes no consolidated border-visa fee in the sources used here — confirm at the border. The airport security tax (TSA, 3,400 CVE online; doubled at the border since 1 July 2026 without proof of pre-registration) applies to all travellers","id":"voa","name":"Visa on arrival (Visto de Fronteira)","notes":"","processing":"EASE pre-registration before travel; the visa itself is issued on arrival","statuses":["A"],"stay":"Set by the visa issued at the border — Cabo Verde publishes no consolidated maximum stay for this channel","who":"Travellers whose nationality is on neither the exempt list nor the Interior Ministry's pre-arrival-visa list (Despacho n.º 244/GMAI/2026, in force since 1 January 2026). The visa is issued at Cabo Verde's international airports and seaports."},{"documents":["As listed by the embassy or consulate (application form, photo, passport, trip evidence)"],"fee":"Charged by the embassy or consulate — confirm the current amount with it","id":"consular","name":"Visa before travel (embassy or consulate)","notes":"","processing":"Apply before travel","statuses":[],"stay":"As granted by the visa","who":"Nationalities named in Despacho n.º 244/GMAI/2026 must hold a visa before arrival. Visa-exempt nationals who want to stay beyond the exemption period must also apply at a Cabo Verdean embassy or consulate — that is the route the government portal itself gives for longer stays."}],"sources":[{"name":"Government portal — visa-exempt countries for Cabo Verde","url":"https://www.gov.cv/en/paises-isentos-de-visto-para-cabo-verde"},{"name":"Official gazette (BOE) — Despacho n.º 244/GMAI/2026 bulletin","url":"https://boe.incv.cv/Bulletins/View?id=89461"},{"name":"EASE pre-registration portal","url":"https://www.ease.gov.cv"}]},"MA":{"checked":"2026-11-14","extension":"An e-Visa stay cannot be extended, and multiple e-Visas cannot be combined. For visa-free and consular stays, the official sources used here publish no general extension procedure — Law No. 02-03 caps a stay without a residence card at 90 days, so plan to leave within the stay you were granted.","overstay":"Staying past your granted period without a residence card breaches Law No. 02-03, which provides for removal from the territory and penalties.","portal":{"name":"Accès Maroc — official e-Visa / AEVM portal","url":"https://www.acces-maroc.ma"},"routes":[{"documents":["A passport (or other travel document recognised by Morocco) valid for the whole stay","Your passport is stamped on entry; the 90 days run from that stamp"],"fee":"Free","id":"visa-free","name":"Visa-free entry","notes":"90 days is the ceiling Morocco's Law No. 02-03 sets for a stay without a residence card.","processing":"No application — entry at the border","statuses":["F"],"stay":"Up to 90 days","who":"Nationals of 70 countries, including the United Kingdom, the United States, EU member states, China and Japan. Find your passport in the status table below — the official exemption list is published by Morocco's consular service."},{"documents":["Passport valid for the stay","The approved AEVM authorisation — carry it with you when you travel"],"fee":"Free","id":"aevm","name":"Visa-free with an AEVM authorisation first","notes":"","processing":"Apply on the Accès Maroc portal at least 96 hours before departure","statuses":[],"stay":"Up to 90 days","who":"Some visa-free nationalities — including Congo-Brazzaville, Ghana and Guinea — must also hold an electronic travel authorisation (AEVM) before travelling. Your pair page in the table below says whether your passport is one of them (Mali's AEVM requirement was lifted on 27 April 2026)."},{"documents":["Colour ID photo, 35 × 45 mm, taken within the last 6 months, to ICAO standard","Colour copy of your ordinary passport (identity and validity pages) — passport valid at least 90 days on the day you apply","Category B: colour copy of your residence permit, front and back, valid at least 180 days","Category C: colour copy of the qualifying multiple-entry visa","Business trips: the invitation or recommendation document for the trip","Files must be jpg, jpeg or pdf, at most 1 MB each"],"fee":"The portal shows the fee at checkout — reported as 770 MAD (≈ $78) standard / 1,100 MAD (≈ $112) express, while Morocco's 2025 gazette tariff lists 70 / 100 MAD. The two official figures disagree, so confirm the amount on the portal before you pay. Once paid, the fee is not refunded","id":"evisa","name":"e-Visa (AEVM portal)","notes":"Tourism or business only. An e-Visa cannot be converted into residence, and several e-Visas cannot be combined to stretch a stay — you must leave when the stay on the first one expires. At the border you may also be asked for a return ticket, proof of means (an international bank card or cash worth more than €70 per day of stay) and hospitalisation / repatriation insurance covering the stay.","processing":"72 hours standard / 24 hours express, in Moroccan working days","statuses":["E"],"stay":"Single entry; stay up to 30 days. The e-Visa itself is valid up to 180 days from the day it is issued","who":"Category A: nationals of Azerbaijan, Benin, Brunei, Cambodia, Guatemala, India, Israel, Jordan, Laos, Thailand and Vietnam. Category B: visa-required nationals holding a residence permit valid at least 180 days from the EU, United States, Australia, Canada, United Kingdom, Japan, Norway, New Zealand, UAE or Switzerland. Category C: holders of a multiple-entry visa valid at least 90 days from Schengen, the United States, Australia, Canada, the United Kingdom, Ireland, Japan, Norway or New Zealand."},{"documents":["The consulate's application form, photo and passport requirements","Evidence for the trip (travel, accommodation and means) as the consulate lists them"],"fee":"Charged by the consulate when you apply — confirm the current amount with it","id":"consular","name":"Consular visa (before travel)","notes":"If you hold a qualifying residence permit or multiple-entry visa (see the e-Visa route), the online e-Visa is usually the faster path.","processing":"Set by the consulate — apply well before travel","statuses":["R"],"stay":"Short-stay consular visas are generally up to 90 days; transit visas up to 72 hours","who":"Everyone else who needs a visa. Apply at the Moroccan embassy or consulate for your place of residence; there is no general visa on arrival (border-issued visas exist only in exceptional cases, at the border authorities' discretion)."}],"sources":[{"name":"Accès Maroc — e-Visa terms and conditions (official PDF)","url":"https://www.acces-maroc.ma/assets/docs/Conditions%20utilisation%20eVisa%20-%20Fr.pdf"},{"name":"Consular service — list of visa-exempt countries","url":"https://consulat.ma/fr/liste-des-pays-dont-les-ressortissants-sont-dispenses-du-visa-dentree-au-maroc"},{"name":"Accès Maroc portal","url":"https://www.acces-maroc.ma"}]}}
+{
+  "CV": {
+    "checked": "2026-11-14",
+    "extension": "The visa exemption cannot be extended in-country: the government portal directs anyone who wants to stay beyond the exemption period to apply for a visa at the nearest Cabo Verdean embassy or consular post.",
+    "overstay": "No official overstay tariff is published in the sources used here — leave within the stay you were granted, or hold a visa that covers the extra time.",
+    "portal": {
+      "name": "EASE — official pre-registration portal",
+      "url": "https://www.ease.gov.cv"
+    },
+    "routes": [
+      {
+        "documents": [
+          "Passport valid for the trip",
+          "EASE pre-registration confirmation, with the TSA paid"
+        ],
+        "fee": "No visa fee. Airport security tax (TSA): 3,400 CVE (≈ €31), paid online with the pre-registration. Since 1 July 2026, travellers who arrive without proof of pre-registration pay double the TSA at the border",
+        "id": "exempt",
+        "name": "Visa-free entry — with EASE pre-registration",
+        "notes": "",
+        "processing": "Pre-register on the EASE portal and pay the TSA up to five days before arrival",
+        "statuses": [
+          "F"
+        ],
+        "stay": "30 days for most nationalities; 60 days for Russia and São Tomé and Príncipe; 90 days for ECOWAS members, Macau and South Korea; 180 days for Angola, Guinea-Bissau, Mozambique and Ukraine — per the official table",
+        "who": "Nationals of the 67 countries on the government's exempt list, including the United Kingdom, the United States, EU member states, China and ECOWAS members. Find your passport in the status table below."
+      },
+      {
+        "documents": [
+          "Passport valid for the trip",
+          "EASE pre-registration confirmation, with the TSA paid"
+        ],
+        "fee": "Cabo Verde publishes no consolidated border-visa fee in the sources used here — confirm at the border. The airport security tax (TSA, 3,400 CVE online; doubled at the border since 1 July 2026 without proof of pre-registration) applies to all travellers",
+        "id": "voa",
+        "name": "Visa on arrival (Visto de Fronteira)",
+        "notes": "",
+        "processing": "EASE pre-registration before travel; the visa itself is issued on arrival",
+        "statuses": [
+          "A"
+        ],
+        "stay": "Set by the visa issued at the border — Cabo Verde publishes no consolidated maximum stay for this channel",
+        "who": "Travellers whose nationality is on neither the exempt list nor the Interior Ministry's pre-arrival-visa list (Despacho n.º 244/GMAI/2026, in force since 1 January 2026). The visa is issued at Cabo Verde's international airports and seaports."
+      },
+      {
+        "documents": [
+          "As listed by the embassy or consulate (application form, photo, passport, trip evidence)"
+        ],
+        "fee": "Charged by the embassy or consulate — confirm the current amount with it",
+        "id": "consular",
+        "name": "Visa before travel (embassy or consulate)",
+        "notes": "",
+        "processing": "Apply before travel",
+        "statuses": [],
+        "stay": "As granted by the visa",
+        "who": "Nationalities named in Despacho n.º 244/GMAI/2026 must hold a visa before arrival. Visa-exempt nationals who want to stay beyond the exemption period must also apply at a Cabo Verdean embassy or consulate — that is the route the government portal itself gives for longer stays."
+      }
+    ],
+    "sources": [
+      {
+        "name": "Government portal — visa-exempt countries for Cabo Verde",
+        "url": "https://www.gov.cv/en/paises-isentos-de-visto-para-cabo-verde"
+      },
+      {
+        "name": "Official gazette (BOE) — Despacho n.º 244/GMAI/2026 bulletin",
+        "url": "https://boe.incv.cv/Bulletins/View?id=89461"
+      },
+      {
+        "name": "EASE pre-registration portal",
+        "url": "https://www.ease.gov.cv"
+      }
+    ]
+  },
+  "MA": {
+    "checked": "2026-11-14",
+    "extension": "An e-Visa stay cannot be extended, and multiple e-Visas cannot be combined. For visa-free and consular stays, the official sources used here publish no general extension procedure — Law No. 02-03 caps a stay without a residence card at 90 days, so plan to leave within the stay you were granted.",
+    "overstay": "Staying past your granted period without a residence card breaches Law No. 02-03, which provides for removal from the territory and penalties.",
+    "portal": {
+      "name": "Accès Maroc — official e-Visa / AEVM portal",
+      "url": "https://www.acces-maroc.ma"
+    },
+    "routes": [
+      {
+        "documents": [
+          "A passport (or other travel document recognised by Morocco) valid for the whole stay",
+          "Your passport is stamped on entry; the 90 days run from that stamp"
+        ],
+        "fee": "Free",
+        "id": "visa-free",
+        "name": "Visa-free entry",
+        "notes": "90 days is the ceiling Morocco's Law No. 02-03 sets for a stay without a residence card.",
+        "processing": "No application — entry at the border",
+        "statuses": [
+          "F"
+        ],
+        "stay": "Up to 90 days",
+        "who": "Nationals of 70 countries, including the United Kingdom, the United States, EU member states, China and Japan. Find your passport in the status table below — the official exemption list is published by Morocco's consular service."
+      },
+      {
+        "documents": [
+          "Passport valid for the stay",
+          "The approved AEVM authorisation — carry it with you when you travel"
+        ],
+        "fee": "Free",
+        "id": "aevm",
+        "name": "Visa-free with an AEVM authorisation first",
+        "notes": "",
+        "processing": "Apply on the Accès Maroc portal at least 96 hours before departure",
+        "statuses": [],
+        "stay": "Up to 90 days",
+        "who": "Some visa-free nationalities — including Congo-Brazzaville, Ghana and Guinea — must also hold an electronic travel authorisation (AEVM) before travelling. Your pair page in the table below says whether your passport is one of them (Mali's AEVM requirement was lifted on 27 April 2026)."
+      },
+      {
+        "documents": [
+          "Colour ID photo, 35 × 45 mm, taken within the last 6 months, to ICAO standard",
+          "Colour copy of your ordinary passport (identity and validity pages) — passport valid at least 90 days on the day you apply",
+          "Category B: colour copy of your residence permit, front and back, valid at least 180 days",
+          "Category C: colour copy of the qualifying multiple-entry visa",
+          "Business trips: the invitation or recommendation document for the trip",
+          "Files must be jpg, jpeg or pdf, at most 1 MB each"
+        ],
+        "fee": "The portal shows the fee at checkout — reported as 770 MAD (≈ $78) standard / 1,100 MAD (≈ $112) express, while Morocco's 2025 gazette tariff lists 70 / 100 MAD. The two official figures disagree, so confirm the amount on the portal before you pay. Once paid, the fee is not refunded",
+        "id": "evisa",
+        "name": "e-Visa (AEVM portal)",
+        "notes": "Tourism or business only. An e-Visa cannot be converted into residence, and several e-Visas cannot be combined to stretch a stay — you must leave when the stay on the first one expires. At the border you may also be asked for a return ticket, proof of means (an international bank card or cash worth more than €70 per day of stay) and hospitalisation / repatriation insurance covering the stay.",
+        "processing": "72 hours standard / 24 hours express, in Moroccan working days",
+        "statuses": [
+          "E"
+        ],
+        "stay": "Single entry; stay up to 30 days. The e-Visa itself is valid up to 180 days from the day it is issued",
+        "who": "Category A: nationals of Azerbaijan, Benin, Brunei, Cambodia, Guatemala, India, Israel, Jordan, Laos, Thailand and Vietnam. Category B: visa-required nationals holding a residence permit valid at least 180 days from the EU, United States, Australia, Canada, United Kingdom, Japan, Norway, New Zealand, UAE or Switzerland. Category C: holders of a multiple-entry visa valid at least 90 days from Schengen, the United States, Australia, Canada, the United Kingdom, Ireland, Japan, Norway or New Zealand."
+      },
+      {
+        "documents": [
+          "The consulate's application form, photo and passport requirements",
+          "Evidence for the trip (travel, accommodation and means) as the consulate lists them"
+        ],
+        "fee": "Charged by the consulate when you apply — confirm the current amount with it",
+        "id": "consular",
+        "name": "Consular visa (before travel)",
+        "notes": "If you hold a qualifying residence permit or multiple-entry visa (see the e-Visa route), the online e-Visa is usually the faster path.",
+        "processing": "Set by the consulate — apply well before travel",
+        "statuses": [
+          "R"
+        ],
+        "stay": "Short-stay consular visas are generally up to 90 days; transit visas up to 72 hours",
+        "who": "Everyone else who needs a visa. Apply at the Moroccan embassy or consulate for your place of residence; there is no general visa on arrival (border-issued visas exist only in exceptional cases, at the border authorities' discretion)."
+      }
+    ],
+    "sources": [
+      {
+        "name": "Accès Maroc — e-Visa terms and conditions (official PDF)",
+        "url": "https://www.acces-maroc.ma/assets/docs/Conditions%20utilisation%20eVisa%20-%20Fr.pdf"
+      },
+      {
+        "name": "Consular service — list of visa-exempt countries",
+        "url": "https://consulat.ma/fr/liste-des-pays-dont-les-ressortissants-sont-dispenses-du-visa-dentree-au-maroc"
+      },
+      {
+        "name": "Accès Maroc portal",
+        "url": "https://www.acces-maroc.ma"
+      }
+    ]
+  },
+  "JP": {
+    "checked": "2026-11-16",
+    "extension": "A short-term (Temporary Visitor) stay is in principle extended only for truly unavoidable humanitarian reasons or a comparable special circumstance — for example medical treatment — by applying to a Regional Immigration Services Bureau before the stay expires. Nationals of Austria, Germany, Ireland, Liechtenstein, Mexico, Switzerland and the United Kingdom may instead apply to extend a 90-day visa-free stay to up to 6 months in total.",
+    "overstay": "The authorities publish no penalty tariff for overstaying. Overstaying breaches the Immigration Control and Refugee Recognition Act and can lead to detention and deportation proceedings.",
+    "portal": {
+      "name": "JAPAN eVISA — official e-Visa portal",
+      "url": "https://www.evisa.mofa.go.jp"
+    },
+    "routes": [
+      {
+        "documents": [
+          "Valid passport",
+          "ICAO-compliant ePassport for nationals of Brazil, Montenegro, Panama, Paraguay, Peru, Serbia, Thailand and the United Arab Emirates; machine-readable passport for nationals of Barbados, Lesotho and Türkiye",
+          "Passport with a personal ID number for Taiwan; SAR passport for Hong Kong and Macao"
+        ],
+        "fee": "Free",
+        "id": "visa-free",
+        "name": "Visa-free entry",
+        "notes": "No visa on arrival exists in Japan — a visa must be obtained before travel unless you are visa-exempt. Landing permission is granted by an immigration officer at the port of entry and does not follow automatically. Nationals of Indonesia and Qatar are visa-exempt only after an ePassport pre-registration — see the pre-registration route below.",
+        "processing": "No application — entry at the border",
+        "statuses": [
+          "F"
+        ],
+        "stay": "Up to 90 days (15 days for Thailand, 30 days for Brunei; the period is set at landing)",
+        "who": "Nationals of 72 countries and regions on MOFA's visa-exemption list, for short-term stay (tourism, business, visiting friends or relatives, no remunerative activity)"
+      },
+      {
+        "documents": [
+          "ICAO-compliant ePassport",
+          "Registration of the ePassport at a Japanese mission in Indonesia (for Indonesian nationals) or in Qatar (for Qatari nationals) before travel"
+        ],
+        "fee": "No fee published by MOFA for the registration",
+        "id": "preregistration",
+        "name": "Visa-free with ePassport pre-registration",
+        "notes": "JESTA (Japan Electronic System for Travel Authorization) is not yet in force — the Immigration Services Agency aims to introduce it in FY2028 — so no travel authorisation is required of visa-exempt travellers. This is the existing ePassport pre-registration, not JESTA. Registration is valid for three years or until the passport expires, whichever comes first.",
+        "processing": "Register the ePassport at a Japanese mission before travel; MOFA publishes no processing time for the registration",
+        "statuses": [
+          "T"
+        ],
+        "stay": "15 days for Indonesia; 30 days for Qatar",
+        "who": "Nationals of Indonesia and Qatar — visa-exempt only after registering an ICAO-compliant ePassport with a Japanese mission"
+      },
+      {
+        "documents": [
+          "Ordinary passport",
+          "Online application on the JAPAN eVISA portal, with a photo and supporting documents as requested",
+          "Display the \"Visa issuance notice\" on a device at the airport — a PDF, screenshot or printout is not accepted"
+        ],
+        "fee": "Approx. ¥15,000 for a single-entry visa, paid in local currency (from 1 July 2026); Indian nationals pay INR 500 (Embassy of Japan in India). No fee is charged if the visa is not issued.",
+        "id": "evisa",
+        "name": "e-Visa (JAPAN eVISA)",
+        "notes": "Tourism only, single entry, ordinary passport holders only; travel by air, or by scheduled international ferry between Japan and Busan or Shanghai. Eligibility is residence-based as well as nationality-based: nationals of visa-required countries who reside in an eligible country (e.g. Australia, Brazil, Cambodia, Canada, Saudi Arabia, South Africa, Taiwan, the United Kingdom or the USA) can also apply. Applicants may be called for interview. Nationals of the Philippines and Viet Nam must travel on a packaged tour organised by a designated travel agency.",
+        "processing": "Standard 5 working days from the next working day after all documents are received (Consulate-General of Japan in New York); longer in peak periods or if more documents are requested",
+        "statuses": [
+          "E"
+        ],
+        "stay": "Up to 90 days (15 days for the Philippines and Viet Nam; 15 or 30 days for China)",
+        "who": "Nationals of China, India, Cambodia, Mongolia, the Philippines, Saudi Arabia, Viet Nam and South Africa residing in their own country, for single-entry short-term tourism"
+      },
+      {
+        "documents": [
+          "Valid passport",
+          "Completed visa application form",
+          "Passport photo",
+          "Documents for the purpose of visit (travel itinerary and proof of funds for tourism; letter of invitation or guarantee for visiting relatives)",
+          "The exact list varies by mission and purpose — check the Japanese mission with jurisdiction over your place of residence"
+        ],
+        "fee": "Approx. ¥15,000 single-entry / approx. ¥30,000 multiple-entry, paid in local currency (from 1 July 2026); some nationalities pay reduced fees set by the mission (e.g. Indian nationals: INR 500 single or multiple). No fee if the visa is not issued; accredited-agency handling fees, where used, are extra.",
+        "id": "consular",
+        "name": "Consular visa",
+        "notes": "No visa on arrival: visas are issued only at a Japanese embassy, consulate-general or consular office abroad, or via an accredited agency or visa application centre where the mission requires it. A visa does not guarantee entry — landing permission is decided by an immigration officer. Pre-entry tuberculosis screening applies to nationals of the Philippines, Viet Nam, Indonesia, Nepal, Myanmar and China. North Korean citizens are barred from entry under Japan's sanctions measures (MOFA).",
+        "processing": "Standard 5 working days from the next working day after all documents are received (MOFA states approximately one week); longer if the mission consults MOFA in Tokyo",
+        "statuses": [
+          "R"
+        ],
+        "stay": "Up to 90 days",
+        "who": "Nationals of all other countries and regions — a visa is required before travel; there is no visa on arrival in Japan"
+      }
+    ],
+    "sources": [
+      {
+        "name": "MOFA — Exemption of Visa (Short-Term Stay)",
+        "url": "https://www.mofa.go.jp/j_info/visit/visa/short/novisa.html"
+      },
+      {
+        "name": "MOFA — The JAPAN eVISA system (electronic visa)",
+        "url": "https://www.mofa.go.jp/j_info/visit/visa/visaonline.html"
+      },
+      {
+        "name": "MOFA — VISA",
+        "url": "https://www.mofa.go.jp/j_info/visit/visa/index.html"
+      },
+      {
+        "name": "MOFA — Visa Fees",
+        "url": "https://www.mofa.go.jp/j_info/visit/visa/procedure/pagewe_000001_00391.html"
+      },
+      {
+        "name": "Consulate-General of Japan in New York — Visiting Japan & Visa",
+        "url": "https://www.ny.us.emb-japan.go.jp/itpr_en/visiting-japan.html"
+      },
+      {
+        "name": "Embassy of Japan in India — Visa",
+        "url": "https://www.in.emb-japan.go.jp/itpr_en/Visa.html"
+      },
+      {
+        "name": "JETRO — Extension of period of stay and change of status of residence",
+        "url": "https://www.jetro.go.jp/en/invest/setting_up/section2/page10/"
+      }
+    ]
+  },
+  "US": {
+    "checked": "2026-11-16",
+    "extension": "B-1/B-2 visitors already in the United States may apply to extend their stay with USCIS on Form I-539, filed online or by mail before the I-94 admit-until date expires — USCIS suggests filing at least 45 days before expiry. Fee per the USCIS Fee Schedule (Form G-1055, edition 26 October 2026): $420 online / $470 on paper, with no separate biometrics fee. Extensions are granted in increments of up to 6 months. VWP (ESTA) travellers generally cannot extend their stay or change status.",
+    "overstay": "There is no published overstay fine schedule. Staying past the I-94 admit-until date leaves you out of status: under INA 222(g) your visa is automatically voided, and unlawful presence accrues — more than 180 days but less than 1 year in a single stay triggers a 3-year bar on re-admission once you depart, and 1 year or more triggers a 10-year bar (INA 212(a)(9)(B)). The bars apply when you leave and again seek admission. Filing Form I-539 before the stay expires is the recognised way to avoid accruing unlawful presence while USCIS decides the request.",
+    "portal": {
+      "name": "U.S. Department of State — travel.state.gov",
+      "url": "https://travel.state.gov"
+    },
+    "routes": [
+      {
+        "documents": [
+          "A valid passport",
+          "Citizens of Micronesia, the Marshall Islands and Palau: a valid, unexpired passport from their country of citizenship"
+        ],
+        "fee": "Free",
+        "id": "visa-free",
+        "name": "Visa-free entry",
+        "notes": "The State Department also exempts citizens of Bermuda (up to 180 days), but Bermuda is not a separate passport in the 198-passport table, so it is not counted among the four visa-free pairs here. Inadmissibility grounds still apply, and admission is never guaranteed.",
+        "processing": "No application — entry at the border",
+        "statuses": [
+          "F"
+        ],
+        "stay": "Canadians are typically admitted for up to 6 months per entry, as set by CBP on the I-94. Citizens of the Freely Associated States may reside, work and study for an unlimited length of time once admitted.",
+        "who": "Citizens of Canada, and citizens of Micronesia, the Marshall Islands and Palau admitted under the Compacts of Free Association. Canadian citizens need a visa only for certain purposes (such as A, G, NATO or K-1 travel); permanent residents of Canada still need a visa."
+      },
+      {
+        "documents": [
+          "A valid e-passport from a VWP country",
+          "An approved ESTA, obtained online before travel"
+        ],
+        "fee": "$40.62 per application, in effect since 16 October 2026 (Federal Register, 1 October 2026, doc. 2026-20185; $10.62 processing fee if denied)",
+        "id": "esta",
+        "name": "ESTA (Visa Waiver Program)",
+        "notes": "ESTA is a travel authorisation, not a visa, and does not guarantee admission — a CBP officer decides at the port of entry. Romania's VWP designation was rescinded on 2 May 2025, so Romania is not on the current 42-country list.",
+        "processing": "Apply online via ESTA before travel. An approved ESTA is valid for 2 years or until the passport expires, whichever is sooner.",
+        "statuses": [
+          "T"
+        ],
+        "stay": "Up to 90 days per visit. The stay cannot be extended, and VWP entrants generally cannot change status in the United States.",
+        "who": "Citizens or nationals of the 42 Visa Waiver Program countries — including the United Kingdom, Japan, Australia, most EU member states, South Korea, Singapore, Taiwan, Israel, Qatar, Chile and New Zealand — travelling for business, tourism or transit. An e-passport is required."
+      },
+      {
+        "documents": [
+          "Passport valid for at least 6 months beyond the stay (unless exempt by a country-specific agreement)",
+          "Online Nonimmigrant Visa Application, Form DS-160 — print the confirmation page for the interview",
+          "Application fee payment receipt, if you are required to pay before your interview",
+          "Photo uploaded with the DS-160 (or one printed photo if the upload fails)",
+          "Evidence the consulate may request: purpose of the trip, intent to depart after the trip, and ability to pay for the trip"
+        ],
+        "fee": "$185 non-refundable application (MRV) fee. A visa issuance (reciprocity) fee may also apply after approval, depending on nationality — check the reciprocity schedule for your country; the amount varies and is not a flat rate.",
+        "id": "consular",
+        "name": "Visitor visa (B-1/B-2)",
+        "notes": "Interviews are generally required, with limited exceptions; some renewals may qualify for an interview waiver. The $250 Visa Integrity Fee created by Public Law 119-21 is legislated but does not appear on the State Department's published fee schedule and is not currently collected, so it is not part of the fee above. A separate $750 expedited-appointment pilot runs at selected posts for B visas through 31 December 2026. Chinese nationals holding a 10-year B visa must also hold a valid EVUS enrolment ($30, valid 2 years) to travel. A visa does not guarantee entry: CBP officers decide admission at the port of entry.",
+        "processing": "No published service standard. Interview wait times are published per post in the State Department's Global Visa Wait Times tool (updated monthly) and vary widely by location, season and category, so apply early. After the interview, some applications need further administrative processing, with no published time limit.",
+        "statuses": [
+          "R"
+        ],
+        "stay": "Up to 6 months per admission, as set by the CBP officer and recorded on the I-94. Visa validity is separate and varies by nationality under the reciprocity schedule; it only governs travel to a port of entry.",
+        "who": "Everyone else who needs a visa for business (B-1), tourism or medical treatment (B-2), including nationals of the 132 visa-required passports in the table, and VWP nationals who do not qualify for ESTA or prefer a visa."
+      }
+    ],
+    "sources": [
+      {
+        "name": "U.S. Department of State — Visitor Visa",
+        "url": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visitor.html"
+      },
+      {
+        "name": "U.S. Department of State — Fees for Visa Services",
+        "url": "https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/fees/fees-visa-services.html"
+      },
+      {
+        "name": "U.S. Department of State — Citizens of Canada and Bermuda",
+        "url": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/citizens-of-canada-and-bermuda.html?pubDate=20250720"
+      },
+      {
+        "name": "U.S. Department of State — Global Visa Wait Times",
+        "url": "https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/global-visa-wait-times.html"
+      },
+      {
+        "name": "U.S. Department of State — Visa Reciprocity and Civil Documents by Country",
+        "url": "https://travel.state.gov/content/travel/en/us-visas/Visa-Reciprocity-and-Civil-Documents-by-Country.html"
+      },
+      {
+        "name": "U.S. Department of State — Nonimmigrant Visa Expedited Appointment Pilot Program",
+        "url": "https://travel.state.gov/en/newsroom/visas/2026/nonimmigrant-visa-expedited-appointment-pilot-program.html"
+      },
+      {
+        "name": "U.S. Department of Homeland Security — Visa Waiver Program",
+        "url": "https://www.dhs.gov/visa-waiver-program"
+      },
+      {
+        "name": "U.S. Customs and Border Protection — ESTA and VWP FAQs",
+        "url": "https://www.cbp.gov/travel/international-visitors/esta/frequently-asked-questions-about-visa-waiver-program-vwp-and-electronic-system-travel"
+      },
+      {
+        "name": "U.S. Customs and Border Protection — Customs Bulletin, Vol. 59, No. 37 (ESTA fee $40, superseded)",
+        "url": "https://www.cbp.gov/sites/default/files/2025-09/vol_59_no_37_complete.pdf"
+      },
+      {
+        "name": "Federal Register — Certain DHS Immigration-Related Fees Required by HR-1: Fiscal Year 2027 Adjustments for Inflation (ESTA $40.62 from 16 October 2026)",
+        "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20185/certain-dhs-immigration-related-fees-required-by-hr-1-fiscal-year-2027-adjustments-for-inflation"
+      },
+      {
+        "name": "USCIS — Application to Extend/Change Nonimmigrant Status (Form I-539)",
+        "url": "https://www.uscis.gov/i-539"
+      },
+      {
+        "name": "USCIS — Fee Schedule (Form G-1055)",
+        "url": "https://www.uscis.gov/g-1055"
+      },
+      {
+        "name": "USCIS — Unlawful Presence and Inadmissibility",
+        "url": "https://www.uscis.gov/laws-and-policy/other-resources/unlawful-presence-and-inadmissibility"
+      },
+      {
+        "name": "USCIS — Citizens of the Freely Associated States (SAVE)",
+        "url": "https://www.uscis.gov/save/resources/information-for-save-users-how-to-verify-citizens-of-the-federated-states-of-micronesia-the-republic"
+      },
+      {
+        "name": "USCIS — Nonimmigrant pathways for entrepreneurs (B-1 admission period)",
+        "url": "https://www.uscis.gov/working-in-the-united-states/entrepreneur-employment-pathways/nonimmigrant-or-parole-pathways-for-entrepreneur-employment-in-the-united-states"
+      }
+    ]
+  },
+  "IN": {
+    "checked": "2026-11-16",
+    "extension": "The official e-Visa terms state that an e-Visa is non-extendable and non-convertible — plan to leave within the stay granted. For regular/paper visas, the portal's visa-provision table marks Tourist visas as not extendable in India, while Business, Employment, Student and some other categories are extendable; any extension is handled through the FRRO/FRO, not at the border.",
+    "overstay": "The official e-Visa pages publish no penalty table for overstaying, so no fixed fine figure is quoted here. Overstaying is an offence under the Immigration and Foreigners Act, 2025: you must regularise your stay through the e-FRRO portal and obtain an exit permit before you can leave, and any penalty is assessed on your case. Overstaying can also count against future visa applications.",
+    "portal": {
+      "name": "Indian Visa Online — official e-Visa portal",
+      "url": "https://indianvisaonline.gov.in"
+    },
+    "routes": [
+      {
+        "documents": [
+          "A valid passport, or for Nepalese and Bhutanese citizens entering directly from their home country, an accepted government photo identity card",
+          "Maldivian citizens: a valid passport; the 90 days are counted cumulatively over the preceding 6 months, including earlier visits"
+        ],
+        "fee": "Free",
+        "id": "visa-free",
+        "name": "Visa-free entry",
+        "notes": "Entering from China, Macau, Hong Kong or Pakistan, Nepalese and Bhutanese citizens need a passport and an Indian visa. Since 1 October 2025 every traveller, including visa-free entrants, must also complete the free e-Arrival Card online within 72 hours before arrival — it is arrival information, not a visa.",
+        "processing": "No application — entry at the border",
+        "statuses": [
+          "F"
+        ],
+        "stay": "Nepal and Bhutan: no fixed stay limit is published for direct entry. Maldives: up to 90 days in aggregate within the preceding 6 months.",
+        "who": "Citizens of Nepal and Bhutan (no visa required for direct entry from their home country) and citizens of the Maldives (tourism, business or medical treatment). OCI cardholders also enter without a visa."
+      },
+      {
+        "documents": [
+          "Ordinary passport valid at least 6 months, with at least 2 blank pages",
+          "Completed VoA application form (Annexure I) and disembarkation card",
+          "UAE nationals: proof of a previous Indian e-Visa or regular/paper visa",
+          "Return or onward ticket details"
+        ],
+        "fee": "INR 2,000 or the equivalent in foreign currency per passenger, including children, paid before the visa is granted",
+        "id": "voa",
+        "name": "Visa on arrival",
+        "notes": "Only at six designated airports for Japanese and South Korean nationals — Bengaluru, Chennai, Delhi, Hyderabad, Kolkata and Mumbai. Since November 2025 UAE nationals can also use Kochi, Calicut and Ahmedabad (nine airports in total). Non-extendable and non-convertible.",
+        "processing": "Issued at the airport on arrival — no application in advance. Fill in the VoA application form (Annexure I) and the disembarkation / e-Arrival Card before landing.",
+        "statuses": [
+          "A"
+        ],
+        "stay": "Up to 60 days, double entry, for tourism, business, conference or medical visits",
+        "who": "Nationals of Japan and South Korea, and UAE nationals who have previously obtained an Indian e-Visa or regular/paper visa. Not available to holders of diplomatic or official passports, or to anyone of Pakistani origin (either parent or grandparent born in, or a permanent resident of, Pakistan)."
+      },
+      {
+        "documents": [
+          "Ordinary passport valid at least 6 months from arrival, with at least 2 blank pages",
+          "Scanned bio page of the passport (PDF, 10 KB–300 KB)",
+          "Recent front-facing colour photograph, square JPEG (10 KB–1 MB), plain light background, no glasses",
+          "e-Business: copy of your business card (or invitation letter from the Indian company)",
+          "e-Medical: letter from the hospital in India on its letterhead",
+          "A valid email address — the ETA is sent by email"
+        ],
+        "fee": "Set by nationality in the portal's official fee tables, plus a 3% bank charge; non-refundable whether the ETA is granted or refused. Representative rates for most nationalities (e-Tourist table, 8 September 2026): 30-day US$25 (US$10 for arrivals April–June), 1-year US$40, 5-year US$200; e-Business US$120 and e-Medical / e-Medical Attendant US$80 (e-Business / e-Medical table, 15 April 2026). Exceptions apply — e.g. 5-year e-Tourist: US$160 for US passports, US$484 for UK passports, US$25 for Japanese passports; some nationalities pay nothing. Check your passport's row in the tables before paying.",
+        "id": "evisa",
+        "name": "e-Visa (e-Tourist / e-Business / e-Medical)",
+        "notes": "Apply only on indianvisaonline.gov.in — the portal states it is the only official e-Visa website and no agent is needed, and the government charges no emergency or express fee. The e-Visa is non-extendable and non-convertible and is not valid for Protected, Restricted or Cantonment Areas. Entry only through the designated airports, seaports and land checkposts listed on the portal. The 30-day e-Tourist entry count is worded differently in two official texts — the portal's current category wording grants multiple entries within the validity, while the FAQ text still says double entry; the ETA as granted governs. All travellers must also complete the free e-Arrival Card within 72 hours before arrival.",
+        "processing": "No processing time is officially published. Apply at least 4 days before arrival and up to 120 days ahead (1-year / 5-year e-Tourist, e-Business, e-Medical); the 30-day e-Tourist window opens 30 days ahead. The ETA is emailed to you.",
+        "statuses": [
+          "E"
+        ],
+        "stay": "e-Tourist: 30 days from first arrival; 1 year (365 days) or 5 years from the date the ETA is granted. e-Business: 365 days from the date the ETA is granted, each visit up to 180 days. e-Medical / e-Medical Attendant: 60 days from first arrival, triple entry. On the 1-year and 5-year e-Tourist visas, total stay in India must not exceed 180 days in a calendar year; a single visit must not exceed 90 days, except for nationals of the USA, UK, Canada and Japan (180 days).",
+        "who": "Nationals of the countries and territories on the portal's eligibility list — 175 are listed in the e-Tourist fee table. Pakistani nationals and people of Pakistani origin cannot use the e-Visa and must apply at an Indian mission; holders of diplomatic or official passports are also excluded."
+      },
+      {
+        "documents": [
+          "The mission's application form, photo and passport (valid at least 6 months)",
+          "Evidence for the trip as the mission lists it — e.g. a company letter for business visas, proof of admission for student visas, return/onward ticket for transit visas"
+        ],
+        "fee": "Set by the Indian mission — varies by nationality and visa type; confirm the amount with the mission before you apply",
+        "id": "consular",
+        "name": "Regular / paper visa",
+        "notes": "If your passport is on the e-Visa list and your trip is tourism, business or medical treatment, the online e-Visa is usually the faster path. If your visa is for more than 180 days, registration with the FRRO/FRO within 14 days of arrival is compulsory.",
+        "processing": "Not officially published centrally — the mission sets its own processing time; apply well before travel",
+        "statuses": [
+          "R"
+        ],
+        "stay": "Regular tourist visas are granted for up to 5 years, multiple entry; business visas up to 5 years, multiple entry; transit visas 15 days. The mission decides the length granted.",
+        "who": "Everyone who needs a visa and cannot use the e-Visa — including Pakistani nationals and people of Pakistani origin, nationals of countries not on the e-Visa list, and anyone seeking a long-stay, work, study or other category the e-Visa does not cover. Apply at the Indian embassy, high commission or consulate for your place of residence."
+      }
+    ],
+    "sources": [
+      {
+        "name": "Indian Visa Online — e-Visa portal (Bureau of Immigration)",
+        "url": "https://indianvisaonline.gov.in/evisa/tvoa.html"
+      },
+      {
+        "name": "Bureau of Immigration — Country/Territory Wise e-Tourist Visa Fee (PDF, 08-September-2026)",
+        "url": "https://indianvisaonline.gov.in/evisa/images/Etourist_fee_final.pdf"
+      },
+      {
+        "name": "Bureau of Immigration — Country/Territory Wise e-Visa Fee, e-Business / e-Medical / e-Medical Attendant / e-Conference (PDF, 15-April-2026)",
+        "url": "https://indianvisaonline.gov.in:443/evisa/images/eTV_revised_fee_final.pdf"
+      },
+      {
+        "name": "Indian Visa Online — Visa on Arrival",
+        "url": "https://indianvisaonline.gov.in/visa/visa-on-arrival.html"
+      },
+      {
+        "name": "Indian Visa Online — Visa provision (regular visa validity and extendability)",
+        "url": "https://indianvisaonline.gov.in/visa/visa-provision.html"
+      },
+      {
+        "name": "High Commission of India, Lilongwe — FAQs on e-Visa (portal FAQ: validity, application window)",
+        "url": "https://www.hcililongwe.gov.in/page/faqs-on-e-visa/"
+      },
+      {
+        "name": "Embassy of India, Muscat — Visa on Arrival (six airports, 60-day double entry)",
+        "url": "https://www.indemb-oman.gov.in/page/visa-on-arrival-issued-on-arrival-at-the-airport/"
+      },
+      {
+        "name": "All India Radio — India expands Visa-on-Arrival for UAE nationals (INR 2,000 fee, nine airports)",
+        "url": "https://newsonair.gov.in/india-expands-visa-on-arrival-for-uae-nationals-to-cochin-calicut-ahmedabad/"
+      },
+      {
+        "name": "Ministry of Foreign Affairs, Maldives — Visa information: India (Maldivian 90-day exemption, e-Arrival Card)",
+        "url": "https://foreign.gov.mv/index.php/en/consular/for-maldivian/visa-information/visa/india"
+      },
+      {
+        "name": "e-FRRO portal — exit permits and visa services in India",
+        "url": "https://indianfrro.gov.in"
+      }
+    ]
+  },
+  "FR": {
+    "checked": "2026-11-16",
+    "extension": "A short-stay visa cannot be extended as a rule. Under Article 33 of the Visa Code, it may be extended only on proof of force majeure or humanitarian reasons preventing departure (free of charge), or for serious personal reasons (a fee of €30 applies). The authority that decides is that of the Member State where you are present — in France, the préfecture of the place where you are staying.",
+    "overstay": "No official overstay tariff is published in the sources used here. Staying beyond the 90 days in any 180-day period, or beyond your visa, makes the stay illegal: under the Return Directive (2008/115/EC) the Member State must issue a return decision, which may be accompanied by an entry ban for the whole Schengen area, set case by case and normally no longer than five years.",
+    "portal": {
+      "name": "France-Visas — official visa portal",
+      "url": "https://france-visas.gouv.fr"
+    },
+    "routes": [
+      {
+        "documents": [
+          "A passport valid for the trip",
+          "Check the France-Visas wizard before you travel to confirm your nationality is visa-exempt for your purpose of stay"
+        ],
+        "fee": "Free — no visa, no application.",
+        "id": "visa-free",
+        "name": "Visa-free entry (Schengen)",
+        "notes": "France applies the Schengen-wide rule: the 90 days are shared across all Schengen states, so days spent in any other Schengen country count against the same 90-day allowance.",
+        "processing": "No application — entry at the border.",
+        "statuses": [
+          "F"
+        ],
+        "stay": "Up to 90 days in any 180-day period, counted across the whole Schengen area, not per country.",
+        "who": "Nationals of the countries in Annex II of Regulation (EU) 2018/1806 — including the United Kingdom, the United States, Canada, Australia, New Zealand, Japan, South Korea, Singapore, Brazil, Mexico and the EU/EEA states. Find your passport in the status table below."
+      },
+      {
+        "documents": [
+          "Complete the France-Visas wizard first — it generates the exact document checklist for your nationality and purpose of travel, and that list governs; do not rely on a generic list",
+          "Passport, valid for at least 3 months after your planned departure from the Schengen area, issued within the last 10 years, with at least 2 blank pages",
+          "France-Visas application form, completed online, printed and signed, with the receipt",
+          "Photo meeting ICAO standards",
+          "Travel medical insurance covering emergency care, hospitalisation and repatriation for the whole Schengen area and the full stay",
+          "Supporting documents for the purpose of the stay, means of subsistence, accommodation and intention to return, as the wizard lists for your case",
+          "Fingerprints are collected when you lodge the application (exemptions exist for specific categories)"
+        ],
+        "fee": "€90 for applicants aged 12 and over; €45 for children aged 6 to under 12; free for children under 6. In force since 11 June 2024 (Delegated Regulation (EU) 2024/1415). A separate service fee may apply at the visa application centre, and the visa fee itself is not refunded if the visa is refused.",
+        "id": "consular",
+        "name": "Short-stay Schengen visa",
+        "notes": "Lodge the application at the French consulate (or its visa application centre) for your place of residence; if you visit several Schengen states, apply to the country where you will spend the longest time. The fee, time limits and document rules are set at EU level and are the same for every Schengen state.",
+        "processing": "Decided within 15 calendar days of lodging an admissible application (Visa Code, Article 23), extendable to a maximum of 45 calendar days where further scrutiny is needed. Apply no earlier than 6 months and no later than 15 days before travel.",
+        "statuses": [
+          "R"
+        ],
+        "stay": "Up to 90 days in any 180-day period across the Schengen area. The visa is valid for the whole Schengen area.",
+        "who": "Nationals of the countries in Annex I of Regulation (EU) 2018/1806 — everyone who is not visa-exempt for France. France issues the uniform Schengen short-stay visa (type C) under the EU Visa Code, so the fee, time limits and document framework below are the Schengen-wide standard, not a France-only rule. Find your passport in the status table below."
+      }
+    ],
+    "sources": [
+      {
+        "name": "France-Visas — official visa portal",
+        "url": "https://france-visas.gouv.fr"
+      },
+      {
+        "name": "European Commission — Applying for a Schengen visa",
+        "url": "https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en"
+      },
+      {
+        "name": "Visa Code — Regulation (EC) No 810/2009 (consolidated text, EUR-Lex)",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02009R0810-20200202"
+      },
+      {
+        "name": "Commission Delegated Regulation (EU) 2024/1415 — visa fee €90 / €45",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1415"
+      },
+      {
+        "name": "Regulation (EU) 2018/1806 — visa-required and visa-exempt country lists",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:02018R1806-20250203"
+      },
+      {
+        "name": "Return Directive — Directive 2008/115/EC",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32008L0115"
+      }
+    ]
+  },
+  "TH": {
+    "checked": "2026-11-16",
+    "extension": "The Immigration Bureau charges THB 1,900 per extension application (form TM.7, with a 4 x 6 cm photograph). A visa-exempt entry for tourism can be extended once, by up to 30 days, under clause 2.4 of Immigration Bureau Order No. 327/2557; the extra days run from the day the current permission ends. Apply in person at an immigration office before the current stay expires.",
+    "overstay": "The Immigration Bureau (Division 1 FAQ) states the fine for overstaying is THB 500 per day, up to a maximum of THB 20,000. Overstaying can also bring detention, deportation and a re-entry ban under Ministry of Interior Order No. 1/2558, with the length depending on the overstay period and whether the traveller surrenders or is arrested.",
+    "portal": {
+      "name": "Thai e-Visa — official portal",
+      "url": "https://www.thaievisa.go.th"
+    },
+    "routes": [
+      {
+        "documents": [
+          "Valid passport",
+          "Onward travel ticket within 30 days",
+          "Proof of funds if asked (Thai embassies cite THB 10,000-20,000 per person)"
+        ],
+        "fee": "Free",
+        "id": "visa-free",
+        "name": "Visa-free entry",
+        "notes": "The 60-day exemption in force since July 2024 was revoked; from 15 September 2026 the exemption is 30 days for 60 countries and territories (Ministry of Interior announcements, Royal Gazette 31 August 2026). Mauritius and Seychelles get a separate 15-day exemption. All foreign nationals must also submit the free Thailand Digital Arrival Card (TDAC) at tdac.immigration.go.th within 3 days before arrival. Land-border entries under the exemption are generally limited to twice per calendar year.",
+        "processing": "Granted on arrival; no application",
+        "statuses": [
+          "F"
+        ],
+        "stay": "Up to 30 days",
+        "who": "Passport holders of 60 countries and territories, for tourism only"
+      },
+      {
+        "documents": [
+          "Passport valid at least 6 months",
+          "Completed visa-on-arrival application form (available at the checkpoint)",
+          "One recent photograph (4 x 6 cm)",
+          "Fully paid onward ticket within 15 days",
+          "Proof of funds (THB 10,000 per person or THB 20,000 per family)",
+          "Proof of accommodation in Thailand"
+        ],
+        "fee": "THB 2,000, cash, non-refundable",
+        "id": "voa",
+        "name": "Visa on arrival",
+        "notes": "Visa on arrival was cut from 31 countries to these three on 15 September 2026. The Royal Thai Embassy in London states it is generally not extendable, except where illness prevents travel; some guides state a VOA stay can be extended once for 30 days at an immigration office. TDAC submission is still required.",
+        "processing": "Issued on arrival at designated checkpoints",
+        "statuses": [
+          "A"
+        ],
+        "stay": "Up to 15 days",
+        "who": "Nationals of Azerbaijan, Belarus and Serbia (ordinary passports)"
+      },
+      {
+        "documents": [
+          "Biodata page of passport or travel document",
+          "Photograph taken within the last six months",
+          "Document indicating current location",
+          "Travel booking confirmation",
+          "Proof of accommodation in Thailand",
+          "Financial evidence of no less than THB 20,000 (e.g. bank statements for the last three months)"
+        ],
+        "fee": "Varies by visa category and by the Royal Thai Embassy or Consulate-General processing the application; no single fee is published on thaievisa.go.th",
+        "id": "evisa",
+        "name": "e-Visa",
+        "notes": "Apply only through the official portal thaievisa.go.th; all Thai embassies and consulates process applications through it. A tourist visa can be extended once by 30 days at an immigration office for THB 1,900. Check the relevant embassy or consulate website for any additional documents it requires.",
+        "processing": "Not officially published as a single processing time; set by the embassy or consulate handling the application",
+        "statuses": [
+          "E"
+        ],
+        "stay": "Up to 60 days per entry (Tourist Visa, category TR)",
+        "who": "Nationals who need a visa for tourism, including those not covered by the exemption or visa on arrival; apply online before travel"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Thai e-Visa — Official Website (Ministry of Foreign Affairs)",
+        "url": "https://www.thaievisa.go.th"
+      },
+      {
+        "name": "Thai e-Visa — Tourist Visas (required documents)",
+        "url": "https://www.thaievisa.go.th/visa/tourist-visa"
+      },
+      {
+        "name": "Immigration Bureau — overstay FAQ and extension Order 327/2557",
+        "url": "https://www.immigration.go.th/"
+      },
+      {
+        "name": "Thailand Digital Arrival Card (TDAC) — Immigration Bureau",
+        "url": "https://tdac.immigration.go.th/"
+      }
+    ]
+  },
+  "AU": {
+    "checked": "2026-11-16",
+    "extension": "There is no visa extension product. Home Affairs states: \"You must apply for a new visa if you want to stay longer in Australia.\" A new Visitor visa (subclass 600, Tourist stream) can be applied for from inside Australia (AUD 630) before the current visa expires, but only if the current visa does not carry a No Further Stay condition (8503, 8534, 8535 or 8540); if it does, a waiver must be sought first (Form 1447). From 28 November 2026 condition 8503 becomes mandatory on visitor visas applied for on or after that date, so onshore re-application will generally no longer be possible for those holders.",
+    "overstay": "Home Affairs publishes no overstay fine schedule. Staying in Australia without a valid visa is unlawful: the person cannot work, attend school or access Medicare, and may be detained and removed by the Australian Border Force and billed for the cost of removal. A person who leaves after being without a valid visa for more than 28 days may be refused another visa for up to 3 years, except in limited circumstances. Anyone whose visa has expired should contact the Immigration Status Resolution Service or apply for a Bridging visa E to arrange departure.",
+    "portal": {
+      "name": "Australian Department of Home Affairs — ImmiAccount",
+      "url": "https://immi.homeaffairs.gov.au"
+    },
+    "routes": [
+      {
+        "documents": [
+          "Valid New Zealand passport",
+          "Completed incoming passenger card",
+          "Meet health and character requirements"
+        ],
+        "fee": "No fee. The SCV is granted on arrival at no charge.",
+        "id": "visa-free",
+        "name": "Visa-free entry",
+        "notes": "Under the 1973 Trans-Tasman Travel Arrangement. SCV holders may live, work and study in Australia. From 1 July 2023, eligible SCV holders can apply directly for Australian citizenship by conferral after meeting residence requirements. New Zealand permanent residents travelling on another country's passport do not qualify.",
+        "processing": "Granted on arrival at the airport or seaport. No application before travel.",
+        "statuses": [
+          "F"
+        ],
+        "stay": "Indefinite while the Special Category visa (subclass 444) is in effect. The SCV is granted on arrival, ceases on departure, and a new SCV is granted on each re-entry. It is a temporary visa, not permanent residence.",
+        "who": "New Zealand citizens holding a valid New Zealand passport only. No other passport qualifies: all other passport holders need a visa before travelling to Australia."
+      },
+      {
+        "documents": [
+          "Valid eligible passport",
+          "ETA (601): application lodged only via the Australian ETA app; eVisitor (651): application lodged online via ImmiAccount",
+          "Payment method for the AUD 20 ETA service charge (card, Apple Pay or Google Pay); no payment for the eVisitor",
+          "Must be outside Australia when applying and when the visa is decided"
+        ],
+        "fee": "ETA (601): no visa application charge; an AUD 20 service charge applies for use of the Australian ETA app. eVisitor (651): free — no visa application charge and no service charge.",
+        "id": "eta",
+        "name": "ETA (subclass 601) / eVisitor (subclass 651)",
+        "notes": "For tourism or business visitor activities only; no work, and study or training up to 3 months only. From 28 November 2026, condition 8503 (No Further Stay) becomes mandatory for ETA and eVisitor applications made on or after that date (Migration Amendment (Preventing Further Stay for Visitor Visas) Regulations 2026, F2026L01503): the holder cannot be granted most other substantive visas while in Australia, other than a protection visa, unless the condition is waived. Visas already granted are not affected.",
+        "processing": "50% and 90% of recently decided ETA (601) and eVisitor (651) applications were finalised in under 1 day (Home Affairs global visa processing times, published 2 November 2026, for applications finalised to 30 September 2026). A guide only, not a commitment; most ETA decisions are given immediately in the app.",
+        "statuses": [
+          "T"
+        ],
+        "stay": "Up to 3 months per visit; multiple entries within a 12-month validity period, or until the passport expires, whichever is sooner.",
+        "who": "ETA (subclass 601): holders of ETA-eligible passports from 34 countries and jurisdictions. ETA-only passports, i.e. not eligible for the free eVisitor, are Brunei, Canada, Hong Kong (SAR of China), Japan, Malaysia, Singapore, South Korea, Taiwan (excluding official or diplomatic passports), the United States, and British National (Overseas) passports. eVisitor (subclass 651): holders of eligible European passports from 36 countries — the EU member states plus Andorra, Iceland, Liechtenstein, Monaco, Norway, San Marino, Switzerland, the United Kingdom (British Citizen only) and Vatican City. European passport holders who qualify for both should use the free eVisitor instead of the ETA. Non-citizen passports and certificates of identity are not eligible for either."
+      },
+      {
+        "documents": [
+          "Valid passport",
+          "Itemised personal bank statements for a 3-month period, plus pay slips, audited accounts, tax records, term deposits or credit card statements as applicable",
+          "Evidence of a genuine temporary visit: travel plans, an invitation letter from a relative or friend in Australia if applicable, and reasons to return home (employer letter, proof of study, immediate family at home, or property and other major assets)",
+          "Proof of enough money for the stay and to leave Australia; Home Affairs publishes no minimum bank balance",
+          "Apply online through ImmiAccount; for the offshore Tourist stream the applicant must be outside Australia when applying and when the decision is made"
+        ],
+        "fee": "Tourist stream: AUD 250 per applicant when applying outside Australia; AUD 630 when applying in Australia. Sponsored Family, Business Visitor and Approved Destination Status streams: AUD 250. Frequent Traveller stream: AUD 1,845. Charges in force from 1 July 2026. A subsequent temporary application charge of AUD 700 can apply to onshore applications depending on visa history. Charges are not refunded on refusal.",
+        "id": "consular",
+        "name": "Visitor visa (subclass 600)",
+        "notes": "No work; study or training up to 3 months only. From 28 November 2026, condition 8503 (No Further Stay) is mandatory for Visitor visa applications made on or after that date (F2026L01503): the holder cannot be granted most other substantive visas while in Australia, other than a protection visa, unless the condition is waived. Visas already granted are not affected.",
+        "processing": "Tourist stream (Home Affairs global visa processing times, published 2 November 2026, for applications finalised to 30 September 2026): 50% decided within 21 days, 90% within 31 days. These are percentiles of recently decided applications — a guide only, not a commitment or service standard.",
+        "statuses": [
+          "R"
+        ],
+        "stay": "Tourist stream: generally 3 months, up to 12 months in certain circumstances, decided case by case. Parents of Australian citizens or permanent residents may be granted validity over 12 months but cannot stay more than 12 months in total in any 18-month period. Frequent Traveller stream: up to 3 months per visit, visa valid up to 10 years, with no more than 12 months in Australia in total in any 24-month period.",
+        "who": "All other passport holders, including nationals not eligible for an ETA or eVisitor, and ETA/eVisitor-eligible travellers who need a stay longer than 3 months per visit or have a criminal conviction or other complicating factor. Tourist stream (outside Australia) is the standard route. The Frequent Traveller stream is only for passport holders of China, Brunei, Cambodia, the Philippines, Laos, Indonesia, Malaysia, Singapore, Thailand, Vietnam and Timor-Leste (11 countries)."
+      }
+    ],
+    "sources": [
+      {
+        "name": "Department of Home Affairs — Visitor visa (subclass 600)",
+        "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/visitor-600"
+      },
+      {
+        "name": "Department of Home Affairs — Tourist stream (apply outside Australia)",
+        "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/visitor-600/tourist-stream-overseas"
+      },
+      {
+        "name": "Department of Home Affairs — Electronic Travel Authority (subclass 601)",
+        "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601"
+      },
+      {
+        "name": "Department of Home Affairs — eVisitor (subclass 651)",
+        "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/evisitor-651"
+      },
+      {
+        "name": "Department of Home Affairs — Fees and charges",
+        "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/fees-and-charges"
+      },
+      {
+        "name": "Department of Home Affairs — Global visa processing times",
+        "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-processing-times/global-visa-processing-times?visatype=600"
+      },
+      {
+        "name": "Department of Home Affairs — New Zealand citizens",
+        "url": "https://immi.homeaffairs.gov.au:443/entering-and-leaving-australia/new-zealand-citizens/overview?TermStoreId=1cafda66-8aac-4a45-95fa-3e03872913b6&TermSetId=a76074c9-979d-4db3-adcc-34af89495da2&TermId=5e2aaca8-d1bc-409d-93c3-591818751b1d"
+      },
+      {
+        "name": "Department of Home Affairs — Stay longer",
+        "url": "https://immi.homeaffairs.gov.au/Visa-subsite/Pages/extend-expired-visas/stay-longer.aspx"
+      },
+      {
+        "name": "Department of Home Affairs — If you don't have a valid visa",
+        "url": "https://immi.homeaffairs.gov.au/visas/visa-about-to-expire/if-you-dont-have-a-valid-visa?TermStoreId=1cafda66-8aac-4a45-95fa-3e03872913b6&TermSetId=a76074c9-979d-4db3-adcc-34af89495da2&TermId=8ba38fd3-ae34-4dd0-9d4b-aeab3276a734"
+      },
+      {
+        "name": "Department of Home Affairs — Condition 8503 (No Further Stay)",
+        "url": "https://immi.homeaffairs.gov.au/help-text/conditions/Pages/8503.aspx"
+      },
+      {
+        "name": "Federal Register of Legislation — Migration Amendment (Preventing Further Stay for Visitor Visas) Regulations 2026 (F2026L01503)",
+        "url": "https://www.legislation.gov.au/F2026L01503/asmade"
+      }
+    ]
+  }
+}
