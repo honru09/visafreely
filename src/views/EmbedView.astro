@@ -447,16 +447,24 @@ const PAYLOAD = {
         var pr0 = curPair();
         embedEvent('embed_load', pr0[0], pr0[1]);
         send(qs('&r=' + encodeURIComponent(document.referrer || '')));
-        var t0 = Date.now(), sent = false;
+        // Dwell (Bug 20): cumulative visible time, same as Base.astro —
+        // visibilitychange only banks the visible slice into acc, and the
+        // dur event fires once on pagehide, so time after switching back
+        // to the tab is counted too (old single-point t0 sent on the
+        // first hide and locked, losing all later visible time).
+        var acc = 0, visSince = document.visibilityState === 'hidden' ? 0 : Date.now(), sent = false;
         function dwell() {
           if (sent) return;
-          var d = Math.round((Date.now() - t0) / 1000);
+          var t = acc + (visSince ? Date.now() - visSince : 0);
+          var d = Math.round(t / 1000);
           if (d < 2) return;
           sent = true;
           send(qs('&e=dur&d=' + d));
         }
         document.addEventListener('visibilitychange', function () {
-          if (document.visibilityState === 'hidden') dwell();
+          if (document.visibilityState === 'hidden') {
+            if (visSince) { acc += Date.now() - visSince; visSince = 0; }
+          } else if (!visSince) { visSince = Date.now(); }
         });
         window.addEventListener('pagehide', dwell);
       })();
