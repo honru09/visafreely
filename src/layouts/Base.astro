@@ -1109,6 +1109,9 @@ const footerDestinations = ['thailand', 'japan', 'united-states', 'france', 'uni
         .shelf .qrow .q-ic svg { width: 17px; height: 17px; }
         .shelf .qrow .q-name { font-size: 15px; font-weight: 700; }
         .shelf .qrow .q-sub { font-size: 12.5px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+        /* Volward row (2026-11-17): the honesty line (temporary proof, 48h,
+           not boardable) must never truncate — its sub wraps instead. */
+        .shelf .qrow .q-sub--wrap { white-space: normal; overflow: visible; text-overflow: clip; }
         .honest-line { font-size: 12.5px; margin-top: 10px; }
 
         /* home + hub blocks */
