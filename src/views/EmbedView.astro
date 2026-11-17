@@ -230,6 +230,7 @@ const PAYLOAD = {
         var MONTHS_EN = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
         var TH_MONTHS = ['มกราคม', 'กุมภาพันธ์', 'มีนาคม', 'เมษายน', 'พฤษภาคม', 'มิถุนายน', 'กรกฎาคม', 'สิงหาคม', 'กันยายน', 'ตุลาคม', 'พฤศจิกายน', 'ธันวาคม'];
         var idx = null;
+        var interacted = false;
         function esc(s) {
           return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
         }
@@ -252,6 +253,18 @@ const PAYLOAD = {
         function hint(msg) {
           out.innerHTML = '<p class="vf-hint">' + esc(msg) + '</p>';
         }
+        // Widget analytics (v24): a check counts only once the visitor has
+        // actually touched the selects — the preselect auto-render on load
+        // is not a query. __vfEmbed/__VF_ATTR are installed by the beacon
+        // script below; both are read lazily, at interaction time.
+        function fireCheck(p, d) {
+          if (!interacted) return;
+          if (window.__vfEmbed) window.__vfEmbed('embed_check', p.code, d.code);
+        }
+        function outUrl(u) {
+          var attr = window.__VF_ATTR || 'src=widget';
+          return u + (u.indexOf('?') === -1 ? '?' : '&') + attr;
+        }
         function check() {
           var p = chosen(selP), d = chosen(selD);
           if (!p || !d) {
@@ -263,6 +276,7 @@ const PAYLOAD = {
               '<div class="vf-verdict"><p class="vf-route">' + esc(fill(STR.route, { p: p.name, d: d.name })) + '</p>' +
               '<div class="vf-big">' + esc(STR.ownBig) + '</div>' +
               '<div class="vf-sub">' + esc(STR.ownSub) + '</div></div>';
+            fireCheck(p, d);
             return;
           }
           if (!idx) {
@@ -274,6 +288,7 @@ const PAYLOAD = {
           });
           if (!row) {
             hint(STR.nodata);
+            fireCheck(p, d);
             return;
           }
           var code = row[1], days = row[2];
@@ -294,8 +309,9 @@ const PAYLOAD = {
             (days ? esc(fill(STR.stay, { days: days })) : esc(STR.staySee)) +
             '</div>' +
             stamp +
-            '<div class="vf-cta"><a href="' + SITE + '/visa/' + p.slug + '/' + d.slug + '/?from=embed" target="_blank" rel="noopener">' + esc(STR.cta) + '</a></div>' +
+            '<div class="vf-cta"><a href="' + outUrl(SITE + '/visa/' + p.slug + '/' + d.slug + '/?from=embed') + '" target="_blank" rel="noopener">' + esc(STR.cta) + '</a></div>' +
             '</div>';
+          fireCheck(p, d);
         }
         // Optional preselect: /embed/?p=JP&d=TH (2-letter codes or slugs).
         (function preselect() {
@@ -314,10 +330,17 @@ const PAYLOAD = {
           set(selP, q.get('p'));
           set(selD, q.get('d'));
         })();
-        selP.addEventListener('change', check);
-        selD.addEventListener('change', check);
+        selP.addEventListener('change', function () {
+          interacted = true;
+          check();
+        });
+        selD.addEventListener('change', function () {
+          interacted = true;
+          check();
+        });
         document.getElementById('vf-form').addEventListener('submit', function (ev) {
           ev.preventDefault();
+          interacted = true;
           check();
         });
         fetch('/check.json')
@@ -333,16 +356,31 @@ const PAYLOAD = {
           });
       })();
     </script>
-    <script is:inline>
+    <script is:inline define:vars={{ locale }}>
       /* site-stats beacon — same shape as the main site's (Base.astro):
          pageview on load, dwell on exit, anonymous visitor/session ids.
          p is this frame's own path (/embed/ or a locale variant); the
          referrer inside an iframe is the embedding page, which is exactly
          the attribution B9 needs. Storage can be blocked in third-party
          frames — every access is guarded, and the beacon degrades to
-         anonymous sends. */
+         anonymous sends.
+         Widget analytics (v24): embed_load / embed_check / embed_outbound
+         events carry partner = the embedding page's hostname (from
+         document.referrer), and every link into the main site is decorated
+         with src=widget&partner=<host> so the landing session attributes
+         back to the partner. The internal-traffic flag follows the main
+         site's rule exactly: ?vf_internal=1 sticks in localStorage, and
+         flagged sessions send int=1 (the backend drops them pre-storage). */
       (function () {
         var B = 'https://honru09--site-stats-web.us-east.modal.run/track?s=visafreely';
+        function sget(k, s) {
+          try { return s.getItem(k); } catch (e) { return null; }
+        }
+        function sput(k, v, s) {
+          try { s.setItem(k, v); } catch (e) {}
+        }
+        if (/[?&]vf_internal=1/.test(location.search)) sput('vf_internal', '1', window.localStorage);
+        var INT = sget('vf_internal', window.localStorage) === '1';
         function gid(k, s) {
           try {
             var v = s.getItem(k);
@@ -358,7 +396,8 @@ const PAYLOAD = {
         var vid = gid('vf_vid', window.localStorage), sid = gid('vf_sid', window.sessionStorage);
         function qs(extra) {
           return B + '&p=' + encodeURIComponent(location.pathname) + extra +
-            (vid ? '&v=' + encodeURIComponent(vid) : '') + (sid ? '&ss=' + encodeURIComponent(sid) : '');
+            (vid ? '&v=' + encodeURIComponent(vid) : '') + (sid ? '&ss=' + encodeURIComponent(sid) : '') +
+            (INT ? '&int=1' : '');
         }
         function send(u) {
           if (navigator.sendBeacon) {
@@ -366,6 +405,47 @@ const PAYLOAD = {
           }
           var i = new Image(); i.src = u;
         }
+        var PARTNER = '';
+        try { PARTNER = new URL(document.referrer).hostname || ''; } catch (e) {}
+        var ATTR = 'src=widget' + (PARTNER ? '&partner=' + PARTNER : '');
+        window.__VF_ATTR = ATTR;
+        var q0 = new URLSearchParams(location.search);
+        function curPair() {
+          var sp = document.getElementById('vf-passport'), sd = document.getElementById('vf-destination');
+          return [
+            (sp && sp.value) || q0.get('p') || '',
+            (sd && sd.value) || q0.get('d') || '',
+          ];
+        }
+        function embedEvent(name, pc, dc) {
+          var extra = '&e=' + name + '&l=' + encodeURIComponent(locale) +
+            '&r=' + encodeURIComponent(document.referrer || '');
+          if (PARTNER) extra += '&partner=' + encodeURIComponent(PARTNER);
+          if (name === 'embed_outbound') extra += '&src=widget';
+          if (pc) extra += '&ep=' + encodeURIComponent(pc);
+          if (dc) extra += '&ed=' + encodeURIComponent(dc);
+          send(qs(extra));
+        }
+        window.__vfEmbed = embedEvent;
+        // Decorate the static footer links (Powered by / Get this widget).
+        var foot = document.querySelectorAll('.vf-foot a');
+        for (var i = 0; i < foot.length; i++) {
+          var h = foot[i].getAttribute('href') || '';
+          if (h.indexOf('https://visafreely.com') === 0) {
+            foot[i].setAttribute('href', h + (h.indexOf('?') === -1 ? '?' : '&') + ATTR);
+          }
+        }
+        // A click on any link into the main site is an outbound.
+        document.addEventListener('click', function (e) {
+          var a = e.target && e.target.closest ? e.target.closest('a[href]') : null;
+          if (!a) return;
+          var href = a.getAttribute('href') || '';
+          if (href.indexOf('https://visafreely.com') !== 0) return;
+          var pr = curPair();
+          embedEvent('embed_outbound', pr[0], pr[1]);
+        }, true);
+        var pr0 = curPair();
+        embedEvent('embed_load', pr0[0], pr0[1]);
         send(qs('&r=' + encodeURIComponent(document.referrer || '')));
         var t0 = Date.now(), sent = false;
         function dwell() {
