@@ -436,11 +436,18 @@ const PAYLOAD = {
           }
         }
         // A click on any link into the main site is an outbound.
+        // Dedup (same as Base.astro): a rapid double-click on one link
+        // sends one embed_outbound — the backend does not dedup embed
+        // events, so the second click inside 800ms is dropped here.
+        var lastClk = new WeakMap();
         document.addEventListener('click', function (e) {
           var a = e.target && e.target.closest ? e.target.closest('a[href]') : null;
           if (!a) return;
           var href = a.getAttribute('href') || '';
           if (href.indexOf('https://visafreely.com') !== 0) return;
+          var now = Date.now(), prev = lastClk.get(a) || 0;
+          if (now - prev < 800) return;
+          lastClk.set(a, now);
           var pr = curPair();
           embedEvent('embed_outbound', pr[0], pr[1]);
         }, true);
