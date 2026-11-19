@@ -11,6 +11,7 @@ import Base from '../layouts/Base.astro';
 import Shelf from '../components/Shelf.astro';
 import guidesRaw from '../data/destination-guides.json';
 import evisasCampaigns from '../data/evisas-campaigns.json';
+import c4NoindexRaw from '../data/c4-noindex.json';
 import Stamp from '../components/Stamp.astro';
 import ShareRow from '../components/ShareRow.astro';
 import ExploreStrip from '../components/ExploreStrip.astro';
@@ -57,6 +58,13 @@ const pName = countryName(locale, p);
 const dName = countryName(locale, d);
 const fmtDate = (iso: string) => (locale === 'en' ? formatDateLong(iso) : formatDateL(locale, iso));
 
+// C-4 (2026-11-19, user-approved): noindex for the 1,184 no-note EN pairs
+// on the approved list (src/data/c4-noindex.json, from
+// indexation-push-2026-11-15/C4-LIST-20261116.md). English pages only;
+// localized versions of the same pair stay indexable. Sitemap and
+// internal links are untouched.
+const C4_NOINDEX = new Set(c4NoindexRaw as string[]);
+const c4Noindex = locale === 'en' && C4_NOINDEX.has(`${p.code}:${d.code}`);
 const barSid = (evisasCampaigns as Record<string, string>)[`${p.code}:${d.code}`];
 const evisasBarHref = barSid ? `https://evisas.com/?ref=visafreely&sid=${barSid}` : 'https://evisas.com/?ref=visafreely';
 const extra = pairExtra(p.code, d.code);
@@ -128,7 +136,7 @@ const subStr = {
 };
 ---
 
-<Base title={title} description={description} locale={locale}>
+<Base title={title} description={description} locale={locale} noindex={c4Noindex}>
   <script type="application/ld+json" set:html={JSON.stringify(breadcrumbLd)} />
   <script type="application/ld+json" set:html={JSON.stringify(faqLd)} />
 
