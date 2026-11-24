@@ -52,6 +52,13 @@ const volwardHref = 'https://volward.com?ref=visafreely-053d';
 // eSIM fallback layer — Airalo stays the primary eSIM row, Saily sits
 // after it. (Replaced SimOptions on 2026-11-22, Q-29.)
 const sailyHref = 'https://saily.tpx.lt/vuDmE9qW';
+// Nomad eSIM (Impact tracking link, verified in the Impact dashboard
+// 2026-11-24: 10% new customers / 5% returning, 30-day last-click
+// attribution). Centralised like sailyHref. Position: third eSIM row —
+// Airalo stays the primary eSIM row, Saily the fallback; Nomad sits after
+// Saily as the price-anchor option (Japan fixed-data plans are its cheap
+// spot). Added 2026-11-24.
+const nomadHref = 'https://lotusflareinc.pxf.io/c/8041474/2915870/34279';
 const isVisa = status === 'R' || status === 'E';
 const quick = pos === 'bottom';
 const headings: Record<string, string> = {
@@ -281,6 +288,24 @@ const cutNote = ins ? insuranceTextL(locale, ins, 'cutNote') : null;
       <span class="q-main">
         <span class="q-name">Saily</span>
         <span class="q-sub q-sub--wrap">{T('shelf_q_saily_sub')}</span>
+      </span>
+      <span class="partner-tag">{T('partner_tag')}</span>
+      <span class="q-arr" aria-hidden="true">→</span>
+    </a>
+    <!-- Nomad (added 2026-11-24): prepaid eSIM third row —
+         compact quick row only, same pattern as Saily. Airalo stays the
+         primary eSIM offer and Saily the fallback; Nomad sits after Saily
+         as the price-anchor option. The sub states facts only (200+
+         destinations, Japan 10GB/30-day plans from $16, Nov 2026) and
+         wraps (q-sub--wrap) so the facts can never be ellipsis-truncated
+         on mobile. -->
+    <a class="qrow" data-offer={`nomad-${pos}`} href={nomadHref} rel="sponsored nofollow noopener" target="_blank">
+      <span class="q-ic" aria-hidden="true">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none"><circle cx="12" cy="12" r="8.6" stroke="currentColor" stroke-width="1.9"/><ellipse cx="12" cy="12" rx="3.9" ry="8.6" stroke="currentColor" stroke-width="1.9"/><path d="M3.6 9.4h16.8M3.6 14.6h16.8" stroke="currentColor" stroke-width="1.9"/></svg>
+      </span>
+      <span class="q-main">
+        <span class="q-name">Nomad</span>
+        <span class="q-sub q-sub--wrap">{T('shelf_q_nomad_sub')}</span>
       </span>
       <span class="partner-tag">{T('partner_tag')}</span>
       <span class="q-arr" aria-hidden="true">→</span>
