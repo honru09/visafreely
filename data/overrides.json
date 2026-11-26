@@ -207,10 +207,10 @@
  },
  "KR:QA": {
   "status": "visa free",
-  "reason": "Qatar renamed its on-arrival waiver “visa-free entry” (Visit Qatar FAQ: “Nothing changed except the name”); this passport is in the 30-day waiver group (extendable by 30 days).",
-  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas",
-  "date": "2026-10-25",
-  "days": 30
+  "days": 90,
+  "reason": "MOI free 90-day on-arrival visa group includes South Korea; previously recorded in the 30-day group.",
+  "source": "https://portal.moi.gov.qa/wps/portal/MOIInternet/departmentcommittees/ganationalborderexpatriateaffairs/!ut/p/a1/rZLLTsMwEEW_hUWWwRMnbRN2aXn0ARSUIkg2aJxMUkuNEznD8-tJC2IFVJXwyh4dz51rX5GJB5EZfNYVsm4MbrbnbPh4HUHsRUtYLCfRWb-NF6vl9EYmsRT3IhNZbrjltUhf8nqjlasNkzXELhkHOnQLatFyTYbzpq41M5EDFRmyuMGi1kZ3bHeKTWm-lDW_qcYWZDs0Bb22yFYjE5Ylats5kEs5jGAr3ua6EOkoAoygLNxcDtENfA9cpEC6mPtAVCpP5qp3k_ZuZnEYTD3wFuEUQoiT1Xw1Xk4kgLfPbNrfH_0K3AYiOXCgPQ29_244OrjhfG8AxiJLz2dPafWZhZ6eT09n4CewuLgc-v0DX15N5OQWIBx8AX_9wA6AX1YM24GqTaN22Uxjo_ywEpmlkizZ4yfbl9fM7YkDDryoPokdg3TgJ3jddCweviGRkHm8S0Rb16H_5qIKwR-0z-837Vl5xQMVxEdHH7thNxo!/?1dmy&urile=wcm%3Apath%3A%2Fwcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2F937038a1-7068-4e28-9743-afcf845c3706",
+  "date": "2026-11-23"
  },
  "JP:QA": {
   "status": "visa free",
@@ -3378,10 +3378,10 @@
  },
  "AR:QA": {
   "status": "visa free",
-  "days": 30,
-  "reason": "Qatar renamed its on-arrival waiver “visa-free entry” (Visit Qatar FAQ: “Nothing changed except the name”); this passport is in the 30-day waiver group (extendable by 30 days).",
-  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas",
-  "date": "2026-10-25"
+  "days": 90,
+  "reason": "MOI free 90-day on-arrival visa group includes Argentina; previously recorded in the 30-day group.",
+  "source": "https://portal.moi.gov.qa/wps/portal/MOIInternet/departmentcommittees/ganationalborderexpatriateaffairs/!ut/p/a1/rZLLTsMwEEW_hUWWwRMnbRN2aXn0ARSUIkg2aJxMUkuNEznD8-tJC2IFVJXwyh4dz51rX5GJB5EZfNYVsm4MbrbnbPh4HUHsRUtYLCfRWb-NF6vl9EYmsRT3IhNZbrjltUhf8nqjlasNkzXELhkHOnQLatFyTYbzpq41M5EDFRmyuMGi1kZ3bHeKTWm-lDW_qcYWZDs0Bb22yFYjE5Ylats5kEs5jGAr3ua6EOkoAoygLNxcDtENfA9cpEC6mPtAVCpP5qp3k_ZuZnEYTD3wFuEUQoiT1Xw1Xk4kgLfPbNrfH_0K3AYiOXCgPQ29_244OrjhfG8AxiJLz2dPafWZhZ6eT09n4CewuLgc-v0DX15N5OQWIBx8AX_9wA6AX1YM24GqTaN22Uxjo_ywEpmlkizZ4yfbl9fM7YkDDryoPokdg3TgJ3jddCweviGRkHm8S0Rb16H_5qIKwR-0z-837Vl5xQMVxEdHH7thNxo!/?1dmy&urile=wcm%3Apath%3A%2Fwcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2F937038a1-7068-4e28-9743-afcf845c3706",
+  "date": "2026-11-23"
  },
  "AZ:QA": {
   "status": "visa free",
@@ -3391,11 +3391,11 @@
   "date": "2026-10-25"
  },
  "BY:QA": {
-  "status": "visa free",
+  "status": "visa on arrival",
   "days": 30,
-  "reason": "Qatar renamed its on-arrival waiver “visa-free entry” (Visit Qatar FAQ: “Nothing changed except the name”); this passport is in the 30-day waiver group (extendable by 30 days).",
-  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas",
-  "date": "2026-10-25"
+  "reason": "MOI lists a 30-day on-arrival tourist/business visa for a fee for Belarus nationals (not a free waiver); Visit Qatar tourist-visa list also includes Belarus.",
+  "source": "https://portal.moi.gov.qa/wps/portal/MOIInternet/departmentcommittees/ganationalborderexpatriateaffairs/!ut/p/a1/rZLLTsMwEEW_hUWWwRMnbRN2aXn0ARSUIkg2aJxMUkuNEznD8-tJC2IFVJXwyh4dz51rX5GJB5EZfNYVsm4MbrbnbPh4HUHsRUtYLCfRWb-NF6vl9EYmsRT3IhNZbrjltUhf8nqjlasNkzXELhkHOnQLatFyTYbzpq41M5EDFRmyuMGi1kZ3bHeKTWm-lDW_qcYWZDs0Bb22yFYjE5Ylats5kEs5jGAr3ua6EOkoAoygLNxcDtENfA9cpEC6mPtAVCpP5qp3k_ZuZnEYTD3wFuEUQoiT1Xw1Xk4kgLfPbNrfH_0K3AYiOXCgPQ29_244OrjhfG8AxiJLz2dPafWZhZ6eT09n4CewuLgc-v0DX15N5OQWIBx8AX_9wA6AX1YM24GqTaN22Uxjo_ywEpmlkizZ4yfbl9fM7YkDDryoPokdg3TgJ3jddCweviGRkHm8S0Rb16H_5qIKwR-0z-837Vl5xQMVxEdHH7thNxo!/?1dmy&urile=wcm%3Apath%3A%2Fwcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2F937038a1-7068-4e28-9743-afcf845c3706",
+  "date": "2026-11-23"
  },
  "BO:QA": {
   "status": "visa free",
@@ -3413,10 +3413,10 @@
  },
  "BR:QA": {
   "status": "visa free",
-  "days": 30,
-  "reason": "Qatar renamed its on-arrival waiver “visa-free entry” (Visit Qatar FAQ: “Nothing changed except the name”); this passport is in the 30-day waiver group (extendable by 30 days).",
-  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas",
-  "date": "2026-10-25"
+  "days": 90,
+  "reason": "MOI free 90-day on-arrival visa group includes Brazil; previously recorded in the 30-day group.",
+  "source": "https://portal.moi.gov.qa/wps/portal/MOIInternet/departmentcommittees/ganationalborderexpatriateaffairs/!ut/p/a1/rZLLTsMwEEW_hUWWwRMnbRN2aXn0ARSUIkg2aJxMUkuNEznD8-tJC2IFVJXwyh4dz51rX5GJB5EZfNYVsm4MbrbnbPh4HUHsRUtYLCfRWb-NF6vl9EYmsRT3IhNZbrjltUhf8nqjlasNkzXELhkHOnQLatFyTYbzpq41M5EDFRmyuMGi1kZ3bHeKTWm-lDW_qcYWZDs0Bb22yFYjE5Ylats5kEs5jGAr3ua6EOkoAoygLNxcDtENfA9cpEC6mPtAVCpP5qp3k_ZuZnEYTD3wFuEUQoiT1Xw1Xk4kgLfPbNrfH_0K3AYiOXCgPQ29_244OrjhfG8AxiJLz2dPafWZhZ6eT09n4CewuLgc-v0DX15N5OQWIBx8AX_9wA6AX1YM24GqTaN22Uxjo_ywEpmlkizZ4yfbl9fM7YkDDryoPokdg3TgJ3jddCweviGRkHm8S0Rb16H_5qIKwR-0z-837Vl5xQMVxEdHH7thNxo!/?1dmy&urile=wcm%3Apath%3A%2Fwcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2F937038a1-7068-4e28-9743-afcf845c3706",
+  "date": "2026-11-23"
  },
  "BN:QA": {
   "status": "visa free",
@@ -3503,11 +3503,11 @@
   "date": "2026-10-25"
  },
  "MO:QA": {
-  "status": "visa free",
+  "status": "visa on arrival",
   "days": 30,
-  "reason": "Qatar renamed its on-arrival waiver “visa-free entry” (Visit Qatar FAQ: “Nothing changed except the name”); this passport is in the 30-day waiver group (extendable by 30 days).",
-  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas",
-  "date": "2026-10-25"
+  "reason": "MOI Qatar-Oman Joint on-Arrival Tourist Visa group (30 days, QR 100 fee) includes Macau; Visit Qatar tourist-visa list also includes Macao.",
+  "source": "https://portal.moi.gov.qa/wps/portal/MOIInternet/departmentcommittees/ganationalborderexpatriateaffairs/!ut/p/a1/rZLLTsMwEEW_hUWWwRMnbRN2aXn0ARSUIkg2aJxMUkuNEznD8-tJC2IFVJXwyh4dz51rX5GJB5EZfNYVsm4MbrbnbPh4HUHsRUtYLCfRWb-NF6vl9EYmsRT3IhNZbrjltUhf8nqjlasNkzXELhkHOnQLatFyTYbzpq41M5EDFRmyuMGi1kZ3bHeKTWm-lDW_qcYWZDs0Bb22yFYjE5Ylats5kEs5jGAr3ua6EOkoAoygLNxcDtENfA9cpEC6mPtAVCpP5qp3k_ZuZnEYTD3wFuEUQoiT1Xw1Xk4kgLfPbNrfH_0K3AYiOXCgPQ29_244OrjhfG8AxiJLz2dPafWZhZ6eT09n4CewuLgc-v0DX15N5OQWIBx8AX_9wA6AX1YM24GqTaN22Uxjo_ywEpmlkizZ4yfbl9fM7YkDDryoPokdg3TgJ3jddCweviGRkHm8S0Rb16H_5qIKwR-0z-837Vl5xQMVxEdHH7thNxo!/?1dmy&urile=wcm%3Apath%3A%2Fwcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2F937038a1-7068-4e28-9743-afcf845c3706",
+  "date": "2026-11-23"
  },
  "MV:QA": {
   "status": "visa free",
@@ -3567,10 +3567,10 @@
  },
  "RU:QA": {
   "status": "visa free",
-  "days": 30,
-  "reason": "Qatar renamed its on-arrival waiver “visa-free entry” (Visit Qatar FAQ: “Nothing changed except the name”); this passport is in the 30-day waiver group (extendable by 30 days).",
-  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas",
-  "date": "2026-10-25"
+  "days": 90,
+  "reason": "MOI free 90-day on-arrival visa group includes Russia; previously recorded in the 30-day group.",
+  "source": "https://portal.moi.gov.qa/wps/portal/MOIInternet/departmentcommittees/ganationalborderexpatriateaffairs/!ut/p/a1/rZLLTsMwEEW_hUWWwRMnbRN2aXn0ARSUIkg2aJxMUkuNEznD8-tJC2IFVJXwyh4dz51rX5GJB5EZfNYVsm4MbrbnbPh4HUHsRUtYLCfRWb-NF6vl9EYmsRT3IhNZbrjltUhf8nqjlasNkzXELhkHOnQLatFyTYbzpq41M5EDFRmyuMGi1kZ3bHeKTWm-lDW_qcYWZDs0Bb22yFYjE5Ylats5kEs5jGAr3ua6EOkoAoygLNxcDtENfA9cpEC6mPtAVCpP5qp3k_ZuZnEYTD3wFuEUQoiT1Xw1Xk4kgLfPbNrfH_0K3AYiOXCgPQ29_244OrjhfG8AxiJLz2dPafWZhZ6eT09n4CewuLgc-v0DX15N5OQWIBx8AX_9wA6AX1YM24GqTaN22Uxjo_ywEpmlkizZ4yfbl9fM7YkDDryoPokdg3TgJ3jddCweviGRkHm8S0Rb16H_5qIKwR-0z-837Vl5xQMVxEdHH7thNxo!/?1dmy&urile=wcm%3Apath%3A%2Fwcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2F937038a1-7068-4e28-9743-afcf845c3706",
+  "date": "2026-11-23"
  },
  "RW:QA": {
   "status": "visa free",
@@ -3588,10 +3588,10 @@
  },
  "ZA:QA": {
   "status": "visa free",
-  "days": 30,
-  "reason": "Qatar renamed its on-arrival waiver “visa-free entry” (Visit Qatar FAQ: “Nothing changed except the name”); this passport is in the 30-day waiver group (extendable by 30 days).",
-  "source": "https://visitqatar.com/intl-en/plan-your-trip/visas",
-  "date": "2026-10-25"
+  "days": 90,
+  "reason": "MOI free 90-day on-arrival visa group includes South Africa; previously recorded in the 30-day group.",
+  "source": "https://portal.moi.gov.qa/wps/portal/MOIInternet/departmentcommittees/ganationalborderexpatriateaffairs/!ut/p/a1/rZLLTsMwEEW_hUWWwRMnbRN2aXn0ARSUIkg2aJxMUkuNEznD8-tJC2IFVJXwyh4dz51rX5GJB5EZfNYVsm4MbrbnbPh4HUHsRUtYLCfRWb-NF6vl9EYmsRT3IhNZbrjltUhf8nqjlasNkzXELhkHOnQLatFyTYbzpq41M5EDFRmyuMGi1kZ3bHeKTWm-lDW_qcYWZDs0Bb22yFYjE5Ylats5kEs5jGAr3ua6EOkoAoygLNxcDtENfA9cpEC6mPtAVCpP5qp3k_ZuZnEYTD3wFuEUQoiT1Xw1Xk4kgLfPbNrfH_0K3AYiOXCgPQ29_244OrjhfG8AxiJLz2dPafWZhZ6eT09n4CewuLgc-v0DX15N5OQWIBx8AX_9wA6AX1YM24GqTaN22Uxjo_ywEpmlkizZ4yfbl9fM7YkDDryoPokdg3TgJ3jddCweviGRkHm8S0Rb16H_5qIKwR-0z-837Vl5xQMVxEdHH7thNxo!/?1dmy&urile=wcm%3Apath%3A%2Fwcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2F937038a1-7068-4e28-9743-afcf845c3706",
+  "date": "2026-11-23"
  },
  "SR:QA": {
   "status": "visa free",
@@ -59632,5 +59632,18 @@
   "source": "https://www.immigration.govt.nz/assets/inz/documents/amendment-circulars/Amendment-Circular-2026-35.pdf",
   "date": "2026-11-16",
   "valid_until": "2027-02-11"
+ },
+ "XK:TH": {
+  "status": "e-visa",
+  "reason": "Correction 2026-11-19: Kosovo is on none of Thailand's exemption lists — not the MFA 60-country 30-day list (15 Sep 2026), not the 15-day tier (Mauritius/Seychelles only), not Visa on Arrival (Azerbaijan/Belarus/Serbia only) — and no bilateral exemption applies. The seed's 60-day visa-free figure was never verified and is wrong. Thai e-Visa (thaievisa.go.th) is the channel.",
+  "source": "https://www.tatnews.org/2026/09/thailand-introduces-new-30-day-and-15-day-visa-exemption-rules-from-15-september/",
+  "date": "2026-11-19"
+ },
+ "UA:QA": {
+  "status": "visa on arrival",
+  "days": 90,
+  "reason": "MOI lists a free on-arrival tourist visa for a maximum of 90 days for Ukrainian nationals; previously recorded as 30 days.",
+  "source": "https://portal.moi.gov.qa/wps/portal/MOIInternet/departmentcommittees/ganationalborderexpatriateaffairs/!ut/p/a1/rZLLTsMwEEW_hUWWwRMnbRN2aXn0ARSUIkg2aJxMUkuNEznD8-tJC2IFVJXwyh4dz51rX5GJB5EZfNYVsm4MbrbnbPh4HUHsRUtYLCfRWb-NF6vl9EYmsRT3IhNZbrjltUhf8nqjlasNkzXELhkHOnQLatFyTYbzpq41M5EDFRmyuMGi1kZ3bHeKTWm-lDW_qcYWZDs0Bb22yFYjE5Ylats5kEs5jGAr3ua6EOkoAoygLNxcDtENfA9cpEC6mPtAVCpP5qp3k_ZuZnEYTD3wFuEUQoiT1Xw1Xk4kgLfPbNrfH_0K3AYiOXCgPQ29_244OrjhfG8AxiJLz2dPafWZhZ6eT09n4CewuLgc-v0DX15N5OQWIBx8AX_9wA6AX1YM24GqTaN22Uxjo_ywEpmlkizZ4yfbl9fM7YkDDryoPokdg3TgJ3jddCweviGRkHm8S0Rb16H_5qIKwR-0z-837Vl5xQMVxEdHH7thNxo!/?1dmy&urile=wcm%3Apath%3A%2Fwcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2F937038a1-7068-4e28-9743-afcf845c3706",
+  "date": "2026-11-23"
  }
 }

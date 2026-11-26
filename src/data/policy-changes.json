@@ -1,5 +1,16 @@
 [
  {
+  "passport": "IN",
+  "destination": "MY",
+  "date": "2026-11-17",
+  "from_status": "visa free",
+  "to_status": "visa required",
+  "title": "Malaysia ends visa-free entry for Indian nationals",
+  "summary": "The Immigration Department of Malaysia announced on 17 November 2026 that the visa exemption facility for Indian nationals will no longer be available from 1 January 2027; Indian nationals entering Malaysia from that date must obtain a valid visa before arrival (applications via the MyVISA portal from 1 December 2026). The 30-day exemption remains available until 31 December 2026.",
+  "source": "http://malaysiavisa.imi.gov.my/terms-and-conditions/",
+  "source_name": "Immigration Department of Malaysia (MyVISA) — Terms and Conditions (updated 11 Nov 2026); JIM notice of 17 Nov 2026"
+ },
+ {
   "destination": "ZA",
   "date": "2026-11-06",
   "title": "South Africa retires the e-Visa portal on 1 December 2026",
